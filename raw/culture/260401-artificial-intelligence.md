@@ -1,0 +1,30 @@
+# Who is Demis Hassabis, the man behind Google DeepMind?
+
+A new biography examines a crucial figure in the AI race
+
+The “Great Man” theory of history, so long disfavoured, has had something of a renaissance under Donald Trump. It has been finding purchase in Silicon Valley, too, where the leaders of the big AI labs see themselves as performing almost godlike acts of creation.
+
+But can a person truly direct the course of a technology’s development—or are even the greatest of them merely players in its inexorable progress? That question underlies Sebastian Mallaby’s “The Infinity Machine”, a biography of Demis Hassabis (pictured), the co-founder of Google DeepMind. (A journalist at The Economist in the 1980s-90s, Mr Mallaby is the husband of the current editor-in-chief.)
+
+If OpenAI’s Sam Altman is the wily dealmaker, Anthropic’s Dario Amodei is the ethically conflicted innovator and xAI’s Elon Musk is, well, Elon Musk, then Mr Hassabis, in Mr Mallaby’s account, is the selfless visionary genius. He is “decent and public-spirited and wants the best for humanity”. His life’s mission of developing artificial general intelligence (AGI), though it “borders on the messianic”, is a quest not for power or money but for knowledge—a machine capable of solving all of science, to the benefit of humankind.
+
+Mr Mallaby acknowledges that this saintly depiction may be “difficult to swallow”. Still, unlike Greg Kohs’s hagiographic film “The Thinking Game” (2024), this is a sincere attempt to discern whether one man’s ethical principles can survive contact with the cut-throat commercial imperatives of the AI race.
+
+AGI was a slippery term even when Mr Hassabis founded DeepMind in 2010 with Shane Legg and Mustafa Suleyman. (Mr Suleyman is a board member of The Economist’s parent company.) Mr Legg—who helped popularise the term but did not coin it, as the book claims—resisted the notion that “general” intelligence must mean “humanlike”. He argued that an AI that mimicked a human, as per the famous Turing test, would be suspect. A general intelligence was simply one that could solve a wide array of problems, however alien its inner workings. However, Mr Hassabis, with his neuroscience PhD, thought the human mind must at least serve as a guide.
+
+But they agreed on the basic plan: DeepMind would make AI that could teach itself to play games. The premise was simple. Gameplay requires problem-solving; so does science; so the more games an AI can learn to play, the more general its intelligence becomes and the more capable it is of tackling other problems. The “teach itself” bit was crucial: AI that depended on human instruction would never be able to surpass human ingenuity. The machines had to devise their own strategies by trial and error, a technique known as reinforcement learning.
+
+This approach took DeepMind from the simple arcade game Pong to the fiendishly difficult Go, in which its victory over the world’s top-ranked player thrust the company into the global spotlight. The firm applied a similar method to solving protein folding, one of the hardest problems in biology, which unlocked a universe of potential drugs and earned Mr Hassabis and a colleague a Nobel prize in chemistry in 2024.
+
+But DeepMind’s success with reinforcement learning almost proved to be its undoing. In 2017 its rival, OpenAI, bet on a different kind of model called transformers. Rather than teaching themselves to solve problems, transformers learned to predict answers to questions by training on vast corpora of human-generated text. In effect, they were “parroting” human knowledge rather than generating their own solutions—a fact that led many experts, including Mr Hassabis, to dismiss them at first. But it also meant they were much more “general”: they could produce answers—albeit often wrong ones—to absolutely any question.
+
+OpenAI had another advantage: a much more mercantile mindset. True to Mr Hassabis’s scientific ambitions, DeepMind had never released a commercial product. So when OpenAI put out ChatGPT in 2022, Google, which had acquired DeepMind in 2014—and where, ironically, the transformer had been invented—was left flailing.
+
+Coincidentally, that was when Mr Mallaby approached Mr Hassabis about writing a book. With unprecedented access, Mr Mallaby had a front-row seat to DeepMind’s struggles to pivot from being a research lab and its efforts to build Gemini, Google’s rival to ChatGPT.
+
+What results is a rich and clearly written account of the differing philosophies, personalities and business models in AI over the past couple of decades, albeit recounted mostly from DeepMind’s perspective. Mr Altman appears somewhat fleetingly as a shadowy, scheming figure; Mr Amodei, who is no less outspoken or thoughtful than Mr Hassabis on AI risks, rates just a few passing mentions.
+
+Yet Mr Hassabis gets off a little too lightly. His own justification for his pivot to commercial AI models—“I’ve satiated that scientific desire for the moment…I’ve always been fine either way”—rings hollow, given the existential urgency with which he previously talked of solving AGI, yet it goes unchallenged. There is also little attempt to question his and the wider industry’s assumptions about what AGI means, how close it is and what it might (or might not) be capable of. At times there is an awestruck, even fawning, tone that can indeed be difficult to swallow.
+
+No turning back
+And by depicting Mr Hassabis as the intellectual giant he unquestionably is, “The Infinity Machine” only serves to highlight how puny even giants are in the face of a technological juggernaut. At one point, Geoffrey Hinton, an AI pioneer and a rival of Mr Hassabis, contemplates the fact that no matter a scientist’s ethical qualms, “the prospect of discovery is too sweet” to stop them pursuing potentially catastrophic research. This being so, Mr Mallaby seems to imply, you at least want someone like Mr Hassabis making the discoveries. Maybe. But given the forces at play, it may seem like small comfort. ■

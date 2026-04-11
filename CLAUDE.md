@@ -23,12 +23,13 @@ Three layers:
 - **Concept pages**: Recurring themes and dynamics (e.g., `nationalism-and-great-power-rivalry.md`, `ai-in-mathematics.md`)
 - **Event pages**: Specific events or developments (e.g., `iran-war-ceasefire-2026.md`)
 - **Synthesis pages**: Cross-cutting analysis connecting multiple topics (e.g., `global-power-shifts-q2-2026.md`)
+- **Simulation pages**: Scenario analysis results stored in `wiki/simulations/`. Generated via the `simulate` MCP tool.
 
 ### Page Format
 ```markdown
 ---
 title: Page Title
-type: entity | concept | event | synthesis
+type: entity | concept | event | synthesis | simulation
 sources:
   - raw/category/YYMMDD-slug.md
 updated: YYYY-MM-DD
@@ -67,6 +68,24 @@ A single source typically touches 5-15 wiki pages. Prioritize cross-references a
 1. Read `wiki/index.md` to find relevant pages
 2. Read those pages and synthesize an answer
 3. If the answer is substantial, offer to file it as a new wiki page
+
+### Simulate (scenario prediction)
+1. Receive a scenario question (e.g., "What if the Hormuz blockade lasts through 2026?")
+2. Use MCP tools (`wiki_search`, `causal_chain`, `simulate`) to gather relevant wiki knowledge
+3. Trace causal chains and assess each actor's likely response
+4. Generate a bilingual simulation page in `wiki/simulations/`
+5. Update `wiki/index.md` (Simulations section) and `wiki/log.md`
+
+Simulation pages use this frontmatter:
+```yaml
+title: Simulation Title
+type: simulation
+date: YYYY-MM-DD
+scenario: "What if X happens?"
+variables: [var1, var2]
+confidence: high | medium | low
+based_on: [page1, page2]
+```
 
 ### Lint (wiki health check)
 Look for: contradictions between pages, stale claims superseded by newer sources, orphan pages, missing cross-references, concepts mentioned but lacking their own page, gaps worth investigating.

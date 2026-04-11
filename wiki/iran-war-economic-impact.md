@@ -21,6 +21,8 @@ Markets have been surprisingly resilient — the "Teflon economy." The S&P 500 s
 
 **But**: if the ceasefire fails, the rally reverses hard — investors would have to price in a war resistant to peacemaking.
 
+**Update (April 11)**: US annual inflation hit **3.3%** in March (highest since May 2024), up from 2.4% in February — driven by surging petrol prices from the war. Core rate rose only slightly, suggesting the impact hasn't fully spread through the economy. S&P 500 ended the week up **3.6%** (best since November). Oil fell below $97.
+
 ## Energy Supply Disruption
 
 ### Oil
@@ -88,6 +90,8 @@ The war has made a powerful case for reducing dependence on the Gulf:
 시장은 놀라울 정도로 회복력을 보여왔다 — 이른바 "테플론 경제." S&P 500은 사상 최고치(2026년 1월 말 달성) 대비 약 3%만 하락한 수준에 머물러 있다. 휴전 발표와 함께 주식과 채권이 반등했다. 대부분의 투자자들은 경제적 재앙이 현실화되지 않을 것이라고 베팅했다.
 
 **하지만**: 휴전이 실패할 경우, 랠리는 급격히 반전된다 — 투자자들은 평화 협상에 저항하는 전쟁을 가격에 반영해야 할 것이다.
+
+**업데이트 (4월 11일)**: 미국 연간 인플레이션이 3월에 **3.3%**에 도달 (2024년 5월 이후 최고), 2월 2.4%에서 상승 — 전쟁으로 인한 휘발유 가격 급등이 원인. 근원 물가는 소폭 상승에 그쳐 영향이 경제 전반에 완전히 확산되지는 않은 상태. S&P 500은 주간 **3.6%** 상승(11월 이후 최고). 유가는 $97 아래로 하락.
 
 ## 에너지 공급 차질
 

@@ -22,7 +22,7 @@ tags: [war, middle-east, united-states, iran, ceasefire]
 - **~40 days**: Escalating strikes — military → security apparatus → industry → civilian infrastructure
 - **April 7, 2026**: Trump announces two-week ceasefire and "COMPLETE, IMMEDIATE, and SAFE OPENING" of Hormuz. Brokered by Pakistan's PM Shehbaz Sharif.
 - **April 8**: Iran fires 50+ drones/missiles at UAE; strikes Saudi Yanbu pipeline; Israel attacks ~100 targets in Lebanon (1,000+ casualties)
-- **April 11, 2026 (expected)**: Negotiations to begin in Islamabad
+- **April 11**: Iran says it will join talks only if overseas assets are unfrozen and Lebanon ceasefire holds. Israeli strikes have killed **300+ in Lebanon** since Wednesday. Israel-Lebanon talks expected in Washington next week.
 
 ## Scale
 
@@ -105,7 +105,7 @@ This conflict is the defining case study of [[great-power-rivalry]] dynamics in 
 - **약 40일간**: 공습 점차 확대 — 군사시설 → 보안 기관 → 산업시설 → 민간 인프라
 - **2026년 4월 7일**: 트럼프, 2주간 휴전 및 호르무즈 해협의 "완전하고 즉각적이며 안전한 개방"을 발표. 파키스탄 셰바즈 샤리프 총리가 중재.
 - **4월 8일**: 이란, UAE에 드론·미사일 50발 이상 발사; 사우디 얀부 송유관 공격; 이스라엘, 레바논 내 약 100개 목표 공습 (1,000명 이상 사상)
-- **2026년 4월 11일 (예정)**: 이슬라마바드에서 협상 개시
+- **4월 11일**: 이란, 해외 자산 동결 해제와 레바논 휴전을 조건으로 참여 의사 표명. 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정.
 
 ## 규모
 

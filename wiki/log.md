@@ -5,6 +5,37 @@ updated: 2026-04-11
 
 # Wiki Log
 
+## [2026-04-11] ingest | Demis Hassabis biography (The Infinity Machine)
+Source: `raw/culture/260401-artificial-intelligence.md`
+Created: [[ai-labs-and-industry]]
+Key insight: DeepMind's reinforcement learning bet vs OpenAI's transformer bet. Irony: transformer invented at Google. Hassabis dismissed transformers as "parroting" — then scrambled to build Gemini. Hinton: "the prospect of discovery is too sweet" to stop.
+
+## [2026-04-11] ingest | Hassabis on AI drug design (Isomorphic Labs)
+Source: `raw/science-and-technology/260409-panacea-seer.md`
+Updated: [[ai-labs-and-industry]]
+Key insight: IsoDDE (proprietary AlphaFold evolution) kept closed for biosecurity. 19 drug programmes. Same pattern as Anthropic Mythos: AI labs as gatekeepers of dual-use capabilities.
+
+## [2026-04-11] ingest | AI micro-dramas in China
+Source: `raw/china/260409-demon-hunters-and-taoist-cats.md`
+Updated: [[china]]
+Key insight: AI animation cut production costs 90%. Live-action filming -80%, actors' pay halved. Regulators requiring pre-approval since April 1. Chinese pattern: rapid commercialization → overcapacity → regulation.
+
+## [2026-04-11] ingest | Artemis II moon mission
+Source: `raw/leaders/260407-all-downhill-from-here.md`
+Created: [[artemis-ii]]
+Key insight: Furthest human space travel since Apollo 13. More emotional than scientific. "Spaceships can coast. Space programmes cannot." SpaceX IPO $75bn in June.
+
+## [2026-04-11] ingest | The world in brief (April 11)
+Source: `raw/the-world-in-brief/0411.md`
+Updated: [[iran-war-and-ceasefire-2026]], [[israel]], [[iran-war-economic-impact]]
+Key items: Iran conditions for talks (assets + Lebanon ceasefire), 300+ killed in Lebanon since Wednesday, US inflation 3.3%, S&P +3.6% weekly, TSMC +35% Q1, Ukraine struck Lukoil Caspian platforms, Colombia-Ecuador tariff war.
+
+## [2026-04-11] note | Cross-source connections (batch 5)
+- **AI gatekeeping pattern**: Hassabis (IsoDDE) and Amodei (Mythos) making identical choices — private companies as gatekeepers of dual-use AI. No democratic oversight. "People have to make their own decisions about the lab leaders."
+- **China's AI: two faces**: Micro-dramas (90% cost cut, entertainment disruption) vs deep learning research. Same tech, very different deployment — entertainment overcapacity vs biosecurity caution.
+- **Transformer irony as cautionary tale**: Google invented the transformer but missed its significance. DeepMind dismissed it as "parroting." Parallels Japan's auto industry dismissing EVs — incumbents who can't see paradigm shifts.
+- **Space as emotional reset**: Artemis II provides rare positive news amid war, inflation, and geopolitical crisis. But SpaceX/Musk's involvement may politicize future missions.
+
 ## [2026-04-11] ingest | War damage report (briefing)
 Source: `raw/briefing/260408-damage-report.md`
 Created: [[iran-war-damage-assessment]]

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "world-wiki": {
+      "command": "/Users/kbsoo/.venv/bin/python",
+      "args": ["mcp_server/server.py"],
+      "cwd": "."
+    }
+  }
+}

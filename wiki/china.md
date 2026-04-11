@@ -55,12 +55,21 @@ China exemplifies the [[great-power-rivalry]] pattern but with a distinctive str
 
 The Iran war exposed a gap between China's rhetoric and action. The Gulf states' hoped-for "multipolar era" has been replaced by American centrality — China remains on the margins despite being the region's largest oil customer.
 
+## AI Micro-Dramas: Entertainment Disrupted
+
+China's entertainment industry is being reshaped by AI-animated micro-dramas (2-minute episodes). AI tools have cut production costs by **up to 90%** (HSBC). Live-action micro-drama filming has shrunk by 80%; actors' pay halved. Viewing time for longer dramas fell 15% YoY (January 2026), while Red Fruit (ByteDance) viewing time doubled.
+
+But: regulators since April 1 require pre-approval for animated micro-series. Excessive competition means few are profitable. Alibaba's "The Demon Hunter" (10m+ followers) suggests long-form may fight back.
+
+This reflects a distinctly Chinese AI deployment pattern: rapid commercialization, quick regulatory response, overcapacity.
+
 ## See Also
 - [[great-power-rivalry]]
 - [[donald-trump]]
 - [[iran-war-and-ceasefire-2026]]
 - [[iran-war-economic-impact]]
 - [[strait-of-hormuz]]
+- [[ai-labs-and-industry]]
 
 ---
 
@@ -109,3 +118,11 @@ The Iran war exposed a gap between China's rhetoric and action. The Gulf states'
 중국은 [[great-power-rivalry|강대국 경쟁]] 패턴의 전형이지만 독특한 전략을 취한다: 공격보다 인내, 군사적 대결보다 경제적 레버리지. 핵심 질문은 이 인내가 지혜인지, 아니면 미국 쇠퇴라는 취약한 가정 위에 세워진 안일함인지 여부이다.
 
 이란 전쟁은 중국의 수사와 행동 사이의 괴리를 드러냈다. 걸프 국가들이 기대했던 "다극 시대"는 미국 중심성으로 대체되었으며 — 중국은 이 지역 최대의 석유 고객임에도 불구하고 여전히 주변부에 머물러 있다.
+
+## AI 미니드라마: 엔터테인먼트 산업의 격변
+
+중국 엔터테인먼트 산업이 AI 애니메이션 미니드라마(2분 에피소드)로 재편되고 있다. AI 도구가 제작비를 **최대 90%** 절감(HSBC). 실사 미니드라마 촬영은 80% 줄었고 배우 출연료는 반토막. 장편 드라마 시청 시간은 전년 대비 15% 감소(2026년 1월), 반면 Red Fruit(ByteDance) 시청 시간은 2배 증가.
+
+그러나: 규제 당국이 4월 1일부터 애니메이션 미니시리즈에 사전 승인을 요구. 과잉 경쟁으로 수익을 내는 작품은 적다. Alibaba의 "The Demon Hunter"(1000만+ 팔로워)는 장편이 반격할 수 있음을 시사.
+
+이는 중국 특유의 AI 배치 패턴을 반영한다: 빠른 상업화, 신속한 규제 대응, 과잉 생산 능력.

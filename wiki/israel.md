@@ -48,6 +48,8 @@ The relationship revealed: **superpower and client-state**. Israel will not be p
 
 On ceasefire day 1, Israel attacked **~100 targets in Lebanon** instead of Iran. **1,000+ killed and injured**; hospitals overwhelmed, ran short of blood. Iran warns: if Israel continues striking Hizbullah, it will resume attacks on Israel.
 
+As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wednesday alone. Iran now conditions joining Pakistan talks on a Lebanon ceasefire. Israel-Lebanon talks expected in Washington next week — a rare meeting between countries with no diplomatic ties.
+
 ## See Also
 - [[iran-war-and-ceasefire-2026]]
 - [[iran-war-damage-assessment]]
@@ -96,3 +98,5 @@ On ceasefire day 1, Israel attacked **~100 targets in Lebanon** instead of Iran.
 ## 레바논 확전
 
 휴전 첫날, 이스라엘은 이란 대신 **레바논 내 약 100개 목표물**을 공격했다. **1,000명 이상이 사망 및 부상**했으며, 병원은 과부하 상태에 빠지고 혈액이 부족해졌다. 이란은 경고했다: 이스라엘이 Hizbullah에 대한 공격을 계속하면 이스라엘에 대한 공격을 재개하겠다고.
+
+4월 11일 기준: 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 이란은 파키스탄 회담 참여 조건으로 레바논 휴전을 요구. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정 — 외교 관계가 없는 두 나라 간의 드문 만남.

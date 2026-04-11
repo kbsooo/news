@@ -20,6 +20,7 @@ updated: 2026-04-11
 
 - [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, 21k+ strikes, Khamenei killed, ceasefire brokered by Pakistan, all aims failed
 - [[anthropic-mythos]] — April 7: Mythos too powerful to release, found vulnerabilities in every major OS, Project Glasswing
+- [[artemis-ii]] — Farthest human space travel since Apollo 13, emotional rediscovery of lunar wonder
 
 ## Concepts
 
@@ -34,6 +35,7 @@ updated: 2026-04-11
 - [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
+- [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs (IsoDDE drug discovery), biosecurity dilemma
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
 
 ## Sources Ingested (26)
@@ -65,4 +67,9 @@ updated: 2026-04-11
 | 2026-04-09 | Family business succession wave | Business |
 | 2026-04-09 | Japanese carmakers in serious trouble | Business |
 | 2026-04-09 | Stretch goals: pros and cons | Business |
+| 2026-04-01 | Demis Hassabis biography (The Infinity Machine) | Culture |
+| 2026-04-07 | Artemis II and Space Age renewal | Leaders |
+| 2026-04-09 | AI micro-dramas in China | China |
+| 2026-04-09 | Hassabis on AI drug design (Isomorphic Labs) | Science & Technology |
 | 2026-04-10 | The Price of Passage (Strait of Hormuz) | Middle East & Asia |
+| 2026-04-11 | The world in brief | The World in Brief |
