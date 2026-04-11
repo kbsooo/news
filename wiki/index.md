@@ -38,6 +38,10 @@ updated: 2026-04-11
 - [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs (IsoDDE drug discovery), biosecurity dilemma
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
 
+## Simulations
+
+- [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11|Hormuz Blockade Through 2026]] — 8-round multi-agent sim (Iran, Trump, China, Gulf, Korea, Israel). Blockade evolves into managed toll system; China dominant winner; food crisis worst outcome. Confidence: medium.
+
 ## Sources Ingested (26)
 
 | Date | Source | Category |

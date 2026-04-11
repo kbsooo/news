@@ -5,6 +5,11 @@ updated: 2026-04-11
 
 # Wiki Log
 
+## [2026-04-11] simulate | Hormuz blockade through end of 2026
+Created: [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11]]
+Agents: Iran, Donald Trump, China, Gulf States, South Korea, Israel (8 rounds, May-Dec 2026)
+Key findings: Blockade evolves from closure → managed toll system ($1.8bn/yr for Iran). Three structural shifts: China becomes dominant Middle East power ($60bn+ contracts), Gulf pipelines permanently reduce Hormuz dependency (7m bbl/day bypass), nuclear proliferation creep (Iran retains 220kg HEU, Saudi pursues Pakistan umbrella). Food security is the worst-hit variable — fertilizer disruption cuts harvests 8-12%, adding 35-40m to acute hunger. Oil averages ~$98/bbl. Confidence: medium.
+
 ## [2026-04-11] ingest | Demis Hassabis biography (The Infinity Machine)
 Source: `raw/culture/260401-artificial-intelligence.md`
 Created: [[ai-labs-and-industry]]
