@@ -1,0 +1,117 @@
+---
+title: NATO and the Transatlantic Crisis
+type: concept
+sources:
+  - raw/leaders/260409-the-transatlantic-divorce.md
+  - raw/leaders/260409-our-cover.md
+updated: 2026-04-11
+tags: [nato, europe, united-states, defence, alliance]
+---
+
+# NATO and the Transatlantic Crisis
+
+## The Breaking Point
+
+The [[iran-war-and-ceasefire-2026|Iran war]] has pushed NATO closer than ever to a point of no return. The dispute is not abstract — it's over concrete actions during the war:
+
+- **Trump's grievance**: European allies were slow or refused to allow American forces to use their airbases or fly through their airspace for Iran strikes
+- **Trump's threat** (March 31, 2026): "You'll have to start learning how to fight for yourself, the USA won't be there to help you anymore, just like you weren't there for us"
+- **European position**: The Iran campaign was rash and dangerously vague. They reflected voters who fear entanglement in an unconsulted, disapproved war. Germany and Britain did ultimately allow base access and airspace.
+- **Escalation**: Marco Rubio (Secretary of State) also questioned NATO's value — marking a new low beyond Trump's personal grievances
+
+Mark Rutte (NATO secretary-general) visited Trump on April 8 to argue that staying in NATO serves American interests. Did not appear to have much success.
+
+## Article 5: Not Dead, But Weakened
+
+NATO's mutual defence guarantee is not dead, but its deterrent effect — based on adversaries' belief that allies will stick together — is "weaker than at any point in the alliance's 77-year history, including crises such as Vietnam and the war in Iraq."
+
+This is not just a Trump problem. The next president could agree. The pattern of US disengagement may be structural, not personal.
+
+## The Spending Problem
+
+Trump is right about one thing: European members have chronically underspent on defence.
+- 2014 target of 2% GDP was largely ignored until Russia's 2022 Ukraine invasion
+- Now talking 4-5% under Trumpian pressure
+- Gap between promise and reality remains vast
+- Only **Germany and Poland** among big European countries are due to meet higher targets
+
+## What European Self-Defence Requires
+
+If the transatlantic marriage dissolves, Europe needs:
+- Sustained spending at higher targets (4-5% GDP)
+- New capabilities: **air defence, logistics, munitions** (currently reliant on America)
+- **Integrated** forces and arms manufacturing (not duplicated inefficiently)
+
+## Ukraine as a Security Asset
+
+A crucial strategic reframe: Ukraine should be central to Europe's new security architecture, not seen solely as an aid recipient.
+- After 4 years fighting Russia, Ukraine fields Europe's **largest and most battle-hardened army** (after Russia's)
+- Deep experience in high-intensity warfare and drone manufacturing/use
+- Should be integrated into joint planning, procurement, and command structures
+- Potential part of a "Europe-only version of NATO"
+- EU accession should be accelerated
+
+## Connection to Broader Patterns
+
+The NATO crisis is both a symptom and accelerant of [[great-power-rivalry]]:
+- A divided West benefits [[china|China]] and Russia
+- European allies' unreliability (from Trump's view) or American recklessness (from Europe's view) is the same dynamic as 1914 — alliance systems creating escalation pathways through miscommunication
+- [[donald-trump|Trump]]'s pattern of alienating allies while bullying smaller countries weakens deterrence against larger threats
+
+## See Also
+- [[donald-trump]]
+- [[iran-war-and-ceasefire-2026]]
+- [[great-power-rivalry]]
+- [[israel]]
+
+---
+
+# NATO와 대서양 위기
+
+## 결정적 분기점
+
+[[iran-war-and-ceasefire-2026|Iran war]]는 NATO를 역사상 가장 돌이킬 수 없는 지점으로 밀어붙였다. 이번 분쟁은 추상적 논쟁이 아니라, 전쟁 중 벌어진 구체적 행동을 둘러싼 것이다.
+
+- **트럼프의 불만**: 유럽 동맹국들이 이란 공습을 위해 미군의 공군기지 사용이나 영공 통과를 지연하거나 거부했다
+- **트럼프의 위협** (2026년 3월 31일): "이제 스스로 싸우는 법을 배워야 할 것이다. 미국은 더 이상 도와주지 않을 것이다. 당신들이 우리를 도와주지 않았던 것처럼"
+- **유럽의 입장**: 이란 작전은 성급하고 위험할 만큼 모호했다. 유럽 지도자들은 사전 협의도 동의도 없는 전쟁에 연루될 것을 우려하는 자국 유권자들의 뜻을 반영한 것이다. 독일과 영국은 결국 기지 접근과 영공 사용을 허용했다.
+- **갈등 심화**: 마르코 루비오 국무장관 역시 NATO의 가치에 의문을 제기하면서, 트럼프 개인의 불만을 넘어선 새로운 저점을 기록했다
+
+마르크 뤼터 NATO 사무총장은 4월 8일 트럼프를 방문해 NATO 잔류가 미국의 국익에 부합한다고 설득을 시도했으나, 별다른 성과를 거두지 못한 것으로 보인다.
+
+## 제5조: 사라지지는 않았지만 약화되었다
+
+NATO의 상호방위 보장은 사라진 것이 아니다. 그러나 동맹국들이 결속할 것이라는 적국의 믿음에 기반한 억제력은 "베트남전이나 이라크전 같은 위기를 포함해 동맹 77년 역사상 가장 약한 수준"에 처해 있다.
+
+이것은 단순히 트럼프만의 문제가 아니다. 차기 대통령도 같은 입장일 수 있다. 미국의 이탈 패턴은 개인적 성향이 아닌 구조적 현상일 수 있다.
+
+## 국방비 문제
+
+트럼프가 옳은 점이 하나 있다: 유럽 회원국들은 만성적으로 국방비를 과소 지출해 왔다.
+- 2014년 GDP 2% 목표는 2022년 러시아의 우크라이나 침공 전까지 대부분 무시되었다
+- 현재 트럼프의 압박 하에 4~5%를 논의 중이다
+- 약속과 현실 사이의 격차는 여전히 크다
+- 유럽 주요국 중 더 높은 목표를 달성할 예정인 나라는 **독일과 폴란드**뿐이다
+
+## 유럽 자주국방에 필요한 것
+
+대서양 동맹이 와해될 경우 유럽에 필요한 것은 다음과 같다:
+- 더 높은 목표(GDP 4~5%)에 맞춘 지속적 국방비 지출
+- 새로운 역량: **방공, 군수, 탄약** (현재 미국에 의존)
+- 비효율적 중복이 아닌 **통합된** 군사력과 무기 제조
+
+## 안보 자산으로서의 우크라이나
+
+핵심적 전략 재정의: 우크라이나는 단순한 원조 수혜국이 아닌, 유럽의 새로운 안보 구조의 중심에 놓여야 한다.
+- 4년간 러시아와 싸운 우크라이나는 (러시아 다음으로) 유럽에서 **가장 크고 실전 경험이 풍부한 군대**를 보유하고 있다
+- 고강도 전쟁과 드론 제조·운용에 대한 깊은 경험
+- 공동 기획, 조달, 지휘 체계에 통합되어야 한다
+- "유럽만의 NATO" 구상의 잠재적 구성원
+- EU 가입을 가속화해야 한다
+
+## 더 넓은 패턴과의 연결
+
+NATO 위기는 [[great-power-rivalry]]의 증상이자 촉진제이다:
+- 분열된 서방은 [[china|China]]와 러시아에 이롭다
+- 유럽 동맹의 비신뢰성(트럼프 시각) 혹은 미국의 무모함(유럽 시각)은 1914년과 같은 구도다 — 동맹 체계가 소통 부재를 통해 확전 경로를 만드는 것이다
+- [[donald-trump|Trump]]가 동맹국을 소외시키면서 소국을 압박하는 패턴은 더 큰 위협에 대한 억제력을 약화시킨다

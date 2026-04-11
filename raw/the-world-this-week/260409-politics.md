@@ -1,0 +1,34 @@
+Donald Trump called a two-week truce in the Iran war. But it was soon on shaky ground, as Iran continued to threaten shipping in the Strait of Hormuz and launched more missiles at Gulf states, and at Saudi Arabia’s pipeline carrying oil from the Gulf to the Red Sea for export. Iran insists that the ceasefire agreement means Israel must stop its attacks on Hizbullah, Iran’s proxy in Lebanon. Israel and America contend that it does not. Israel launched its biggest attack on Lebanon yet, in which over 250 people died. Mr Trump said US ships and aircraft would remain in the region until Iran complied with “the real agreement”. Amid all the uncertainty, Pakistan prepared to host peace talks in Islamabad.
+
+Safe and sound
+A few days ahead of the ceasefire America launched a huge combat search and rescue mission to find a crewman from an F-15 fighter jet that was possibly shot down by an Iranian missile. The airman hid in Iranian mountains before he was eventually extracted by American forces. Iran had also launched an operation to find him. A captured American would have handed the regime a big propaganda victory.
+
+Mr Trump met Mark Rutte, NATO’s secretary-general, at the White House. The president has questioned the loyalty of NATO countries in the Iran war and mooted the possibility of leaving the alliance. Mr Rutte said their discussion had been frank, but that most European countries had provided support to America, even if some had failed to help.
+
+Pete Hegseth, America’s secretary of war, fired General Randy George as the army’s chief of staff, amid an increasingly tetchy relationship between the army’s top brass and the Trump administration. General George had recently tried to hold a meeting to discuss Mr Hegseth’s decision to block the promotion of some army officers, according to reports.
+
+Mr Trump promoted Todd Blanche to acting attorney-general after sacking Pam Bondi from the job. The president reportedly wasn’t happy that Ms Bondi hadn’t launched more prosecutions against his enemies and thought she had mishandled the release of the Epstein files. Mr Blanche, who was Ms Bondi’s deputy, is a lawyer who has defended Mr Trump in his criminal court cases, including his hush-money trial.
+
+Cuba released the first batch of more than 2,000 prisoners it has promised to set free in what the communist government described as a “humanitarian” gesture. It was the biggest such amnesty in ten years. America said it was monitoring the situation to see if any political prisoners would be among those released.
+
+Venezuela has released hundreds of political prisoners since January amid pressure from the Trump administration. In another easing of tensions between the two countries, the United States lifted sanctions on Delcy Rodríguez, who became Venezuela’s interim president when Nicolás Maduro was snatched by American forces. The White House praised Ms Rodríguez for “doing a great job”.
+
+Kanye West was banned from entering Britain amid a furore over his past antisemitic remarks and praise of Hitler. Known as Ye, the rap artist was supposed to headline a festival in London in July, but corporate sponsors, such as Pepsi, pulled out when his comments resurfaced in the media. The festival has been cancelled.
+
+Britain’s Labour government announced an adjustment to the complicated and controversial system of student loans. But it is not the permanent change that disgruntled graduates wanted. From September, when rates for the next academic year are set, a cap of 6% interest will be fixed for 2026-27. The loans are currently subject to an increase of retail price inflation plus 3% each year. The government says the change “will protect students and graduates…from the potential of inflation” due to the conflict in the Middle East.
+
+Put the pedal to the meddle
+
+J.D. Vance, America’s vice-president, visited Hungary to show his support for Viktor Orban, the prime minister. Mr Orban, who shares the same worldview as Mr Vance and Mr Trump, is facing a tough re-election battle on April 12th; his populist-right Fidesz party has consistently trailed Tisza, its centrist rival, in the polls. Deflecting accusations that America was meddling in Hungarian politics, Mr Vance criticised the EU for interfering in Hungary’s relations with Russia, suggesting it was a “foreign influence”.
+
+Hungary’s tense relationship with Ukraine has featured in the election. Following the discovery of explosives near a pipeline in Serbia that carries Russian gas to Hungary, Mr Orban called an emergency security meeting. Russia suggested Ukraine had planted the devices, which Ukraine denied. Mr Orban’s opponents questioned the timing of the discovery of the explosives, and subsequent scaremongering, so close to the election.
+
+Ukraine’s parliament began voting on a series of tax reforms that are tied to funding from the IMF, though there is stiff opposition to some of the changes. Meanwhile, Ukraine said Russia killed eight people in attacks on the south-east of the country, and had targeted buses. The Russians blamed a Ukrainian drone for killing three people in the Vladimir region, east of Moscow.
+
+Police killed one gunman and injured two others outside the Israeli consulate in Istanbul. There were no Israeli diplomats inside. They left Turkey for their own safety soon after Hamas’s terrorist attack on Israel in October 2023.
+
+Vietnam’s parliament unanimously elected To Lam, the Communist Party’s leader, as president and head of state, making him the most powerful leader in the country in decades. To Lam rose to prominence by overseeing a crackdown on government corruption. He plans soon to visit Xi Jinping in China. Le Minh Hung, a former governor of Vietnam’s central bank, was selected as prime minister.
+
+In Myanmar the parliament also rubber-stamped the concentration of power in the country’s leader by elevating Min Aung Hlaing to the position of president. As an army general, Min Aung Hlaing led the military coup that ousted the civilian government in 2021. China congratulated him on his “election”.
+
+On a rare visit to China by a senior Taiwanese politician, Cheng Li-wun, who leads the opposition Kuomintang (KMT), visited the tomb of Sun Yat-sen, the party’s founder, in Nanjing. The city was the centre of the Republic of China’s government before it ​fled to Taiwan in 1949, after being defeated by the communists in China’s civil war. Ms Cheng promised to “promote reconciliation and unity”. Back home the KMT is stalling an increase in defence spending that the government has asked for as China steps up its military drills in the seas around Taiwan.

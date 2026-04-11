@@ -1,0 +1,19 @@
+# Can the secondary market allay private-credit fears?
+
+In the short run, a bit. In the long run, a lot more
+
+PRIVATE CREDIT is the talk of Wall Street—and not in a good way. The share prices of giant listed purveyors of private-credit funds, such as Blackstone and KKR, are down by about a third so far this year. Banks are marking down the value of collateral posted by some borrowers whose loans have been packed into these funds. On April 6th Jamie Dimon, boss of JPMorgan Chase and wise old man of American banking, warned that losses on leveraged private lending would be “higher than expected”. Many investors are maxing out the limited redemptions that fund managers promise them by way of liquidity in an illiquid asset class.
+
+A beneficiary of this dash for cash is the bustling secondary market for private credit. Ways to offload stakes in credit funds, usually at a discount, are mushrooming. Between 2023 and 2025 the value of such secondary transactions grew from $6bn to around $20bn. Private-asset giants such as Blackstone are setting up dedicated funds to buy up “secondaries”. In February Percent, a tech firm, launched a digital marketplace to facilitate trades.
+
+Until recently most secondary transactions involved “closed-end” funds, which lock up clients’ money for years and thereafter do not accept new investors. Such funds’ managers could sell individual loans in their portfolios and their clients could monetise their stakes. Increasingly, however, loans and stakes in “open-ended” funds, which issue new shares to retail investors whenever one puts money in, are also changing hands.
+
+A typical fund lets participants collectively withdraw up to 5% of its net asset value each quarter. If requests exceed that figure, total redemptions are capped at 5% and granted to redeemers pro rata. The industry’s wobble began in February when one such fund, called OBDC II and run by Blue Owl, halted all redemptions.
+
+Could the secondary market solve the liquidity problem for investors in open-ended funds? Not right away. Goldman Sachs, a bank, estimates that cashing in 5% of the value of all non-traded funds similar to OBDC II would generate $45bn of annual outflows. That is more than twice last year’s total value of all secondary transactions. Luckily for future liquidity-seekers, though, this figure may grow rapidly. Cox Capital Partners, a secondaries-investment firm, has offered to buy out (at a discount) investors in OBDC II. As well as letting users trade all manner of secondaries, Percent’s new platform allows fund managers to bundle and repackage loans for sale in a process known as securitisation.
+
+According to the Chartered Alternative Investment Analyst Association, an industry group, less than 1% of private-credit funds’ assets under management changed hands in 2024, compared with 2-3% for private equity. Although private equity is a more mature market, it is also less liquid than private credit, which has a readier source of cashflow in the form of interest payments on the portfolio loans. There is, then, plenty of room to grow.
+
+Fund managers’ interest in secondaries is also rising in line with the duration of loans in portfolios, which has lengthened over the years (owing to factors such as startup borrowers staying private for longer). Analysts think $80bn a year in private-credit secondary trades is not out of the question within a few years. That may help reveal the price of underlying assets more quickly than primary trading can.
+
+The success of the secondary market depends on the presence of willing buyers, as well as sellers. In these jittery times, some desperate sellers appear to be drawing in more discount-seeking buyers. Percent reports “a lot of interest on both sides of the market”. If this leads more people to venture into secondary trading, it could, thanks to early price discovery, forestall some future jitters, too. ■

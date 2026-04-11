@@ -1,0 +1,22 @@
+# Recriminations over Iran have heightened the risk of a break-up of NATO
+Europe must prepare to defend itself
+
+RELATIONSHIPS RARELY collapse overnight; they curdle. Bit by bit, resentments mount. Trust ebbs. Things are said that are hard to forget. Each partner builds a story in which the other is the problem. That is how war in Iran has pushed NATO closer than ever to a point of no return.
+
+To President Donald Trump, America’s European allies put themselves in the wrong at the start of the war by being slow—and in some cases simply refusing—to allow American forces to use their own airbases, or to fly through allied airspace, for strikes on Iran. “You’ll have to start learning how to fight for yourself, the USA won’t be there to help you anymore, just like you weren’t there for us,” posted Mr Trump on March 31st.
+
+Europe, naturally, has its own version of events. Many of its governments, rightly, saw the Iran campaign as rash and dangerously vague. They were reflecting the views of their voters, who fear being entangled in a war on which they were not consulted and of which they disapprove. Even so, countries like Germany and (after a bit of dithering) Britain did allow America use of its bases and their airspace.
+
+Mr Trump has abused his allies before. Denmark, the most loyal of NATO members, has been threatened with the seizure of Greenland; European governments are accused of democratic backsliding. Tariffs have added to the pain. Being loyal gets you nowhere. But the recriminations over Iran are more rancorous than ever. That is partly because Mr Trump genuinely feels let down, but Europeans suspect that it may also be because he wants scapegoats for the war’s disappointments.
+
+Is this a relationship that can be fixed? Atlanticists still hope so; Mark Rutte, secretary-general of NATO, visited Mr Trump in Washington on April 8th hoping to persuade him that to stay in NATO is in America’s own interests. He didn’t appear to have much success, so even the most committed Atlanticists must now plan for the worst.
+
+The terrible truth threatening Europe is that national security should no longer be based on the assumption America will be “there to help”. NATO’s Article 5, which defines an attack on one as an attack on all, is not dead. But its deterrent effect, based adversaries’ belief that the allies will stick together, is weaker than at any point in the alliance’s 77-year history, including crises such as Vietnam and the war in Iraq. Nor can Europe comfort itself that Mr Trump’s irritation will blow over. Marco Rubio, his secretary of state, marked a new low by also questioning the value of membership. And the next president could well agree.
+
+One reason is that Mr Trump is right to say NATO’s European members do not spend enough on their own defence. For decades they have relied on America while contributing less than promised. The 2014 target that committed NATO members to spend 2% of GDP on defence was largely ignored until Russia invaded Ukraine in 2022. Under Trumpian pressure, governments talk of 4% or even 5%. But the gap between promise and reality remains vast. Among the big European countries, only Germany and Poland are due to meet this goal.
+
+If the transatlantic marriage dissolves, Europeans will have to be ready to defend themselves. As the prospect of divorce looms larger, the timeline for self-sufficiency tightens. Europe must now ensure sustained defence spending at levels closer to those higher targets. New capabilities must be built, especially in air defence, logistics and munitions, where Europe relies on America. Forces and arms manufacturing need to be integrated, not duplicated inefficiently.
+
+Ukraine should be central to Europe’s new security architecture. After four years of holding off Vladimir Putin, it now fields the continent’s largest and most battle-hardened army by far (after Russia’s), with deep experience in high-intensity warfare and the manufacture and use of drones. Rather than viewing Ukraine solely as a recipient of aid, Europe should aim to integrate its armed forces into joint planning, procurement and command structures. They should prepare to make Ukraine part of what may become a Europe-only version of NATO. Its accession to the European Union should be accelerated, too. Sadly, all this is a distant prospect.
+
+A reconciliation between Europe and America may still be possible. But the past six weeks gives scant ground for hope. ■

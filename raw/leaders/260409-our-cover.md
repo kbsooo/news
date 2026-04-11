@@ -1,0 +1,32 @@
+# Donald Trump is the war’s biggest loser
+There is a reason he wants an exit from Iran
+
+NOT ALL wars have a winner. But every war has at least one loser and if—a big if—the ceasefire marks the end of the war in Iran, the biggest loser will be Donald Trump. The conflict has set back his chief war aims and revealed the shallowness of his vision for a new way of wielding American power.
+
+The peace is desperately fragile. America and Iran cannot agree on whether it covers Lebanon, being attacked so hard by Israel that the threat to the broader ceasefire seems intentional. They dispute how Iran should open the Strait of Hormuz, an American precondition for talks. And their negotiating positions are so far apart that they cannot agree even on what plan they are to discuss in Islamabad at the weekend.
+
+The best reason to think Mr Trump will not return to war is that he now grasps he should never have started it. His abhorrent chest-beating posts threatening to destroy Iran look like attempts to dress his climbdown in Kevlar. He knows that renewed war would panic the markets and that having hailed a “Golden Age” in the Middle East, the player of four-dimensional chess would risk looking a fool.
+
+Iran, too, has reasons to hold back. Its leaders keep being killed. Though they care little about their citizens, including the thousands who have died in the war, the wholesale destruction of power and transport networks would make the country harder to govern. They also want sanctions lifted. The regime will also fancy that time favours it at the negotiating table. America cannot permanently keep its troops poised to attack. If war breaks out again it will be because Iran overplays its hand.
+
+The most likely outcome is therefore a wounded Iranian regime clinging to power and holding out for maximal goals in talks. Iran has no navy or air force; it has lost and used up many of its missiles and drones. To make more of them, it will have to contend with the fact that its economy has been set back years by over 21,000 American and Israeli strikes.
+
+Mr Trump is calling that a great victory. It doesn’t look like one alongside his scant progress in fulfilling the war’s three most persuasive aims: to make the Middle East safer and more prosperous by taming Iran; to topple the regime; and to stop Iran becoming a nuclear power once and for all.
+
+The war has harmed regional security. Before it began, Israel had partially dismantled Iran’s network of proxy militias. Yet Iran has now established a new source of leverage, by attacking Gulf countries and blocking shipping through the Strait of Hormuz. Iran is seeking to charge a toll for use of the strait. Mr Trump has even mused about splitting the revenues. The Gulf states and their customers can probably manage to resist such an affront to freedom of navigation. But a tussle lies ahead.
+
+Even after oil producers have built new pipelines to avoid the Gulf—the work of several years—Iran will be able to strike critical infrastructure. The Gulf countries, which market themselves as oases of calm, must ask whether they can depend on America. Or should they rethink their security by doing more themselves or even finding an accommodation with Iran?
+
+The regime remains, despite Mr Trump’s feeble claim to have brought it down. He may be hoping that Iranians soon rise up against their oppressors so that he can claim the credit. That is possible, but it looks less likely now than before the war, when the regime was more unpopular than at any time in its 47-year history. With Ayatollah Ali Khamenei ailing, it faced a perilous transition to a new generation. The war has brought about that transition, anointing Ali’s son, Mojtaba. Unlike Ali, he is a figurehead. Control lies with the Islamic Revolutionary Guard Corps and its rivalrous factions—all of them belligerent nationalists.
+
+And the war may have aggravated the nuclear threat. America and Israel did further damage to Iran’s infrastructure, but 400kg or so of highly enriched uranium—enough to make ten bombs—is still buried at nuclear sites. Mr Trump is insisting that Iran surrender this “nuclear dust”. Iran wants sanctions relief, but the incentive to deter future attacks by using it to make a bomb has increased, potentially leading to regional nuclear proliferation. That would be a dire outcome, but to stop it Mr Trump and future presidents may have to strike every few years. On the evidence of this war, that will be hard to sustain.
+
+Where does this leave the architects of this conflict? Never has Israel wielded such military power as it does today. But the war showed the limits to what this can achieve and how its appetite for pre-emptive attack is leading to fear and loathing in the region. For many Israelis, to fight as America’s equal stirred great national pride. Yet even as Israel has earned the praise of Republican politicians, 60% of Americans now look unfavourably on it, a rise of seven percentage points from last year. That leaves Israel weaker.
+
+America under Mr Trump has even more to reflect on. The country used to derive its power by marrying military strength with moral authority. But when this president threatens to wipe out the Iranian civilisation—a genocide by any other name—he treats morality as if it were a source of weakness.
+
+Some in the Trump administration behave as if America is tied down by things like international law and the Geneva conventions. Liberated from those constraints it will be more powerful. The war has shown that “might is right” is not just a desecration of decades of foreign policy, but a fallacy. Although America’s military superiority was on full display in Iran—integrating artificial intelligence into operations, rescuing downed pilots, achieving supremacy at low cost—it also revealed deep problems.
+
+The war has shown that the value of America’s might is easy to overestimate. Its factories cannot resupply its armed forces fast enough, whereas Iran fought an asymmetric war with limited weapons. Too much testosterone leads to wretched judgments that confuse lethality with winning. Overwhelming firepower without a strategy saps American strength.
+
+Iran has a wicked regime, but a just war depends on a sober judgment that violence is a necessary last resort. Instead Mr Trump treated Iran as a vanity project, in which America’s strength absolved him of the responsibility for thinking through the consequences of choosing to attack. Might alone is not right. Sometimes it fails even to bring victory. ■

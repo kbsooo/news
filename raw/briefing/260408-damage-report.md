@@ -1,0 +1,19 @@
+# The war was steadily spiralling in scope and destruction
+America, Israel and Iran were striking a widening array of targets across an expanding area
+
+The dust has barely settled after the latest, and perhaps last, wave of strikes in America’s and Israel’s war on Iran. A comprehensive accounting of the damage done will not be possible for some time. But data from conflict monitors, satellites and independent researchers already reveal that the conflict expanded across a huge area, engulfed a diverse array of targets and affected a huge number of people.
+Since the war began on February 28th, more than a dozen countries have been drawn in. Iran has launched at least 4,784 drones and 1,851 missiles at targets stretching from Cyprus to Oman, a greater distance than Paris to Moscow. A simmering conflict between Israel and Hizbullah, a Lebanese militia allied to Iran, has also reignited, constituting an almost separate western front.
+Most of Iran’s munitions have been intercepted—at least 4,513 drones and 1,464 missiles, by our count. Most of the bombs aimed at Iran, by contrast, have hit their targets. As a result, the damage inflicted on it is likely to be far greater. Information from inside the country remains scarce. Internet blackouts imposed by the regime, compounded by satellite blackouts encouraged by its attackers, limit what data can be collected. Even so, using data from ACLED and ISW, two conflict-monitors, we have mapped 3,164 strikes on Iran and a further 2,692 in the rest of the region.
+
+Different sources build a similar picture. Satellite radar imagery of Tehran reveals widespread, pinpoint damage, often matching geo-located strike data. And the strikes we have tabulated are, in all likelihood, a massive under-count. There is no fixed system for tallying strikes, making comparisons difficult, but America claims to have struck at least 11,000 targets in Iran and Israel 10,000.
+The targets are not always clear: monitors may simply record an explosion at a certain time in a particular area.
+
+But where the targets can be surmised, they hint at a steady expansion in the war’s scope. Early waves of strikes hit military installations and the political leadership. On the first day of the war a strike on the compound of Ali Khamenei, the supreme leader, killed him and other senior officials including the defence minister, the army’s chief of staff and the commander of the Islamic Revolutionary Guard Corps (IRGC), the regime’s crack troops.
+
+Later, many strikes appeared to focus on dismantling the regime’s internal security apparatus—the IRGC, law enforcement and the intelligence services.
+
+More recently the focus has shifted to industry—especially weapons manufacturing—and civilian infrastructure, and increased in intensity relative to the weeks before.
+
+A spike in attacks in the days before the ceasefire was announced included an Israeli blitz on railway bridges in the north of the country. That late spike is also corroborated by The Economist’s war-monitoring system, which uses satellite data on abnormal fires near 208 strategic sites across Iran, such as army bases, to detect probable attacks.
+
+Millions have been exposed to the violence. Roughly 18.5m of Iran’s 93m people live within a kilometre of a reported strike, as do 8.4m people in other countries. On the first day of the conflict, a strike near an IRGC naval base destroyed a girls’ school, reportedly killing at least 175 people, most of them students. It is not the only site where civilians were said to have been killed, although the overall number of civilian deaths remains unknown. ■
