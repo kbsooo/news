@@ -259,12 +259,13 @@ def _build_completion_summary() -> str:
 {chr(10).join(round_summaries)}
 
 ## Next Step
-Call `sim_save` with your analysis to generate the wiki report.
+Call `sim_save` with your analysis (BOTH English and Korean) to generate the bilingual wiki report.
 
 Provide a JSON with:
 ```json
 {{
-  "analysis": "3-5 paragraphs analyzing trends, surprises, critical turning points, confidence level",
+  "analysis": "3-5 paragraphs English analysis: trends, surprises, turning points, confidence",
+  "analysis_ko": "3-5문단 한국어 분석: 추세, 의외의 결과, 전환점, 신뢰도",
   "confidence": "low|medium|high"
 }}
 ```"""
@@ -363,9 +364,13 @@ def save_report(analysis_json: str) -> str:
     try:
         data = json.loads(analysis_json)
     except json.JSONDecodeError:
-        return "Error: Invalid JSON. Provide {\"analysis\": \"...\", \"confidence\": \"low|medium|high\"}"
+        return (
+            "Error: Invalid JSON. Provide:\n"
+            '{"analysis": "English analysis...", "analysis_ko": "한국어 분석...", "confidence": "low|medium|high"}'
+        )
 
     analysis = data.get("analysis", "No analysis provided.")
+    analysis_ko = data.get("analysis_ko", "")
     confidence = data.get("confidence", "medium")
 
     from simulation.report import generate_report
@@ -374,6 +379,7 @@ def save_report(analysis_json: str) -> str:
         agents=_active_sim.agents,
         state=_active_sim.state,
         analysis=analysis,
+        analysis_ko=analysis_ko,
         confidence=confidence,
     )
 

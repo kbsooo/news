@@ -359,15 +359,17 @@ def sim_advance(decisions_json: str) -> str:
 
 @mcp.tool()
 def sim_save(analysis_json: str) -> str:
-    """Save the completed simulation as a wiki report.
+    """Save the completed simulation as a bilingual wiki report.
 
-    Call this after all rounds are complete. Provide your analysis
-    and the report will be saved to wiki/simulations/.
+    Call this after all rounds are complete. Provide analysis in BOTH
+    English and Korean. The report auto-generates bilingual round
+    summaries from state data.
 
     Args:
         analysis_json: JSON string:
             {
-              "analysis": "3-5 paragraphs of your analysis...",
+              "analysis": "3-5 paragraphs English analysis...",
+              "analysis_ko": "3-5문단 한국어 분석...",
               "confidence": "low|medium|high"
             }
     """
