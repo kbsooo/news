@@ -263,5 +263,137 @@ def simulate(scenario: str, variables: list[str] | None = None) -> str:
     return "\n".join(lines)
 
 
+# ---------------------------------------------------------------------------
+# Multi-agent simulation tools
+# ---------------------------------------------------------------------------
+
+@mcp.tool()
+def sim_agents(scenario: str = "", slugs: list[str] | None = None) -> str:
+    """Preview agents that would participate in a simulation.
+
+    Extracts agent personas from wiki entity pages using LLM analysis.
+    Use this to review agents before running a full sim_run().
+
+    Requires env vars: LLM_API_KEY, LLM_BASE_URL, LLM_MODEL_NAME
+
+    Args:
+        scenario: Optional scenario context to focus agent extraction.
+        slugs: Optional list of specific page slugs to use as agents.
+               Default: auto-select geopolitical entities.
+    """
+    try:
+        from simulation import extract_agents
+    except ImportError:
+        return "Error: simulation package not found. Check mcp_server/simulation/ directory."
+
+    try:
+        agents = extract_agents(slugs=slugs, scenario_context=scenario)
+    except Exception as e:
+        return f"Error extracting agents: {e}"
+
+    if not agents:
+        return "No agents extracted. Check that wiki has entity pages with geopolitical tags."
+
+    lines = [f"# Simulation Agents ({len(agents)})\n"]
+    for a in agents:
+        lines.append(f"## {a.name} (`{a.slug}`) — {a.agent_type}")
+        lines.append(a.to_prompt_block())
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+@mcp.tool()
+def sim_run(
+    scenario: str,
+    rounds: int = 8,
+    slugs: list[str] | None = None,
+    variables: dict[str, float] | None = None,
+    start_date: str = "May 2026",
+) -> str:
+    """Run a multi-agent geopolitical simulation.
+
+    Extracts agent personas from wiki, runs multi-round simulation where
+    each agent makes decisions that affect world state variables, and
+    generates a bilingual report in wiki/simulations/.
+
+    Requires env vars: LLM_API_KEY, LLM_BASE_URL, LLM_MODEL_NAME
+    Token budget: ~150K tokens for 8 agents × 8 rounds.
+
+    Args:
+        scenario: The scenario question, e.g.
+                  "What if the Hormuz blockade continues through 2026?"
+        rounds: Number of simulation rounds (1-10). Each round ≈ 1 month.
+        slugs: Wiki entity page slugs to use as agents. Default: auto-select.
+        variables: Override initial state variable values, e.g.
+                   {"oil_price_brent": 100.0}.
+        start_date: Starting time label for round 1. Default: "May 2026".
+    """
+    try:
+        from simulation import run_simulation
+    except ImportError:
+        return "Error: simulation package not found."
+
+    try:
+        report_path, final_state, agents = run_simulation(
+            scenario=scenario,
+            rounds=rounds,
+            slugs=slugs,
+            variable_overrides=variables,
+            start_date=start_date,
+        )
+    except Exception as e:
+        return f"Simulation error: {e}"
+
+    # Summary for Claude
+    agent_names = ", ".join(a.name for a in agents)
+    snap = final_state.snapshot()
+    state_summary = "\n".join(
+        f"  - {final_state.variables[k].description}: {v:.1f}"
+        for k, v in snap.items()
+    )
+
+    return (
+        f"# Simulation Complete\n\n"
+        f"**Scenario:** {scenario}\n"
+        f"**Agents:** {agent_names}\n"
+        f"**Rounds:** {len(final_state.rounds)}\n"
+        f"**Report saved:** `{report_path.relative_to(report_path.parent.parent.parent)}`\n\n"
+        f"## Final State\n{state_summary}\n\n"
+        f"Read the full report with `wiki_read` or open in Obsidian."
+    )
+
+
+@mcp.tool()
+def sim_status() -> str:
+    """List completed simulations in wiki/simulations/.
+
+    Returns metadata for each simulation report that has been generated.
+    """
+    from pathlib import Path
+    sim_dir = Path(__file__).parent.parent / "wiki" / "simulations"
+    if not sim_dir.exists():
+        return "No simulations directory found."
+
+    files = sorted(sim_dir.glob("*.md"))
+    if not files:
+        return "No simulations have been run yet."
+
+    lines = [f"# Completed Simulations ({len(files)})\n"]
+    for f in files:
+        # Try to extract scenario from frontmatter
+        text = f.read_text(encoding="utf-8")
+        scenario = "Unknown"
+        sim_date = "Unknown"
+        for line in text.split("\n")[:15]:
+            if line.startswith("scenario:"):
+                scenario = line.split(":", 1)[1].strip().strip('"')
+            elif line.startswith("date:"):
+                sim_date = line.split(":", 1)[1].strip()
+        lines.append(f"- **{f.stem}** ({sim_date}): {scenario}")
+
+    return "\n".join(lines)
+
+
 if __name__ == "__main__":
     mcp.run()
