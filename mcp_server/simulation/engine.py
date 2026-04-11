@@ -107,28 +107,22 @@ def setup_simulation(
 - Action types: {', '.join(ACTION_TYPES)}
 - After deciding all actions, also determine how state variables change
 
-## Next Step
-Call `sim_advance` with your decisions for Round 1 ({_active_sim.time_label(1)}).
+## Next Step — Choose Your Mode
 
-Format your input as JSON:
+### Mode A: Subagent Simulation (Recommended — emergent behavior)
+Call `sim_agents_decide()` to get per-agent prompts, then spawn **parallel subagents** — one per agent. Each agent decides independently without seeing others' choices. This produces genuinely emergent outcomes.
+
+### Mode B: Single-pass (Faster, less emergent)
+Decide all agents yourself and call `sim_advance` directly with JSON:
 ```json
 {{
   "actions": {{
-    "Agent Name": {{
-      "action_type": "negotiate|escalate|...",
-      "target": "who/what",
-      "description": "one sentence"
-    }}
+    "Agent Name": {{"action_type": "...", "target": "...", "description": "..."}}
   }},
-  "state_deltas": {{
-    "oil_price_brent": 5.0,
-    "nato_cohesion": -3.0
-  }},
-  "reasoning": "Why these state changes make sense given the actions."
+  "state_deltas": {{"oil_price_brent": 5.0, "nato_cohesion": -3.0}},
+  "reasoning": "..."
 }}
-```
-
-Think carefully about each agent's persona, objectives, constraints, and relationships before deciding their action. Consider how actions interact with each other."""
+```"""
 
 
 def advance_round(decisions_json: str) -> str:
@@ -274,6 +268,90 @@ Provide a JSON with:
   "confidence": "low|medium|high"
 }}
 ```"""
+
+
+def get_agent_prompts() -> str:
+    """Generate independent prompts for each agent — designed for parallel subagent spawning.
+
+    Returns a JSON array of per-agent prompt objects. The host LLM should
+    spawn one subagent per agent, each receiving ONLY its own prompt.
+    Agents cannot see each other's prompts or decisions.
+
+    This is what enables emergent behavior: genuine independence.
+    """
+    if _active_sim is None:
+        return json.dumps({"error": "No active simulation. Call sim_setup first."})
+
+    if _active_sim.completed:
+        return json.dumps({"error": "Simulation complete. Call sim_save."})
+
+    sim = _active_sim
+    next_round = sim.current_round + 1
+    time_label = sim.time_label(next_round)
+
+    prompts = []
+    for agent in sim.agents:
+        # Each agent gets: its own wiki identity, world state, history, its own memory
+        # It does NOT get other agents' personas or memories
+        other_names = [a.name for a in sim.agents if a.name != agent.name]
+        memory_str = "\n".join(f"- {m}" for m in agent.memory[-3:]) if agent.memory else "(This is your first round)"
+
+        prompt = f"""You are **{agent.name}** in a geopolitical simulation.
+
+## Your Identity
+{agent.to_prompt_block()}
+
+## Scenario
+{sim.scenario}
+
+## Current Date: {time_label} (Round {next_round}/{sim.total_rounds})
+
+## World State
+{sim.state.describe()}
+
+## Recent Events
+{sim.state.history_prompt(last_n=2)}
+
+## Your Past Decisions
+{memory_str}
+
+## Other Actors in This Simulation
+{', '.join(other_names)}
+(You do NOT know what they are deciding this round.)
+
+## Your Task
+Choose ONE action. Action types: {', '.join(ACTION_TYPES)}
+
+Think from YOUR perspective only. Consider your objectives, constraints, relationships, and what you know about the current situation. You do NOT know what other actors will decide.
+
+Respond with ONLY this JSON:
+```json
+{{
+  "agent_name": "{agent.name}",
+  "action_type": "one of the action types above",
+  "target": "who or what you're acting on",
+  "description": "one sentence describing your action",
+  "rationale": "one sentence explaining why"
+}}
+```"""
+        prompts.append({
+            "agent_name": agent.name,
+            "agent_slug": agent.slug,
+            "prompt": prompt,
+        })
+
+    return json.dumps({
+        "round": next_round,
+        "total_rounds": sim.total_rounds,
+        "time_label": time_label,
+        "num_agents": len(prompts),
+        "agent_prompts": prompts,
+        "instructions": (
+            "Spawn one subagent per agent IN PARALLEL. "
+            "Each subagent receives ONLY its own prompt — they cannot see each other. "
+            "Collect all responses, then call sim_advance with the combined actions + your arbiter state_deltas."
+        ),
+    }, ensure_ascii=False)
 
 
 def save_report(analysis_json: str) -> str:

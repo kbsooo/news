@@ -303,6 +303,32 @@ def sim_setup(
 
 
 @mcp.tool()
+def sim_agents_decide() -> str:
+    """Get independent prompts for each agent to decide this round.
+
+    Returns per-agent prompts designed for PARALLEL subagent spawning.
+    Each agent gets ONLY its own identity + world state — it cannot see
+    other agents' personas, memories, or decisions.
+
+    This enables genuine emergent behavior through independent reasoning.
+
+    Workflow:
+    1. Call sim_agents_decide() → get per-agent prompts
+    2. Spawn parallel subagents (one per agent) with their prompts
+    3. Collect their JSON responses
+    4. As arbiter, determine state_deltas
+    5. Call sim_advance() with combined actions + deltas
+
+    Returns JSON with agent_prompts array and orchestration instructions.
+    """
+    from simulation.engine import get_agent_prompts
+    try:
+        return get_agent_prompts()
+    except Exception as e:
+        return f"Error: {e}"
+
+
+@mcp.tool()
 def sim_advance(decisions_json: str) -> str:
     """Submit your decisions for the current round and advance.
 
