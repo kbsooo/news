@@ -94,6 +94,15 @@ confidence: high | medium | low
 based_on: [page1, page2]
 ```
 
+#### Model selection for subagent simulations
+When using `sim_agents_decide` + parallel subagents to role-play each actor:
+
+- **Agent decisions (per-actor role-play)**: Use `Agent(subagent_type="general-purpose", model="sonnet", ...)` — cheaper and faster; 6-8 agents × 8 rounds = ~48-64 subagent calls, so cost matters. Sonnet is sufficient for "what would Iran do this round" type reasoning when grounded in a detailed wiki persona.
+- **Arbiter (state consolidation + final analysis)**: Use parent Opus 4.6 (default — no `model` override, just call `sim_advance` and `sim_save` from the main session). Arbiter must reconcile conflicting actions across all agents and maintain world-state coherence — this benefits from the strongest model.
+- **Report analysis writing**: Keep on parent Opus. The final `analysis` / `analysis_ko` text in `sim_save` is the most important output and deserves the strongest model.
+
+Rationale: the cost of spawning Opus subagents for every agent every round is significant, but most of the *judgment* that matters (state deltas, inter-actor interaction, final synthesis) happens in the arbiter phase. This split preserves reasoning quality where it counts while cutting cost substantially.
+
 ### Lint (wiki health check)
 Look for: contradictions between pages, stale claims superseded by newer sources, orphan pages, missing cross-references, concepts mentioned but lacking their own page, gaps worth investigating.
 
