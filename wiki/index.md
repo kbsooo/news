@@ -13,6 +13,8 @@ updated: 2026-04-11
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: America attracted attacks, China/Russia failed, pipeline alternatives needed
 - [[strait-of-hormuz]] — 715 vessels stranded, 172m barrels trapped, $2m tolls, 7-14 ships/day vs pre-war 130
+- [[pakistan]] — Unlikely peacemaker: Munir brokered ceasefire, 37-year first US-Iran talks in Islamabad, Nobel nomination for Trump, UAE $3.5bn pullback
+- [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement (new 10% investment rules), 14/28 states with anti-conversion laws, 35% fertiliser from Gulf
 - [[south-korea]] — $530bn chip plan collides with energy shock, gas days from exhaustion, 97% bromine from Israel
 - [[monte-dei-paschi-di-siena]] — World's oldest bank: revival €2bn→€28bn, Mediobanca bid, boardroom coup
 
@@ -41,8 +43,9 @@ updated: 2026-04-11
 ## Simulations
 
 - [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11|Hormuz Blockade Through 2026]] — 8-round multi-agent sim (Iran, Trump, China, Gulf, Korea, Israel). Blockade evolves into managed toll system; China dominant winner; food crisis worst outcome. Confidence: medium.
+- [[simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11|US-Iran Ceasefire & Korea/Investment Outlook]] — 8-round sim (Iran, Trump, China, Korea, Israel, Gulf). Xi Framework deal resolves nuclear crisis; China becomes Gulf security architect; Korea biggest non-great-power beneficiary (KOSPI 2550→2900). Confidence: medium.
 
-## Sources Ingested (26)
+## Sources Ingested (72)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -77,3 +80,44 @@ updated: 2026-04-11
 | 2026-04-09 | Hassabis on AI drug design (Isomorphic Labs) | Science & Technology |
 | 2026-04-10 | The Price of Passage (Strait of Hormuz) | Middle East & Asia |
 | 2026-04-11 | The world in brief | The World in Brief |
+| 2026-04-09 | Pakistan the peacemaker | Asia |
+| 2026-04-11 | America and Iran start high-stakes negotiation | Middle East & Africa |
+| 2026-04-05 | The tumbling rupee (India) | Asia |
+| 2026-04-07 | India-China wary rapprochement | Asia |
+| 2026-04-09 | India's anti-conversion laws | Asia |
+| 2026-04-09 | Cambodia mine-detecting rat monument | Asia |
+| 2026-04-09 | China building SCS airbase (Antelope Reef) | Asia |
+| 2026-04-06 | Taiwan KMT leader meets Xi in Beijing | China |
+| 2026-04-09 | China's united front operations abroad | China |
+| 2026-04-05 | NATO allies losing hope of keeping America | Europe |
+| 2026-04-06 | EU military ambitions (Aspides, RDC) | Europe |
+| 2026-04-08 | France fights Russian disinformation | Europe |
+| 2026-04-09 | Italy's Calimero complex | Europe |
+| 2026-04-09 | ITER nuclear fusion needs Russian expertise | Europe |
+| 2026-04-09 | Orban bashing Ukraine for votes | Europe |
+| 2026-04-09 | Syrians in Germany are there to stay | Europe |
+| 2026-04-06 | Iran and America spinning war stories | Middle East & Africa |
+| 2026-04-07 | Israel overestimated Iran missile damage | Middle East & Africa |
+| 2026-04-08 | Israel as partner, scapegoat or spoiler | Middle East & Africa |
+| 2026-04-08 | Iran-America agree to pause war | Middle East & Africa |
+| 2026-04-09 | Burkina Faso war crimes | Middle East & Africa |
+| 2026-04-09 | Malawi elephant translocation crisis | Middle East & Africa |
+| 2026-04-09 | Africa's protest wave | Middle East & Africa |
+| 2026-04-09 | Precolonial African statelessness | Middle East & Africa |
+| 2026-04-06 | Las Vegas reinvents as sports capital | United States |
+| 2026-04-07 | Four Democratic Party tribes | United States |
+| 2026-04-09 | Trump's White House ballroom (Lexington) | United States |
+| 2026-04-09 | Iowa carbon-capture pipeline politics | United States |
+| 2026-04-09 | Tale of two Gulf wars (1991 vs 2026) | United States |
+| 2026-04-09 | California governor race | United States |
+| 2026-04-10 | Sugar substitutes health concerns | Science & Technology |
+| 2026-04-09 | Artemis II Earthset photograph | Science & Technology |
+| 2026-04-08 | 290m-year-old mummified reptile | Science & Technology |
+| 2026-04-05 | McDonald's/KFC expand in rural China | Business |
+| 2026-04-05 | BeauTV beauty entertainment boom | Culture |
+| 2026-04-07 | London Falling (Keefe book) | Culture |
+| 2026-04-08 | Six atomic bomb books | Culture |
+| 2026-04-08 | Cottage cheese comeback | Culture |
+| 2026-04-09 | Putin's propaganda machine (The Descent) | Culture |
+| 2026-04-09 | Children's picky eating (Picky book) | Culture |
+| 2026-04-10 | The Drama film review | Culture |

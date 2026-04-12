@@ -26,10 +26,27 @@ The war upended all three at once. America's forces didn't deter attacks — the
 
 - UAE: Hit by **50+ Iranian drones/missiles** on April 8 (post-ceasefire)
 - Saudi Arabia: **Yanbu pipeline** struck (7m bbl/day, only remaining export route during war)
-- Kuwait: Power and water-desalination plants targeted
+- Kuwait: Power and water-desalination plants targeted; Iran struck **oil refineries**
 - Qatar: **Ras Laffan** LNG facility — 17% capacity destroyed, 3-5 years to repair
+- Bahrain: Iran struck **oil refineries**
+- Abu Dhabi: **Petrochemical plant** hit by Iranian strikes
 - Revenues lost, energy facilities damaged, reputation for stability punctured
 - Production cut: **10m bbl/day** of crude output curtailed (~10% of global demand)
+
+### Air Base Damage
+- **Al-Udeid** (Qatar) and **Prince Sultan** (Saudi Arabia) air bases sustained **serious damage** from Iranian strikes
+
+### Escalatory Threats
+- [[donald-trump|Trump]] threatened destruction of Iran's **power grid**
+- Iran reciprocally threatened Gulf **water-desalination plants** — a devastating threat given Gulf states' near-total reliance on desalinated water
+
+## Economic Fallout
+
+- Gulf hotels at **15-20% capacity**; thousands of **migrant workers laid off**
+- Saudi Arabia **evacuated financial district towers** in Riyadh
+- Dubai earmarked **$272m** for economic support
+- Qatar can afford repairs (having spent **$200bn on World Cup** infrastructure)
+- UAE **withdrew a $3.5bn loan rollover** to Pakistan, angered by Pakistan's engagement with Iran
 
 ## The Alliance Dilemma
 
@@ -92,10 +109,27 @@ Long-term goal: regionwide pipeline network "resilient by design" with multiple 
 
 - UAE: 4월 8일(휴전 이후) **50발 이상의 이란 드론/미사일** 피격
 - 사우디아라비아: **얀부 송유관** 피격 (일 700만 배럴, 전쟁 중 유일하게 남은 수출 경로)
-- 쿠웨이트: 발전소 및 해수담수화 시설 피격
+- 쿠웨이트: 발전소 및 해수담수화 시설 피격; 이란이 **정유 시설** 타격
 - 카타르: **라스 라판** LNG 시설 — 생산 능력 17% 파괴, 복구에 3~5년 소요
+- 바레인: 이란이 **정유 시설** 타격
+- 아부다비: **석유화학 공장** 이란 공습 피격
 - 수입 손실, 에너지 시설 손상, 안정적 국가라는 평판 훼손
 - 생산 차질: 원유 생산 **일 1,000만 배럴** 감소 (세계 수요의 약 10%)
+
+### 공군 기지 피해
+- **알 우데이드** (카타르)와 **프린스 술탄** (사우디아라비아) 공군 기지가 이란 공습으로 **심각한 피해**
+
+### 확전 위협
+- [[donald-trump|트럼프]]가 이란 **전력망** 파괴를 위협
+- 이란은 이에 대응하여 걸프 **해수담수화 시설**을 위협 — 걸프 국가들의 담수화 의존도를 감안하면 치명적인 위협
+
+## 경제적 타격
+
+- 걸프 호텔 가동률 **15~20%**; 수천 명의 **이주 노동자 해고**
+- 사우디아라비아, 리야드 **금융 지구 고층 건물 대피**
+- 두바이, 경제 지원을 위해 **2억 7,200만 달러** 배정
+- 카타르는 보수 비용 감당 가능 (월드컵 인프라에 **2,000억 달러** 지출한 바 있음)
+- UAE가 파키스탄의 이란 관여에 분노하여 **35억 달러 차관 연장을 철회**
 
 ## 동맹 딜레마
 

@@ -29,7 +29,7 @@ On a purely military level, impressive results:
 - Only ~20 Israelis killed — far fewer than predicted
 - Unprecedented US-Israel joint operations (coordinated targets, joint missions)
 
-But: Iran still launches dozens of drones/missiles daily. Early claim of neutralising 75% of Iran's launchers was exaggerated (~50% more plausible, some restorable).
+But: Iran still launches **10-20 missiles per day** at Israeli targets. Early claim of neutralising 75% of Iran's launchers was exaggerated (~50% more plausible, some restorable). Iran's launchers are **disguised as civilian trucks** and dispersed across an area **the size of Germany, France, Spain, and the UK combined**. Underground "missile cities" remain partially operational.
 
 ## Sidelined from Peace
 
@@ -39,7 +39,7 @@ The relationship revealed: **superpower and client-state**. Israel will not be p
 
 ## Netanyahu's Dilemma
 
-- Helped convince Trump to start the war — now senior US officials (VP, SecState, CIA head) **leaking reservations** pre-war. Potential scapegoat.
+- **Netanyahu convinced Trump to launch the war on February 28** with a Khamenei assassination plan. The CIA director had called Netanyahu's regime-change scenarios "farcical" before the war began — a judgment now being leaked as officials distance themselves from the decision. Senior US officials (VP, SecState, CIA head) are **leaking reservations** pre-war. Netanyahu is becoming the potential scapegoat.
 - Trump visiting Israel in 2 weeks (Independence Day)
 - Israeli election expected **October 2026** — Trump friendship is Netanyahu's key electoral asset
 - Must convince Israelis the war was won — while Iran retains regime, missiles, and nuclear material
@@ -48,7 +48,9 @@ The relationship revealed: **superpower and client-state**. Israel will not be p
 
 On ceasefire day 1, Israel attacked **~100 targets in Lebanon** instead of Iran. **1,000+ killed and injured**; hospitals overwhelmed, ran short of blood. Iran warns: if Israel continues striking Hizbullah, it will resume attacks on Israel.
 
-As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wednesday alone. Iran now conditions joining Pakistan talks on a Lebanon ceasefire. Israel-Lebanon talks expected in Washington next week — a rare meeting between countries with no diplomatic ties.
+**Lebanon total since the war began**: over **1,500 killed** and **1 million displaced**. As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wednesday alone. Iran now conditions joining Pakistan talks on a Lebanon ceasefire. Israel-Lebanon talks expected in Washington next week — a rare meeting between countries with no diplomatic ties.
+
+Despite Israel's campaign, **Hezbollah retains over 10,000 short-range weapons and hundreds of mid-range missiles** — its arsenal was degraded but far from eliminated.
 
 ## See Also
 - [[iran-war-and-ceasefire-2026]]
@@ -80,7 +82,7 @@ As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wed
 - 이스라엘인 사망자 약 20명에 불과 — 예상보다 훨씬 적은 수치
 - 전례 없는 미-이스라엘 공동 작전 수행 (목표 조율, 합동 임무)
 
-그러나 이란은 여전히 매일 수십 발의 드론/미사일을 발사하고 있다. 이란 발사대의 75%를 무력화했다는 초기 주장은 과장된 것이었다 (약 50%가 더 현실적이며, 일부는 복구 가능).
+그러나 이란은 여전히 이스라엘 목표물에 하루 **10~20발의 미사일을 발사**하고 있다. 이란 발사대의 75%를 무력화했다는 초기 주장은 과장된 것이었다(약 50%가 더 현실적이며, 일부는 복구 가능). 이란의 발사대는 **민간 트럭으로 위장**되어 **독일, 프랑스, 스페인, 영국을 합친 면적**에 분산 배치되어 있다. 지하 "미사일 도시"는 부분적으로 여전히 작동 중이다.
 
 ## 평화 협상에서의 배제
 
@@ -90,7 +92,7 @@ As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wed
 
 ## Netanyahu의 딜레마
 
-- Trump를 설득하여 전쟁을 시작하게 했으나, 이제 미국 고위 관리들(부통령, 국무장관, CIA 국장)이 전쟁 전 **유보적 입장을 누설**하고 있다. 희생양이 될 가능성.
+- **네타냐후가 2월 28일 하메네이 암살 계획으로 트럼프를 설득하여 전쟁을 개시하게 했다.** CIA 국장은 전쟁 전에 네타냐후의 정권 교체 시나리오를 "황당하다(farcical)"고 평가했으며, 이 판단이 관리들이 결정에서 거리를 두면서 지금 유출되고 있다. 미국 고위 관리들(부통령, 국무장관, CIA 국장)이 전쟁 전 **유보적 입장을 누설**하고 있다. 네타냐후가 희생양이 될 가능성.
 - Trump가 2주 후 이스라엘을 방문 예정 (독립기념일)
 - 이스라엘 총선이 **2026년 10월**로 예상됨 — Trump와의 우정이 Netanyahu의 핵심 선거 자산
 - 이란이 여전히 정권, 미사일, 핵물질을 보유한 상황에서 이스라엘 국민에게 전쟁의 승리를 납득시켜야 함
@@ -99,4 +101,6 @@ As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wed
 
 휴전 첫날, 이스라엘은 이란 대신 **레바논 내 약 100개 목표물**을 공격했다. **1,000명 이상이 사망 및 부상**했으며, 병원은 과부하 상태에 빠지고 혈액이 부족해졌다. 이란은 경고했다: 이스라엘이 Hizbullah에 대한 공격을 계속하면 이스라엘에 대한 공격을 재개하겠다고.
 
-4월 11일 기준: 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 이란은 파키스탄 회담 참여 조건으로 레바논 휴전을 요구. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정 — 외교 관계가 없는 두 나라 간의 드문 만남.
+**전쟁 개시 이후 레바논 피해 총계**: **1,500명 이상 사망**, **100만 명 이상 실향**. 4월 11일 기준: 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 이란은 파키스탄 회담 참여 조건으로 레바논 휴전을 요구. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정 — 외교 관계가 없는 두 나라 간의 드문 만남.
+
+이스라엘의 작전에도 불구하고, **헤즈볼라는 10,000발 이상의 단거리 무기와 수백 발의 중거리 미사일을 보유**하고 있다 — 무기고는 약화되었지만 결코 제거되지 않았다.

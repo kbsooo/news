@@ -22,6 +22,23 @@ Trump launched a war against [[iran|Iran]] that he expected to be easy. After ~4
 - At times expressed **indifference** to Iran's restrictions
 - Suggested America could **share in the tolls** as a "joint venture" with Iran
 - Warned Iran against imposing tolls: "They better not be and, if they are, they better stop now!" (April 9 social media post)
+- Suggested America should get a cut of strait tolls: "why shouldn't we? We're the winner"
+
+### Rhetoric and Threats
+- Issued "A whole civilisation will die tonight" threat, then **backed down 90 minutes before the deadline**
+- Truth Social post (April 5): **"Open the Fuckin' Strait, you crazy bastards, or you'll be living in Hell"**
+- Threatened destruction of Iran's **power grid**; Iran reciprocally threatened Gulf **water-desalination plants**
+
+### Domestic Impact
+- War costs the typical American family **$400/month** (Roger Pielke, AEI estimate)
+- Only **34% of Americans** support the war
+- Proposed **40% defense spending increase** (April 3 budget)
+
+### Intelligence Failures
+- CIA director called Netanyahu's regime-change scenarios **"farcical"**; Trump ignored the warning
+
+### May 14 Xi Summit
+- The Xi-Trump summit (May 14) serves as a **de facto deadline** for ending the war, as Trump seeks to pivot to China diplomacy
 
 Unresolved dilemma: declare victory while Iran acts as toll-collector, or resume military action that already failed once?
 
@@ -51,13 +68,22 @@ The war exposed a fundamental error in Trump's foreign policy philosophy:
 - Moral authority was abandoned — threats to "wipe out the Iranian civilisation" amount to genocide threats
 - The idea that international law constrains rather than amplifies American power was shown to be wrong
 
+## Domestic Governance and Personnel
+
+### White House Ballroom
+Trump's proposed 90,000 sq ft White House ballroom — **quadrupled** from the original $100m estimate — was **blocked by Judge Richard Leon** on March 31.
+
+### Military and Cabinet Shakeups
+- Defense Secretary Pete Hegseth **fired General Randy George**, the Army chief of staff
+- **Sacked Attorney General Pam Bondi**, replacing her with **Todd Blanche**
+
 ## NATO Crisis
 
 Trump's grievance against European allies (refusing bases/airspace for Iran strikes) has pushed [[nato-and-transatlantic-crisis|NATO to its breaking point]]. March 31 post: "You'll have to start learning how to fight for yourself." Marco Rubio reinforced this by questioning NATO's value.
 
 ## China Angle
 
-[[china|China]] views Trump as weakened by the war and plans to exploit this at the Xi-Trump summit in Beijing (**May 2026**). China hopes for concessions on tariffs, export controls, and a statement opposing Taiwanese independence.
+[[china|China]] views Trump as weakened by the war and plans to exploit this at the Xi-Trump summit in Beijing (**May 14, 2026**). China hopes for concessions on tariffs, export controls, and a statement opposing Taiwanese independence.
 
 ## Pattern
 
@@ -86,6 +112,23 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 - 이란의 통행 제한에 **무관심**을 표하기도 했고
 - 미국이 이란과의 "합작 사업"으로 **통행료를 나눠 가질 수 있다**고 제안하기도 했으며
 - 이란의 통행료 부과에 경고하기도 했다: "그러지 않는 게 좋을 것이다. 만약 그러고 있다면, 지금 당장 멈추는 게 좋을 것이다!" (4월 9일 소셜 미디어 게시물)
+- 미국이 해협 통행료를 분배받아야 한다고 주장: "왜 안 돼? 우리가 승자잖아"
+
+### 수사와 위협
+- "오늘 밤 문명 하나가 통째로 죽을 것이다"라고 위협했으나, **마감 90분 전에 철회**
+- Truth Social 게시물 (4월 5일): **"이 미친 놈들아, 해협을 열어라, 안 그러면 지옥에서 살게 될 것이다"**
+- 이란 **전력망** 파괴를 위협; 이란은 이에 대응하여 걸프 국가들의 **해수담수화 시설** 위협
+
+### 국내 영향
+- 전쟁으로 일반 미국 가정에 **월 400달러** 추가 비용 발생 (Roger Pielke, AEI 추정)
+- 미국인 중 **34%만** 전쟁을 지지
+- **국방비 40% 증액** 예산안 제출 (4월 3일)
+
+### 정보 실패
+- CIA 국장이 네타냐후의 정권 교체 시나리오를 **"허무맹랑"**하다고 평가; 트럼프는 경고를 무시
+
+### 5월 14일 시진핑 정상회담
+- 시진핑-트럼프 정상회담(5월 14일)이 전쟁 종결의 **사실상의 마감 시한** 역할을 하고 있으며, 트럼프는 대중국 외교로의 전환을 모색 중
 
 미해결 딜레마: 이란이 통행료 징수자 역할을 하는 가운데 승리를 선언할 것인가, 아니면 이미 한 번 실패한 군사 행동을 재개할 것인가?
 
@@ -115,13 +158,22 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 - 도덕적 권위는 포기되었다 -- "이란 문명을 지워버리겠다"는 위협은 대량학살 위협에 해당한다
 - 국제법이 미국의 힘을 제약하는 것이 아니라 증폭시킨다는 사실이 입증되었다
 
+## 국내 통치 및 인사
+
+### 백악관 대연회장
+트럼프가 추진한 90,000평방피트 규모의 백악관 대연회장은 원래 1억 달러 예상에서 **4배로 불어났으며**, 3월 31일 **리처드 리언 판사에 의해 저지**되었다.
+
+### 군부 및 내각 인사 교체
+- 국방장관 피트 헤그세스가 **랜디 조지 육군참모총장을 해임**
+- **팸 본디 법무장관을 경질**하고 **토드 블랑쉬**로 교체
+
 ## NATO 위기
 
 유럽 동맹국들에 대한 트럼프의 불만 (이란 공습을 위한 기지/영공 제공 거부)은 [[nato-and-transatlantic-crisis|NATO를 붕괴 직전]]으로 몰아갔다. 3월 31일 게시물: "스스로 싸우는 법을 배워야 할 것이다." 마르코 루비오는 NATO의 가치에 의문을 제기하며 이를 강화했다.
 
 ## 중국 변수
 
-[[china|중국]]은 전쟁으로 약화된 트럼프를 보고, 베이징에서 열리는 시진핑-트럼프 정상회담(**2026년 5월**)에서 이를 활용할 계획이다. 중국은 관세, 수출 통제에 대한 양보와 대만 독립 반대 성명을 기대하고 있다.
+[[china|중국]]은 전쟁으로 약화된 트럼프를 보고, 베이징에서 열리는 시진핑-트럼프 정상회담(**2026년 5월 14일**)에서 이를 활용할 계획이다. 중국은 관세, 수출 통제에 대한 양보와 대만 독립 반대 성명을 기대하고 있다.
 
 ## 패턴
 

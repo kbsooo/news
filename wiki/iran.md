@@ -38,7 +38,7 @@ Iran's post-war posture fits the broader pattern of [[great-power-rivalry|nation
 
 Ayatollah Ali Khamenei was **killed on day 1** of the war (Feb 28) in an Israeli strike on his compound, along with the defence minister, army chief of staff, and IRGC commander.
 
-Power has shifted to his son **Mojtaba Khamenei** — but Mojtaba is widely rumored to have suffered severe injuries himself, and some question his fitness. He is a figurehead; real control lies with **Mohammad Baqer Qalibaf** (parliament speaker) and a coterie of pragmatic IRGC generals.
+Power has shifted to his son **Mojtaba Khamenei** — but Mojtaba is widely rumored to have suffered severe injuries himself, and some question his fitness. He is a figurehead; real control lies with **Mohammad Baqer Qalibaf** (parliament speaker) and a coterie of pragmatic IRGC generals. Qalibaf is now personally leading Iran's delegation at the [[iran-war-and-ceasefire-2026|Islamabad talks]] (April 11), dressed in mourning black — effectively becoming the de facto leader of post-war Iran.
 
 The war paradoxically consolidated the regime. Before the war it was more unpopular than at any point in its 47-year history. The bombing shifted popular outrage from the regime to America/Israel. Opposition figures like Reza Pahlavi lost support; Iran International (opposition broadcaster) lost credibility. "We woke up to the realisation that Israel was not on our side," says a former supporter of intervention.
 
@@ -50,9 +50,21 @@ The war paradoxically consolidated the regime. Before the war it was more unpopu
 
 Despite 21,000+ American and Israeli strikes, **~400kg of highly enriched uranium** remains buried at nuclear sites — enough for approximately 10 bombs. Trump demands Iran surrender this "nuclear dust." But the war has **increased** Iran's incentive to build a bomb as a deterrent against future attacks. This could trigger regional nuclear proliferation — "a dire outcome."
 
+## Missile Program Resilience
+
+Iran's missile capabilities proved far more durable than the US-Israeli coalition expected. Despite intense bombardment, an estimated **50% of Iran's missile launchers remain intact** — not the 75% destruction rate Israel initially claimed. Key factors:
+- **Launchers disguised as civilian trucks**, making them nearly impossible to distinguish from commercial traffic via satellite or drone surveillance
+- **Dispersed across an area the size of Germany, France, Spain, and the UK combined**, preventing concentrated strikes
+- Underground **"missile cities"** were cleared after initial bombing but remain partially operational and can be reactivated
+- Iran continues launching **10-20 missiles/day** at Israeli targets even during the ceasefire period
+
+## Pakistan Back-Channel
+
+Iran's back-channel with Pakistan — which ultimately produced the ceasefire — was opened through **IRGC contacts** after a previous missile exchange between the two countries. Pakistan's army chief **Asim Munir** played the central brokering role, leveraging this military-to-military relationship to bring Iran and the US to the table.
+
 ## Economic Destruction and Opportunity
 
-The economy has been "set back years" by bombing. But post-war reconstruction creates opportunities: Gulf countries and Iran will tender contracts, with [[china|China]] positioned as the primary partner. Iran is also facilitating oil trade with China during/after the war, deepening that economic relationship.
+The economy has been "set back years" by bombing. Inflation has surged to **over 50%**, with food prices climbing even faster. **Steel production may take a year to resume** given the extent of industrial damage. But post-war reconstruction creates opportunities: Gulf countries and Iran will tender contracts, with [[china|China]] positioned as the primary partner. Iran is also facilitating oil trade with China during/after the war, deepening that economic relationship.
 
 ## See Also
 - [[iran-war-damage-assessment]]
@@ -94,7 +106,7 @@ The economy has been "set back years" by bombing. But post-war reconstruction cr
 
 아야톨라 알리 하메네이는 전쟁 **1일차**(2월 28일)에 자신의 관저에 대한 이스라엘의 공습으로 국방장관, 육군참모총장, IRGC 사령관과 함께 **사망**했다.
 
-권력은 그의 아들 **모즈타바 하메네이**에게 이동했지만, 모즈타바 본인도 심각한 부상을 입은 것으로 널리 알려져 있으며 일부는 그의 적합성에 의문을 제기한다. 그는 허수아비이며, 실질적 통제권은 **모하마드 바게르 갈리바프**(국회의장)와 실용주의적 IRGC 장성 측근들에게 있다.
+권력은 그의 아들 **모즈타바 하메네이**에게 이동했지만, 모즈타바 본인도 심각한 부상을 입은 것으로 널리 알려져 있으며 일부는 그의 적합성에 의문을 제기한다. 그는 허수아비이며, 실질적 통제권은 **모하마드 바게르 갈리바프**(국회의장)와 실용주의적 IRGC 장성 측근들에게 있다. 갈리바프는 현재 [[iran-war-and-ceasefire-2026|이슬라마바드 회담]](4월 11일)에서 이란 대표단을 직접 이끌고 있으며, 검은 상복을 입은 채 사실상 전후 이란의 실질적 지도자로 부상했다.
 
 전쟁은 역설적으로 체제를 공고히 했다. 전쟁 전 체제는 47년 역사상 어느 때보다 인기가 없었다. 폭격은 대중의 분노를 체제에서 미국/이스라엘로 전환시켰다. 레자 팔라비 같은 반체제 인사들은 지지를 잃었고, 이란 인터내셔널(반체제 방송)은 신뢰를 잃었다. "우리는 이스라엘이 우리 편이 아니었다는 것을 깨달았다"라고 한 전(前) 개입 지지자가 말한다.
 
@@ -106,6 +118,18 @@ The economy has been "set back years" by bombing. But post-war reconstruction cr
 
 21,000회 이상의 미국-이스라엘 공습에도 불구하고 **약 400kg의 고농축 우라늄**이 핵 시설 지하에 남아 있으며, 이는 약 10개의 핵폭탄 제조에 충분한 양이다. 트럼프는 이란이 이 "핵 먼지"를 넘기도록 요구하고 있다. 그러나 전쟁은 향후 공격에 대한 억지력으로서 핵폭탄 제조에 대한 이란의 동기를 오히려 **강화**시켰다. 이는 지역 핵 확산을 촉발할 수 있다 -- "최악의 결과."
 
+## 미사일 프로그램의 회복력
+
+이란의 미사일 전력은 미-이스라엘 연합의 예상보다 훨씬 높은 내구성을 입증했다. 집중 폭격에도 불구하고 이란 미사일 발사대의 약 **50%가 건재한 것으로 추정**되며, 이는 이스라엘이 초기에 주장한 75% 파괴율과 크게 다르다. 핵심 요인:
+- **발사대를 민간 트럭으로 위장**, 위성이나 드론 감시로 상업용 차량과 구별이 거의 불가능
+- **독일, 프랑스, 스페인, 영국을 합친 면적에 분산 배치**, 집중 타격 불가
+- 지하 **"미사일 도시"**는 초기 폭격 후 소개되었으나 부분적으로 작동 가능하며 재가동 가능
+- 이란은 휴전 기간에도 이스라엘 목표물에 하루 **10~20발의 미사일을 계속 발사**
+
+## 파키스탄 비밀 채널
+
+궁극적으로 휴전을 이끌어낸 이란-파키스탄 간 비밀 채널은 양국 간 이전 미사일 교환 이후 **IRGC 연락선**을 통해 개설되었다. 파키스탄 육군참모총장 **아심 무니르**가 핵심 중재 역할을 수행하며, 이 군사 대 군사 관계를 활용하여 이란과 미국을 협상 테이블로 이끌었다.
+
 ## 경제적 파괴와 기회
 
-경제는 폭격으로 "수년이 후퇴"했다. 그러나 전후 재건은 기회를 창출한다: 걸프 국가들과 이란이 계약을 발주할 것이며, [[china|중국]]이 주요 파트너로 자리잡고 있다. 이란은 또한 전쟁 중/후에 중국과의 석유 무역을 촉진하며 경제적 관계를 심화시키고 있다.
+경제는 폭격으로 "수년이 후퇴"했다. 인플레이션은 **50% 이상**으로 치솟았고, 식품 가격은 그보다 더 빠르게 오르고 있다. **철강 생산은 산업 피해 규모를 감안할 때 재개까지 1년이 걸릴 수 있다.** 그러나 전후 재건은 기회를 창출한다: 걸프 국가들과 이란이 계약을 발주할 것이며, [[china|중국]]이 주요 파트너로 자리잡고 있다. 이란은 또한 전쟁 중/후에 중국과의 석유 무역을 촉진하며 경제적 관계를 심화시키고 있다.

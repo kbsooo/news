@@ -42,6 +42,37 @@ Despite the confidence, real concerns exist:
 - **Strategic blind spot**: Chinese thinkers are "too reluctant to contemplate a scenario in which America acts as a rogue power, ripping up the world order it created." China has thrived under rules America sustained — global disorder would undermine export-fuelled growth.
 - **Rigidity risk**: "America has repeatedly shown a remarkable ability to reinvent itself. By contrast, China is cautious, ageing and hidebound by party ideology." There is a future where "America embraces upheaval and China shuts itself off."
 
+## South China Sea: Resumed Island-Building
+
+China has resumed island-building after a decade-long pause. **Antelope Reef** in the Paracels has been dredged into a **600-hectare atoll** since October 2025, potentially capable of hosting a **2,700m runway**. The Pentagon's "first island chain" strategy — focused on Taiwan and the Philippines — may inadvertently give China a free hand in the Paracels, which are further from US strategic focus.
+
+## Taiwan: KMT Engagement
+
+**KMT chairwoman Cheng Li-wun** met Xi Jinping on **April 10** — the first KMT leader to visit in a decade. Key developments:
+- Reaffirmed the **"1992 consensus"** (one China, different interpretations)
+- Cheng offered to **host Xi in Taiwan**
+- Xi urged **"national reunification"**
+- Cheng is **blocking a defense spending increase** in the Taiwanese legislature
+- **Internal KMT split**: Cheng (China-leaning) vs **Lu Shiow-yen** (America-leaning)
+- **56% of Taiwanese** think the visit's drawbacks outweigh advantages
+
+## United Front Work
+
+The **Jamestown Foundation** identified **2,000+ United Front Work Department (UFWD) organizations** worldwide:
+- **967** in the US, **575** in Canada, **405** in the UK, **347** in Germany
+- **MI5** accused the UFWD of cultivating UK political figures
+- Multiple Western arrests linked to UFWD operations
+
+## Fast Food as Economic Indicator
+
+McDonald's and KFC are aggressively expanding into smaller Chinese cities:
+- McDonald's: **3,000 new outlets**; KFC: **4,000 new outlets**
+- Ownership has shifted toward **Chinese state capital**: CITIC for McDonald's; **Boyu Capital** (linked to Jiang Zemin's grandson) for Starbucks
+
+## India Rapprochement
+
+Partial easing of the **2020 investment ban** on Chinese companies in India, but the **trade deficit exceeds $100bn**. Trump's tariffs are pushing India toward closer economic ties with China — a geopolitical irony.
+
 ## Actions During the War
 
 - Helped nudge Iran toward ceasefire
@@ -105,6 +136,37 @@ This reflects a distinctly Chinese AI deployment pattern: rapid commercializatio
 - **경제적 노출**: 장기전은 다른 나라가 더 큰 피해를 입더라도 중국의 수출에 타격을 준다.
 - **전략적 사각지대**: 중국의 사상가들은 "미국이 자신이 만든 세계 질서를 뒤엎는 불량 강대국으로 행동하는 시나리오를 상상하기를 지나치게 꺼린다." 중국은 미국이 유지해 온 규칙 아래에서 번영했다 — 세계적 무질서는 수출 주도 성장을 약화시킬 것이다.
 - **경직성 위험**: "미국은 자기 혁신에 대한 놀라운 능력을 반복적으로 보여주었다. 반면 중국은 신중하고, 고령화되어 있으며, 당 이념에 얽매여 있다." "미국이 격변을 수용하고 중국이 스스로를 고립시키는" 미래가 존재한다.
+
+## 남중국해: 인공섬 건설 재개
+
+중국이 10년간의 공백 끝에 인공섬 건설을 재개했다. 파라셀 군도의 **앤틸로프 암초**가 2025년 10월 이후 **600헥타르 규모의 환초**로 준설되었으며, **2,700m 활주로** 건설이 가능할 것으로 보인다. 대만과 필리핀에 집중된 미 국방부의 "제1열도선" 전략이 의도치 않게 파라셀 군도에서 중국에 자유 행동권을 부여할 수 있다.
+
+## 대만: 국민당의 접근
+
+**국민당 주석 정리원**이 **4월 10일** 시진핑과 회동 — 10년 만에 처음으로 국민당 지도자가 방문. 주요 내용:
+- **"1992년 합의"** (하나의 중국, 각자 해석) 재확인
+- 정리원이 **시진핑의 대만 방문을 초청**
+- 시진핑은 **"국가 통일"**을 촉구
+- 정리원은 대만 입법원에서 **국방비 증액을 저지** 중
+- **국민당 내부 분열**: 정리원 (친중) vs **루슈옌** (친미)
+- 대만인의 **56%**가 방문의 단점이 장점보다 크다고 판단
+
+## 통일전선공작
+
+**제임스타운 재단**이 전 세계에서 **2,000개 이상의 통일전선공작부(UFWD) 조직**을 확인:
+- 미국 **967개**, 캐나다 **575개**, 영국 **405개**, 독일 **347개**
+- **MI5**가 UFWD의 영국 정치인 포섭을 비난
+- 서방에서 UFWD 관련 다수의 체포 사례
+
+## 패스트푸드: 경제 지표
+
+맥도날드와 KFC가 중국 중소 도시로 공격적으로 확장 중:
+- 맥도날드: **3,000개 신규 매장**; KFC: **4,000개 신규 매장**
+- 소유권이 **중국 국유 자본**으로 이동: 맥도날드는 CITIC; 스타벅스는 **보위 캐피탈** (장쩌민 손자 연관)
+
+## 인도와의 관계 개선
+
+인도의 중국 기업에 대한 **2020년 투자 금지**가 부분적으로 완화되었으나, **무역 적자는 1,000억 달러 이상**. 트럼프의 관세가 인도를 중국과의 경제적 밀착으로 밀어붙이고 있다 — 지정학적 아이러니.
 
 ## 전쟁 중 행동
 

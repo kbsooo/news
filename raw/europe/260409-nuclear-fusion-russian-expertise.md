@@ -1,0 +1,13 @@
+# Europe's joint nuclear-fusion project needs Russian expertise
+
+At ITER Russian and Western scientists still work together—slowly
+
+Four years into Russia's war with Ukraine, nearly all ties between Russian and European science have been severed. Russian scientists were expelled from CERN, a particle-physics lab in Geneva. A joint Mars rover sits in limbo. Data-sharing in the Barents Sea and research into thawing permafrost have been halted.
+
+But in southern France, Russian and European physicists, engineers and managers are still assembling a giant nuclear-fusion reactor together. Some 35 countries are involved in the International Thermonuclear Experimental Reactor (ITER) project to make nuclear fusion a viable source of clean energy. It has survived geopolitical head-butting. "People leave their passports behind once they enter the facility," says Pietro Barabaschi, ITER's director-general.
+
+Each country contributes by providing "in-kind" support such as parts and brains, rather than cash. Russia makes chunks of the magnets that are used to confine the final reaction, exhaust systems that keep the reaction clean and panels that absorb the high-energy neutrons released by fusion reactions. No member's offering is indispensable, but finding replacements can cause delays, says Mr Barabaschi.
+
+ITER cannot afford that. The project is already a boondoggle. It was once slated for completion in 2016 with first experiments by 2020. Now full operation is not expected until 2039. Costs have ballooned from $18bn to $32.4bn in 2023 dollars according to America's Congressional Research Service. Ideals of global collaboration have given way to logistical nightmares. Each country insisted on making critical components, causing a sub-optimal division of manufacturing duties, says Michel Claessens, an ITER fellow. The magnets are split among Russia, the EU, America, Japan, China and South Korea. Russia, Japan and Europe share the exhaust system, India and America the cooling. Russia's invasion of Ukraine added more paperwork to an already gummed-up machine.
+
+Meanwhile private firms are whizzing ahead. Global private investment in fusion rose from around $7bn in 2024 to $10bn in 2025, reckons the International Atomic Energy Agency. Commonwealth Fusion Systems, an American startup, expects to produce its first plasma by 2027. ITER will not get there before 2033. Europe's commercial activity lags, says Anda Bologa of the Centre for European Policy Analysis, a think-tank. Its fusion bets are mostly tied to ITER. Should private ventures deliver first, it may become a multilateral relic. ■

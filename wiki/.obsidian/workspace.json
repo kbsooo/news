@@ -11,10 +11,14 @@
             "id": "fd74b343199ec82c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11"
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11"
             }
           },
           {
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11"
             }
           }
         ]
@@ -179,6 +186,16 @@
   },
   "active": "fd74b343199ec82c",
   "lastOpenFiles": [
+    "india.md",
+    "pakistan.md",
+    "simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11.md",
+    "simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11.md",
+    "japanese-auto-industry.md",
+    "iran-war-economic-impact.md",
+    "iran-war-damage-assessment.md",
+    "iran-war-and-ceasefire-2026.md",
+    "iran.md",
+    "great-power-rivalry.md",
     "simulations/sim-what-if-the-hormuz-blockade-continues-through-2026-2026-04-11.md",
     "simulations",
     "artemis-ii.md",
@@ -189,10 +206,7 @@
     "maritime-law-and-chokepoints.md",
     "index.md",
     "south-korea.md",
-    "iran-war-and-ceasefire-2026.md",
     "european-defence-industry.md",
-    "japanese-auto-industry.md",
-    "gulf-states.md",
-    "iran-war-damage-assessment.md"
+    "gulf-states.md"
   ]
 }

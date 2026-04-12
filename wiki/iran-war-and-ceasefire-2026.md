@@ -18,11 +18,11 @@ tags: [war, middle-east, united-states, iran, ceasefire]
 
 ## Timeline
 
-- **February 28, 2026**: War begins. Day 1 strike kills Ayatollah Khamenei, defence minister, army chief, IRGC commander
-- **~40 days**: Escalating strikes — military → security apparatus → industry → civilian infrastructure
-- **April 7, 2026**: Trump announces two-week ceasefire and "COMPLETE, IMMEDIATE, and SAFE OPENING" of Hormuz. Brokered by Pakistan's PM Shehbaz Sharif.
+- **February 28, 2026**: War begins. [[donald-trump|Trump]] threatened to destroy "a whole civilisation" on the morning of the deadline, then backed down 90 minutes before it expired — only to launch strikes hours later. Day 1 strike kills Ayatollah Khamenei, defence minister, army chief, IRGC commander. [[israel|Netanyahu]] had convinced Trump to launch the war with a Khamenei assassination plan.
+- **~40 days**: Escalating strikes — military → security apparatus → industry → civilian infrastructure. An F-15 rescue mission deep inside Iran cost ~$300m (1 A-10, 2 C-130s, 4 helicopters lost; the F-15 itself also lost).
+- **April 7, 2026**: Trump announces two-week ceasefire and "COMPLETE, IMMEDIATE, and SAFE OPENING" of Hormuz. Brokered by Pakistan's PM Shehbaz Sharif and army chief Asim Munir — the first US-Iran direct talks in 37 years. Brent crude plunged 13% after the ceasefire announcement, falling below $95/barrel.
 - **April 8**: Iran fires 50+ drones/missiles at UAE; strikes Saudi Yanbu pipeline; Israel attacks ~100 targets in Lebanon (1,000+ casualties)
-- **April 11**: Iran says it will join talks only if overseas assets are unfrozen and Lebanon ceasefire holds. Israeli strikes have killed **300+ in Lebanon** since Wednesday. Israel-Lebanon talks expected in Washington next week.
+- **April 11 (Islamabad talks)**: Negotiations at Serena Hotel — VP Vance leads US delegation; parliament speaker Qalibaf leads Iran's side (dressed in mourning black). Iran presents a **10-point proposal**: continued Hormuz control, right to enrich uranium, US troop withdrawal from the region. Iran demands unfreezing of overseas assets (including ~$6bn held in Qatar as a possible interim measure) and a Lebanon ceasefire as preconditions. Israeli strikes have killed **300+ in Lebanon** since Wednesday. Israel-Lebanon talks expected in Washington next week.
 
 ## Scale
 
@@ -30,6 +30,7 @@ tags: [war, middle-east, united-states, iran, ceasefire]
 - **Iran launched**: 4,784 drones + 1,851 missiles (most intercepted)
 - **More than a dozen countries** drawn in
 - **18.5m Iranians** live within 1km of a reported strike
+- **Iran's missile program proved far more resilient than expected**: 50% of launchers remain intact (not 75% destroyed as Israel initially claimed). Launchers are disguised as civilian trucks, dispersed across an area the size of Germany, France, Spain, and the UK combined. Underground "missile cities" were cleared out after initial bombing and remain partially operational.
 - See [[iran-war-damage-assessment]] for full details
 
 ## Current State: "Cessation of Violence, Not a Ceasefire"
@@ -41,6 +42,8 @@ Hundreds of ships and thousands of mariners remain stranded in the Gulf. The [[s
 ## Assessment: A Misjudgment?
 
 [[donald-trump]] "thought war with Iran would be easy; it has shaken the global economy and does not appear to have made America safer" (Westad). This is cited as a contemporary example of the pattern that led to World War I — leaders who underestimate the consequences of military action.
+
+The war is only **34% popular among Americans**, and the economic burden on ordinary families is estimated at **$400/month** in higher energy and food costs. Trump wants the war resolved before his **May 14 summit with Xi Jinping** (already postponed once) — suggesting political timelines, not strategic ones, are driving negotiations.
 
 Key question: Can Trump "really declare victory over Iran if it can now act as toll-collector on a vital international shipping lane? Or will he dare resume military action in the hope of breaking its grip, even though some 40 days of bombing failed to do so?"
 
@@ -68,6 +71,7 @@ Key question: Can Trump "really declare victory over Iran if it can now act as t
 - Best reason to think Trump won't return to war: "he now grasps he should never have started it"
 - Iran's reasons to hold back: leaders keep being killed, economy devastated, want sanctions relief
 - Risk of renewed war: "if Iran overplays its hand"
+- **Possible interim deal taking shape**: Iran allows ships through the strait without extortionate fees; US provides limited sanctions relief. Iran also wants tolls and access to billions in frozen assets (~$6bn in Qatar as possible first tranche).
 
 ## Geopolitical Cascade
 
@@ -101,11 +105,11 @@ This conflict is the defining case study of [[great-power-rivalry]] dynamics in 
 
 ## 타임라인
 
-- **2026년 2월 28일**: 전쟁 발발. 첫날 공습으로 아야톨라 하메네이, 국방장관, 육군참모총장, IRGC(이슬람혁명수비대) 사령관 사망
-- **약 40일간**: 공습 점차 확대 — 군사시설 → 보안 기관 → 산업시설 → 민간 인프라
-- **2026년 4월 7일**: 트럼프, 2주간 휴전 및 호르무즈 해협의 "완전하고 즉각적이며 안전한 개방"을 발표. 파키스탄 셰바즈 샤리프 총리가 중재.
+- **2026년 2월 28일**: 전쟁 발발. [[donald-trump|트럼프]]는 기한 당일 아침 "문명 전체를 파괴하겠다"고 위협했다가, 기한 만료 90분 전에 물러섰으나 수 시간 후 공습을 개시했다. 첫날 공습으로 아야톨라 하메네이, 국방장관, 육군참모총장, IRGC(이슬람혁명수비대) 사령관 사망. [[israel|네타냐후]]가 하메네이 암살 계획으로 트럼프를 설득하여 전쟁을 개시하게 했다.
+- **약 40일간**: 공습 점차 확대 — 군사시설 → 보안 기관 → 산업시설 → 민간 인프라. 이란 영토 깊숙이 추락한 F-15 구출 작전에 약 3억 달러 소요 (A-10 1대, C-130 2대, 헬리콥터 4대 손실; F-15 자체도 상실).
+- **2026년 4월 7일**: 트럼프, 2주간 휴전 및 호르무즈 해협의 "완전하고 즉각적이며 안전한 개방"을 발표. 파키스탄 셰바즈 샤리프 총리와 아심 무니르 육군참모총장이 중재 — 37년 만의 첫 미-이란 직접 대화. 휴전 발표 후 브렌트유 13% 급락, 배럴당 95달러 이하로 하락.
 - **4월 8일**: 이란, UAE에 드론·미사일 50발 이상 발사; 사우디 얀부 송유관 공격; 이스라엘, 레바논 내 약 100개 목표 공습 (1,000명 이상 사상)
-- **4월 11일**: 이란, 해외 자산 동결 해제와 레바논 휴전을 조건으로 참여 의사 표명. 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정.
+- **4월 11일 (이슬라마바드 회담)**: 세레나 호텔에서 협상 — 밴스 부통령이 미국 대표단을, 갈리바프 국회의장이 이란 대표단을 이끔 (검은 상복 착용). 이란이 **10개항 제안서** 제출: 호르무즈 해협 지속 통제, 우라늄 농축권, 미군 역내 철수. 이란은 해외 동결 자산 해제(잠정 조치로 카타르 보관 약 60억 달러 포함)와 레바논 휴전을 전제조건으로 요구. 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정.
 
 ## 규모
 
@@ -113,6 +117,7 @@ This conflict is the defining case study of [[great-power-rivalry]] dynamics in 
 - **이란 발사**: 드론 4,784대 + 미사일 1,851발 (대부분 요격)
 - **12개국 이상** 연루
 - **1,850만 명의 이란인**이 보고된 공습 지점에서 1km 이내 거주
+- **이란의 미사일 프로그램은 예상보다 훨씬 높은 회복력을 입증**: 발사대의 50%가 건재(이스라엘이 초기에 주장한 75% 파괴는 과장). 발사대는 민간 트럭으로 위장되어 독일, 프랑스, 스페인, 영국을 합친 면적에 분산 배치되어 있다. 지하 "미사일 도시"는 초기 폭격 이후 소개되었으나 부분적으로 여전히 작동 중이다.
 - 전체 내용은 [[iran-war-damage-assessment]] 참조
 
 ## 현재 상태: "폭력의 중단이지, 휴전이 아니다"
@@ -124,6 +129,8 @@ INTERTANKO(유조선 선주 협회)는 현 상황이 "완전한 휴전 합의가
 ## 평가: 오판이었나?
 
 [[donald-trump]]는 "이란과의 전쟁이 쉬울 것이라고 생각했지만, 이 전쟁은 세계 경제를 뒤흔들었고 미국을 더 안전하게 만든 것으로 보이지 않는다"(웨스타드). 이는 제1차 세계대전으로 이어진 패턴 — 군사 행동의 결과를 과소평가하는 지도자들 — 의 동시대적 사례로 인용된다.
+
+이 전쟁은 미국인 중 **34%만이 지지**하며, 일반 가정에 **월 400달러**의 에너지 및 식품비 부담을 가중시키고 있다. 트럼프는 **5월 14일 시진핑과의 정상회담**(이미 한 차례 연기됨) 전에 전쟁을 매듭짓고자 한다 — 전략적 계산이 아닌 정치적 일정이 협상을 주도하고 있음을 시사한다.
 
 핵심 질문: 이란이 "핵심 국제 해상 운송로의 통행세 징수자 역할을 할 수 있는 상황에서 트럼프가 정말로 이란에 대한 승리를 선언할 수 있는가? 아니면 약 40일간의 폭격으로도 이란의 장악력을 꺾지 못했음에도 불구하고 이를 와해시키겠다는 희망으로 군사 행동을 재개할 것인가?"
 
@@ -151,6 +158,7 @@ INTERTANKO(유조선 선주 협회)는 현 상황이 "완전한 휴전 합의가
 - 트럼프가 전쟁에 복귀하지 않을 것이라고 판단하는 가장 큰 근거: "이제야 전쟁을 시작하지 말았어야 했다는 것을 깨달았다"
 - 이란이 자제하는 이유: 지도부 계속 피살, 경제 황폐화, 제재 완화 필요
 - 전쟁 재개 위험: "이란이 과욕을 부릴 경우"
+- **잠정 합의안 윤곽**: 이란이 과도한 수수료 없이 해협 통과를 허용하고, 미국이 제한적 제재 완화를 제공하는 방안. 이란은 또한 통행료와 동결 자산(카타르 보관 약 60억 달러를 첫 번째 분할금으로) 접근도 요구하고 있다.
 
 ## 지정학적 연쇄 효과
 

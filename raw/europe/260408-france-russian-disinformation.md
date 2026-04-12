@@ -1,0 +1,25 @@
+# How France learned to fight Russian disinformation
+
+The EU's most-targeted country is counterattacking against fake news
+
+On February 5th at 1.22am Victor Cousin, a reporter for Le Parisien newspaper, got a message from NewsGuard, an American service that investigates disinformation. It suspected his identity had been stolen. A fake story, which used the reporter's name and photo on a falsified news site, accused Emmanuel Macron of links to Jeffrey Epstein. By the time the site was shut down later that day, the story had been viewed over 1m times.
+
+This false claim, according to Viginum, France's foreign-disinformation watchdog, was part of a campaign known as Storm-1516 run by the GRU, Russia's military-intelligence agency. It seeks to undermine support for Ukraine. The fake story was first reposted by a pro-Russian account favoured by Storm-1516 for Francophone audiences. It was then spread by accounts that Viginum thinks were paid. To give it credibility, 91 previous fake articles under Mr Cousin's name had been set up.
+
+After Ukraine, France is the European country most targeted by foreign disinformation campaigns—107 in 2025, according to a report by the European Union's diplomatic service (see chart 1). Viginum, which categorises them differently, has detected over 150 since March 2025, more than twice the number in the previous 18 months. Between January 2025 and February 2026 NewsGuard identified 20 Storm-1516 false claims in France; these drew 194m views.
+
+Storm-1516 typically creates a false claim using photo and video montages, fake news sites, AI-generated images, deepfakes or hired actors. These are spread through anonymous "burner" accounts or other sympathetic ones. They are then amplified by pro-Russian channels and paid influencers, as well as hundreds of fake-news sites belonging to a network known as CopyCop. The method, says a French official, has evolved from relying on bots to paying co-operating accounts per click.
+
+Some Storm-1516 rumours are unsophisticated. Ahead of mayoral elections in March a video clip featuring Africans in litter-strewn Paris claimed that Pierre-Yves Bournazel, Mr Macron's candidate, planned to transform the Centre Pompidou into a migrant shelter. It flopped.
+
+Other false claims have gone viral. Last October the SVR, Russia's foreign-intelligence service, said France was about to send 2,000 soldiers to Ukraine, and that French hospitals were preparing to treat the wounded. This was reported by TASS and spread by pro-Kremlin accounts on Telegram, X, Facebook and YouTube. France's defence ministry links the timing of this claim to a warning by the head of its armed forces, General Fabien Mandon, that the country should prepare for war.
+
+The more outspoken France has become about Russia, the more it is targeted (see chart 2). NewsGuard identifies five false claims that went viral between December 2024 and March 2025. Each was launched after Mr Macron expressed support for Ukraine or European rearmament. In January 2025 Mr Macron told the armed forces to prepare for a long-term threat from Russia; six days later a video was posted purporting to show Islamists threatening to burn down Notre Dame cathedral. In 2025 such false claims drew 171m views. "They look at what topics are dear to the French, and use them to sow chaos and distrust in the Macron government," says Isis Blachez, who investigates Storm-1516 for NewsGuard.
+
+In response, France has reinforced its toolkit. It has just published a new anti-disinformation strategy. "France was initially slow to respond, but has become best in class in Europe for exposing operations," says Alexandre Alaphilippe, who runs EU DisinfoLab, a monitoring body. Set up in 2021, Viginum reports to the defence secretariat inside the prime minister's office.
+
+Russia, says an official, is the most aggressive. But France is also targeted by Iran, Israel and pro-Chinese actors pushing economic interests. The key to Viginum's work is to detect early and expose before a false claim gathers momentum. Mr Cousin says Viginum publicised the attack swiftly; news coverage thus focused on the detection, not the fake story.
+
+Last September France's normally guarded diplomats set up an account on X, @FrenchResponse, which trolls Russian and MAGA accounts, posting cheeky denials in English. In January, after Mr Macron suggested Europe should retaliate against Donald Trump's tariff threats over Greenland, a Fox News presenter posted that he was "short-sighted". FrenchResponse shot back: "Or: he's well informed. Colonialism doesn't work—trust us." The aim, says a diplomat, is to avoid escalation while making a serious point with humour.
+
+Ahead of next year's presidential election officials are bracing for more attacks, online and offline. Foreign actors are suspected, for instance, of ordering the deposit last year of nine pigs' heads outside mosques. "Russia exploits France's ethnic and religious vulnerabilities," says Natalia Pouzyreff, a deputy who works on defence. Such manipulation is no "marginal aberration", according to Mr Macron, but "an instrument of strategic confrontation." ■

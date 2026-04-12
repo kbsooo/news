@@ -1,0 +1,23 @@
+# A rom-com ignites a row about tragedy, taste and art
+
+Jokes about painful subjects should be serious at heart. Does "The Drama" pass the test?
+
+The provocation may be the point; if so, "The Drama" has succeeded. To its outraged critics, however, the controversial new film is grotesque. It is set up as a romantic comedy, but features a plan for a school shooting—an unlikely mash-up that has ignited a debate about taste, tragedy and art. The trouble, in the end, is not that there is too much about guns in the movie, but too little.
+
+Initially the cutesy mood recalls vintage Woody Allen, transplanted to Boston. Charlie, a British art curator played by Robert Pattinson, courts Emma (Zendaya, pictured), whose job is vaguer; quickly they are sharing one of those improbably swish flats in which characters in rom-coms live. Early in the action, and just before their wedding—don't try this at home—they and two friends drunkenly confide their worst ever deeds. Emma confesses that, when she was 15, she "like, almost did a mass shooting", ditching the plan just in time.
+
+Cue a meltdown of friendships, Charlie's mind and decorum at the wedding reception. Cue, also, criticism of "The Drama" and Kristoffer Borgli, its Norwegian director, for enlisting this too-real horror in a whimsical genre. Some survivors of school shootings and victims' relatives have condemned his queasily humorous approach to the issue.
+
+Hmm. Pain is the heart of cinema. Murder is traumatic, but is often committed on screen. Prejudice is harrowing, but heroes endure it. War is hell, but is eternally waged at the movies. Better, instead of "but", to say "therefore", since ambitious artists tackle hard topics not in spite of the distress involved, but because of it. So they must: stories are a way to cope with suffering. Others have been told about school massacres, such as "We Need to Talk About Kevin", a wrenching novel and film, and "Innocence", an opera on now in New York.
+
+And a movie on a grave topic needn't be sombre. As every good satirist knows, laughter can be deadly serious. "The Death of Stalin" is mordantly hilarious—and a penetrating study of deranged tyranny. Jokes about atrocities can be respectful if they convey something important that couldn't be said another way; if not, they are exploitative. "Life is Beautiful", a clownish comedy set partly in a concentration camp, flunked that test.
+
+How about "The Drama"? Gun violence is a fair, even urgent, target for satire, not least the view, held by some otherwise rational Americans, that the answer is more guns, not fewer. The film lands some worthwhile barbs. "It's like a whole thing in this country, isn't it?" Charlie says of mass shootings, with the bafflement of many outsiders at this aspect of American exceptionalism. "Can we just forget about it?" Emma pleads, like politicians who offer "thoughts and prayers" to mourners, then hastily change the subject.
+
+The fact that Emma is female and black, rather than male and white (like most school shooters) is, to some, a negligent distortion. By way of explanation, the script inflicts a bit of loneliness and bullying on teenage Emma (played by Jordyn Curet rather than Zendaya). Edgy flashbacks, in which she struggles to record a murder manifesto, mirror similar scenes in "Four Lions", a satire about inept would-be suicide-bombers. These and brief, lurid fantasy sequences teeter on the boundary of taste.
+
+A clearer failing is that, after raising the awful allure of violence, the film's attention wanders to different themes. One is the limits of forgiveness, a plea for which—"Do you want to start over?"—becomes a refrain. Another is the knowability of other people, especially those who seem closest. "Remember, you know each other really well," a photographer chides the unsmiling couple in one of many clunky ironies.
+
+The main interest here is in the relative moral weight of thoughts and acts. Emma never shoots anyone, whereas the lesser cruelties dredged up in that boozy confessional were enacted. Meanwhile a banal sort of nastiness unfolds in the present. For beneath his adorably ruffled hair, Charlie is kind of a creep. He deceives Emma in small and less small ways, fills her glass then asks why she is drunk, obsesses over his feelings and ignores hers. This is a sly chronicle of male coercion, camouflaged as a tale of an almost-monstrous woman, itself disguised as a rom-com.
+
+In its premise and dark turn it resembles "The Celebration", in which a birthday party is capsized by a buried record of child abuse. But once the abyss gapes open in that story, it never closes. By contrast "The Drama" evokes a tragic experience, then carelessly looks away. ■

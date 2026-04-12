@@ -5,6 +5,21 @@ updated: 2026-04-11
 
 # Wiki Log
 
+## [2026-04-11] ingest | Pakistan the peacemaker + US-Iran Islamabad talks
+Sources: `raw/asia/260409-pakistan-the-peacemaker.md`, `raw/middle-east-and-africa/260411-third-time-the-charm.md`
+Created: [[pakistan]]
+Key insight: Pakistan emerged as ceasefire broker through elimination (Iran rejected Turkey/Egypt) and Munir's cultivation of both sides. First US-Iran direct talks in 37 years at Islamabad Serena hotel — Qalibaf delegation in mourning black, Vance leading US side. Iran negotiating without Khamenei for the first time. UAE pulled $3.5bn loan in retaliation. Pakistan walking four-way tightrope (US/China/Saudi/Iran).
+
+## [2026-04-11] ingest | India: rupee crisis, China rapprochement, anti-conversion laws
+Sources: `raw/asia/260405-tender-spot.md`, `raw/asia/260407-the-dragon-elephant-tango.md`, `raw/asia/260409-conversion-price.md`
+Created: [[india]]
+Key insight: Rupee fell 4% to 94.65 (war + prior weakness = Asia's worst), 100/dollar would be political indictment of Modi — who weaponized rupee politics in 2013. Cautious India-China thaw (new 10% investment rules, 60-day deadlines) driven by Trump tariffs and Iran war undermining US as partner. 14/28 states now have anti-conversion laws with life imprisonment penalties. India gets 35% of nitrogen fertiliser from Gulf — directly exposed to crisis.
+
+## [2026-04-11] simulate | US-Iran ceasefire prospects + Korea/investment outlook
+Created: [[simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11]]
+Agents: Iran, Donald Trump, China, South Korea, Israel, Gulf States (8 rounds, Apr-Nov 2026)
+Key findings: Ceasefire holds via Chinese-mediated 'Xi Framework' — Iran caps enrichment, HEU to Chinese custody, Hormuz tolls formalized ($5bn/yr). China biggest winner (+33 influence): Gulf security architect, yuan in 22% of Gulf oil trade. Korea biggest non-great-power beneficiary: KOSPI 2550→2900, Won 1420→1340, chip policy accelerated, Saudi nuclear export ($15bn). Critical turning point: July IAEA nuclear crisis nearly collapses everything, resolved by Chinese leverage over Iran. Tail risks: IRGC coup (20%), Israeli unilateral strike (10%), Saudi nuclear breakout (10%). Investment base case (60%): favorable for risk assets through 2027. Confidence: medium.
+
 ## [2026-04-11] simulate | Hormuz blockade through end of 2026
 Created: [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11]]
 Agents: Iran, Donald Trump, China, Gulf States, South Korea, Israel (8 rounds, May-Dec 2026)

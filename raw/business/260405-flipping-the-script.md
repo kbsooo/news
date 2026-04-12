@@ -1,0 +1,19 @@
+# Why McDonald's and KFC are growing like wildfire in China
+
+Western fast-food brands are expanding into the countryside
+
+Officially it is a city. But Hanchuan, in central China, is largely rural. Many of its 1m people live between fields and small factories. A firm producing sewing thread and a handful of fisheries make up a good chunk of its economy. Even so, when The Economist visited recently, one spot in particular was buzzing: Hanchuan's first McDonald's, which opened in January.
+
+Towns like Hanchuan never loomed large in the plans of multinational companies. But suddenly hundreds of places like it are the new frontier for Western fast-food giants. In the next three years McDonald's is due to add 3,000 outlets to the 7,000 it had in China in 2025, many of them in smaller cities and towns. KFC intends to add over 4,000 to its tally of 12,600 over the same period. Burger King, Domino's Pizza, Pizza Hut, Starbucks and Subway all have similarly ambitious plans.
+
+One factor behind the push into the countryside is the need for new customers. Roughly two-thirds of China's people live outside its 50 biggest cities, which are already saturated with burger and chicken joints. Around 70% of KFCs in China are within a ten-minute cycle ride of another KFC, according to UBS, a bank; at about 60%, the "cannibalisation share" for McDonald's is not much better. This makes finding populations unexposed to their offerings all the more important.
+
+Another ingredient in the ruralisation of fast food is the restaurants' ownership. Though McDonald's and KFC are archetypes of American consumerism, their Chinese operations are separate. McDonald's in China is mostly owned by CITIC Capital, a powerful state-backed investor. Yum Group, owner of KFC and Pizza Hut, spun off its Chinese business in 2016 into a group called Yum China, which is listed in New York and Hong Kong but based in Shanghai. In November Starbucks sold 60% of its China business to Boyu Capital, a local private-equity firm co-founded by the grandson of Jiang Zemin, a former paramount leader. Burger King announced a similar deal with another investor that has state connections the same month.
+
+This partly reflects waning enthusiasm for China among foreign investors. The economy is faltering, consumers are gloomy and local competition is fierce. Many Western brands have stopped expanding or started to shrink. Chinese investors, by contrast, have willingly put up the capital needed to open thousands of restaurants under such conditions, and are betting on semi-rural areas as the next market for shakes and fries.
+
+This is a gamble. Chinese fast-food brands, such as Tastien and Wallace, offer similar cuisine, but are cheaper and have a significant presence in smaller cities and towns. Western brands will have to offer suitable prices to attract customers in poorer regions if they want to compete, says Jay Lau of S&P Global, an information provider. They will also have to build reliable supply chains there, adding cost and further squeezing margins.
+
+Moreover, finding appropriate spots to open restaurants will not be easy. At first blush large swathes of the country appear to be there for the taking; most small towns across Hubei province, where Hanchuan is located, have no McDonald's. But many of these places have tiny centres with very few buildings suitable for accommodating large fast-food restaurants, notes Christine Peng of UBS. Competition for that space will be fierce, she says.
+
+Take Hanchuan, with its traditional open-air markets and dated shopping areas. McDonald's is picky about the type of space it occupies. The recent opening of a small but modern mall was crucial in convincing the company to set up shop. Many nearby towns may not have the right spaces to accommodate burger-flipping and coffee-brewing. The fast-food giants, though, are hungry for them. ■
