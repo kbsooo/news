@@ -1,9 +1,14 @@
 ---
 title: Log
-updated: 2026-04-11
+updated: 2026-04-12
 ---
 
 # Wiki Log
+
+## [2026-04-12] simulate | US-Iran talks: branching scenarios × Korea / equities / crypto
+Created: [[simulations/sim-us-iran-negotiations-branching-2026-04-11]]
+Scenarios: Grand Bargain (10%) / Interim Deal — base (55%) / Collapse → limited strikes (25%) / Nuclear breakout — tail (10%)
+Key findings: Probability-weighted expected KOSPI ~flat (2,585) but variance is enormous — range 1,800-3,100 across scenarios. Won tail-dominated: 35% probability of ₩1,560+. BTC has positive-skew bimodal distribution (rallies in A and in tails C/D, worst in base case B). Korean jeonse/household debt (90% GDP) is the hidden multiplier turning FX shocks into banking stress. Playbook: barbell + long BTC 1-3% + long defense basket (Hanwha Aero/KAI/LIG Nex1) wins in 3 of 4 scenarios. Key triggers to watch: Qatar $6bn unfreeze, IAEA Fordow access, Serena readouts, Israel-Lebanon flare-ups. Confidence: medium.
 
 ## [2026-04-11] ingest | Pakistan the peacemaker + US-Iran Islamabad talks
 Sources: `raw/asia/260409-pakistan-the-peacemaker.md`, `raw/middle-east-and-africa/260411-third-time-the-charm.md`

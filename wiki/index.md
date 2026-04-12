@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-11
+updated: 2026-04-12
 ---
 
 # Wiki Index
@@ -39,11 +39,13 @@ updated: 2026-04-11
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
 - [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs (IsoDDE drug discovery), biosecurity dilemma
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
+- [[market-snapshot]] — Rolling reference of volatile market indicators (equities, FX, rates, crypto, commodities) — shared context for finance/market simulations to avoid LLM training-cutoff staleness
 
 ## Simulations
 
 - [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11|Hormuz Blockade Through 2026]] — 8-round multi-agent sim (Iran, Trump, China, Gulf, Korea, Israel). Blockade evolves into managed toll system; China dominant winner; food crisis worst outcome. Confidence: medium.
 - [[simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11|US-Iran Ceasefire & Korea/Investment Outlook]] — 8-round sim (Iran, Trump, China, Korea, Israel, Gulf). Xi Framework deal resolves nuclear crisis; China becomes Gulf security architect; Korea biggest non-great-power beneficiary (KOSPI 2550→2900). Confidence: medium.
+- [[simulations/sim-us-iran-negotiations-branching-2026-04-11|US-Iran Talks: Branching Scenarios → Korea + Equities + Crypto]] — 4 scenarios (Grand Bargain 10% / Interim 55% / Collapse 25% / Nuclear Breakout 10%). KOSPI range 1,800-3,100; BTC positive-skew (A + tails); crypto worst in base case B. Korean jeonse is hidden multiplier. Confidence: medium.
 
 ## Sources Ingested (72)
 

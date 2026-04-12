@@ -71,10 +71,17 @@ A single source typically touches 5-15 wiki pages. Prioritize cross-references a
 
 ### Simulate (scenario prediction)
 1. Receive a scenario question (e.g., "What if the Hormuz blockade lasts through 2026?")
-2. Use MCP tools (`wiki_search`, `causal_chain`, `simulate`) to gather relevant wiki knowledge
-3. Trace causal chains and assess each actor's likely response
-4. Generate a bilingual simulation page in `wiki/simulations/`
-5. Update `wiki/index.md` (Simulations section) and `wiki/log.md`
+2. **If the scenario touches market/finance/crypto/macro indicators** (stock prices, KOSPI, BTC, currencies, interest rates, specific company valuations, commodity spot prices, etc.): **BEFORE `sim_setup`, use WebSearch to fetch current snapshot**. Rationale: wiki contains curated geopolitical knowledge but lacks volatile market data; LLM training cutoff produces stale numbers. Pattern:
+   - Detect keywords: stocks, equities, KOSPI, S&P, NASDAQ, BTC, crypto, yields, FX, rates, specific tickers
+   - Run 1 targeted `WebSearch` for today's values of relevant indicators
+   - Also check `wiki/market-snapshot.md` — may already have a recent snapshot
+   - Inject a terse "**Current snapshot (YYYY-MM-DD)**: ..." block at the top of the scenario text before calling `sim_setup`
+   - ~500 tokens max; shared across all agents + arbiter via the scenario field
+3. Use MCP tools (`wiki_search`, `causal_chain`, `simulate`) to gather relevant wiki knowledge
+4. Trace causal chains and assess each actor's likely response
+5. Generate a bilingual simulation page in `wiki/simulations/`
+6. Update `wiki/index.md` (Simulations section) and `wiki/log.md`
+7. **If fresh market data was fetched**, also update `wiki/market-snapshot.md` so the next simulation can reuse it
 
 Simulation pages use this frontmatter:
 ```yaml

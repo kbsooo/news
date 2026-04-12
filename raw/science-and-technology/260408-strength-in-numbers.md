@@ -1,4 +1,5 @@
 # AI models could offer mathematicians a common language
+
 Some hope they will simplify the process of verifying proofs
 
 WORKING OUT how to most efficiently pack a crate full of oranges may seem like a juvenile pursuit for professional mathematicians. And yet the sphere-packing problem, as this pastime is properly known, confounded geometers for centuries. A breakthrough came in 1998 when Thomas Hales, a mathematician then at the University of Michigan, claimed to have proved what had long been conjectured: that hexagonal stacking, in which each sphere sits in the recess formed by a circle of six on the layer beneath it, provides the densest possible configuration.
