@@ -1,0 +1,17 @@
+# The Climate Issue: The blue marble, then and now
+
+Our planetary-affairs editor, Oliver Morton, looks at the connection between space travel and climate science
+
+Sometimes the orb shines alone in the darkness; sometimes it is framed in a spacecraft window; sometimes the Moon offers drab contrast. However its photo is taken from space, Earth remains blue, beautiful and mesmerising. These images have been potent inspirations for environmental action for more than 50 years. Those taken by the crew of Artemis II this week are no exception.
+
+Stewart Brand, whose mixture of techno-optimism, environmentalism and lateral thinking made him one of the most influential figures to come out of the California counterculture of the 60s, saw the potential of such pictures before they were even taken. In 1966 an acid trip on the roof of his San Francisco apartment convinced him that a picture of the whole Earth taken from space would change consciousnesses on a far larger scale. After people saw "the Earth complete, tiny, adrift…no one would ever perceive things the same way".
+
+Within a few years this idea had entered the mainstream. The iconic "Earthrise" picture taken from Apollo 8 at the end of 1968 did indeed mark a fundamental shift in perspective, at least in popular media. The environmental movement was quick to equate that shift with the one they wanted to enact. David Brower, founder of Friends of the Earth, toured America promoting photographs from Apollo as something close to sacred texts.
+
+NASA itself got in on the act. In 1972, after a lunch with the editors of National Geographic, George Low, NASA's deputy administrator, made sure that the last Apollo mission would make shadow-free pictures of the whole Earth a priority. The result, a picture now known as the Blue Marble, is sometimes said to be the most reproduced photograph ever.
+
+The following year Low's boss, James Fletcher, told Congress that "NASA is called the space agency, but in a broader sense, we could be called an environmental agency." Fletcher took a particular interest in establishing NASA's capacity to measure ozone levels, which proved a crucial aid in banning chemicals that damage the stratospheric ozone layer. NASA's measurements have been essential to monitoring environmental change on Earth ever since.
+
+Artemis II's pictures of Earth will undoubtedly, again, encourage a rhetoric of reverence and care. But they will do so in sadly altered circumstances. This year's presidential budget, like last year's, sees cuts for American climate science across the board, including at NASA. When interviewed for Science, a journal, last month, Jared Isaacman, NASA's newish boss, said: "For NASA to assemble scientists and put out papers on politically charged issues, whether or not this is an impending climate catastrophe, is not helpful to the broader NASA mission." In an op-ed published in the New York Times on April 8th Kate Marvel, a noted climate scientist, cited that response as "the final straw" that had led her to resign from the agency.
+
+You could say that Mr Fletcher and Mr Isaacman were both mixing politics and science, tailoring their agenda to what their respective administrations required. But there is an important difference. Fletcher was doing politics as a way of doing important, timely science. Mr Isaacman's statement sees him using politics as a reason for not doing important, timely science. His words throw a shadow over Artemis II's pretty pictures. ■

@@ -1,14 +1,87 @@
 ---
 title: Log
-updated: 2026-04-12
+updated: 2026-04-14 (Trump Hormuz blockade + Hungary editorial + Ukraine drone partnerships)
 ---
 
 # Wiki Log
 
-## [2026-04-12] simulate | US-Iran talks: branching scenarios × Korea / equities / crypto
-Created: [[simulations/sim-us-iran-negotiations-branching-2026-04-11]]
-Scenarios: Grand Bargain (10%) / Interim Deal — base (55%) / Collapse → limited strikes (25%) / Nuclear breakout — tail (10%)
-Key findings: Probability-weighted expected KOSPI ~flat (2,585) but variance is enormous — range 1,800-3,100 across scenarios. Won tail-dominated: 35% probability of ₩1,560+. BTC has positive-skew bimodal distribution (rallies in A and in tails C/D, worst in base case B). Korean jeonse/household debt (90% GDP) is the hidden multiplier turning FX shocks into banking stress. Playbook: barbell + long BTC 1-3% + long defense basket (Hanwha Aero/KAI/LIG Nex1) wins in 3 of 4 scenarios. Key triggers to watch: Qatar $6bn unfreeze, IAEA Fordow access, Serena readouts, Israel-Lebanon flare-ups. Confidence: medium.
+## [2026-04-14] ingest | 3 Economist articles (Trump blockade + Hungary editorial + Ukraine Gulf partnerships)
+Sources (3):
+- `raw/middle-east-and-africa/260413-double-trouble.md` — Trump's blockade of Hormuz is a dangerous gamble
+- `raw/leaders/260413-viktor-and-the-victor.md` — How Hungary can lead the fight against illiberalism
+- `raw/europe/260413-a-friend-in-need.md` — In the Gulf, Ukraine flaunts its skill at intercepting drones
+
+Created:
+- [[ukraine]]: new entity page — 228 advisers to Gulf, 10-year partnerships with Saudi/Qatar/UAE, $2-5K interceptors vs $50K Shaheds, Delta AI system, Uforce unicorn, "plan B for countries who had America as plan A" (Honcharuk), Qatar 12 Mirage jets + diesel, China Gulf-oil arbitrage for co-production, Rheinmetall Papperger "housewives with 3D printers" debacle, EU $1.7bn integration program
+
+Updates:
+- [[iran-war-and-ceasefire-2026]]: April 13 blockade added to Timeline + new "Economic Blockade Dynamics" section — Vortexa 10-20 day Iran production curb, Brookings hyperinflation prediction, Iran's 6-month endurance playbook, impartiality problem (India/China/Pakistan/Thailand/France/Turkey all caught), China's Malacca precedent concern, "another nail in the coffin of rules-based order" (Rowlands)
+- [[iran]]: new "Blockade Resilience (April 13)" section — 2020 precedent (exports 2.2m→400k b/d, survived), endurance via money-printing + 100m barrels floating storage off Malaysia/China + informal credit, soyabean vulnerability (animal feed + vegetable oil), March food prices +110% YoY
+- [[strait-of-hormuz]]: Trump's counter-blockade effective April 13, CENTCOM impartiality enforcement
+- [[donald-trump]]: April 12 blockade order extended with April 13 effective date, "joint control" precursor noted, analyst-risk frame
+- [[gulf-states]]: "Renewed Attack Risk from Trump's April 13 Blockade" subsection — Iranian retaliation threats, Saudi/Emirati/Houthi strike cluster, $150/barrel risk, 8 failed tanker deals
+- [[hungary]]: "Post-Election Challenges: Reversing the Captured State" — Fidesz constitutional capture, Poland 2023 parallel, ruthless/magnanimous prescription, document-shredding incident
+- [[peter-magyar]]: "Test Case for Reversing Democratic Decay" — 2-year defector, April 13 "all Hungarians" quote, test-case status for anti-illiberal movement
+- [[viktor-orban]]: "prompt concession" note, editorial urging immediate lift of €90bn Ukraine veto, "captured state" apparatus that remains
+- [[european-defence-industry]]: "Ukraine as Defence Innovation Hub" section — EU $1.7bn program (March 30), 20+ JVs in 2025 (2x 2024), Denmark/Finland/Latvia JVs (Feb 2026), 30-year vs fast-iteration cultural gap, Papperger debacle
+
+## [2026-04-13] ingest | 3 Economist articles (rural pensions + tech jobs bust + fraud war messaging)
+Sources (3):
+- `raw/china/260413-chaguan.md` — China's pension failings expose its harshest inequality
+- `raw/finance-and-economics/260413-code-red.md` — The tech jobs bust is real. Don't blame AI (yet)
+- `raw/united-states/260413-spin-doctors.md` — Why the Trump administration is waging war on fraud
+
+Updates:
+- [[china]]: added "Rural Pension Inequality" section — 163 yuan/mo rural vs 3,500 yuan urban vs 7,000 yuan ex-public-servants; 80%+ rural 60-80yo still working (Wang Mingyuan); 34+ NPC representative proposals; Lü Dewen anti-pension essay backlash; Mr Peng quote; contradiction with 2020 absolute-poverty-victory narrative and Xi's common prosperity
+- [[ai-labs-and-industry]]: added "Tech Jobs Bust: AI Effect or Not?" — Oracle/Block/Amazon/Meta layoffs, SF -3% employment, tech share 2.5%→2.3%, ~500k missing jobs across 7 economies; counterpoint that AI likely not main cause yet (only 28% SF firms use AI regularly, BoE "essentially zero" employment impact); real causes = post-2004 dotcom parallel (rates + India outsourcing doubled 2021-24); tech skills diffusing to non-tech sectors (retail +12%, real estate +75%, construction ~+100%)
+- [[donald-trump]]: added "Fraud War as Midterm Messaging" — Operation Never Say Die (Gill hospice SWAT raid w/ Dr Oz); GAO $233-521bn/yr fraud estimate; Minnesota as center (100+ charged, Somali-American pretext for immigration enforcement, $2bn Medicaid withhold paused); Trump pardoning major fraudsters (Harshbarger, Duran) contradiction; 100+ cases closed per ProPublica; 12+ IGs fired; T. March Bell Planned Parenthood history; Stephen Miller erosion quote; strategy = word-association to blur healthcare-cuts association before Nov 2026 midterms
+
+## [2026-04-13] simulate | Samsung & SK Hynix vs. hyperscaler custom-silicon wave (May-Dec 2026, 4-scenario branching)
+Scenario: Semiconductor cycle is white-hot, but Google TPUv7, Anthropic's 3.5GW Broadcom/Google deal, Amazon Trainium 3, Microsoft Maia 200, Meta MTIA, and OpenAI's 2027 custom chip are eroding NVIDIA's GPU monopoly. How do Samsung and SK Hynix fare under branching combinations of HBM demand trajectory × Samsung HBM4/foundry execution?
+
+Report: [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]]
+
+Key central insight: **Every custom ASIC still needs HBM** — so the custom silicon wave is a threat to NVIDIA GPUs but a *structural tailwind* for Korean memory. The real question is (i) HBM TAM expansion rate and (ii) Samsung HBM4 execution vs. SK Hynix's 65-70% UBS-forecast share. 4 scenarios: A Korea twin peaks (25%) / B SK Hynix winner-take-most (40% base) / C Samsung balanced recovery (20%) / D 2026 cycle top (15%). Weighted end-2026: Samsung 005930 ~₩230k (+14%), SK Hynix 000660 ~₩1.25M (+22%), KOSPI ~6,200. SK Hynix = higher expected return + narrower risk; Samsung = optionality play with deeper downside (−20% in D). Samsung Foundry is the asymmetric hedge (TSMC at 3x overdemand) that SK Hynix lacks. CXMT 3-year gap + US "choke point" export ban keeps Chinese entry contained through 2027.
+
+WebSearch-anchored (2026-04-13): Samsung ₩201,000, SK Hynix ₩1,027,000; BofA HBM TAM 2026 = $54.6B (+58% YoY); Goldman DRAM undersupply 4.9% worst in 15+ years.
+
+## [2026-04-13] simulate | Post-Islamabad-collapse ceasefire sim (Apr 13 → Aug 2026, 5 rounds)
+Scenario: What happens during remainder of Iran-US ceasefire (Apr 13-22) and after it expires, given Islamabad talks collapsed 4/12 and Trump ordered Hormuz blockade?
+
+Report: [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]]
+
+Key emergent finding: **Collapse did NOT lead to war** — 7 of 8 agents independently converged on de-escalation in R1-2, producing the "Muscat Framework" (250kg HEU→Russia, $6bn Qatar release, $50bn Gulf reconstruction, Saudi-Israel Abraham 2.0 by August). Base case ~55% probability. China's PLAN escort announcement was the decisive forcing function — made Trump's blockade unsustainable 4 weeks before Xi summit. Tail risks that didn't trigger: Iran hidden HEU cache (~50-80kg), Russian LEU slow-walk, Israeli unilateral strike, Qalibaf hardliner overthrow. Biggest structural change: first RMB-oil pilot ($40bn/yr Iran-China), dual-track Hormuz insurance regime, Fujairah STS hub permanent.
+
+Winners: China (+20), Gulf (+45), Pakistan (brand locked), Korea (energy+KOREUS). Qualified: Trump (claims win, credibility only 35→48), Iran (Qalibaf consolidated, but leverage lost). Losers: NATO/Europe (-2, excluded), Israel hardliners (forced onto normalization track).
+
+Confidence: medium. 2027 Iranian presidential election = biggest residual risk.
+
+## [2026-04-13] ingest | 6 Economist articles (Islamabad collapse + Orbán defeat + Fed chair trap + Kolkata + Hormuz legal + Blue Marble politics)
+Sources (6):
+- `raw/middle-east-and-africa/260410-strait-of-hormuz-after-war.md`
+- `raw/middle-east-and-africa/260412-resurrect-talks-america-iran.md`
+- `raw/finance-and-economics/260412-americas-next-fed-chair.md`
+- `raw/europe/260412-peter-magyar-defeats-orban.md`
+- `raw/asia/260412-indias-most-liveable-megacity.md`
+- `raw/science-and-technology/260411-the-blue-marble-then-and-now.md`
+
+New pages (6): [[hungary]], [[peter-magyar]], [[viktor-orban]], [[kolkata]], [[federal-reserve]], [[kevin-warsh]]
+
+Major updates: [[strait-of-hormuz]] (daily transit counts Apr 7-11, legal arguments detail, Trump 4/12 blockade order, mine-clearing), [[iran-war-and-ceasefire-2026]] (Islamabad collapse after 21hr, three-issue framework money/ships/uranium, interim-deal sequencing dilemma, Pentagon carrier+amphibious deployments), [[iran]] (Qalibaf talks collapsed, bet on Trump fatigue), [[pakistan]] (Islamabad outcome 4/12, 2-week ceasefire clock to ~4/22), [[donald-trump]] (blockade order + Fed pressure + Orbán reputational loss), [[financial-markets-2026]] (April CPI 3.3%, Fed cuts evaporate, Powell may stay), [[nato-and-transatlantic-crisis]] (Orbán defeated — EU veto gone, populist-bloc anchor lost), [[india]] (Kolkata stagnation paradox added), [[artemis-ii]] (Blue Marble legacy + Isaacman/Marvel NASA climate science rollback).
+
+Key cross-cutting insights:
+1. **Trump trapped in vice**: Iran war's oil shock kills Fed rate-cut narrative (3.3% CPI) at exactly the moment his Fed chair pick (Warsh) needed them; Islamabad collapse forces blockade escalation; Orbán's defeat strips away a reputationally-invested ally. Three fronts all pressing inward simultaneously.
+2. **Islamabad sequencing dilemma**: Iran won't trade uranium in an interim deal (too valuable); US won't leave uranium out of an interim deal (too dangerous over long negotiation). Structural, not tactical.
+3. **Hungary inversion**: Russia-aid reports late in campaign flipped the narrative — same voters who tolerated 16 years of Fidesz rejected the pro-Russia turn. Cautionary pattern for other illiberal-populist movements whose legitimacy depends on remaining nominally "in the West."
+4. **Kolkata paradox**: liveability as a stagnation signal. Inverse of Mumbai/Delhi/Bangalore pathologies — their chaos is growth's symptom; Kolkata's calm is its absence.
+5. **Fed independence test**: Powell's announced post-May board presence + DOJ probe stalemate + Jefferson/Barr 2030s terms = structural institutional pushback against a single chair pick. Markets haven't priced loss of Fed independence.
+
+## [2026-04-12] delete + rewrite | US-Iran branching sim (v1 → v2)
+Deleted: `wiki/simulations/sim-us-iran-negotiations-branching-2026-04-11.md` (user requested rewrite)
+Refreshed: [[market-snapshot]] with WebSearch values (S&P 6,617; KOSPI 5,778; Brent $96.69; BTC ~$71k; ETH ~$2,250; Gold $4,762; USD/KRW 1,479; US 10Y 4.3%) — previously seed
+Created: [[simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12]]
+Scenarios: A Grand Bargain (12%) / B Interim Deal — base (50%) / C Collapse → limited strikes (28%) / D Nuclear breakout — tail (10%)
+Deltas vs v1: WebSearch-anchored endpoints (KOSPI 3,600-6,600 range vs prior 1,800-3,100 off wiki-internal baseline); added ETH/BTC pair-trade framework (ETH beta-not-hedge); added 14-day high-frequency signal list; explicit Korean ticker-level calls (Samsung/SK Hynix/HMM/KOGAS/Hanwha Aero/KAI/KB-Shinhan-Hana); jeonse amplifier deepened with 2-year rollover transmission mechanic. Probability rebalanced: A +2pp, B -5pp, C +3pp (physical oil + gold pricing tail risk the equity indices aren't). Confidence: medium.
 
 ## [2026-04-11] ingest | Pakistan the peacemaker + US-Iran Islamabad talks
 Sources: `raw/asia/260409-pakistan-the-peacemaker.md`, `raw/middle-east-and-africa/260411-third-time-the-charm.md`

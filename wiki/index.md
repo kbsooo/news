@@ -1,53 +1,62 @@
 ---
 title: Index
-updated: 2026-04-12
+updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 ---
 
 # Wiki Index
 
 ## Entities
 
-- [[iran]] — Khamenei killed day 1, Qalibaf/pragmatists in control, Mojtaba injured, 400kg HEU, 3 factions, toll system
+- [[iran]] — Khamenei killed day 1, Qalibaf/pragmatists in control, Mojtaba injured, 400kg HEU, 3 factions, Islamabad talks collapsed (21hr)
 - [[china]] — "Never interrupt your enemy": self-reliance, May summit, vetoed UN Hormuz mission, blind spot
-- [[donald-trump]] — War's biggest loser: all aims failed, "might is right" fallacy, NATO crisis, Peak Trump mid-2025
+- [[donald-trump]] — War's biggest loser: Islamabad collapse + blockade order, Fed chair trap, Orbán defeat, "might is right" fallacy
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: America attracted attacks, China/Russia failed, pipeline alternatives needed
-- [[strait-of-hormuz]] — 715 vessels stranded, 172m barrels trapped, $2m tolls, 7-14 ships/day vs pre-war 130
-- [[pakistan]] — Unlikely peacemaker: Munir brokered ceasefire, 37-year first US-Iran talks in Islamabad, Nobel nomination for Trump, UAE $3.5bn pullback
-- [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement (new 10% investment rules), 14/28 states with anti-conversion laws, 35% fertiliser from Gulf
+- [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade order (4/12), US counter-blockade effective 4/13, CENTCOM impartial enforcement
+- [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, Nobel nomination for Trump, UAE $3.5bn pullback
+- [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox
+- [[kolkata]] — India's most liveable megacity, but that's a symptom of stagnation; Mamata 4th term bid; 23m pop
 - [[south-korea]] — $530bn chip plan collides with energy shock, gas days from exhaustion, 97% bromine from Israel
 - [[monte-dei-paschi-di-siena]] — World's oldest bank: revival €2bn→€28bn, Mediobanca bid, boardroom coup
+- [[hungary]] — Orbán defeated 4/12 by Tisza 54-38, likely 2/3 majority, EU veto gone, *Ruszkik haza*
+- [[peter-magyar]] — Ex-Fidesz insider, 45yo, central anti-corruption theme, unified opposition
+- [[viktor-orban]] — 16-year PM defeated, illiberal democracy eroded, Russia-aid reports, blow to MAGA
+- [[federal-reserve]] — Caught between Trump's demand for cuts and 3.3% inflation; Powell may stay past May
+- [[kevin-warsh]] — Trump's Fed chair pick: AI-justifies-cuts argument both empirically weak and theoretically backwards
+- [[ukraine]] — Drone-defense expertise exported to Gulf (228 advisers, 10-year partnerships), $2-5K interceptors vs $50K Shaheds, "plan B for countries who had America as plan A"
 
 ## Events
 
-- [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, 21k+ strikes, Khamenei killed, ceasefire brokered by Pakistan, all aims failed
+- [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, Islamabad talks collapsed 4/12 after 21hr, US counter-blockade effective 4/13, Brent could hit $150
 - [[anthropic-mythos]] — April 7: Mythos too powerful to release, found vulnerabilities in every major OS, Project Glasswing
-- [[artemis-ii]] — Farthest human space travel since Apollo 13, emotional rediscovery of lunar wonder
+- [[artemis-ii]] — Farthest human travel since Apollo 13, Blue Marble legacy, NASA climate science rollback (Isaacman/Marvel)
 
 ## Concepts
 
-- [[iran-war-damage-assessment]] — 4,784 drones + 1,851 missiles from Iran, 21k+ strikes on Iran, 18.5m within 1km of strikes, IRGC splintering
+- [[iran-war-damage-assessment]] — 4,784 drones + 1,851 missiles from Iran, 21k+ strikes on Iran, 18.5m within 1km of strikes
 - [[iran-war-economic-impact]] — $144 Dated Brent peak, $25bn infrastructure damage, 10m bbl/day cut, Ras Laffan/Al Taweelah
 - [[fertiliser-and-food-crisis-2026]] — Gulf supplies 1/3 of fertiliser, urea +70%, 45m more in acute hunger, Bangladesh factories shut
-- [[financial-markets-2026]] — Bond stagflation whipsaw, Trump trades -20%, DJT -80%, private credit stress
+- [[financial-markets-2026]] — Bond stagflation whipsaw, Trump trades -20%, DJT -80%, Fed cuts evaporate, private credit stress
 - [[great-power-rivalry]] — 1914 parallels, strongmen, multipolar illusion proved false, AI three-way sword, 30-35% WW probability
-- [[nato-and-transatlantic-crisis]] — Article 5 at 77-year low, Europe must self-arm, Ukraine as security asset
+- [[nato-and-transatlantic-crisis]] — Article 5 at 77-year low, Europe must self-arm, Hungary veto gone post-Orbán
 - [[european-defence-industry]] — CSG €6.7bn (12x from 2021), €58bn EU ammo deal, boom driven by Ukraine + NATO crisis
 - [[japanese-auto-industry]] — "Brink of survival": Honda first loss since 1957, EV skepticism, China eating share (31→26%)
-- [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama
+- [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama/Montreux
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
 - [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs (IsoDDE drug discovery), biosecurity dilemma
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
-- [[market-snapshot]] — Rolling reference of volatile market indicators (equities, FX, rates, crypto, commodities) — shared context for finance/market simulations to avoid LLM training-cutoff staleness
+- [[market-snapshot]] — Rolling reference of volatile market indicators (equities, FX, rates, crypto, commodities)
 
 ## Simulations
 
-- [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11|Hormuz Blockade Through 2026]] — 8-round multi-agent sim (Iran, Trump, China, Gulf, Korea, Israel). Blockade evolves into managed toll system; China dominant winner; food crisis worst outcome. Confidence: medium.
-- [[simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11|US-Iran Ceasefire & Korea/Investment Outlook]] — 8-round sim (Iran, Trump, China, Korea, Israel, Gulf). Xi Framework deal resolves nuclear crisis; China becomes Gulf security architect; Korea biggest non-great-power beneficiary (KOSPI 2550→2900). Confidence: medium.
-- [[simulations/sim-us-iran-negotiations-branching-2026-04-11|US-Iran Talks: Branching Scenarios → Korea + Equities + Crypto]] — 4 scenarios (Grand Bargain 10% / Interim 55% / Collapse 25% / Nuclear Breakout 10%). KOSPI range 1,800-3,100; BTC positive-skew (A + tails); crypto worst in base case B. Korean jeonse is hidden multiplier. Confidence: medium.
+- [[simulations/sim-what-if-the-strait-of-hormuz-blockade-continues-through-end-2026-04-11|Hormuz Blockade Through 2026]] — 8-round multi-agent sim. Blockade evolves into managed toll system; China dominant winner; food crisis worst outcome. Confidence: medium.
+- [[simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11|US-Iran Ceasefire & Korea/Investment Outlook]] — 8-round sim. Xi Framework deal resolves nuclear crisis; China becomes Gulf security architect; Korea biggest non-great-power beneficiary.
+- [[simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12|US-Iran Talks v2: Branching → Korea + Equities + Crypto]] — 4 scenarios (A 12% / B 50% / C 28% / D 10%), WebSearch-anchored. Korean jeonse is asymmetric amplifier.
+- [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
+- [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted, wider distribution). Samsung foundry is the asymmetric hedge vs SK Hynix pure-play.
 
-## Sources Ingested (72)
+## Sources Ingested (84)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -123,3 +132,15 @@ updated: 2026-04-12
 | 2026-04-09 | Putin's propaganda machine (The Descent) | Culture |
 | 2026-04-09 | Children's picky eating (Picky book) | Culture |
 | 2026-04-10 | The Drama film review | Culture |
+| 2026-04-10 | Strait of Hormuz after the war | Middle East & Africa |
+| 2026-04-11 | The Blue Marble, then and now | Science & Technology |
+| 2026-04-12 | Resurrect talks between America and Iran | Middle East & Africa |
+| 2026-04-12 | America's next Fed chair caught in vice | Finance & Economics |
+| 2026-04-12 | Peter Magyar defeats Orbán | Europe |
+| 2026-04-12 | India's most liveable megacity (Kolkata) | Asia |
+| 2026-04-13 | Trump's Hormuz blockade (double-trouble) | Middle East & Africa |
+| 2026-04-13 | How Hungary can lead the fight against illiberalism | Leaders |
+| 2026-04-13 | Ukraine as security partner (drone defense) | Europe |
+| 2026-04-13 | Tech jobs bust — don't blame AI (yet) | Finance & Economics |
+| 2026-04-13 | China's rural pension inequality (Chaguan) | China |
+| 2026-04-13 | Trump's fraud war as midterm messaging | United States |

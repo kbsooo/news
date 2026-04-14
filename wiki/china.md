@@ -5,8 +5,9 @@ sources:
   - raw/leaders/260401-geopolitics.md
   - raw/leaders/260409-the-hangover.md
   - raw/leaders/260409-our-cover.md
-updated: 2026-04-11
-tags: [geopolitics, great-power, asia, trade, energy]
+  - raw/china/260413-chaguan.md
+updated: 2026-04-13
+tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions]
 ---
 
 # China
@@ -93,6 +94,37 @@ China's entertainment industry is being reshaped by AI-animated micro-dramas (2-
 But: regulators since April 1 require pre-approval for animated micro-series. Excessive competition means few are profitable. Alibaba's "The Demon Hunter" (10m+ followers) suggests long-form may fight back.
 
 This reflects a distinctly Chinese AI deployment pattern: rapid commercialization, quick regulatory response, overcapacity.
+
+## Rural Pension Inequality
+
+China's harshest inequality is encoded in its pension system. On Chongqing's subway line 4, the morning commute is packed with elderly farmers hauling baskets of vegetables to city markets — a scene that simultaneously showcases China's infrastructure reach and its rural poverty.
+
+### The Numbers
+- **Rural baseline pension**: **163 yuan ($24) per month** for retirees without formal employment (almost all farmers)
+- **Urban enterprise retirees**: **~3,500 yuan/month**
+- **Former public servants**: **~7,000 yuan/month**
+- Pension raised by only **20 yuan/month** per year for the past three years
+
+### Not the Same Concept
+The farmer pension is a **fiscal safety net** — pure government transfer. Urban pensions are **contribution-based**, derived from individual payroll taxes. The resulting gap in living standards is extreme and sits uneasily alongside China's 2020 "victory over absolute poverty" narrative and Xi's "common prosperity" rhetoric.
+
+### Forced to Work
+Per researcher **Wang Mingyuan**: **more than 80% of China's able-bodied rural residents aged 60-80 are still working**, primarily as farmers on tiny plots. While urban retirees dance in parks or travel, their rural peers are hunched over fields.
+
+### Political Pressure
+At the annual parliament last month, **at least 34 representatives** made separate proposals to raise rural pensions — a notable instance of the rubber-stamp body shining a light on real problems. **Doubling rural pensions** would require **~3% of the national budget**, forcing trade-offs with infrastructure spending that officials prioritize.
+
+### The Moral Debate
+Scholar **Lü Dewen** wrote an essay against raising pensions, arguing the real crisis is ethical: "children, not the state, should look after the elderly." He faced fierce pushback as an **"out-of-touch expert"** — but his position aligns with high-level government thinking, which resists creating a welfare state lest it spawn demands for unemployment and poverty hand-outs.
+
+### Voices from the Metro
+- **Mr Peng** (orange seller, Chongqing subway line 4): *"Farmers need to eat, too. You cannot crack down too much"* — noting city inspectors have become more permissive as the economy slows
+- One son's modest ask: raise his 80-year-old mother's pension to **500 yuan/month** (a sixth of an urban pensioner's), and she could "finally put down her hoe"
+
+### Historical Justice Argument
+Many of today's rural elderly spent their most productive years as **migrant workers**, building the apartment blocks, office towers and railways that are modern China's face. They also paid the now-abolished **agricultural tax**. Advocates argue these should count as de facto contributions to a national pension system.
+
+This contradiction — a country that built a subway to every village but leaves its elderly hunched over fields at 80 — is a live stake in Xi's "common prosperity" rhetoric versus lived reality.
 
 ## See Also
 - [[great-power-rivalry]]
@@ -188,3 +220,34 @@ This reflects a distinctly Chinese AI deployment pattern: rapid commercializatio
 그러나: 규제 당국이 4월 1일부터 애니메이션 미니시리즈에 사전 승인을 요구. 과잉 경쟁으로 수익을 내는 작품은 적다. Alibaba의 "The Demon Hunter"(1000만+ 팔로워)는 장편이 반격할 수 있음을 시사.
 
 이는 중국 특유의 AI 배치 패턴을 반영한다: 빠른 상업화, 신속한 규제 대응, 과잉 생산 능력.
+
+## 농촌 연금 불평등
+
+중국의 가장 가혹한 불평등은 연금 체계에 각인되어 있다. 충칭 지하철 4호선의 아침 출근길은 도시 시장으로 채소 바구니를 지고 가는 노인 농민들로 가득하다 — 중국의 인프라 확장과 농촌 빈곤을 동시에 보여주는 장면이다.
+
+### 숫자
+- **농촌 기본 연금**: 정규직 이력이 없는 은퇴자(거의 모든 농민 포함)에게 **월 163위안 ($24)**
+- **도시 기업 은퇴자**: **월 약 3,500위안**
+- **전직 공무원**: **월 약 7,000위안**
+- 지난 3년간 연금 인상은 매년 **월 20위안**에 불과
+
+### 서로 다른 개념
+농민 연금은 **재정 안전망** — 순수 정부 이전지출이다. 도시 연금은 개인 급여세 등 **기여 기반**으로 조성된다. 그 결과 생활 수준 격차는 극단적이며, 이는 2020년 "절대 빈곤과의 승리" 서사와 시진핑의 "공동부유" 수사와 불편하게 공존한다.
+
+### 일할 수밖에 없는 현실
+연구자 **왕밍위안(Wang Mingyuan)**에 따르면: **60-80세 사이 중국 농촌의 노동 가능 인구 중 80% 이상이 여전히 일하고 있으며**, 대부분 작은 땅을 경작하는 농부이다. 도시 은퇴자들이 공원에서 춤추거나 여행하는 동안, 농촌의 동년배들은 여전히 밭에 몸을 굽히고 있다.
+
+### 정치적 압박
+지난 달 연례 전국인민대표대회에서 **최소 34명의 대표**가 농촌 연금 인상을 요구하는 별도 제안을 제출 — 고무도장 입법부로 불리는 이 모임이 실제 문제에 빛을 비추는 드문 사례이다. **농촌 연금을 두 배로 올리는 데**는 국가 예산의 **약 3%**가 필요하며, 관료들이 더 중시하는 인프라 지출과의 맞교환이 불가피하다.
+
+### 도덕 논쟁
+농촌 연구 학자 **뤼더원(Lü Dewen)**이 연금 인상에 반대하는 에세이를 발표하며, 진짜 위기는 윤리적이라고 주장: "국가가 아니라 자식이 노인을 돌봐야 한다." 그는 **"현실 감각 없는 전문가"**라는 거센 반발에 직면했다 — 그러나 그의 입장은 실업·빈곤 수당 요구로 번질 것을 우려해 복지국가 건설을 경계하는 고위층의 사고와 일치한다.
+
+### 지하철에서 들린 목소리
+- **펑씨** (충칭 지하철 4호선 귤 장수): *"농민도 먹고살아야죠. 너무 단속하면 안 돼요"* — 경제가 둔화되면서 도시 단속반이 더 관대해졌다고 언급
+- 한 아들의 소박한 요청: 80대 어머니의 연금을 **월 500위안**(도시 연금 수급자의 6분의 1 수준)으로 올려주면 "드디어 호미를 내려놓을 수 있을 것"
+
+### 역사적 정의 논거
+오늘날 농촌 노인들 대다수는 가장 생산적이던 시절을 **이주 노동자**로 보내며, 현대 중국의 얼굴인 아파트 단지, 오피스 타워, 철도를 건설했다. 또한 이제는 폐지된 **농업세**를 납부했다. 옹호자들은 이를 사실상 국가 연금 제도에 대한 기여로 인정해야 한다고 주장한다.
+
+이 모순 — 모든 마을까지 지하철을 놓은 나라가 80대 노인을 밭에 굽혀두고 있다는 것 — 은 시진핑의 "공동부유" 수사와 현실 사이의 살아 있는 쟁점이다.

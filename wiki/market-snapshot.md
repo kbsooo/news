@@ -1,7 +1,7 @@
 ---
 title: Market Snapshot
 type: reference
-updated: 2026-04-12
+updated: 2026-04-12 (WebSearch refreshed)
 tags: [market, finance, reference]
 ---
 
@@ -21,41 +21,41 @@ A rolling reference of volatile market indicators used as shared context for sim
 
 ## Current Snapshot (as of 2026-04-12)
 
-*This is a seed page. Claude Code should populate with fresh WebSearch data before the next market simulation.*
+*Refreshed via WebSearch on 2026-04-12. Reconciliation note below: WebSearch real-world data diverges in places from wiki-internal narrative (wiki depicts deeper Iran-war market shock — e.g. wiki-internal post-war KOSPI ~2,550). Simulations should use WebSearch values as anchor and flag where wiki narrative would imply lower.*
 
 ### Equities
-- **S&P 500**: (to be updated)
-- **KOSPI**: (to be updated)
-- **Nikkei 225**: (to be updated)
-- **DAX**: (to be updated)
-- **Shanghai Composite**: (to be updated)
+- **S&P 500**: 6,616.85 (Apr 11-12, +0.08% d/d) — best week since Nov 2025 after ceasefire
+- **KOSPI**: 5,778 (Apr 10 close, -1.61% d/d; snapping 4-day rally on ceasefire uncertainty)
+- **Nikkei 225**: positive YTD through Apr 6 (one of three major indices with gains YTD)
+- **DAX**: (partial data; roughly flat YTD)
+- **Shanghai Composite**: 3,986 (Apr 10, +0.51% d/d; -3.56% 1-month; +23.10% YoY) — SSE gapped +2.7% Apr 8 on ceasefire
 
 ### Commodities
-- **Brent crude**: ~$95/barrel (from wiki — post-ceasefire baseline)
-- **Gold**: (to be updated)
-- **Natural gas (TTF)**: (to be updated)
+- **Brent crude**: $96.69 (prev close $95.92) — futures sanguine vs physical spot that touched $150 at war peak
+- **Gold**: $4,762.62/oz (Apr 11, 8:37 AM EDT) — all-time high zone as war/inflation hedge
+- **Natural gas (TTF)**: (to be updated; elevated due to Gulf LNG disruption)
 
 ### Currencies (vs USD)
 - **EUR/USD**: (to be updated)
 - **USD/JPY**: (to be updated)
-- **USD/KRW**: ~1,380 (wiki reference, late 2025)
-- **INR/USD**: 94.65 (from india.md, post-war depreciation)
+- **USD/KRW**: 1,479.07 (prev 1,478.35) — won sharply weaker vs wiki's 1,380 late-2025 baseline
+- **INR/USD**: 94.65 (wiki narrative)
 - **DXY**: (to be updated)
 
 ### Rates & Yields
-- **US 10Y Treasury**: ~4.4% (wiki, post-Iran war peak; 2.4-pp below 5.1% UK)
+- **US 10Y Treasury**: ~4.3% (Apr 9, FRED/CNBC)
 - **US 2Y**: (to be updated)
 - **Fed funds rate**: (to be updated)
 - **ECB deposit rate**: (to be updated)
 - **BOK base rate**: (to be updated)
 
 ### Crypto
-- **Bitcoin (BTC)**: (to be updated)
-- **Ethereum (ETH)**: (to be updated)
+- **Bitcoin (BTC)**: ~$71,448 (Yahoo Finance, +4.15% d/d) — significant pullback from late-2025 peaks; treat with caution, cross-check before sim
+- **Ethereum (ETH)**: $2,249.92 (Apr 10, Fortune)
 - **Total crypto market cap**: (to be updated)
 
 ### Macro Data
-- **US CPI (YoY)**: 3.3% (from wiki, March 2026)
+- **US CPI (YoY)**: 3.3% (wiki, March 2026; up from 2.4% Feb)
 - **US unemployment**: (to be updated)
 - **Eurozone HICP**: (to be updated)
 - **China CPI**: (to be updated)
@@ -97,41 +97,41 @@ A rolling reference of volatile market indicators used as shared context for sim
 
 ## 현재 스냅샷 (2026-04-12 기준)
 
-*시드 페이지임. 다음 시장 시뮬레이션 전에 Claude Code가 WebSearch로 채워야 함.*
+*2026-04-12 WebSearch로 갱신. 참고: 실제 WebSearch 값이 위키 내부 서사(이란전으로 인한 더 깊은 시장 충격, 예: 위키 내부 전후 KOSPI ~2,550)와 일부 괴리됨. 시뮬레이션은 WebSearch 값을 앵커로 사용하되, 위키 서사가 더 낮은 값을 암시하는 경우 명시할 것.*
 
 ### 주식
-- **S&P 500**: (업데이트 필요)
-- **KOSPI**: (업데이트 필요)
-- **Nikkei 225**: (업데이트 필요)
-- **DAX**: (업데이트 필요)
-- **상하이 종합지수**: (업데이트 필요)
+- **S&P 500**: 6,616.85 (4/11-12, 일간 +0.08%) — 휴전 후 2025년 11월 이후 최고의 주간
+- **KOSPI**: 5,778 (4/10 종가, 일간 -1.61%; 휴전 불확실성에 4일 연속 상승 중단)
+- **Nikkei 225**: 4/6까지 YTD 상승 (양호 YTD 성과를 보인 3개 주요 지수 중 하나)
+- **DAX**: (일부 데이터; YTD 거의 보합)
+- **상하이 종합지수**: 3,986 (4/10, 일간 +0.51%; 1개월 -3.56%; 연간 +23.10%) — 4/8 휴전 소식에 +2.7% 갭업
 
 ### 원자재
-- **브렌트유**: ~$95/배럴 (위키 참조 — 휴전 후 기준값)
-- **금**: (업데이트 필요)
-- **천연가스 (TTF)**: (업데이트 필요)
+- **브렌트유**: $96.69 (전일 종가 $95.92) — 선물 시장 안정, 그러나 현물 일부 등급 전쟁 고점 $150 터치
+- **금**: $4,762.62/oz (4/11, 8:37 AM EDT) — 전쟁/인플레 헤지로 사상 최고치 구간
+- **천연가스 (TTF)**: (업데이트 필요; 걸프 LNG 차질로 고공행진)
 
 ### 통화 (USD 대비)
 - **EUR/USD**: (업데이트 필요)
 - **USD/JPY**: (업데이트 필요)
-- **USD/KRW**: ~1,380 (위키 참조, 2025년 말)
-- **INR/USD**: 94.65 (india.md 기준, 전쟁 후 하락)
+- **USD/KRW**: 1,479.07 (전일 1,478.35) — 위키의 2025년 말 1,380 기준 대비 원화 대폭 약세
+- **INR/USD**: 94.65 (위키 서사)
 - **DXY**: (업데이트 필요)
 
 ### 금리 및 수익률
-- **미국 10년물 국채**: ~4.4% (위키, 이란전 후 피크; 영국 5.1%보다 2.4%p 낮음)
+- **미국 10년물 국채**: ~4.3% (4/9, FRED/CNBC)
 - **미국 2년물**: (업데이트 필요)
 - **연방기금금리**: (업데이트 필요)
 - **ECB 예금금리**: (업데이트 필요)
 - **한국은행 기준금리**: (업데이트 필요)
 
 ### 암호화폐
-- **비트코인 (BTC)**: (업데이트 필요)
-- **이더리움 (ETH)**: (업데이트 필요)
+- **비트코인 (BTC)**: ~$71,448 (Yahoo Finance, 일간 +4.15%) — 2025년 말 고점 대비 상당폭 조정; 시뮬 전 재확인 필요
+- **이더리움 (ETH)**: $2,249.92 (4/10, Fortune)
 - **전체 암호화폐 시가총액**: (업데이트 필요)
 
 ### 거시 지표
-- **미국 CPI (YoY)**: 3.3% (위키, 2026년 3월)
+- **미국 CPI (YoY)**: 3.3% (위키, 2026년 3월; 2월 2.4%에서 상승)
 - **미국 실업률**: (업데이트 필요)
 - **유로존 HICP**: (업데이트 필요)
 - **중국 CPI**: (업데이트 필요)

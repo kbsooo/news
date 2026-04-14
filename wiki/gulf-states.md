@@ -5,7 +5,8 @@ sources:
   - raw/briefing/260409-with-a-whimper.md
   - raw/briefing/260408-damage-report.md
   - raw/finance-and-economics/260408-the-state-of-the-deal.md
-updated: 2026-04-11
+  - raw/middle-east-and-africa/260413-double-trouble.md
+updated: 2026-04-13
 tags: [middle-east, geopolitics, energy, security]
 ---
 
@@ -39,6 +40,14 @@ The war upended all three at once. America's forces didn't deter attacks — the
 ### Escalatory Threats
 - [[donald-trump|Trump]] threatened destruction of Iran's **power grid**
 - Iran reciprocally threatened Gulf **water-desalination plants** — a devastating threat given Gulf states' near-total reliance on desalinated water
+
+### Renewed Attack Risk from Trump's April 13 Blockade
+[[donald-trump|Trump]]'s April 13 **counter-blockade of Iranian ports** raises the risk of a second wave of Iranian strikes on Gulf infrastructure. Iran has **explicitly threatened retaliation** if the blockade takes effect. Plausible escalation set (per analyst assessments):
+- Resumption of Iranian attacks on **neutral shipping** transiting Hormuz
+- Strikes on **Saudi, Emirati and other Gulf production facilities, pipelines and ports** (already demonstrated: Yanbu pipeline, Ras Laffan LNG, Al-Udeid, Prince Sultan air base)
+- Coordinated **Houthi Red Sea attacks** from Yemen
+
+Combined with the blockade itself, this cluster could drive **Brent crude futures to ~$150/barrel by end of April**. Some Gulf officials had nonetheless urged Trump to begin intercepting Iranian ships — reflecting the bet that Iran's economic exhaustion will outpace renewed strike capability. The counter-bet: 8 tanker deals for non-Iranian crude under discussion the prior week all **broke down** when Islamabad talks stalled, suggesting market participants expect the risk premium to keep rising.
 
 ## Economic Fallout
 
@@ -122,6 +131,14 @@ Long-term goal: regionwide pipeline network "resilient by design" with multiple 
 ### 확전 위협
 - [[donald-trump|트럼프]]가 이란 **전력망** 파괴를 위협
 - 이란은 이에 대응하여 걸프 **해수담수화 시설**을 위협 — 걸프 국가들의 담수화 의존도를 감안하면 치명적인 위협
+
+### 트럼프의 4월 13일 봉쇄로 인한 재공격 위험
+[[donald-trump|트럼프]]가 4월 13일 발효시킨 **이란 항구 맞봉쇄**는 걸프 인프라에 대한 이란의 두 번째 공격 파고 위험을 키우고 있다. 이란은 봉쇄 발효 시 **명시적으로 보복을 위협**한 상태. 분석가들이 상정하는 확전 경로:
+- 호르무즈를 통과하는 **중립국 선박에 대한 이란 공격 재개**
+- **사우디·UAE 등 걸프 국가의 생산 시설, 송유관, 항구**에 대한 타격(이미 실현된 사례: 얀부 송유관, 라스 라판 LNG, 알 우데이드·프린스 술탄 공군 기지)
+- 예멘발 **후티 홍해 공격** 재개와 연계
+
+봉쇄 그 자체와 결합하면 이 시나리오는 4월 말까지 **브렌트유 선물 ~$150/배럴**까지 밀어올릴 수 있다. 그럼에도 일부 걸프 관계자들은 트럼프에게 이란 선박 차단 개시를 촉구해왔다 — 이는 이란의 경제적 소진이 재공격 능력을 앞지를 것이라는 베팅이다. 반대 신호: 지난 주 협의 중이던 비이란산 원유 유조선 거래 8건이 이슬라마바드 협상 교착과 함께 모두 **결렬**되었고, 시장 참여자들이 리스크 프리미엄이 계속 오를 것으로 예상하고 있음을 시사한다.
 
 ## 경제적 타격
 

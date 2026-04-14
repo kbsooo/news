@@ -5,8 +5,9 @@ sources:
   - raw/finance-and-economics/260405-debt-puzzlers.md
   - raw/finance-and-economics/260407-buttonwood.md
   - raw/finance-and-economics/260409-second-helpings.md
-updated: 2026-04-11
-tags: [finance, bonds, markets, private-credit, trump]
+  - raw/finance-and-economics/260412-americas-next-fed-chair.md
+updated: 2026-04-13
+tags: [finance, bonds, markets, private-credit, trump, fed]
 ---
 
 # Financial Markets (2026)
@@ -33,6 +34,12 @@ If the [[strait-of-hormuz]] stays shut longer: **-0.5% global GDP** in 2027, **+
 
 ### Fed Expectations
 Early in war: traders expected Fed to stop cutting / possibly raise rates. Now: pricing in cuts again as recession fears grow. Theory says central banks should "look through" supply-side price shocks, but slashing rates during inflation surge risks exacerbating it.
+
+### April Update: Cuts Evaporate
+By April 10 CPI release, **headline inflation hit 3.3%** (up from 2.4% February). **Services inflation ex-housing** runs 0.75pp faster than 2010s average. Traders now expect **no cuts in 2026** (vs. January expectation of 1-2+ cuts). [[kevin-warsh|Kevin Warsh]], Trump's Fed chair pick, is caught: his AI-productivity-justifies-cuts argument is both empirically weak (data-center investment boom) and theoretically backwards (higher productivity raises neutral rate). Multiple Fed governors (Jefferson, Barr, Powell himself) have publicly pushed back. See [[federal-reserve]].
+
+### Powell May Stay
+Powell confirmed he won't leave the Fed board at chair term expiry (May 2026), at least until DOJ concludes its spurious probe on Fed HQ renovation. If GOP senators refuse to confirm any Fed appointees during that probe, Powell could remain chair past May. Terms of Jefferson and Barr extend into the 2030s — Warsh faces years of internal disagreement.
 
 ## The Unraveling of Trump Trades
 
@@ -105,6 +112,12 @@ All three strands connect through the [[iran-war-and-ceasefire-2026|Iran war]]: 
 
 ### 연준 기대
 전쟁 초기: 트레이더들은 연준이 금리 인하를 중단하거나 인상할 것으로 예상. 현재: 경기침체 우려 확대로 다시 금리 인하를 반영하는 중. 이론적으로 중앙은행은 공급측 물가 충격을 "간과(look through)"해야 하지만, 인플레이션 급등 중 금리를 대폭 인하하면 상황을 악화시킬 위험이 있다.
+
+### 4월 업데이트: 인하 명분 소멸
+4월 10일 CPI 발표에서 **헤드라인 인플레이션 3.3%** (2월 2.4% 대비 상승). **주거 제외 서비스 인플레이션**은 2010년대 평균보다 0.75%p 빠른 속도. 트레이더들은 **2026년 인하 없음**을 가격에 반영(1월에는 1-2회 이상 인하 예상). 트럼프의 Fed 의장 후보 [[kevin-warsh|Kevin Warsh]]는 덫에 걸렸다: AI 생산성이 인하를 정당화한다는 그의 논리는 경험적으로 약하고(데이터센터 투자 붐) 이론적으로도 역방향(생산성 상승은 중립금리 상승). 복수의 Fed 이사들(Jefferson, Barr, Powell 본인)이 공개적으로 반박. [[federal-reserve]] 참조.
+
+### Powell 잔류 가능성
+Powell은 5월 의장 임기 만료 후에도 이사직을 떠나지 않음을 확인 — DOJ의 허위성 연준 본부 조사 종료 전까지. 조사 기간 중 공화당 상원의원들이 신규 연준 지명자 확정을 거부하면 Powell이 5월 이후에도 의장직 유지 가능. Jefferson과 Barr의 임기는 2030년대까지 — Warsh는 수년간 내부 반대에 직면할 것.
 
 ## 트럼프 트레이드의 붕괴
 

@@ -11,10 +11,14 @@
             "id": "fd74b343199ec82c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13"
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for sim-us-iran-talks-korea-crypto-equities-2026-04-12"
             }
           },
           {
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from sim-us-iran-talks-korea-crypto-equities-2026-04-12"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of sim-us-iran-talks-korea-crypto-equities-2026-04-12"
             }
           }
         ]
@@ -179,6 +186,9 @@
   },
   "active": "fd74b343199ec82c",
   "lastOpenFiles": [
+    "ukraine.md",
+    "simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13.md",
+    "simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12.md",
     "market-snapshot.md",
     "simulations/sim-us-iran-negotiations-branching-2026-04-11.md",
     "simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11.md",

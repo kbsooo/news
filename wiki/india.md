@@ -5,7 +5,8 @@ sources:
   - raw/asia/260405-tender-spot.md
   - raw/asia/260407-the-dragon-elephant-tango.md
   - raw/asia/260409-conversion-price.md
-updated: 2026-04-11
+  - raw/asia/260412-indias-most-liveable-megacity.md
+updated: 2026-04-13
 tags: [asia, geopolitics, economics, energy]
 ---
 
@@ -96,12 +97,19 @@ India finds itself pulled in multiple directions by the Iran war and Trump-era d
 - **May 2025 war with [[pakistan|Pakistan]]** — a four-day air conflict that Pakistan credited Trump with resolving (to India's irritation)
 - India's manufacturing still relies heavily on Chinese inputs and know-how, creating structural dependence even as national-security hawks push for decoupling
 
+## West Bengal and Kolkata: The Stagnation Paradox
+
+[[kolkata|Kolkata]] (23m, India's second-largest metropolis) has become India's **most liveable megacity** — but that's a symptom of **stagnation**, not success. Lowest rents, lowest school/healthcare fees, rich cultural tradition, liberal on religion/gender. But **few white-collar jobs**; talented young Bengalis leave in droves; **slowest population growth of India's five biggest cities**.
+
+**Mamata Banerjee** (CM since 2011) seeks fourth term in April 2026 state elections. Under her rule, West Bengal's national output share has slid. Maharashtra (Mumbai) and Karnataka (Bangalore) captured >50% of recent FDI; West Bengal got <1%. Voter rolls revised to strike **9m names (~12%)**. Modi's BJP promises development but would fracture religious tolerance; Mamata offers "more of the same." Kolkata's commercial capital status is an underused asset for the entire deprived eastern region.
+
 ## See Also
 - [[china]]
 - [[iran-war-economic-impact]]
 - [[donald-trump]]
 - [[strait-of-hormuz]]
 - [[fertiliser-and-food-crisis-2026]]
+- [[kolkata]]
 
 ---
 
@@ -191,3 +199,9 @@ India finds itself pulled in multiple directions by the Iran war and Trump-era d
 - **이란 전쟁**은 미국이 신뢰할 수 있는 파트너라는 확신을 약화
 - **2025년 5월 [[pakistan|파키스탄]]과의 전쟁** — 4일간의 공중전으로, 파키스탄이 트럼프의 중재 공로를 돌렸다 (인도에게는 큰 불만)
 - 인도 제조업은 여전히 중국 부품과 기술에 크게 의존하며, 안보 강경파가 디커플링을 밀어붙여도 구조적 의존이 지속
+
+## 서벵골과 콜카타: 정체의 역설
+
+[[kolkata|콜카타]](2,300만, 인도 제2도시)는 인도에서 **가장 살기 좋은 메가시티**가 되었지만 — 이는 성공이 아닌 **정체**의 증상이다. 최저 임대료, 최저 학비·의료비, 풍부한 문화 전통, 종교·성관계에서의 자유주의. 그러나 **화이트칼라 일자리 부족**; 유능한 벵골 청년들은 대거 이탈; **인도 5대 도시 중 인구 증가율 최저**.
+
+**Mamata Banerjee**(2011년부터 주총리)가 2026년 4월 주의회 선거에서 4선 도전. 그녀의 집권 하에 서벵골의 국가 생산 기여 비중이 지속 하락. Maharashtra(뭄바이)와 Karnataka(방갈로르)가 최근 FDI의 50% 이상을 유치; 서벵골은 1% 미만. 유권자 명부 개정으로 **900만 명(약 12%)** 삭제. 모디의 BJP는 개발을 약속하지만 종교적 관용을 파괴할 것; Mamata는 "계속해서 같은 것"을 제공. 콜카타의 상업 수도 지위는 낙후된 동부 전역에 대한 미활용 자산이다.

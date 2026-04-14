@@ -4,7 +4,8 @@ type: entity
 sources:
   - raw/asia/260409-pakistan-the-peacemaker.md
   - raw/middle-east-and-africa/260411-third-time-the-charm.md
-updated: 2026-04-11
+  - raw/middle-east-and-africa/260412-resurrect-talks-america-iran.md
+updated: 2026-04-13
 tags: [asia, geopolitics, diplomacy, iran, ceasefire]
 ---
 
@@ -56,6 +57,10 @@ Iran entered the talks with two preconditions:
 2. **Frozen assets** must be released — billions of dollars in Iranian oil revenue held in foreign banks
 
 America says it refused the latter demand and only told [[israel|Israel]] to limit (not halt) attacks in Lebanon.
+
+### Outcome (April 12)
+
+Talks ran **21 hours** through the night and ended **without a deal**. Vance: "they have chosen not to accept our terms." No follow-up meeting scheduled. Iran blamed "excessive demands" from America; Baqaei described "mistrust and suspicion." Pakistan's role as host remains intact but its bet — that being the broker of a historic agreement would cement its new status — is now contingent on whether any second round can be convened before the two-week ceasefire expires (~April 22). See [[iran-war-and-ceasefire-2026]].
 
 ## Pakistan's Vulnerabilities
 
@@ -132,6 +137,10 @@ Pakistan's mediation represents a pivot in its global role — from perennial cr
 2. **동결 자산이 해제**되어야 한다 — 외국 은행에 보관된 수십억 달러의 이란 석유 수입
 
 미국은 후자의 요구를 거부했고, [[israel|이스라엘]]에 레바논 공격을 중단이 아닌 제한하라고만 전했다고 밝혔다.
+
+### 결과 (4월 12일)
+
+회담은 밤새 **21시간** 지속된 후 **합의 없이** 종료. 밴스: "이란이 우리 조건을 받아들이지 않기로 했다." 차기 회담 일정 미정. 이란은 미국의 "과도한 요구"를 비난, Baqaei는 "불신과 의심"으로 묘사. 파키스탄의 중재자 지위는 유지되나, 역사적 합의의 중개자로서 새 위상을 확보하려던 베팅은 이제 2주 휴전 만료(약 4월 22일) 이전에 2차 라운드를 성사시킬 수 있는지에 달려 있다. [[iran-war-and-ceasefire-2026]] 참조.
 
 ## 파키스탄의 취약점
 
