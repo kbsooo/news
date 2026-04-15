@@ -3,7 +3,8 @@ title: Kolkata
 type: entity
 sources:
   - raw/asia/260412-indias-most-liveable-megacity.md
-updated: 2026-04-13
+  - raw/asia/260414-girls-aloud.md
+updated: 2026-04-14
 tags: [asia, india, urban, west-bengal]
 ---
 
@@ -40,6 +41,25 @@ But: **West Bengal's share of national output has continued to slide** under her
 Voter-roll revisions have struck **9m names (~12%)** from the electorate. Voters face a difficult choice:
 - **Modi's BJP**: promises to prioritise development, but will also fracture the state's religious tolerance with its Hindu-nationalist agenda
 - **Mamata's TMC**: "more of the same" — Bengali pride, handouts, personality-driven politics "that puts even Mr Modi's in the shade"
+
+## Female-Voter Politics in West Bengal
+
+West Bengal's state election takes place in two stages, on **April 23 and 29**, and women are at the centre of campaigning. See [[india|India]] for the national context of female voters reshaping politics.
+
+### Lakshmir Bhandar: TMC's Flagship
+- **Lakshmir Bhandar**, CM Mamata Banerjee/TMC's signature scheme, pays **1,500–1,700 rupees/month** to women aged **25–60** from poor homes
+- Additional local schemes target **teenage girls, women farmers, and widows**
+- **Pratichi Trust 2023 report** praised the scheme:
+  - Over **60%** of women surveyed said it **strengthened their position within the family**
+  - **87%** said it allowed them to **invest in dreams beyond bare survival** — training, entrepreneurship
+
+### The Fiscal Problem
+- **West Bengal state-government debt = 38% of state GDP** (approaching a record)
+- **Lakshmir Bhandar alone consumes 10% of state revenue receipts**
+- The **BJP is campaigning on a promise to double** the scheme's payouts — a bidding war over female voters
+
+### Scene from Khardah (Kolkata suburb)
+At an election rally, an **all-female marching group leads the way**; men are shunted to the back. Women wave placards advertising Lakshmir Bhandar. Asked what else she wants from the state government, **Shupriya Ghosh (37)** beams: **"More schemes!"**
 
 ## Historical Context
 
@@ -91,6 +111,25 @@ Kolkata's pleasantness is the inverse of Mumbai/Delhi/Bangalore's pathologies. T
 유권자 명부 개정으로 **900만 명(약 12%)**이 삭제됨. 유권자들의 난감한 선택:
 - **모디의 BJP**: 개발 우선을 약속하지만, 힌두 민족주의 의제로 주의 종교적 관용을 파괴할 것
 - **Mamata의 TMC**: "더 이상의 변화 없음" — 벵골 자존심, 현금 지원, "모디도 무색한" 인물 중심 정치
+
+## 서벵골의 여성 유권자 정치
+
+서벵골 주의회 선거는 **4월 23일과 29일** 2단계로 치러지며, 여성이 선거운동의 중심에 있다. 여성 유권자가 정치를 재편하는 전국적 맥락은 [[india|인도]] 페이지 참조.
+
+### Lakshmir Bhandar: TMC의 간판 정책
+- **Lakshmir Bhandar**는 Mamata Banerjee 주총리/TMC의 대표 복지 제도로, 빈곤 가정의 **25~60세** 여성에게 월 **1,500~1,700루피** 지급
+- 기타 지역 제도는 **10대 소녀, 여성 농민, 과부**를 대상
+- **Pratichi Trust 2023년 보고서**는 이 제도를 긍정 평가:
+  - 설문 조사 여성의 **60% 이상**이 이 제도가 **가족 내 지위를 강화**했다고 응답
+  - **87%**는 이 제도 덕분에 훈련·창업 등 **기본 생존을 넘는 꿈에 투자**할 수 있게 되었다고 응답
+
+### 재정적 문제
+- **서벵골 주정부 부채 = 주 GDP의 38%** (기록적 수준 접근)
+- **Lakshmir Bhandar 하나만으로 주 세입의 10% 소진**
+- **BJP는 이 제도 지급액을 두 배로 늘리겠다**고 공약하며 선거운동 — 여성 유권자를 둘러싼 경매전
+
+### 콜카타 교외 Khardah의 선거 유세 장면
+한 선거 집회에서 **전원 여성으로 구성된 행진단이 선두**에 서고, 남성들은 뒤로 밀려난다. 여성들은 Lakshmir Bhandar를 홍보하는 플래카드를 흔든다. 주정부에 또 뭘 바라느냐는 질문에 **Shupriya Ghosh(37세)**는 환하게 웃으며 답한다: **"더 많은 제도!"**
 
 ## 역사적 맥락
 

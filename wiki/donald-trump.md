@@ -13,8 +13,10 @@ sources:
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/leaders/260401-geopolitics.md
   - raw/united-states/260413-spin-doctors.md
-updated: 2026-04-13
-tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms]
+  - raw/united-states/260414-happy-filing-day.md
+  - raw/business/260414-board-to-tears.md
+updated: 2026-04-14
+tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance]
 ---
 
 # Donald Trump
@@ -135,6 +137,41 @@ At a task force meeting, **Stephen Miller** asked what fraud "**does to public t
 Democrats have an enduring lead on healthcare (which is popular); Republicans are associated with spending cuts. The strategy is word-association: **when voters think of healthcare, Republicans hope they think of fraud, rather than the cuts.** With polls plunging and midterms in November 2026, the fraud war substitutes for a policy agenda.
 
 This connects to [[nationalism-and-great-power-rivalry|the strongman pattern]]: the "war on fraud" doubles as a tool to punish opposition states, target minorities for immigration enforcement, and delegitimize public programs — classic illiberal tactics dressed as good governance.
+
+## Tax Revolt and IRS Hollowing-Out
+
+Trump's **One Big Beautiful Bill** (passed last year) extended his first-term tax cuts and added a headline "**no tax on tips**" provision — costing several trillion dollars over the decade. At the same time, Trump cut **~25,000 IRS employees**, materially weakening enforcement and making it easier for the wealthy to dodge taxes.
+
+### Democrats Respond in Kind
+Rather than defending higher taxes, Democrats are pitching their own cuts for the middle and working class:
+- **Sen. Cory Booker** plan: doubles the standard deduction to **$37,500 (single) / $75,000 (married)**, adds a range of credits for poorer Americans, and raises rates on top earners. Independent scorekeepers put the cost at **$5-7trn over a decade** (~2x Trump's Big Beautiful Bill).
+- **Sen. Chris Van Hollen** plan: eliminates income tax entirely for singles earning **<$46,000** / couples **<$92,000**, phased out higher up; funded by **surtaxes on $1m+ earners**. Roughly deficit-neutral.
+- Both senators are presidential aspirants for **2028**.
+- Van Hollen is also co-sponsoring **Elizabeth Warren's 2% annual wealth tax** on fortunes above $50m.
+
+### State-Level Ferment
+- **Florida** flirting with abolishing non-school property taxes
+- **Ohio** ballot initiative to scrap property taxes entirely
+- **Keisha Lance Bottoms** (Georgia Democrat) backed eliminating income tax for teachers
+- **California** considering a "one-time" 5% wealth tax on billionaires
+
+### Public Opinion
+- **Gallup**: share of Americans who think their income taxes are fair is **near a record low** — the only comparable period was the end of the Clinton presidency (which had a budget surplus)
+- **60% at every income level** think they are taxed too much
+- **2/3 of the public** favors the core of Booker's plan (Economist/YouGov)
+
+### Reading
+**Grover Norquist** on Democrats' new tax-cut enthusiasm: "**a sign of weakness**" in their worldview. The episode marks a bipartisan collapse of fiscal discipline — both parties now competing to deliver cuts against an already-ballooning deficit and a hollowed-out IRS. See [[financial-markets-2026]].
+
+## Proxy Adviser Crackdown
+
+In **December 2025**, Trump accused **Glass Lewis** and **ISS** — the proxy-advisory duopoly — of using "substantial power to advance and prioritise radical politically motivated agendas," and instructed regulators to investigate them.
+
+Subsequent effects:
+- **JPMorgan Chase** and **Wells Fargo** asset-management arms said they would **reduce reliance** on the advisers
+- The **SEC** last year released guidance warning that passive investors risk losing that designation if they **communicate too much with boards** — aimed at what the administration sees as BlackRock pushing political agendas
+- **2025 was a record year for shareholder activism** — **163 campaigns** (Lazard data)
+- Net effect on boards: they lose traditional information sources, and the "backroom deals" of the past are becoming impossible — see [[corporate-governance-2026]] if/when filed
 
 ## NATO Crisis
 
@@ -284,6 +321,41 @@ SWAT팀이 출동하는 동안:
 민주당은 의료(인기 있는 분야)에서 지속적인 우위를; 공화당은 지출 삭감과 연관된다. 전략은 단어 연상이다: **유권자가 의료를 생각할 때, 공화당은 예산 삭감 대신 사기를 떠올리기를 바란다.** 지지율이 하락하고 2026년 11월 중간선거가 다가오는 가운데, 사기와의 전쟁은 정책 의제를 대신한다.
 
 이는 [[nationalism-and-great-power-rivalry|강인한 지도자 패턴]]과 연결된다: "사기와의 전쟁"은 반대 주(州) 처벌, 이민 단속을 위한 소수민족 표적화, 공공 프로그램의 정당성 훼손을 위한 도구로 이중 활용된다 — 좋은 거버넌스로 포장된 전형적인 비자유주의 전술이다.
+
+## 세금 반란과 IRS(국세청) 공동화
+
+트럼프의 **One Big Beautiful Bill**(작년 통과)은 1기 감세를 연장하고 **"팁 비과세"** 간판 조항을 추가했다 — 향후 10년간 수조 달러의 비용 발생. 동시에 트럼프는 **IRS 직원 약 2만 5,000명을 감원**하여 집행력을 실질적으로 약화시키고, 부유층의 세금 회피를 더 쉽게 만들었다.
+
+### 민주당의 맞대응
+민주당은 증세를 방어하는 대신 중산층·노동계급을 위한 자체 감세안을 내세우고 있다:
+- **Cory Booker 상원의원** 안: 표준공제를 **$37,500(1인) / $75,000(부부)**로 두 배 확대, 저소득층을 위한 다양한 세액공제, 고소득자 세율 인상. 독립 평가기관의 비용 추정: **10년간 $5-7조** (트럼프 Big Beautiful Bill의 약 2배).
+- **Chris Van Hollen 상원의원** 안: **$46,000 미만(1인) / $92,000 미만(부부)** 소득에 대해 소득세 완전 철폐, 고소득 구간에서 점진적 축소; **연 $100만 이상 소득자 추가세(surtax)**로 재원 조달. 재정 중립에 가까움.
+- 두 상원의원 모두 **2028년** 대선 주자.
+- Van Hollen은 **Elizabeth Warren의 연 2% 부유세**($5,000만 이상 재산) 공동 발의자로도 참여.
+
+### 주(州) 차원의 움직임
+- **플로리다**: 학교 외 재산세 폐지 검토
+- **오하이오**: 재산세 완전 폐지 주민투표 발의
+- **Keisha Lance Bottoms** (조지아 민주당원): 교사 소득세 폐지 지지
+- **캘리포니아**: 억만장자 대상 "일회성" 5% 부유세 검토
+
+### 여론
+- **Gallup**: 자신이 내는 소득세가 공정하다고 보는 미국인 비율이 **사상 최저 수준** — 유일한 비견 시기는 클린턴 임기 말(당시 재정 흑자)
+- **모든 소득 계층에서 60%**가 세금을 너무 많이 낸다고 응답
+- **대중의 3분의 2**가 Booker 안의 핵심에 찬성 (Economist/YouGov)
+
+### 해석
+**Grover Norquist**는 민주당의 새로운 감세 열기를 두고 민주당 세계관의 "**약함의 징후**"라고 평한다. 이 국면은 양당 공히 재정 규율이 붕괴한 사건 — 이미 팽창한 재정적자와 공동화된 IRS를 배경으로 양당이 감세 경쟁에 뛰어들고 있다. [[financial-markets-2026]] 참조.
+
+## 의결권 자문사(Proxy Adviser) 단속
+
+**2025년 12월**, 트럼프는 의결권 자문 복점 기업인 **Glass Lewis**와 **ISS**가 "**급진적·정치적 동기의 의제를 추진·우선시하는 데 상당한 권력**을 사용한다"고 비난하며 규제당국에 조사를 지시했다.
+
+후속 효과:
+- **JP모건 체이스**와 **웰스파고** 자산운용 부문이 이들 자문사에 대한 **의존도를 축소**하겠다고 발표
+- **SEC**는 작년 가이던스를 통해 수동 투자자(passive investor)가 이사회와 **지나치게 소통할 경우 해당 지위를 잃을 위험**이 있다고 경고 — 행정부가 정치적 의제를 밀어붙인다고 보는 BlackRock을 겨냥
+- **2025년은 주주 행동주의 사상 최대의 해** — **163건의 캠페인** (Lazard 데이터)
+- 이사회에 대한 순효과: 전통적 정보 채널이 상실되고, 과거의 "막후 거래"가 불가능해지고 있음 — 필요시 [[corporate-governance-2026]] 페이지 참조
 
 ## NATO 위기
 

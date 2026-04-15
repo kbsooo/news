@@ -1,9 +1,32 @@
 ---
 title: Log
-updated: 2026-04-14 (Trump Hormuz blockade + Hungary editorial + Ukraine drone partnerships)
+updated: 2026-04-15 (India female voters + Lebanon front + tax revolt + 60/40 + American luxury + boards under siege)
 ---
 
 # Wiki Log
+
+## [2026-04-15] ingest | 6 Economist articles (India women + Lebanon + tax revolt + 60/40 + luxury + boards)
+Sources (6):
+- `raw/asia/260414-girls-aloud.md` — India's female voters reshape politics
+- `raw/middle-east-and-africa/260414-the-other-front.md` — Israel continues to batter Lebanon
+- `raw/united-states/260414-happy-filing-day.md` — Tax revolt under way in America
+- `raw/business/260414-board-to-tears.md` — American corporate boards under siege
+- `raw/finance-and-economics/260414-buttonwood.md` — When bonds fail to buffer stocks (60/40 breakdown)
+- `raw/business/260413-haute-streak.md` — American luxury booming (Ralph Lauren, Coach, The Row)
+
+Updates:
+- [[india]]: new "Female Voters Reshape Politics" section — 65.8% women turnout > 65.6% men (2024), 16/28 states with women-only cash transfers, ~1.7trn rupees/year, Bihar 7.5m women × 10k rupees may have boosted seats by 1/5, finance ministry warning on crowd-out of education/health
+- [[kolkata]]: "Female-Voter Politics in West Bengal" section — Lakshmir Bhandar 1,500-1,700 rupees/mo, 87% women say they can invest in dreams beyond bare survival, but state debt 38% of GDP, scheme = 10% of revenue, BJP campaigning to double it
+- [[israel]]: 4 new sub-sections in Lebanon Escalation — 4/14 Washington first direct talks in decades, 8-10km security zone (4/11), IDF general's "humble war aims" rebuke (4/3), 4/8 Beirut strikes 357+ killed and Trump's "low-key" rebuke, 6-week toll: 2,000+ killed and 1M+ displaced, Hizbullah's surprising resilience
+- [[iran-war-and-ceasefire-2026]]: 4/14 timeline entry + new "Fragmented Ceasefire: Separate Lebanon Front" section
+- [[donald-trump]]: "Tax Revolt and IRS Hollowing-Out" (25k IRS cuts, Booker $5-7trn plan, Van Hollen $46k/$92k threshold + wealth tax, Gallup record-low fairness, 60% at every income level feel overtaxed, Norquist "weakness" read) + "Proxy Adviser Crackdown" (Dec 2025 attack on Glass Lewis/ISS, JPM/Wells Fargo distancing, SEC passive investor guidance)
+- [[financial-markets-2026]]: "60/40 Portfolio Under Stress" (positive stock-bond correlation since 2022, AQR betas: Treasuries 0.2 vs BTC 2.1 amplifies risk) + "American Luxury Outpaces European" (LVMH -2% Q1 7th consecutive quarter, RL/Coach/Row in Lyst top 10, share prices +89%/+135%, EU bags now 5-10x Coach vs 2-3x 15yr ago)
+
+Cross-cutting themes:
+- "Anti-tax populism" emerging on BOTH parties — fiscal sustainability concern
+- Asia (India) uses cash transfers as feminist welfare state; America considers similar via tax cuts
+- Multiple "private vs collective ownership" battles: 60/40 reweighting, board governance crackdown, Lebanon civilians paying for Israel's war
+- Fragmentation of the "ceasefire" — Lebanon front continues as US backs Israel's refusal even as Iran-US talks resume
 
 ## [2026-04-14] ingest | 3 Economist articles (Trump blockade + Hungary editorial + Ukraine Gulf partnerships)
 Sources (3):

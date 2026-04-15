@@ -1,0 +1,23 @@
+# How to build a portfolio when bonds fail to buffer stocks
+
+The classic hedge has fallen apart, but don't dump it just yet
+
+Few finance nerds are awake for long each day before they start scrolling through data to see how markets moved overnight. Your columnist, for example, keeps a much-loved dashboard that, with a couple of clicks, shows all his favourite currency pairs, yield curves and indices (he hears some people cultivate bonsai instead). It often takes surprisingly few numbers to forge a decent guess at what is happening in dozens of markets, and what the morning's headlines are.
+
+Then again, sometimes you only need one. In 2022, as consumer prices surged across the world, an inflation reading from a big, rich country would usually do the trick. This time last year, when President Donald Trump was flip-flopping on tariffs every other week, the dollar's strength—or, rather, weakness—was a proxy for investors' nerves about all sorts of assets. Now, if you want to know what kind of morning it is for stocks, government bonds and (weirdly) precious metals, you need only check the oil price. If it has leapt, it is a good bet that the rest are doing badly. If oil traders are calm, others probably are as well.
+
+For stocks and government bonds to move together during an energy shock makes sense: faltering growth hurts stocks; inflation hurts bonds; an oil shortage raises both threats at once. But it is not only in recent weeks that the two asset classes have behaved similarly. Since 2022 the correlation between them has been positive and rising, having previously been reliably negative for decades. In other words, whereas bond prices used to rise more often than not when stock prices fell, and vice versa, the two now tend to rise and fall in tandem.
+
+That is a problem for investors' portfolios, because many of them used the old, negative stock-bond correlation to great effect. The logic of the classic 60/40 allocation between the two, for instance, relies on their tendency to fluctuate in opposite directions over short periods while both appreciating in the long run. This results in a portfolio with a steadier value than a stock-only one, without sacrificing too much in the way of expected returns. The more stocks and bonds move together, the less this logic holds.
+
+Perhaps surprisingly, however, the right response for investors is not to ditch their stock-bond splits. The main reason is that they are not exactly spoilt for alternatives. Abandoning shares for good would be foolhardy, since there is no other widely available, tried-and-tested asset class offering similar long-run returns.
+
+And even as plenty of salespeople tout supposed bond substitutes, few stand up to scrutiny. In a recent research note, Antti Ilmanen and Dan Villalon of AQR, a quantitative hedge fund, rattled through some of the most modish alternatives: private credit, "buffer" funds (constructed from equity derivatives) and bitcoin. Proponents argue that these can improve a stock-bond portfolio's diversification. Yet the researchers found that, over the past five years, each putative substitute has been at least as highly correlated with the S&P 500 share index as American Treasury bonds.
+
+Moreover, the diversification benefit an asset offers comes down to more than its correlation with stocks. A better measure may be the asset's "beta", meaning the extent to which stockmarket movements are reflected in its returns. The lower this is, the better the asset works as a diversifier for shares. A beta of 0.5, for instance, means every dollar invested generates 50 cents' worth of exposure to equity risk.
+
+Treasury bonds look good on this front, with a beta of 0.2. Taken in aggregate, the beta of private-credit funds is 0.7 and that of buffer funds is 0.6. Bitcoin's beta is a whopping 2.1, meaning that its inclusion in a portfolio alongside stocks would amplify equity risk rather than reducing it.
+
+What, then, are investors to do? Messrs Ilmanen and Villalon suggest the "equity-market neutral" and "trend-following" strategies offered by many hedge funds, as you might expect given that they work for one. For most individuals, though, these are out of reach.
+
+Instead, the best response to markets that ebb and flow together might be not to dump the classic stock-bond split, but to reassess its weights. Bonds now provide a thinner buffer for equity risk. Those who want to shun risk must therefore own more of them, and fewer shares, to do so. Daredevils, by contrast, might as well buy more stocks and pursue higher returns, since bonds now offer less. They might even have a few fewer numbers to check each morning. ■

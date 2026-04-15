@@ -6,7 +6,8 @@ sources:
   - raw/asia/260407-the-dragon-elephant-tango.md
   - raw/asia/260409-conversion-price.md
   - raw/asia/260412-indias-most-liveable-megacity.md
-updated: 2026-04-13
+  - raw/asia/260414-girls-aloud.md
+updated: 2026-04-14
 tags: [asia, geopolitics, economics, energy]
 ---
 
@@ -96,6 +97,37 @@ India finds itself pulled in multiple directions by the Iran war and Trump-era d
 - **The Iran war** undermines confidence in America as a partner
 - **May 2025 war with [[pakistan|Pakistan]]** — a four-day air conflict that Pakistan credited Trump with resolving (to India's irritation)
 - India's manufacturing still relies heavily on Chinese inputs and know-how, creating structural dependence even as national-security hawks push for decoupling
+
+## Female Voters Reshape Politics
+
+A historic shift is underway: women are becoming India's decisive voting bloc, and politicians are pivoting to cash-transfer schemes to win them.
+
+### The Turnout Revolution
+- **2024 parliamentary election**: women's turnout (**65.8%**) exceeded men's (**65.6%**) — only the second time in history
+- One **West Bengal constituency**: nearly **88% female turnout** — a rate scarcely imaginable in most Western countries
+- Between **1962 and 2024**: men's turnout rose just **3 percentage points**; women's rocketed by nearly **20 percentage points**
+- **Pre-1951-52 election**: ~**3 million women** struck off voter rolls because they had registered only as "mothers" or "sisters" of male family members, not by their own names
+- Biggest driver of the recent jump: **rising female literacy** (State Bank of India analyst study)
+
+### How Women Vote Differently
+- Less than **10% of women** in a national survey cited "ideology" as their reason for picking a candidate
+- Women are **less swayed by culture-war issues** — e.g., politicians' claims about threats to Hinduism or "illegal infiltrators" from Muslim-majority Bangladesh
+- Instead, women respond more to **tangible welfare promises**
+- **"More defined survival instinct"** (Ruhi Tewari, *What Women Want*): Indian women hold paid jobs at roughly **half the rate of men**, so they are far less confident about future income security
+
+### The Cash-Transfer Arms Race
+- At least **16 of 28 states** now operate direct cash-transfer schemes for women only — up from a handful in 2022
+- Sums range from **800 to 2,500 rupees ($11–27) per month**
+- Varying criteria: age, income, marital status
+- **Bihar state election (November 2025)**: BJP and allies deposited **10,000 rupees** into accounts of **7.5m women** weeks before the vote — by one estimate may have boosted coalition seats by **one-fifth**
+- In the latest fiscal year, Indian authorities spent ~**1.7 trillion rupees** on unconditional cash-transfer programmes (mostly for women)
+
+### The Fiscal and Policy Backlash
+- About **half the states** running these schemes have revenue deficits
+- **West Bengal**: state-government debt is **38% of state GDP** (approaching record); [[kolkata|Lakshmir Bhandar]] alone consumes **10% of state revenue receipts** — and BJP is campaigning to double payouts
+- **Dipsita Dhar** (Communist candidate, West Bengal): living standards should rise through "wages and working conditions, not gifts that disappear when politicians are voted out"
+- **India's finance ministry** warned cash programmes risk **crowding out investment in education and health care** — the very services that would more durably improve women's lives
+- **Zaad Mahmood** (Kolkata political scientist): an education stipend "does nothing to save students from run-down classrooms or bad teachers"
 
 ## West Bengal and Kolkata: The Stagnation Paradox
 
@@ -199,6 +231,37 @@ India finds itself pulled in multiple directions by the Iran war and Trump-era d
 - **이란 전쟁**은 미국이 신뢰할 수 있는 파트너라는 확신을 약화
 - **2025년 5월 [[pakistan|파키스탄]]과의 전쟁** — 4일간의 공중전으로, 파키스탄이 트럼프의 중재 공로를 돌렸다 (인도에게는 큰 불만)
 - 인도 제조업은 여전히 중국 부품과 기술에 크게 의존하며, 안보 강경파가 디커플링을 밀어붙여도 구조적 의존이 지속
+
+## 여성 유권자가 정치를 재편하다
+
+역사적 전환이 진행 중이다: 여성이 인도의 결정적 투표 블록이 되면서, 정치인들은 이들을 사로잡기 위해 현금 지원 제도로 방향을 틀고 있다.
+
+### 투표율 혁명
+- **2024년 총선**: 여성 투표율(**65.8%**)이 남성(**65.6%**)을 초과 — 역사상 두 번째
+- **서벵골의 한 선거구**: 여성 투표율 약 **88%** — 대부분의 서구 국가에서 상상하기 어려운 수준
+- **1962년과 2024년 사이**: 남성 투표율은 **3%p** 상승에 그친 반면, 여성은 약 **20%p** 급증
+- **1951-52년 첫 선거 이전**: 약 **300만 명의 여성**이 자신의 이름이 아닌 남성 가족 구성원의 "어머니" 또는 "자매"로만 등록했다는 이유로 유권자 명부에서 삭제됨
+- 최근 급증의 가장 큰 원인: **여성 문해율 상승** (인도 스테이트 뱅크 분석가 연구)
+
+### 여성의 다른 투표 성향
+- 전국 조사에서 후보자를 "이념" 때문에 선택했다고 답한 여성은 **10% 미만**
+- 여성은 **문화전쟁 이슈에 덜 흔들림** — 예: 힌두교에 대한 위협이나 무슬림 다수국 방글라데시로부터의 "불법 침입자"에 대한 정치인들의 주장
+- 대신 **구체적인 복지 공약**에 더 반응
+- **"더 명확한 생존 본능"** (Ruhi Tewari, *What Women Want* 저자): 인도 여성의 유급 고용률은 남성의 약 **절반** 수준이어서, 미래 소득 안정성에 대한 자신감이 훨씬 낮음
+
+### 현금 지원 군비 경쟁
+- **28개 주 중 최소 16개 주**가 여성 전용 직접 현금 지원 제도 운영 — 2022년 소수에서 급증
+- 금액은 월 **800~2,500루피(11~27달러)**
+- 다양한 기준: 연령, 소득, 혼인 상태
+- **비하르 주의회 선거(2025년 11월)**: BJP와 동맹이 선거 수 주 전 **750만 명 여성 계좌**에 **10,000루피**씩 입금 — 한 추정에 따르면 연립 의석을 **5분의 1** 증가시켰을 가능성
+- 최근 회계연도에 인도 당국은 무조건 현금 지원 프로그램(주로 여성 대상)에 약 **1.7조 루피** 지출
+
+### 재정적·정책적 반발
+- 이 제도를 운영하는 **주의 약 절반**이 세입 적자 상태
+- **서벵골**: 주정부 부채는 **주 GDP의 38%** (기록적 수준 접근); [[kolkata|Lakshmir Bhandar]] 하나만으로 **주 세입의 10%** 소진 — BJP는 지급액 두 배 인상을 공약
+- **Dipsita Dhar** (서벵골 공산당 후보): 생활수준은 "정치인이 낙선하는 순간 사라지는 선물이 아니라 임금과 노동 조건"을 통해 높여야 한다고 주장
+- **인도 재무부**는 현금 프로그램이 **교육·보건 투자를 구축(crowding out)**할 위험이 있다고 경고 — 여성의 삶을 진정으로 개선할 서비스
+- **Zaad Mahmood** (콜카타 정치학자): 교육 장학금은 "낡은 교실이나 나쁜 교사로부터 학생을 구하지 못한다"
 
 ## 서벵골과 콜카타: 정체의 역설
 

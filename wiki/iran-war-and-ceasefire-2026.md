@@ -13,7 +13,8 @@ sources:
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/briefing/260408-damage-report.md
   - raw/briefing/260409-with-a-whimper.md
-updated: 2026-04-13
+  - raw/middle-east-and-africa/260414-the-other-front.md
+updated: 2026-04-14
 tags: [war, middle-east, united-states, iran, ceasefire]
 ---
 
@@ -29,6 +30,7 @@ tags: [war, middle-east, united-states, iran, ceasefire]
 - **April 12 (talks collapse)**: After ~21 hours of negotiations stretching through the night, Vance emerges with a **three-minute press conference** — no deal. "We have not reached an agreement… they have chosen not to accept our terms." Iran's foreign-ministry spokesman **Esmaeil Baqaei** says talks took place amid "mistrust and suspicion"; state media blames American "excessive demands." **No date set for another meeting.** Two-week ceasefire (from April 8) remains in force and can be extended by mutual agreement.
 - **April 12 (Trump blockade order)**: After talks end, Trump orders US Navy to impose its own blockade on Hormuz and to "seek and interdict" every vessel in international waters that paid a toll to Iran. **Pentagon** has deployed thousands of marines; a third aircraft carrier is crossing the Atlantic and an amphibious-warfare group is crossing the Pacific — both arriving before ceasefire expiry. Two US destroyers transited Hormuz on April 11, beginning a **mine-clearing operation**.
 - **April 13, 2026 (counter-blockade in effect)**: Trump's US naval blockade of **traffic to and from Iranian ports and coastal areas** goes into effect — a counter-blockade responding to Iran's grip on Hormuz. Rationale: "if neutral cargo cannot pass unhindered, Iran's can't either." Two large Chinese state-owned tankers carrying Iraqi and Saudi oil and a Liberia-flagged tanker had passed through Hormuz on April 11 after paying Iran a fee, providing the trigger Trump had warned about on April 12. **CENTCOM** announced the blockade would be enforced **impartially** — a legal requirement — against ships of all nationalities that had transited Iranian ports or coastal waters, including vessels from India, China, Pakistan, Thailand, France, and Turkey. Iran has **threatened retaliation** if the blockade takes effect.
+- **April 14, 2026 (Lebanon front — first direct talks)**: Israel and Lebanon's ambassadors meet in Washington for the **first official direct talks between the two countries in decades**. Hizbullah is not party. Even as Iran and America negotiate to extend their ceasefire, **Israel resists ending its war in Lebanon**, and **America backs Israel's refusal** to accept a Lebanon ceasefire — demonstrating that the broader "ceasefire" has fragmented into separate fronts with different status. See [[israel]] for detail.
 
 ## Scale
 
@@ -76,6 +78,31 @@ Key question: Can Trump "really declare victory over Iran if it can now act as t
 - Best reason to think Trump won't return to war: "he now grasps he should never have started it"
 - Iran's reasons to hold back: leaders keep being killed, economy devastated, want sanctions relief
 - Risk of renewed war: "if Iran overplays its hand"
+
+## The Fragmented Ceasefire: A Separate Lebanon Front
+
+The broader "ceasefire" is no longer one thing — it has **fragmented into separate fronts with different status**:
+- **Iran–US track**: Two-week ceasefire from April 8, Islamabad talks collapsed April 12, counter-blockade in effect April 13, extension being negotiated
+- **Lebanon track**: Active war continues; Israel refuses to accept a ceasefire; **America backs that refusal** (despite Trump's "low-key" rebuke of the April 8 Beirut strikes)
+
+### Lebanon casualties and displacement (6 weeks)
+- **2,000+ killed** by Israeli air strikes
+- **1+ million displaced** from their homes
+- **April 8 Beirut strikes**: at least **357 killed**, many civilians — drew rare Trump rebuke ("low-key" the attacks); Israel has since avoided Beirut but continues elsewhere
+
+### April 14 direct talks (Washington)
+- Israel-Lebanon ambassadors meet for **first direct talks in decades**. Hizbullah is **not party**.
+- **Netanyahu demands**: Lebanese government present comprehensive plan to **disarm Hizbullah AND establish diplomatic relations**.
+- **Lebanon says**: ceasefire **without preconditions**; cannot deliver disarmament plan — government and army "too weak"; would take years.
+- **Hizbullah/Iran response**: "thinly veiled threats of a **violent coup against the government in Beirut**" should Lebanon try to disarm them.
+
+### Why Israel's Lebanon war isn't working
+- April 3: An IDF general admitted full Hizbullah disarmament is impossible "without occupying all of Lebanon"; said war aims should be **"humble"** — drew political backlash.
+- April 11: Netanyahu announced **8–10 km "security zone"** inside Lebanon — IDF officers concede it only blocks **short-range** threats, not longer-range missiles/drones.
+- Hizbullah was weakened in late 2024 (Nasrallah killed, missiles damaged), **but IDF commanders have been surprised** by fighters' willingness and ability to hold southern strongholds (Khiam, Bint Jbeil). The fighting has **"failed to degrade any further what remains of Hizbullah's command structure"**.
+- Israeli official: Hizbullah's **"main advantage is that they are prepared to pay much higher prices than us"** — existential asymmetry.
+
+**Implication for the broader ceasefire**: Iran has previously conditioned talks on a Lebanon ceasefire; America's backing of Israel's refusal is an unresolved structural fault in the emerging Iran-US understanding. See [[israel]] for detail.
 
 ## Why Islamabad Failed — and What a Deal Might Look Like
 
@@ -162,6 +189,7 @@ This conflict is the defining case study of [[great-power-rivalry]] dynamics in 
 - **4월 12일 (회담 결렬)**: 밤새 약 21시간 협상 끝에 밴스가 **3분짜리 기자회견**으로 결렬 선언. "합의에 도달하지 못했다… 이란이 우리 조건을 받아들이지 않기로 했다." 이란 외무부 대변인 **Baqaei**는 "불신과 의심" 속에 진행됐다고 평가, 국영매체는 미국의 "과도한 요구"가 원인이라고 비난. **차기 회담 일정 미정.** 2주 휴전(4월 8일 기준)은 유효하며 상호 합의로 연장 가능.
 - **4월 12일 (트럼프 봉쇄 명령)**: 회담 종료 후 트럼프가 미 해군에 호르무즈 자체 봉쇄를 명령하고 "이란에 통행료를 낸 국제 해역의 모든 선박을 색출·차단"하도록 지시. **국방부**는 수천 명의 해병대를 이미 배치했고 **세 번째 항공모함**이 대서양을, **상륙전단**이 태평양을 횡단 중 — 모두 휴전 만료 전 도착 예정. 4월 11일 미 구축함 2척이 호르무즈 **기뢰 제거 작전**을 시작하며 해협을 통과.
 - **2026년 4월 13일 (맞봉쇄 발효)**: 트럼프의 미 해군 봉쇄가 **이란 항구 및 연안 출입 선박**을 대상으로 발효 — 이란의 호르무즈 장악에 대한 맞봉쇄(counter-blockade). 논리: "중립국 화물이 자유롭게 통과하지 못한다면, 이란 화물도 통과할 수 없다." 이라크산·사우디산 원유를 실은 중국 국영 대형 유조선 2척과 라이베리아 국적 유조선 1척이 4월 11일 이란에 통행료를 내고 호르무즈를 통과하여, 트럼프가 4월 12일 경고했던 차단 발동 요건을 충족시켰다. **CENTCOM(미 중부사령부)**은 국제법상 요구되는 **공정한 집행(impartial enforcement)** 원칙에 따라, 이란 항구나 연안 수역을 통과한 **모든 국적**의 선박(인도, 중국, 파키스탄, 태국, 프랑스, 튀르키예 포함)에 대해 봉쇄를 적용할 것이라고 발표. 이란은 봉쇄 발효 시 **보복**을 위협한 상태.
+- **2026년 4월 14일 (레바논 전선 — 수십 년 만의 첫 직접 회담)**: 이스라엘과 레바논의 대사가 워싱턴에서 **수십 년 만에 처음으로 양국 간 공식 직접 회담**을 개최. Hizbullah는 당사자가 아님. 이란과 미국이 휴전 연장을 협상하는 와중에도, **이스라엘은 레바논 전쟁 종식을 거부**하고 있으며 **미국이 이스라엘의 거부를 지지** — 넓은 의미의 "휴전"이 서로 다른 상태의 여러 전선으로 **파편화**되었음을 보여준다. 세부는 [[israel]] 참조.
 
 ## 규모
 
@@ -209,6 +237,31 @@ INTERTANKO(유조선 선주 협회)는 현 상황이 "완전한 휴전 합의가
 - 트럼프가 전쟁에 복귀하지 않을 것이라고 판단하는 근거: "이제야 전쟁을 시작하지 말았어야 했다는 것을 깨달았다"
 - 이란이 자제하는 이유: 지도부 계속 피살, 경제 황폐화, 제재 완화 필요
 - 전쟁 재개 위험: "이란이 과욕을 부릴 경우"
+
+## 파편화된 휴전: 별도의 레바논 전선
+
+광의의 "휴전"은 더 이상 하나가 아니다 — **서로 다른 상태의 여러 전선으로 파편화**되었다:
+- **이란–미국 트랙**: 4월 8일부터 2주 휴전, 4월 12일 이슬라마바드 회담 결렬, 4월 13일 맞봉쇄 발효, 연장 협상 중
+- **레바논 트랙**: 전쟁 계속 진행; 이스라엘 휴전 수용 거부; **미국이 그 거부를 지지**(4월 8일 베이루트 공습에 대한 트럼프의 "low-key" 질책에도 불구하고)
+
+### 레바논 사상자·실향 (6주)
+- 이스라엘 공습으로 **2,000명 이상 사망**
+- **100만 명 이상** 실향
+- **4월 8일 베이루트 공습**: **최소 357명 사망**, 다수가 민간인 — 트럼프의 드문 질책("공격 수위를 낮춰라"); 이후 이스라엘은 베이루트는 피하고 있으나 다른 지역은 계속 공격
+
+### 4월 14일 직접 회담 (워싱턴)
+- 이스라엘–레바논 대사 **수십 년 만의 첫 직접 회담**. Hizbullah는 **당사자 아님**.
+- **Netanyahu 요구**: 레바논 정부가 **Hizbullah 무장해제 및 외교관계 수립**을 위한 포괄적 계획 제시.
+- **레바논 입장**: **전제조건 없는 휴전**; 무장해제 계획 제공 불가 — 정부와 군대가 "너무 약함"; 수년 소요.
+- **Hizbullah/이란 반응**: 레바논이 무장해제 시도 시 **"베이루트 정부에 대한 폭력적 쿠데타 위협"**을 노골적이진 않지만 분명히 암시.
+
+### 왜 이스라엘의 레바논 전쟁은 성과를 못 내는가
+- 4월 3일: 한 IDF 장성이 Hizbullah 완전 무장해제는 "레바논 전역 점령 없이는 불가능"하다며 전쟁 목표가 더 **"겸손(humble)"**해야 한다고 발언 — 정치적 반발.
+- 4월 11일: Netanyahu가 레바논 내 **8–10km "안보 구역"** 발표 — IDF 장교들은 이것이 **단거리** 위협만 막을 뿐 장거리 미사일·드론은 저지하지 못한다고 인정.
+- Hizbullah는 2024년 말 큰 타격(나스랄라 피살, 미사일 무기고 파괴)을 입었으나, **IDF 지휘관들은 놀라고 있다** — 전투원들의 의지와 남부 요충지(Khiam, Bint Jbeil) 사수 능력에. 현재의 전투는 **"Hizbullah에 남은 지휘구조를 더 이상 약화시키는 데 실패"**.
+- 이스라엘 당국자: Hizbullah의 **"가장 큰 장점은 우리보다 훨씬 큰 대가를 치를 각오가 되어 있다는 점"** — 실존적 비대칭성.
+
+**넓은 휴전 국면에 대한 함의**: 이란은 과거 레바논 휴전을 회담 참여 조건으로 내걸어 왔다; 이스라엘의 거부에 대한 미국의 지지는 형성 중인 미-이란 합의 구도의 **미해결 구조적 결함**이다. 세부는 [[israel]] 참조.
 
 ## 이슬라마바드 결렬 원인과 합의 가능 구도
 

@@ -5,7 +5,8 @@ sources:
   - raw/leaders/260409-our-cover.md
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/briefing/260409-with-a-whimper.md
-updated: 2026-04-11
+  - raw/middle-east-and-africa/260414-the-other-front.md
+updated: 2026-04-14
 tags: [middle-east, military, geopolitics]
 ---
 
@@ -51,6 +52,39 @@ On ceasefire day 1, Israel attacked **~100 targets in Lebanon** instead of Iran.
 **Lebanon total since the war began**: over **1,500 killed** and **1 million displaced**. As of April 11: Israeli strikes have killed **300+ people in Lebanon** since Wednesday alone. Iran now conditions joining Pakistan talks on a Lebanon ceasefire. Israel-Lebanon talks expected in Washington next week — a rare meeting between countries with no diplomatic ties.
 
 Despite Israel's campaign, **Hezbollah retains over 10,000 short-range weapons and hundreds of mid-range missiles** — its arsenal was degraded but far from eliminated.
+
+### First Direct Talks in Decades (April 14, 2026)
+
+- **April 14**: Israel and Lebanon ambassadors met in Washington for the **first official direct talks between the two countries in decades**. Hizbullah is **not party** to the talks.
+- **Israeli demand**: Netanyahu insists the Lebanese government present a comprehensive plan to **disarm Hizbullah AND establish diplomatic relations** with Israel as preconditions.
+- **Lebanese position**: Lebanon wants a ceasefire **without preconditions**; it concedes it cannot deliver a disarmament plan. The Lebanese government and army are "too weak" to disarm Hizbullah; such a shift would take **years** and requires political consensus in Lebanon's fractured society plus army capacity-building.
+- **Hizbullah/Iran pressure**: In recent days Hizbullah's leaders and Iranian backers have made **"thinly veiled threats of a violent coup against the government in Beirut"** should Lebanon try to disarm them.
+
+### Security Zone and Military Reality
+
+- **April 11**: Netanyahu announced an **8–10 km "security zone"** inside Lebanese territory.
+  - IDF officers admit the buffer zone **only blocks short-range infiltration and missiles** — it will **not stop Hizbullah's longer-range missiles and drones** attacking deeper inside Israel.
+- **April 3**: An **IDF general** told journalists that fully disarming Hizbullah would be impossible **"without occupying all of Lebanon"** and that Israel's war aims should be more **"humble"** — drawing political backlash from ministers and northern residents. "Humility is an unfamiliar concept to Israel's hard-right government."
+- **Drone defence on the northern border**: Israeli systems intercept most aerial threats, but **a few drones are still getting through** — triggering sirens over Kiryat Shmona and sending residents to shelter. The ridge overlooking the town is "littered with fragments of drones shot down in recent weeks."
+
+### Hizbullah's Surprising Resilience
+
+- Hizbullah was **significantly weakened** in late 2024: **Hassan Nasrallah** and many other leaders assassinated; much of the missile arsenal destroyed.
+- **BUT**: IDF commanders in the field say they have been **"surprised at the willingness of [Hizbullah] fighters to join the battle"** and their ability to hold out in their main **southern strongholds of Khiam and Bint Jbeil**.
+- The current fighting has **"failed to degrade any further what remains of Hizbullah's command structure."**
+- Israeli official quote: Hizbullah's **"main advantage is that they are prepared to pay much higher prices than us"** — because their survival is at stake (existential asymmetry).
+
+### Post-Ceasefire Escalation and Trump Rebuke
+
+- **April 8** (shortly after the [[iran-war-and-ceasefire-2026|Trump-Iran ceasefire]] announcement): Israel struck **Beirut and other parts of Lebanon**, killing **at least 357 people**, many civilians. The IDF claimed targets were Hizbullah members operating hidden "command centres."
+- The attacks drew **wide international condemnation** and a **rare rebuke from Trump**, who on a call told Netanyahu to **"low-key"** the attacks.
+- Israel has **since refrained from striking Beirut** — but **America has backed Israel's refusal to accept a ceasefire** in Lebanon.
+
+### 6-Week Toll
+
+- **2,000+ killed** in Lebanon by Israeli strikes
+- **1+ million displaced** from their homes
+- Overwhelmingly **Lebanese civilians** bear the cost as the war grinds on
 
 ## See Also
 - [[iran-war-and-ceasefire-2026]]
@@ -104,3 +138,36 @@ Despite Israel's campaign, **Hezbollah retains over 10,000 short-range weapons a
 **전쟁 개시 이후 레바논 피해 총계**: **1,500명 이상 사망**, **100만 명 이상 실향**. 4월 11일 기준: 수요일 이후 이스라엘의 레바논 공습으로 **300명 이상** 사망. 이란은 파키스탄 회담 참여 조건으로 레바논 휴전을 요구. 다음 주 워싱턴에서 이스라엘-레바논 회담 예정 — 외교 관계가 없는 두 나라 간의 드문 만남.
 
 이스라엘의 작전에도 불구하고, **헤즈볼라는 10,000발 이상의 단거리 무기와 수백 발의 중거리 미사일을 보유**하고 있다 — 무기고는 약화되었지만 결코 제거되지 않았다.
+
+### 수십 년 만의 첫 직접 회담 (2026년 4월 14일)
+
+- **4월 14일**: 이스라엘과 레바논의 대사가 워싱턴에서 **수십 년 만에 처음으로 양국 간 공식 직접 회담**을 가졌다. Hizbullah는 회담의 **당사자가 아니다**.
+- **이스라엘 요구**: Netanyahu는 레바논 정부가 **Hizbullah 무장해제 및 이스라엘과의 외교관계 수립**을 위한 포괄적 계획을 전제조건으로 제시할 것을 고수한다.
+- **레바논 입장**: 레바논은 **전제조건 없는 휴전**을 원하며, 무장해제 계획을 제공할 수 없다고 인정. 레바논 정부와 군대는 Hizbullah를 무장해제시키기에 **"너무 약하다"**; 이러한 전환은 **수년**이 걸리며 분열된 레바논 사회의 정치적 합의와 군의 역량 강화가 요구된다.
+- **Hizbullah/이란 압박**: 최근 Hizbullah 지도부와 이란 후원자들은 레바논이 무장해제를 시도할 경우 **"베이루트 정부에 대한 폭력적 쿠데타 위협을 노골적이지는 않지만 분명하게 암시"**하고 있다.
+
+### 안보 구역과 군사적 현실
+
+- **4월 11일**: Netanyahu는 레바논 영토 내 **8–10km "안보 구역"**을 발표.
+  - IDF 장교들은 이 완충지대가 **단거리 침투와 미사일만 차단**할 뿐, 이스라엘 종심을 공격하는 **Hizbullah의 장거리 미사일과 드론은 막을 수 없다**고 인정.
+- **4월 3일**: 한 **IDF 장성**이 기자들에게 Hizbullah를 완전히 무장해제하려면 **"레바논 전역을 점령해야"** 가능하며, 이스라엘의 전쟁 목표는 더 **"겸손해야(humble)"** 한다고 발언 — 장관들과 북부 주민의 거센 반발을 샀다. "겸손은 이스라엘 강경우파 정부에게 낯선 개념이다."
+- **북부 국경 드론 방어**: 이스라엘 시스템은 대부분의 공중 위협을 요격하지만, **일부 드론은 여전히 뚫고 들어와** 키리얏 슈모나에 사이렌을 울리고 주민들을 방공호로 대피시킨다. 이 도시를 내려다보는 능선은 "최근 몇 주간 격추된 드론 파편들로 흩어져" 있다.
+
+### Hizbullah의 놀라운 회복력
+
+- Hizbullah는 2024년 말 **심각한 타격**을 입었다: **Hassan Nasrallah**와 다수 지도부 암살, 미사일 무기고 상당 부분 파괴.
+- **그러나**: 전장의 IDF 지휘관들은 **"Hizbullah 전투원들이 전투에 합류하려는 의지"**와 주요 **남부 요충지 Khiam 및 Bint Jbeil에서 버텨내는 능력**에 놀라고 있다고 평가.
+- 현재의 전투는 **"Hizbullah에 남아 있는 지휘구조를 더 이상 약화시키는 데 실패"**했다.
+- 이스라엘 당국자 발언: Hizbullah의 **"가장 큰 장점은 우리보다 훨씬 큰 대가를 치를 각오가 되어 있다는 점"** — 그들에게는 생존이 걸린 문제이기 때문(실존적 비대칭성).
+
+### 휴전 이후의 확전과 트럼프의 질책
+
+- **4월 8일** ([[iran-war-and-ceasefire-2026|트럼프-이란 휴전]] 발표 직후): 이스라엘이 **베이루트와 레바논의 다른 지역**을 공습해 **최소 357명 사망**, 다수가 민간인. IDF는 목표가 은폐된 "지휘 본부"를 운영하는 Hizbullah 대원이었다고 주장.
+- 이 공습은 **광범위한 국제적 비난**과 **트럼프의 드문 질책**을 불러일으켰다. 트럼프는 통화에서 네타냐후에게 공격을 **"low-key(수위를 낮춰라)"**고 지시.
+- 이후 이스라엘은 **베이루트 공습을 자제**하고 있으나, **미국은 이스라엘의 레바논 휴전 거부를 지지**하고 있다.
+
+### 6주간의 피해
+
+- 이스라엘 공습으로 레바논에서 **2,000명 이상 사망**
+- **100만 명 이상** 집을 잃고 피난
+- 전쟁이 장기화될수록 그 대가는 대부분 **레바논 민간인**이 치르고 있다
