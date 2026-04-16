@@ -56,7 +56,7 @@ updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted, wider distribution). Samsung foundry is the asymmetric hedge vs SK Hynix pure-play.
 
-## Sources Ingested (90)
+## Sources Ingested (93)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -150,3 +150,6 @@ updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 | 2026-04-14 | American corporate boards under siege | Business |
 | 2026-04-14 | 60/40 portfolio breakdown (Buttonwood) | Finance & Economics |
 | 2026-04-14 | Tax revolt across both parties | United States |
+| 2026-04-15 | AI labs locking up frontier models (Mythos/GPT-5.4) | Business |
+| 2026-04-15 | Gulf $5trn sovereign wealth fund stress | Finance & Economics |
+| 2026-04-15 | Hegseth's Pentagon purge (21 generals ousted) | United States |

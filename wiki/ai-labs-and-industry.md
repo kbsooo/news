@@ -6,6 +6,7 @@ sources:
   - raw/science-and-technology/260409-panacea-seer.md
   - raw/business/260408-mythical-monster.md
   - raw/finance-and-economics/260413-code-red.md
+  - raw/business/260415-locked-up-models.md
 updated: 2026-04-13
 tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment]
 ---
@@ -108,6 +109,34 @@ Occupational data (what people call themselves) tells a different story from cor
 
 ### Why This Matters
 The frame shapes policy and market positioning. If AI is already mass-displacing coders, the response is universal basic income and rapid regulation. If the bust is cyclical (rates) + structural (offshoring) + normalizing-from-covid-bubble, the response is different — and the AI-jobs collision is still ahead, not behind.
+
+## The Model Lock-Up Trend
+
+Leading model-makers are shifting from broad API access to **exclusive client programs** for frontier systems. Anthropic's Mythos/Glasswing and OpenAI's vetted-users-only GPT-5.4 hacking variant (April 14, 2026) are the same move. Three reasons converge on this strategy:
+
+### 1. Distillation defense
+- **February 2026**: Anthropic publicly complained about **"industrial-scale"** campaigns by **three Chinese labs** to **"distill"** its models — using one AI system's outputs to train or improve less-capable competing software.
+- OpenAI has lodged similar protests in the past.
+- Distillation is a standard technique (a big model can be distilled into a smaller but mighty one), but distilling a *rival's* model is closer to industrial espionage.
+- **Intellectual-property law is not enough.** The surest way to prevent plagiarism is to deny access in the first place.
+
+### 2. Compute triage
+- Frontier models consume exponentially more power than predecessors. Despite vast data-centre spending, demand keeps outrunning supply.
+- **Mythos is priced at 5x Opus 4.6** — a direct signal of severe infrastructure strain.
+- Anthropic has introduced **usage limits on Claude**, particularly at peak times, and shifted enterprise pricing to **consumption-based** billing.
+- Keeping Mythos behind closed doors lets labs **induct new customers only when capacity allows** — gated access doubles as capacity management.
+
+### 3. Platform lock-in
+- Applications like **Cursor** (an AI coding tool) are popular with enterprises precisely because they **avoid vendor lock-in**: swap models in and out of the back end by cost and performance without forcing staff to learn a new interface.
+- But **developers can't build applications for models they cannot access.** Middleware is starved of the frontier layer.
+- This nudges customers toward model-makers' own first-party tools: **Claude Code** (Anthropic), **Codex** (OpenAI).
+- "Model lock-up" therefore functions as a **competitive moat against middleware** — the labs pull the value-capture layer back to themselves.
+
+### Implications
+- **"Frontier AI" is becoming a two-tier market**: elite clients with Mythos / GPT-5.4-hacking access, and public tiers with capped capability.
+- The **safety framing** ("staggered release to prevent misuse") and the **commercial framing** (lock-in, distillation defense, compute triage) converge on the same strategy. This makes motives hard to disentangle — and easy for labs to argue whichever justification suits the audience.
+- Applications built on **vendor-neutral middleware** (Cursor-style) may be competitively disadvantaged as the highest-capability models retreat behind exclusive programs.
+- Combined with the [[anthropic-mythos|biosecurity-dilemma]] pattern from Isomorphic and Anthropic, this extends the picture: private labs unilaterally decide **who** gets access to dual-use capability, on **what** terms — with no democratic oversight and increasing commercial self-interest.
 
 ## See Also
 - [[anthropic-mythos]]
@@ -215,3 +244,31 @@ AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질
 
 ### 왜 중요한가
 프레임이 정책과 시장 포지셔닝을 좌우한다. AI가 이미 코더를 대량 대체 중이라면 대응은 보편적 기본소득과 신속한 규제이다. 침체가 주기적(금리) + 구조적(오프쇼어링) + 코로나 버블 정상화의 합이라면 대응은 다르다 — 그리고 AI-일자리 충돌은 아직 오지 않았다.
+
+## 모델 잠금(Model Lock-Up) 트렌드
+
+선도적 모델 제작자들이 프론티어 시스템에 대해 광범위한 API 공개에서 **배타적 고객 프로그램**으로 전환하고 있다. Anthropic의 Mythos/Glasswing과 2026년 4월 14일 OpenAI의 검증된 사용자 전용 GPT-5.4 해킹 버전은 동일한 움직임이다. 세 가지 이유가 이 전략에 수렴한다:
+
+### 1. 디스틸레이션(distillation) 방어
+- **2026년 2월**: Anthropic은 **중국 3개 연구소**가 자사 모델을 **"산업적 규모(industrial-scale)"**로 **"디스틸(distill)"** 하려 한다고 공개적으로 문제 제기 — 한 AI 시스템의 출력을 활용해 성능이 낮은 경쟁 소프트웨어를 학습·개선시키는 기법.
+- OpenAI도 과거에 유사한 항의를 한 바 있다.
+- 디스틸레이션 자체는 표준 기법(큰 모델을 작지만 강력한 모델로 축소)이지만, *경쟁사*의 모델을 디스틸하는 것은 산업 스파이 행위에 가깝다.
+- **지식재산권 법만으로는 부족하다.** 표절을 막는 가장 확실한 방법은 애초에 접근을 차단하는 것이다.
+
+### 2. 컴퓨팅 자원 분배(compute triage)
+- 프론티어 모델은 이전 세대보다 기하급수적으로 더 많은 전력을 소모한다. 막대한 데이터센터 투자에도 수요가 공급을 계속 추월한다.
+- **Mythos는 Opus 4.6의 5배 가격** — 심각한 인프라 부담의 직접적 신호다.
+- Anthropic은 특히 피크 시간대에 **Claude 사용량 한도**를 도입하고, 기업용 가격을 **사용량 기반(consumption-based)**으로 전환했다.
+- Mythos를 폐쇄된 문 뒤에 둠으로써 **용량이 허용될 때만 신규 고객을 받아들일 수 있다** — 제한적 접근이 동시에 용량 관리 수단이 된다.
+
+### 3. 플랫폼 락인(lock-in)
+- **Cursor**(AI 코딩 도구) 같은 애플리케이션이 기업에 인기 있는 이유는 바로 **벤더 락인을 피할 수 있기 때문**이다: 직원 재교육 없이 비용과 성능에 따라 백엔드 모델을 교체할 수 있다.
+- 그러나 **개발자들은 접근할 수 없는 모델을 대상으로 애플리케이션을 만들 수 없다.** 미들웨어는 프론티어 계층에서 배제된다.
+- 이는 고객을 모델 제작자의 자체 도구로 이동시킨다: **Claude Code**(Anthropic), **Codex**(OpenAI).
+- "모델 잠금"은 결과적으로 **미들웨어에 대한 경쟁적 해자(moat)**로 기능한다 — 연구소들이 가치 포착 계층을 자신에게로 끌어당긴다.
+
+### 함의
+- **"프론티어 AI"는 점차 2계층 시장이 되고 있다**: Mythos / GPT-5.4 해킹 버전에 접근 가능한 엘리트 고객층과, 역량이 제한된 공개 계층.
+- **안전성 프레임**("오남용 방지를 위한 단계적 공개")과 **상업적 프레임**(락인, 디스틸레이션 방어, 컴퓨팅 자원 분배)이 동일한 전략으로 수렴한다. 동기를 구분하기 어렵게 만들며 — 청중에 따라 원하는 정당화를 선택해 제시하기 쉬워진다.
+- **벤더 중립적 미들웨어**(Cursor 형태)에 기반한 애플리케이션은 최고 역량 모델이 배타적 프로그램 뒤로 후퇴함에 따라 경쟁적으로 불리해질 수 있다.
+- Isomorphic과 Anthropic의 [[anthropic-mythos|생물보안 딜레마]] 패턴과 결합하면 그림이 확장된다: 민간 연구소가 민주적 감독 없이, 그리고 점점 더 커지는 상업적 이해관계 속에서, **누가** 이중용도 역량에 **어떤 조건으로** 접근하는지를 일방적으로 결정한다.

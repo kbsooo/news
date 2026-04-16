@@ -15,8 +15,9 @@ sources:
   - raw/united-states/260413-spin-doctors.md
   - raw/united-states/260414-happy-filing-day.md
   - raw/business/260414-board-to-tears.md
-updated: 2026-04-14
-tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance]
+  - raw/united-states/260415-hegseths-pentagon.md
+updated: 2026-04-15
+tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military]
 ---
 
 # Donald Trump
@@ -96,6 +97,31 @@ Trump's proposed 90,000 sq ft White House ballroom — **quadrupled** from the o
 ### Military and Cabinet Shakeups
 - Defense Secretary Pete Hegseth **fired General Randy George**, the Army chief of staff
 - **Sacked Attorney General Pam Bondi**, replacing her with **Todd Blanche**
+
+## Hegseth's Pentagon Purge
+
+Secretary of War **Pete Hegseth** has, since taking office in 2025, **ousted at least 21 generals** — many for no apparent reason beyond possibly their race, sex, or suspected political leanings. The Economist describes the Pentagon under Hegseth as "beset by vindictiveness, politicisation and the secretary's obsession with instilling a virile, anti-woke 'warrior ethos', which can stretch into disdain for international law."
+
+### The April 2, 2026 Sackings (Mid-War)
+- Hegseth sacked **General Randy George**, America's most senior Army officer, **plus two other senior leaders**
+- "Virtually unheard of" during America's biggest war in decades, with **ground troops heading to the Gulf**. No reason given.
+- **General George's suspected offense**: opposed Hegseth's unusual decision to remove **four officers (two black men and two women)** from a promotion list in March 2026
+- **Replacement — General Christopher LaNeve**: Hegseth's former military assistant, **thin experience** for the role of Army chief of staff (recruiting, training, equipping soldiers). LaNeve called Trump hours after his inauguration to welcome him back to office. Trump: *"Is this man central casting or what?"*
+
+### Expert Assessment
+- **Kori Schake (American Enterprise Institute)**: *"It's unprecedented, there's nothing like firing 21 senior leaders for no obvious reason… [He] has squandered centuries of talent."*
+- **Retired senior judge-advocate-general**: worries that new military lawyers are trying to **"reverse-engineer a legal justification for whatever the administration asked of them"**
+- **Senior military official**: *"The Hegseth mindset is victory at all costs. You're seeing a real conflict in everything that we thought we stood for as a military."*
+- Officers choosing to **retire early** or **withdraw from promotion boards** — e.g. **Admiral Nancy Lacore**, force-retired in 2025, now running for Congress in South Carolina
+
+### Hegseth's Own Profile
+- National Guard "**spit me out**" (his words) after fellow service members flagged him as an **"insider threat"** due to his **"Deus Vult" tattoo** — a symbol used by white nationalists
+- Pentagon insiders say he appears **"bemused during briefings"** and "may feel like an impostor when discussing strategic matters"
+- Former military official: *"He's a 12-year-old boy with a set of army action figures who likes to play war."*
+- At press conferences on [[iran-war-and-ceasefire-2026|Operation Epic Fury]], Hegseth often appears "keener to wage culture wars than the one in Iran"
+
+### Why It Matters
+The 38-day air campaign against Iran — 13,000+ combat sorties, "careful planning and tactical brilliance" — succeeded **despite** Pentagon chaos, largely thanks to technological supremacy, decades of war-fighting experience and a **nonpartisan culture that Hegseth threatens to undermine**. The Economist: *"The damage he is doing could last longer than the conflict with Iran."* See [[iran-war-damage-assessment]].
 
 ## Fraud War as Midterm Messaging
 
@@ -280,6 +306,31 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 ### 군부 및 내각 인사 교체
 - 국방장관 피트 헤그세스가 **랜디 조지 육군참모총장을 해임**
 - **팸 본디 법무장관을 경질**하고 **토드 블랑쉬**로 교체
+
+## 헤그세스의 펜타곤 숙청
+
+**피트 헤그세스** 국방장관("Secretary of War")은 2025년 취임 이래 **최소 21명의 장성을 축출**했다 — 상당수는 **인종, 성별 또는 정치적 성향 의심** 외에는 명백한 이유 없이 해임됐다. 이코노미스트는 헤그세스 하의 펜타곤을 "복수심, 정치화, 그리고 남성성·반(反)워크 '전사 기풍(warrior ethos)' 주입에 집착하는 장관 — 때로는 국제법 경멸로까지 이어지는 — 에 시달리는" 곳으로 묘사한다.
+
+### 2026년 4월 2일 해임 (전시 중)
+- 헤그세스는 미국 최고위 육군 장교인 **랜디 조지 장군**과 **다른 고위 지도자 2명**을 동시에 경질
+- 수십 년 만의 최대 전쟁 중이며 **지상군이 걸프로 향하고 있는** 상황에서 "사실상 전례 없는" 조치. 이유는 제시되지 않음.
+- **조지 장군의 의심되는 '죄'**: 3월 헤그세스가 진급 후보 명단에서 **4명(흑인 남성 2명 + 여성 2명)을 제외**하기로 한 비정상적 결정에 반대한 것
+- **후임 — 크리스토퍼 러네이브 장군**: 헤그세스의 전직 군사보좌관. 모병·훈련·장비를 책임지는 육군참모총장직에 **경험이 부족**하다는 평가. 러네이브는 트럼프 취임 몇 시간 후 대통령에게 전화해 "복귀를 환영"했다. 트럼프: *"이 사람 완전 중앙 캐스팅 감 아냐?"*
+
+### 전문가 평가
+- **Kori Schake (American Enterprise Institute)**: *"전례 없는 일이다. 21명의 고위 지도자를 뚜렷한 이유 없이 해임한 경우는 어디에도 없다… 수백 년치 인재 자산을 낭비했다."*
+- **퇴역 선임 군법무감(judge-advocate-general)**: 신임 군 법무관들이 **"행정부가 요구하는 것이 무엇이든 그에 맞춰 법적 정당화를 역산하려 한다"**고 우려
+- **현직 고위 군 관계자**: *"헤그세스의 사고방식은 '승리를 위해서라면 무엇이든'이다. 우리가 군으로서 지켜왔다고 생각한 모든 것과 진짜 충돌이 일어나고 있다."*
+- **조기 퇴역**을 택하거나 **진급 심사에서 이름을 철회**하는 장교들 — 예: 2025년 강제 퇴역당한 **낸시 라코어 제독**은 현재 사우스캐롤라이나에서 하원 출마 중
+
+### 헤그세스 본인의 이력
+- 국가경비대(National Guard)가 자신을 **"뱉어냈다"** (본인 표현) — 그의 팔에 있는 **"Deus Vult" 문신**(백인 민족주의자들이 사용하는 상징)을 동료 복무자들이 발견하고 그를 **"내부 위협(insider threat)"**으로 신고한 이후
+- 펜타곤 내부자들: 헤그세스는 브리핑 중 **"당혹스러워 보이는"** 경우가 있으며, "전략적 주제를 논할 때 자신이 사기꾼 같다고 느낄 수도 있다"
+- 전직 군 관계자: *"그는 육군 액션 피규어 세트를 가지고 전쟁놀이 하는 걸 좋아하는 12살 소년이다."*
+- [[iran-war-and-ceasefire-2026|Operation Epic Fury]] 관련 펜타곤 기자회견에서 헤그세스는 이란 전쟁보다 **"문화 전쟁"**에 더 몰두한 것처럼 보이는 경우가 많음
+
+### 중요한 이유
+38일간의 대이란 공중 작전 — 13,000회 이상의 전투 출격, "치밀한 계획과 전술적 탁월성" — 은 펜타곤 혼란에도 **불구하고** 성공했다. 이는 주로 기술적 우위, 수십 년의 전쟁 경험, 그리고 **헤그세스가 위협하고 있는 비당파적 문화** 덕분이다. 이코노미스트: *"그가 입히고 있는 피해는 이란과의 분쟁보다 오래갈 수 있다."* [[iran-war-damage-assessment]] 참조.
 
 ## 중간선거 메시지로서의 사기와의 전쟁
 

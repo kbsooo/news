@@ -5,13 +5,29 @@ sources:
   - raw/briefing/260408-damage-report.md
   - raw/briefing/260409-with-a-whimper.md
   - raw/leaders/260409-our-cover.md
-updated: 2026-04-11
+  - raw/united-states/260415-hegseths-pentagon.md
+updated: 2026-04-15
 tags: [war, military, iran, casualties, infrastructure]
 ---
 
 # Iran War Damage Assessment
 
 Comprehensive accounting of damage from the [[iran-war-and-ceasefire-2026|Iran war]] (Feb 28 - Apr 7, 2026).
+
+## Campaign Scale
+
+- **38-day air campaign** produced **more than 13,000 combat sorties**
+- Smashed Iran's armed forces, industrial sites, and nuclear facilities
+- The Economist: characterised by **"careful planning and tactical brilliance"**
+
+### The Pentagon Paradox
+The campaign's tactical success occurred **despite** significant internal chaos at the Pentagon under Secretary of War [[donald-trump|Pete Hegseth]]:
+- **21 generals ousted** since Hegseth took office in 2025
+- **General Randy George** (Army chief of staff) and two other senior leaders **cashiered mid-war** on April 2, 2026
+- Counter-argument (per Economist): operational success should be attributed to **technological supremacy**, **decades of war-fighting experience**, and a **nonpartisan military culture** — *"which Hegseth threatens to undermine"*
+- Hegseth's Pentagon press conferences on **Operation Epic Fury** reportedly appeared more focused on **culture wars than the war in Iran** (anonymous former senior official)
+
+See [[donald-trump]] (Hegseth's Pentagon Purge section) for detail.
 
 ## Scale of Strikes
 
@@ -90,6 +106,21 @@ The war sucked in far more than two belligerents:
 # 이란 전쟁 피해 평가
 
 [[iran-war-and-ceasefire-2026|이란 전쟁]] (2026년 2월 28일 ~ 4월 7일)으로 인한 피해의 종합적 집계.
+
+## 공중 작전 규모
+
+- **38일간의 공중 작전**에서 **13,000회 이상의 전투 출격** 수행
+- 이란의 군 병력, 산업 시설, 핵 시설을 초토화
+- 이코노미스트 평가: **"치밀한 계획과 전술적 탁월성"**
+
+### 펜타곤의 역설
+이 작전의 전술적 성공은 [[donald-trump|피트 헤그세스]] 국방장관 체제 하 펜타곤의 **심각한 내부 혼란에도 불구하고** 달성되었다:
+- 헤그세스가 2025년 취임한 이래 **21명의 장성 축출**
+- 2026년 4월 2일, 전쟁 중 **랜디 조지 육군참모총장**과 기타 고위 지도자 2명 **동시 경질**
+- 이코노미스트의 반론: 작전상 성공의 공은 **기술적 우위**, **수십 년의 전쟁 수행 경험**, 그리고 **비당파적 군 문화** — *"헤그세스가 훼손할 위협을 가하고 있는"* — 에 돌려야 함
+- 헤그세스의 **Operation Epic Fury** 관련 펜타곤 기자회견은 이란 전쟁보다 **문화 전쟁에 더 초점이 맞춰진** 것으로 보였다 (익명의 전직 고위 관계자)
+
+자세한 내용은 [[donald-trump]]의 "헤그세스의 펜타곤 숙청" 섹션 참조.
 
 ## 공습 규모
 

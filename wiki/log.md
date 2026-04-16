@@ -1,9 +1,27 @@
 ---
 title: Log
-updated: 2026-04-15 (India female voters + Lebanon front + tax revolt + 60/40 + American luxury + boards under siege)
+updated: 2026-04-16 (AI model lock-up + Gulf SWF stress + Hegseth purge)
 ---
 
 # Wiki Log
+
+## [2026-04-16] ingest | 3 Economist articles (AI model lock-up + Gulf SWF stress + Hegseth Pentagon purge)
+Sources (3):
+- `raw/business/260415-locked-up-models.md` — Why Anthropic and OpenAI are locking up their latest models
+- `raw/finance-and-economics/260415-treasure-chest.md` — War will drain the Gulf's $6trn treasure chest
+- `raw/united-states/260415-hegseths-pentagon.md` — Pete Hegseth's Pentagon is a lethality-maxxing wasps' nest
+
+Updates:
+- [[anthropic-mythos]]: "Project Glasswing Expanded" — JPMorgan sole initial bank, Asian peer CEO summoned, OpenAI's 4/14 GPT-5.4 hacking tier response, Bessent+Powell convene banks, Mythos costs 5x Opus 4.6 signaling infrastructure strain
+- [[ai-labs-and-industry]]: new "Model Lock-Up Trend" — 3-pillar framework: (1) distillation defense (Anthropic called out 3 Chinese labs in Feb), (2) compute triage (Claude usage limits, consumption-based pricing), (3) platform lock-in (Cursor vendor-neutrality threatens, Claude Code/Codex advantaged). Two-tier frontier market emerging.
+- [[gulf-states]]: "Sovereign Wealth Fund Stress" — $5trn AUM (from $3trn in 2021), $25bn war damage + $30-50bn pipeline bypass, pandemic precedent (ADIA $24bn, KIA $25bn = 3-4% AUM withdrawal), new illiquidity problem (UAE $100bn + Saudi $40bn in AI/data centres, $140bn property, $80bn private credit hard to liquidate), domestic investment souring (hotels, airports, Emirates Global Aluminium 1yr repair, Aldar real estate). Pharaonic projects stumbling: Mukaab suspended, Trojena/Line contracts cancelled.
+- [[donald-trump]]: "Hegseth's Pentagon Purge" — 21 generals ousted, 4/2 General Randy George sacked during war, General LaNeve replacement ("central casting"), Kori Schake "squandered centuries of talent", judge-advocate lawyers "reverse-engineering legal justification", Hegseth's Deus Vult tattoo + National Guard "insider threat" history
+- [[iran-war-damage-assessment]]: "Campaign Scale" — 38-day air campaign, 13,000+ combat sorties, "Pentagon Paradox" = tactical success DESPITE internal chaos, owing to technological supremacy + decades of experience + nonpartisan culture Hegseth threatens
+
+Cross-cutting themes:
+- "Institutional hollowing while demonstrating capability" — US military delivers 13,000 sorties tactically while Pentagon is being gutted; GCC funds command $5trn globally while their domestic transformation stalls; AI frontier labs release Mythos while locking most users out
+- "Two-tier access" pattern: elite Glasswing clients vs public Claude users; GCC foreign assets (cashflow hold) vs domestic bets (wrote down); Pentagon's operational excellence vs leadership purges
+- Compute as the binding constraint: Mythos 5x pricing = capacity rationing. Same for rare earths/helium (prior ingests) — the physical infrastructure binds the digital economy
 
 ## [2026-04-15] ingest | 6 Economist articles (India women + Lebanon + tax revolt + 60/40 + luxury + boards)
 Sources (6):

@@ -3,6 +3,7 @@ title: Anthropic Mythos
 type: event
 sources:
   - raw/business/260408-mythical-monster.md
+  - raw/business/260415-locked-up-models.md
 updated: 2026-04-11
 tags: [ai, cybersecurity, safety, technology]
 ---
@@ -33,6 +34,19 @@ Anthropic's mitigation approach — give defenders a head start:
 - Anthropic revenue: **$30bn annualized** (up from $9bn at end of 2025) — on a roll
 - Critics note Anthropic built the model, ran the tests, and benefits from the perception of power
 - But industry participation suggests the threat is credible
+
+## Project Glasswing Expanded
+
+As exclusivity became a marketing weapon in its own right, Glasswing's perimeter turned into a status symbol:
+
+- **JPMorgan Chase** was the only bank on the initial invite list. Within days, the board of an Asian peer summoned its chief executive to explain how the firm could "swiftly gain access" to Glasswing.
+- **OpenAI response, April 14**: Not to be outshone, OpenAI released its own supercharged-hacking system — a tailored version of **GPT-5.4** — to vetted users only. Staggered release of frontier capability is rapidly becoming the norm across the industry.
+- **US government reaction**: After Mythos was unveiled, **Scott Bessent** (Treasury Secretary) and **Jerome Powell** (Fed Chair) summoned America's biggest banks to discuss the cyber-security risks posed by AI. The event pulled financial regulators directly into the frontier-AI governance conversation.
+- **Pricing signal → infrastructure burden**: Mythos is priced at **5x Opus 4.6**, Anthropic's most powerful publicly available model. That ratio implies Mythos is disproportionately compute-hungry. Anthropic has simultaneously:
+  - Introduced **usage limits on Claude** during peak times
+  - Shifted **enterprise pricing to consumption-based** billing
+  
+  Keeping Mythos behind closed doors lets Anthropic induct new customers only as capacity allows — the safety frame and the compute-triage frame converge on the same gated-access strategy. See [[ai-labs-and-industry]] for the broader "model lock-up" pattern.
 
 ## Geopolitical Dimensions
 
@@ -82,6 +96,19 @@ Anthropic의 완화 전략 — 방어자에게 선제적 우위를 제공:
 - Anthropic 매출: **연간 300억 달러($30bn)** (2025년 말 90억 달러에서 성장) — 급성장 중
 - 비평가들은 Anthropic이 모델을 직접 만들고, 테스트를 수행하고, 그 강력함에 대한 인식으로부터 이익을 얻는다고 지적
 - 그러나 업계의 참여는 위협이 실질적임을 시사
+
+## 프로젝트 Glasswing 확장
+
+배타성 자체가 마케팅 무기로 작동하면서, Glasswing의 울타리는 일종의 지위 상징으로 변했다:
+
+- **JPMorgan Chase**가 최초 초청 명단에 포함된 유일한 은행. 며칠 뒤 한 아시아 은행의 이사회가 CEO를 소환해 자신들도 어떻게 "신속히 Glasswing에 접근"할 수 있는지를 설명하라고 요구했다.
+- **OpenAI의 대응, 4월 14일**: 뒤질세라 OpenAI도 자체 초강력 해킹 시스템을 공개 — 지난달 출시한 **GPT-5.4** 모델의 맞춤형 버전을 검증된 사용자에게만 제공. 프론티어 역량의 단계적(staggered) 공개가 업계 표준으로 빠르게 굳어지고 있다.
+- **미국 정부 반응**: Mythos 공개 이후 **Scott Bessent**(재무장관)와 **Jerome Powell**(연준 의장)은 미국 대형 은행들을 소집해 AI의 사이버보안 위험을 논의했다. 이로써 금융 규제당국도 프론티어 AI 거버넌스 논의의 당사자로 끌려들어왔다.
+- **가격 신호 → 인프라 부담**: Mythos는 Anthropic의 공개된 최강 모델인 **Opus 4.6의 5배** 가격으로 책정됐다. 이 비율은 Mythos가 비정상적으로 컴퓨팅 자원을 많이 소비한다는 것을 시사한다. Anthropic은 동시에:
+  - 피크 시간대에 **Claude 사용량 한도**를 도입
+  - **기업용 가격 체계를 사용량 기반(consumption-based)** 으로 전환
+  
+  Mythos를 폐쇄된 문 뒤에 두면 Anthropic은 용량이 허용할 때만 신규 고객을 받아들일 수 있다 — 안전성 프레임과 컴퓨팅 자원 분배(triage) 프레임이 동일한 제한 접근 전략으로 수렴한다. 보다 넓은 "모델 잠금(model lock-up)" 패턴은 [[ai-labs-and-industry|AI 연구소와 산업]] 참조.
 
 ## 지정학적 차원
 
