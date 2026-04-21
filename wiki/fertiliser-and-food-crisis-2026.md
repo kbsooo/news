@@ -5,7 +5,8 @@ sources:
   - raw/finance-and-economics/260407-fertility-crsis.md
   - raw/finance-and-economics/260408-the-state-of-the-deal.md
   - raw/leaders/260409-the-hangover.md
-updated: 2026-04-11
+  - raw/leaders/260416-the-impending-global-food-shock-is-preventable.md
+updated: 2026-04-16
 tags: [food, agriculture, fertiliser, energy, poverty, supply-chain]
 ---
 
@@ -68,6 +69,39 @@ When Russia invaded Ukraine (two giant grain exporters), wheat surged 50%. The I
 
 UN working on a fertiliser deal modeled on the 2022-23 Black Sea grain deal that got Russian and Ukrainian grain moving. Progress appears slow.
 
+## The El Niño Compounding Risk (April 16 update)
+
+On top of the Gulf supply shock, the world is due for an **El Niño** — possibly a **"super"** one — whose effects "will stack extremes on top of extremes."
+
+### Historical pattern in poor countries
+- **Argentina, Uruguay**: too much rain
+- **Southern Africa, India, South-East Asia**: too little rain
+- **2015–16 "super" El Niño**: food-crop production down by up to **two-thirds** in some southern African countries
+- **2023–24 El Niño**: worst drought in 100 years for southern Africa; **30m+ people** needed food assistance (World Bank)
+
+### This year's amplification
+Strength won't be clear until northern summer, but it **will layer on top of accelerating global warming** — which makes dry regions drier and wet ones wetter. Even a "moderate" El Niño combined with the Gulf-driven fertilizer crisis **stacks extremes on extremes**.
+
+## Toll of a Prolonged Crisis — WFP Updated Projection
+
+If the Strait of Hormuz is **not open by mid-year**, the **300m+ people already struggling to feed themselves** will be joined by **another 45m**. The total at-risk figure has climbed from earlier 363m projections as the war has dragged on.
+
+## Why Prevention Will Fail (Economist April 16 Leader)
+
+The paper frames the coming crisis as **"preventable"** — and that's precisely the indictment:
+- Much of the needed fertilizer **already exists**
+- There is still time in many regions to apply it to this year's crops
+- The world is **not short of calories** — lots of **corn going into ethanol** could feed humans instead
+- Rich countries have **the means** to pay for food assistance
+
+What's missing:
+- Iran will not willingly allow fertilizer to pass through Hormuz
+- America will not refrain from blockading urea shipments
+- **High petrol prices** make biofuel even more attractive to farmers (reducing food-for-fuel swap)
+- Rich countries are in **"a selfish mood"**
+
+> "Failure to act thus looks baked in. In the face of an avoidable disaster, that is shameful."
+
 ## Connection to Poverty
 
 See [[global-poverty-reduction]] — the food crisis directly threatens to reverse poverty gains, particularly in sub-Saharan Africa where 70% of the world's poor live.
@@ -78,6 +112,7 @@ See [[global-poverty-reduction]] — the food crisis directly threatens to rever
 - [[iran-war-and-ceasefire-2026]]
 - [[global-poverty-reduction]]
 - [[south-korea]]
+- [[asian-remittance-shock-2026]]
 
 ---
 
@@ -143,3 +178,36 @@ See [[global-poverty-reduction]] — the food crisis directly threatens to rever
 ## 빈곤과의 연관성
 
 [[global-poverty-reduction]] 참조 — 식량 위기는 특히 세계 빈곤층의 70%가 거주하는 사하라 이남 아프리카에서 빈곤 감소 성과를 되돌릴 직접적인 위협이 된다.
+
+## 엘니뇨 중첩 위험 (4월 16일 업데이트)
+
+걸프 공급 충격 위에 **엘니뇨** — 어쩌면 **"슈퍼"** 급 — 가 예정되어 있으며 그 효과는 "극단 위에 극단을 쌓을 것"이다.
+
+### 개도국에서의 역사적 패턴
+- **아르헨티나·우루과이**: 강우 과잉
+- **남부 아프리카·인도·동남아**: 강우 부족
+- **2015–16 "슈퍼" 엘니뇨**: 남부 아프리카 일부 국가에서 식량작물 생산 최대 **2/3 감소**
+- **2023–24 엘니뇨**: 남부 아프리카 100년 만의 최악 가뭄; 세계은행 기준 **3,000만 명 이상** 식량 지원 필요
+
+### 올해의 증폭 효과
+북반구 여름이 되어야 강도 확인 가능, 그러나 **가속되는 지구온난화 위에 포개진다** — 건조 지역은 더 건조하게, 습윤 지역은 더 습윤하게. "온건한" 엘니뇨에 걸프발 비료 위기가 합쳐져도 **극단 위에 극단이 쌓인다**.
+
+## 장기화의 희생자 — WFP 갱신 전망
+
+호르무즈 해협이 **연중반까지 개방되지 않는다면**, 이미 **식량 곤란을 겪는 3억 명 이상**에 추가로 **4,500만 명**이 합류한다. 전쟁이 장기화하면서 위험 인구가 기존 3억 6,300만 예측을 뛰어넘는 방향으로 상향.
+
+## 왜 예방이 실패할 것인가 (이코노미스트 4월 16일 리더)
+
+이 매체는 다가오는 위기를 **"예방 가능"** 으로 규정하며, 바로 그 점이 비난의 핵심:
+- 필요한 비료는 **이미 대부분 존재**
+- 많은 지역에서 올해 작물에 비료를 공급할 시간이 남아 있음
+- 세계에 **칼로리 자체는 부족하지 않다** — 에탄올로 가는 **옥수수**를 인간이 먹을 수 있음
+- 부국들은 식량 지원을 **재정적으로 감당 가능**
+
+빠진 것:
+- 이란은 호르무즈 비료 통과를 자발적으로 허용하지 않는다
+- 미국은 요소 화물 봉쇄를 자제하지 않는다
+- **고유가**는 농민들의 바이오연료 매력을 오히려 높인다 (식량 스왑 감소)
+- 부국들은 **"이기적 분위기"**
+
+> "행동하지 않는 것이 예정된 것처럼 보인다. 피할 수 있는 재앙 앞에서, 이는 수치스러운 일이다."

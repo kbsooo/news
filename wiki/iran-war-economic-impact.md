@@ -9,7 +9,9 @@ sources:
   - raw/finance-and-economics/260405-debt-puzzlers.md
   - raw/finance-and-economics/260407-fertility-crsis.md
   - raw/finance-and-economics/260409-semi-baked.md
-updated: 2026-04-11
+  - raw/europe/260416-european-policymakers-fiddle-with-energy-prices-again.md
+  - raw/finance-and-economics/260417-a-narrow-opening.md
+updated: 2026-04-21
 tags: [economics, energy, oil, supply-chain, inflation]
 ---
 
@@ -22,6 +24,26 @@ Markets have been surprisingly resilient — the "Teflon economy." The S&P 500 s
 **But**: if the ceasefire fails, the rally reverses hard — investors would have to price in a war resistant to peacemaking.
 
 **Update (April 11)**: US annual inflation hit **3.3%** in March (highest since May 2024), up from 2.4% in February — driven by surging petrol prices from the war. Core rate rose only slightly, suggesting the impact hasn't fully spread through the economy. S&P 500 ended the week up **3.6%** (best since November). Oil fell below $97.
+
+## April 17–20: Hormuz Reopen Whiplash & The Sequencing Problem
+
+On **April 17** Iran's foreign minister briefly declared Hormuz "completely open"; markets reacted hard:
+- **Brent fell >10% to $89/bbl** (lowest since March 10)
+- **TTF gas spot fell below €40/MWh** for first time since the war began
+- **S&P 500** hit a fresh **all-time high**
+
+By **April 18** the IRGC re-closed the strait, and on **April 20** Trump said the US Navy had **fired upon and boarded an Iranian cargo ship**. Stocks dipped. The whiplash exposed how fragile any "reopening" really is.
+
+### Even if reopening sticks, normalisation takes months
+Three things must happen in **sequence**:
+1. **Gulf production restart** (2-4 weeks) — wells survived if exports resume soon, but ramping back is slow. **Ras Laffan**: 17% capacity hit; **6-7 weeks** to full operation once restarted.
+2. **Tankers must return** (often 6+ weeks) — insurance "an insurer's nightmare" while mines remain. Many tankers found safer business and won't return without **generous freight rates**. Some will finish current Americas-Asia voyages first (~90-day round trips).
+3. **Refiners must process** — Asian refiner throughput will be **~15% lower in April than February** (-4.2m b/d, Kpler); could fall a further **1.5–2m b/d in May** before recovering.
+
+### Demand destruction
+- Brent still **30% above pre-war**, **60% above analysts' January forecasts**
+- **~5m b/d of demand destroyed in April vs February**, most in Asia (Argus Media) — high prices and government rationing
+- Land inventories shrinking, especially in Europe where subsidies prop up consumption (compounding [[european-energy-response-2026|policy mistake]])
 
 ## Energy Supply Disruption
 
@@ -37,6 +59,15 @@ Markets have been surprisingly resilient — the "Teflon economy." The S&P 500 s
 - Gas infrastructure is harder to restart than oil wells
 - Qatar's **Ras Laffan** (world's biggest LNG plant): 2 of 14 units hit by Iranian strikes, **17% capacity lost, 3-5 years to repair**. Functioning units shuttered — need **~4 months to return to full capacity** once restarted (Wood Mackenzie)
 - [[south-korea|South Korea]]: natural gas reserves **days from exhaustion**, weeks before new Gulf LNG can arrive
+
+### Diesel & Jet Fuel (European Transmission Channel)
+Europe is a **net exporter of petrol** but a **net importer of diesel and kerosene** — making the diesel market Europe's most acute transmission channel for the Gulf shock.
+- Europe consumes ~**6.6m bbl/day of diesel**, imports ~**1.2m**; **half of imports came from the Middle East** pre-war (Michael Connolly, ICIS).
+- **Crack spreads** (premium over crude) have ballooned:
+  - Diesel: $10-20/bbl (pre-2022) → **$60/bbl** (April 2026)
+  - Jet fuel: $10-20/bbl → **$100/bbl**
+- **2022 redirect trick no longer works**: few tankers at sea to redirect Gulf→Europe; Asia cannot come to Europe's rescue because Asia itself lacks crude for its own refineries.
+- European policy reflex: fuel-tax cuts, subsidies, state-aid rule loosening — these **subsidise demand when supply is constrained** and are self-defeating. See [[european-energy-response-2026]].
 
 ### Infrastructure Damage
 Total Gulf hydrocarbon infrastructure repair bill: **$25 billion** (Rystad). Key facilities:
@@ -93,6 +124,26 @@ The war has made a powerful case for reducing dependence on the Gulf:
 
 **업데이트 (4월 11일)**: 미국 연간 인플레이션이 3월에 **3.3%**에 도달 (2024년 5월 이후 최고), 2월 2.4%에서 상승 — 전쟁으로 인한 휘발유 가격 급등이 원인. 근원 물가는 소폭 상승에 그쳐 영향이 경제 전반에 완전히 확산되지는 않은 상태. S&P 500은 주간 **3.6%** 상승(11월 이후 최고). 유가는 $97 아래로 하락.
 
+## 4월 17–20일: 호르무즈 재개방 파동과 순차 문제
+
+**4월 17일** 이란 외무장관이 호르무즈 "완전 개방" 짧게 선언; 시장 반응:
+- **브렌트 10% 이상 하락, 89달러/배럴** (3월 10일 이후 최저)
+- **TTF 가스 현물 €40/MWh 이하** (전쟁 이후 처음)
+- **S&P 500** 사상 최고치
+
+**4월 18일** IRGC가 해협 재폐쇄; **4월 20일** 트럼프는 미 해군이 **이란 화물선에 포격·승선**했다고 발언. 주가 하락. 파동은 "재개방"이 실제로 얼마나 취약한지 폭로.
+
+### 재개방이 지속되어도 정상화에 수 개월
+세 단계 **순차**:
+1. **걸프 생산 재가동** (2-4주) — 수출 재개 시 유전 손상 최소, 그러나 램프업은 느림. **Ras Laffan**: 용량 17% 피격; 재가동 시 완전 가동까지 **6-7주**.
+2. **유조선 복귀** (흔히 6주+) — 기뢰 잔존 시 보험 "보험자의 악몽". 다수 유조선이 **더 안전한 항로 발견**, **넉넉한 운임** 없이는 복귀 거부. 일부는 현 미주-아시아 항해 완료 우선(~90일 왕복).
+3. **정유 가동** — 아시아 정유사 4월 처리량이 2월 대비 **~15% 감소**(-420만 b/d, Kpler); 5월에 추가 **150-200만 b/d** 감소 가능.
+
+### 수요 파괴
+- 브렌트 여전히 **전전 대비 +30%**, **1월 분석가 전망 대비 +60%**
+- **4월 대비 2월 ~500만 b/d 수요 파괴**, 대부분 아시아 (Argus) — 고유가·정부 배급
+- 유럽 특히 보조금이 소비를 지지하며 육상 재고 소진([[european-energy-response-2026|정책 실패]] 복합)
+
 ## 에너지 공급 차질
 
 ### 석유
@@ -107,6 +158,15 @@ The war has made a powerful case for reducing dependence on the Gulf:
 - 가스 인프라는 유정보다 재가동이 더 어려움
 - 카타르의 **라스 라판** (세계 최대 LNG 플랜트): 14개 유닛 중 2개가 이란의 공습으로 피격, **17% 용량 손실, 복구에 3~5년 소요**. 가동 중이던 유닛도 폐쇄 — 재가동 후 **풀 가동까지 약 4개월 필요** (Wood Mackenzie)
 - [[south-korea|한국]]: 천연가스 비축량이 **고갈 직전**, 걸프산 신규 LNG 도착까지 수 주 소요
+
+### 디젤·제트유 (유럽 전달 경로)
+유럽은 **휘발유 순수출국**이지만 **디젤·등유 순수입국** — 이것이 걸프 충격의 유럽에 가장 예리한 전달 경로.
+- 유럽 디젤 소비 ~**660만 b/d**, 수입 ~**120만 b/d**; 전쟁 전 수입의 **절반이 중동산** (Michael Connolly, ICIS).
+- **크랙 스프레드**(원유 대비 프리미엄) 급등:
+  - 디젤: $10-20/bbl(2022년 이전) → **$60/bbl** (2026년 4월)
+  - 제트유: $10-20/bbl → **$100/bbl**
+- **2022년식 방향 전환 트릭은 더 이상 작동하지 않음**: 걸프→유럽으로 돌릴 탱커가 바다에 거의 없음; 아시아도 자국 정유소용 원유조차 부족해 유럽을 구제할 수 없음.
+- 유럽 정책 반사신경: 연료세 인하, 보조금, 국가보조 규정 완화 — 이는 **공급이 제약된 상황에서 수요를 보조**하는 자기파괴적 조치. [[european-energy-response-2026]] 참조.
 
 ### 인프라 피해
 걸프 탄화수소 인프라 전체 복구 비용: **250억 달러** (Rystad). 주요 시설:

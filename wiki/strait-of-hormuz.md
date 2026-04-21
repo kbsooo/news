@@ -8,7 +8,11 @@ sources:
   - raw/middle-east-and-africa/260413-double-trouble.md
   - raw/finance-and-economics/260408-the-state-of-the-deal.md
   - raw/finance-and-economics/260407-fertility-crsis.md
-updated: 2026-04-13
+  - raw/asia/260416-singapore-and-malaysia-knock-heads-over-the-war-in-iran.md
+  - raw/leaders/260415-how-to-end-the-war-in-iran.md
+  - raw/finance-and-economics/260417-a-narrow-opening.md
+  - raw/middle-east-and-africa/260419-a-jungle-of-power.md
+updated: 2026-04-21
 tags: [geography, shipping, oil, chokepoint]
 ---
 
@@ -72,6 +76,49 @@ Feasibility is not in doubt — Mark Montgomery (retired rear-admiral) calls it 
 ### Freedom-of-navigation implications
 Combined with Trump's earlier musing about **"jointly"** controlling Hormuz with Iran's regime — a practice that would upend the international law governing such waterways — the blockade puts the principle of freedom of navigation under severe stress. Kevin Rowlands (RUSI Journal): "another nail in the coffin for any pretence that there is such a thing as a rules-based order or international law." US officials assess China will not challenge the blockade, but accepting it sets a precedent China has long feared for the **Strait of Malacca** in a Pacific-war scenario.
 
+## April 17 — "Completely Open" (Briefly)
+
+On **April 17** Iran's foreign minister **Seyed Abbas Araghchi** declared the strait "**completely open**"; Trump echoed: "completely open and ready for business." Markets reacted big:
+- **Brent fell >10% to $89/bbl** (lowest since March 10)
+- **TTF gas spot fell below €40/MWh** for the first time since the war began
+- **S&P 500** hit a fresh **all-time high**
+
+Iran's apparent motivations: signal seriousness about negotiations after Trump announced the **Lebanon ceasefire** (April 16); fear that the US blockade was draining finances; mounting diplomatic pressure including from **Britain, Germany and China**.
+
+### But: not really open
+- **Iran appears to have dropped the toll** (Trump briefly entertained sharing it before deeming it unacceptable)
+- But ships must follow the **IRGC-issued "co-ordinated route"** through Iranian waters around **Larak island**
+- The **established lanes through Omani waters are mined** — funnelling hundreds of tankers through a narrow passage could take **weeks**
+- Trump said "Iran has removed, or is removing, all sea mines" — but he hasn't been a reliable witness; "it will take a brave shipowner to chart a course through them"
+- Araghchi specified sailings allowed **only for the remaining 9 days of the Lebanon ceasefire** — short window
+- **Kpler** spotted only **3 LNG tankers** moving toward UAE ports — "hardly an armada"; "There are too many unknowns" (Matt Wright, Kpler)
+
+## April 18 — Strait Re-Closed
+
+The next day an **IRGC military spokesman** declared the strait closed again; **several vessels came under fire**. Trump mocked the move, noting America's blockade already kept it closed to Iranian ships. The contradictory signals reflect Iran's **internal "jungle of power"** — see [[iran]] for the IRGC-vs-foreign-ministry split.
+
+## Months to Normalise — The Sequencing Problem
+
+Even if a durable opening came tomorrow, energy markets will take **months** to normalise. Three things must happen **in sequence**, each taking weeks:
+
+### 1. Gulf production must restart (2-4 weeks)
+- Most Gulf countries have cut crude output by **>10m b/d** combined; their wells will be limited if export resumes soon — but **2-4 weeks** to recover to pre-war levels
+- **Ras Laffan** (Qatar, normally **17% of world LNG**): 2 of 14 liquefaction units hit early in war (~17% Ras Laffan capacity = **~3% of global LNG supply**); other units need smaller repairs; **6-7 weeks to full operation** once started
+
+### 2. Tankers must return (6+ weeks expected)
+- Insurance may remain elusive or unaffordable for months — "Mines are an insurer's nightmare"
+- Many Gulf-route tankers have **found safer business elsewhere**; enticing them back will require **generous freight rates**
+- Some will **finish current voyages first** — typically Americas-to-Asia round trip of **up to 90 days** (Andrew Wilson, BSR)
+
+### 3. Refiners must process (weeks)
+- Asian refiners have dialled down for want of crude; collective throughput will end up **4.2m b/d lower in April than February** (~**-15%**, Sumit Ritolia, Kpler)
+- If shortages persist, refinery runs could fall a further **1.5–2m b/d** in May (Neil Crosby, Sparta Commodities)
+
+### Demand destruction in the meantime
+- Brent still **30% above pre-war**, **60% above analysts' January 2026 forecasts**
+- **~5m b/d of demand destroyed in April vs February** — most in Asia (Argus Media)
+- Land inventories shrinking, especially in Europe where subsidies prop up consumption
+
 ## The Backlog
 
 As of ceasefire (April 7):
@@ -85,6 +132,24 @@ Backlog could theoretically clear in a week, but captains won't risk it until sa
 **Restocking problem**: Ship owners unlikely to send vessels *into* the Gulf while ceasefire is fragile — may end up trapped if talks collapse. LNG carriers (most valuable) may dodge this risk entirely. "I don't see anybody bringing ships inside the Gulf right now" (Anne-Sophie Corbeau, Columbia University).
 
 Even after departure, Asia-bound vessels take **3+ weeks**; Europe faces **4-6 week** wait for diesel/jet fuel.
+
+## The Malacca Precedent Debate — Singapore vs Malaysia
+
+The toll precedent is already seeding a parallel debate **in South-East Asia** about the [[strait-of-malacca|Strait of Malacca]]. On April 7, Singapore's parliament debated whether to negotiate with Iran for safe passage. **Vivian Balakrishnan** (foreign minister):
+
+> "I cannot engage in negotiations for safe passage of ships or negotiate on toll rates, because to do so would be implicitly eroding this legal principle."
+
+Singapore derives enormous value from its spot on the Malacca Strait; any tolerance of toll-taking at Hormuz undermines its own chokepoint status.
+
+**Malaysia took the opposite position**. **Nurul Izzah Anwar** (daughter of PM Anwar Ibrahim and senior official of his party) called Singapore's statement "revealing and regrettable" and said Singapore was echoing "views of big powers from outside South-East Asia." She called Iran a **victim of war crimes** and its strait closure **a bid for peace**.
+
+### The deeper fault line
+- Singapore–Malaysia have long **disagreed on chokepoint governance**: mid-2000s Singapore wanted big-power cooperation on piracy; Malaysia insisted only littoral states patrol jointly
+- Malaysia cites a **history of non-alignment**; Singapore has long collaborated with Israel (army-building) and America (maritime security)
+- **Electoral politics**: Anwar Ibrahim's Malaysia heads toward elections; standing up to Singapore polls well and counters his Islamist opposition
+
+### Why this matters for Hormuz
+Every country that normalizes the **Iran toll** makes it easier for **other littoral states** (Malaysia-Indonesia for Malacca; Egypt for Suez via informal precedent-setting) to impose tolls in future crises. The Singapore-Malaysia spat is the **first documented public split** between Asian chokepoint states over the Hormuz precedent. See [[maritime-law-and-chokepoints]] for the broader legal framing.
 
 ## Strategic Significance
 
@@ -163,6 +228,49 @@ The strait is the world's most important oil chokepoint. Iran's ability to hold 
 ### 항행의 자유에 대한 함의
 이전에 트럼프가 흘렸던 이란 정권과의 **"공동(joint)"** 호르무즈 관리 구상 — 국제 해협 법제를 전복하는 관행 — 과 결합될 때, 이번 봉쇄는 항행의 자유 원칙에 심각한 압박을 가한다. Kevin Rowlands(RUSI Journal): "규칙 기반 질서니 국제법이니 하는 허울에 박는 또 하나의 못." 미 당국자들은 중국이 봉쇄에 도전하지 않을 것으로 평가하나, 이를 수용하는 것은 태평양 전쟁 시나리오에서 중국이 오랫동안 우려해온 **말라카 해협** 봉쇄 선례를 만드는 것이다.
 
+## 4월 17일 — "완전히 개방" (잠시)
+
+**4월 17일** 이란 외무장관 **아바스 아락치**가 해협 "**완전 개방**" 선언; 트럼프 호응: "완전히 개방되어 영업 준비 완료." 시장 반응:
+- **브렌트 >10% 하락, 89달러/배럴** (3월 10일 이후 최저)
+- **TTF 가스 현물 €40/MWh 이하**로 하락 (전쟁 개시 이래 처음)
+- **S&P 500** 사상 최고치
+
+이란의 동기 추정: 트럼프의 **레바논 휴전**(4월 16일) 발표 후 협상 성의 시사; 미국 봉쇄가 재정을 고갈시킨다는 공포; **영국·독일·중국**을 포함한 외교적 압력.
+
+### 그러나 진짜 개방은 아님
+- **이란이 통행료를 포기한 것으로 보임** (트럼프가 나눠 갖는 방안 잠깐 고려 후 불가 판단)
+- 그러나 선박은 **IRGC가 지정한 "조율된 경로"** — 이란 영해 **라라크 섬** 주변 — 을 따라야 함
+- **오만 영해의 기존 항로는 기뢰 부설** — 좁은 통로로 수백 척 통과 시 **수 주** 소요
+- 트럼프: "이란이 모든 해상 기뢰를 제거했거나 제거 중" — 그러나 그는 신뢰할 만한 증언자가 아님; "그 사이로 항로를 택할 만큼 용감한 선주가 있을까"
+- 아락치는 **레바논 휴전 남은 9일간만** 항행 허용 명시 — 짧은 창
+- **Kpler**는 UAE로 향하는 **LNG 운반선 3척**만 포착 — "대규모 선단이 아님"; "알 수 없는 것이 너무 많다" (Matt Wright, Kpler)
+
+## 4월 18일 — 재차 폐쇄
+
+다음 날 **IRGC 군 대변인**이 해협 폐쇄 선언; **수 척이 포격받음**. 트럼프는 "미국의 봉쇄가 이미 이란 선박 통과를 차단하고 있다"며 조롱. 상반된 신호는 이란의 내부 "**권력의 정글**"을 반영 — IRGC와 외교부 간 분열. [[iran]] 참조.
+
+## 정상화까지 수 개월 — 순차 문제
+
+내일 지속 가능한 개방이 와도 에너지 시장 정상화에는 **수 개월**. 세 단계가 **순차적**으로 진행되어야 하며 각 단계에 수 주:
+
+### 1. 걸프 생산 재가동 (2-4주)
+- 걸프 국가들이 총 **1,000만 b/d 이상** 감산; 수출 재개 시 유전 손상 최소 — **2-4주** 내 전전 수준 복귀
+- **Ras Laffan** (카타르, **세계 LNG의 17%**): 14개 액화 유닛 중 2개 초반 전쟁에서 피격(Ras Laffan 용량의 ~17% = **글로벌 LNG 공급의 ~3%**); 다른 유닛은 소규모 수리 필요; 재가동 시 완전 가동까지 **6-7주**
+
+### 2. 유조선 복귀 (흔히 6주+)
+- 기뢰가 남아 있는 동안 보험은 수개월 확보 불가 — "기뢰는 보험자의 악몽"
+- 걸프 노선 유조선 다수가 **더 안전한 항로로 전환**; 복귀에는 **넉넉한 운임** 필요
+- 일부는 **현재 항해 완료 우선** — 미주-아시아 왕복은 보통 **최대 90일** (Andrew Wilson, BSR)
+
+### 3. 정유사 가동 (수 주)
+- 아시아 정유사들은 원유 부족으로 가동 축소; 총 처리량이 **4월 2월 대비 420만 b/d 감소** (~**-15%**, Sumit Ritolia, Kpler)
+- 공급 부족 지속 시 5월 정유 가동이 추가로 **150-200만 b/d** 감소 가능 (Neil Crosby, Sparta Commodities)
+
+### 그 사이 수요 파괴
+- 브렌트 여전히 **전전 대비 +30%**, **1월 분석가 전망 대비 +60%**
+- **4월 대비 2월 ~500만 b/d 수요 파괴** — 대부분 아시아 (Argus Media)
+- 유럽은 보조금이 소비를 지지하여 육상 재고가 특히 소진 중 ([[european-energy-response-2026|정책 실패]] 복합)
+
 ## 적체 현황
 
 휴전 시점(4월 7일) 기준:
@@ -176,6 +284,24 @@ The strait is the world's most important oil chokepoint. Iran's ability to hold 
 **재입항 문제**: 휴전이 불안정한 상황에서 선주들은 선박을 걸프만 *안으로* 보내려 하지 않을 것이다 — 협상이 결렬될 경우 갇힐 수 있기 때문이다. LNG 운반선(가장 고가)은 이 위험을 완전히 회피할 가능성이 높다. "지금 당장 걸프만 안으로 선박을 들여보내는 사람은 없을 것이다" (Anne-Sophie Corbeau, 컬럼비아대학교).
 
 출항 이후에도 아시아행 선박은 **3주 이상**, 유럽은 디젤/항공유 도착까지 **4~6주**가 소요된다.
+
+## 말라카 선례 논쟁 — 싱가포르 vs 말레이시아
+
+통행료 선례는 이미 **동남아**에서 [[strait-of-malacca|말라카 해협]]에 대한 병행 논쟁을 촉발 중이다. 4월 7일 싱가포르 의회에서 이란과 안전통항을 협상할지 토론. **Vivian Balakrishnan** 외교장관:
+
+> "선박 안전통항이나 통행료 협상에 나설 수 없습니다. 그것이 곧 이 법적 원칙을 암묵적으로 훼손하는 것이기 때문입니다."
+
+싱가포르는 말라카 해협에서의 위치로 막대한 이익을 얻는다. 호르무즈의 통행료 징수를 용인한다면 자국 병목 지위가 흔들린다.
+
+**말레이시아는 정반대 입장**. Anwar Ibrahim 총리의 딸이자 당 지도부인 **Nurul Izzah Anwar**는 싱가포르 입장을 "드러내기 아쉬울 만큼 실망스럽다"고 평가하며 "동남아 외부 강대국의 시각을 반향한 것"이라 규탄. 이란은 **전쟁 범죄의 피해자**이며 해협 폐쇄는 **평화를 위한 행동**이라 주장.
+
+### 더 깊은 분열선
+- 싱가포르와 말레이시아는 오래전부터 **병목 거버넌스를 두고 불일치**: 2000년대 중반 싱가포르는 해적 대응 위해 강대국 협력을, 말레이시아는 연안국만 공동 순찰 가능하다는 원칙을 주장
+- 말레이시아는 **비동맹 전통**; 싱가포르는 이스라엘과 군사 협력(건국 초 군 건설), 미국과 해양 안보 협력이라는 오랜 역사
+- **선거 정치**: Anwar Ibrahim 정부는 선거 국면으로 향하는 중이며, 싱가포르에 맞서는 것이 이슬람주의 야당에 대응하는 정치적 호재
+
+### 호르무즈 관점에서 왜 중요한가
+이란의 **통행료**를 정상화하는 국가가 늘수록, 미래 위기에서 **다른 연안국들**(말라카에 대한 말레이시아·인도네시아; 수에즈에 대한 이집트)이 통행료를 부과하기가 쉬워진다. 싱가포르-말레이시아 설전은 호르무즈 선례를 둘러싼 **아시아 병목 국가들의 최초의 공개적 균열**로 기록된다. 법적 프레임은 [[maritime-law-and-chokepoints]] 참조.
 
 ## 전략적 중요성
 

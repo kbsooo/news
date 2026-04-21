@@ -11,7 +11,8 @@ sources:
   - raw/leaders/260401-geopolitics.md
   - raw/briefing/260408-damage-report.md
   - raw/briefing/260409-with-a-whimper.md
-updated: 2026-04-13
+  - raw/middle-east-and-africa/260419-a-jungle-of-power.md
+updated: 2026-04-21
 tags: [middle-east, geopolitics, oil, military]
 ---
 
@@ -60,6 +61,48 @@ Iran's missile capabilities proved far more durable than the US-Israeli coalitio
 - **Dispersed across an area the size of Germany, France, Spain, and the UK combined**, preventing concentrated strikes
 - Underground **"missile cities"** were cleared after initial bombing but remain partially operational and can be reactivated
 - Iran continues launching **10-20 missiles/day** at Israeli targets even during the ceasefire period
+
+## "Jungle of Power" — Post-Khamenei Vacuum (April 19 update)
+
+For only the **second time in the Islamic Republic's 47-year history**, Iran is **without a present and absolute supreme leader**. One observer likens the situation to the **first chaotic months of the 1979 revolution**.
+
+### Why the foreign ministry and military said opposite things on Hormuz
+On April 17 foreign minister **Araghchi** declared the strait open; the next day an **IRGC spokesman** said it was closed and several ships came under fire. The contradiction is not improvisation — it is the visible surface of a **regime power struggle**.
+
+### Khamenei vacuum, deeper than first reported
+- **7 weeks after Khamenei's death**, his successors have **failed to set a date for his funeral**
+- His son **Mojtaba**, the designated successor, is "thought to be either incapacitated or too weak to impose authority"
+- Israel's wars and assassinations have **thinned the senior army loyalist ranks**; replacements **don't want to surrender** the autonomy they gained when Iran decentralised command-and-control to survive
+
+### Formal authority vs informal power
+- Authority formally rests with the **Supreme National Security Council** — president, parliament speaker, security-service chiefs
+- **Mohammad-Bagher Ghalibaf** (parliament speaker) is designated chief negotiator; **Araghchi** is his lieutenant
+- But their willingness to negotiate has provoked an **IRGC backlash** (190,000-strong force):
+  - Pro-regime crowds, **mobilised nightly**, denounce **Araghchi and Ghalibaf by name**
+  - Military communiqués in fatigues are **replacing clerical sermons**
+  - At a recent rally an **unveiled woman led chants** — breaching the four-decade taboo on women singing solo in front of men. The dress code is slipping in real time
+  - IRGC outlets float **delaying May 1 municipal elections**
+
+### The new faultline: nationalists vs Islamists
+The old hardline-pragmatist-reformist split is being replaced (or layered over) by a sharper one:
+
+| Issue | Nationalists (realpolitik) | Islamists (revolutionary) |
+|-------|----------------------------|---------------------------|
+| **Proxy networks** | Trade for sanctions relief | "Spine of resistance" — keep |
+| **Nuclear** | Brinkmanship invites attack — no bomb | North Korea model — bomb for deterrence |
+| **Hormuz** | Leverage for Gulf security pact | Lucrative toll-booth under Iranian control |
+
+### Material interests
+- A **class of generals-turned-sanction-busters** benefits handsomely from sanctions-evasion operations
+- Networks tied to **Mojtaba Khamenei** and **Ghalibaf** are thought to control **foreign-property portfolios**
+- With Khamenei senior gone, previously sidelined figures have **re-emerged** with their own allies and agendas
+
+### Why this matters for the negotiation
+- The **first Islamabad delegation (Apr 11-12) was 80 people, ~30 decision-makers** — Pakistani mediators reportedly spent as much time refereeing among the Iranians as engaging the Americans
+- **Asim Munir** visited Tehran on April 15 trying to bridge factions — leveraging his existing IRGC back-channel
+- The **$270bn war damage** the regime claims may concentrate minds — but **even if Iran returns to talks, deep delegation divisions mean a deal is hard to reach and any agreement could quickly unravel**
+
+This is the most important under-priced risk in the post-war diplomacy: **the negotiation may now be hostage to whichever Iranian faction happens to control communications on a given day.**
 
 ## Pakistan Back-Channel
 
@@ -153,6 +196,48 @@ Counter-view (Ernest Censier, Vortexa): given current crude-storage levels, a fu
 - **독일, 프랑스, 스페인, 영국을 합친 면적에 분산 배치**, 집중 타격 불가
 - 지하 **"미사일 도시"**는 초기 폭격 후 소개되었으나 부분적으로 작동 가능하며 재가동 가능
 - 이란은 휴전 기간에도 이스라엘 목표물에 하루 **10~20발의 미사일을 계속 발사**
+
+## "권력의 정글" — 하메네이 공백 (4월 19일 업데이트)
+
+이슬람 공화국 **47년 역사상 두 번째로** 이란에 **현존하고 절대적인 최고지도자가 부재**. 한 관찰자는 현 상황을 **1979년 혁명 초기의 혼돈**에 비유.
+
+### 외교부와 군이 호르무즈에서 상반된 발언을 한 이유
+4월 17일 외무장관 **아락치**가 해협 "완전 개방"을 선언했으나, 다음 날 **IRGC 대변인**이 폐쇄를 선언하고 수 척이 포격 대상이 됨. 이 모순은 즉흥 대응이 아니라 **정권 권력 다툼의 가시적 표면**.
+
+### 하메네이 공백, 초기 보도보다 깊음
+- **사망 7주 후에도 장례일이 확정되지 않음**
+- 후계자로 지명된 아들 **모즈타바**는 "무능력하거나 권위를 확립하기에는 너무 약한" 것으로 평가됨
+- 이스라엘의 암살이 **군 고위 충성파 진영을 희박화**; 교체자들은 전시 분산 지휘 체계에서 얻은 자율성을 **포기하려 하지 않음**
+
+### 공식 권한 vs 실질 권력
+- 공식 권한은 **국가안보최고회의**(대통령, 국회의장, 보안 수장들)에 있음
+- **갈리바프**(국회의장)가 수석 협상가, **아락치**가 부관
+- 그러나 이들의 협상 의지에 대해 **IRGC(19만 명)가 반발**:
+  - **매일 밤 동원된** 친정권 군중이 **아락치·갈리바프를 실명 비난**
+  - 군복 차림의 **군 성명이 성직자 설교를 대체**
+  - 최근 집회에서 **히잡 쓰지 않은 여성이 구호를 선도** — 40년 금기 붕괴
+  - IRGC 매체가 **5월 1일 지방선거 연기** 주장
+
+### 새로운 분열선: 민족주의 vs 이슬람주의
+구식 강경-실용-개혁 구도를 대체(혹은 중첩)하는 더 날카로운 분열:
+
+| 쟁점 | 민족주의(현실정치) | 이슬람주의(혁명) |
+|------|-------------------|------------------|
+| **프록시 네트워크** | 제재 해제를 위해 거래 | "저항의 척추" — 유지 |
+| **핵** | 벼랑 끝 전술은 공격 유발 — 핵무기 불필요 | 북한 모델 — 억지용 핵무기 |
+| **호르무즈** | 걸프 안보 협정을 위한 레버리지 | 이란 통제하의 수익성 통행료 |
+
+### 물질적 이해관계
+- **제재 회피로 수익을 올리는 장성 계층** 존재
+- **모즈타바**와 **갈리바프** 네트워크에 **해외 부동산 포트폴리오** 연관
+- 하메네이 시니어 사망으로 밀려났던 인물들이 **재등장**
+
+### 협상에 대한 함의
+- **1차 이슬라마바드 대표단(4월 11-12일): 80명, 결정권자 30명** — 파키스탄 중재단이 미국과 협상하는 시간만큼이나 이란인들을 중재하는 데 시간을 소모
+- **아심 무니르**가 4월 15일 테헤란 방문해 파벌 간 가교 시도 — IRGC 뒷채널 활용
+- 정권이 주장하는 **전쟁 피해 2,700억 달러**가 집중을 유도할 수 있음 — 그러나 **이란이 협상에 복귀해도 대표단 내 깊은 분열로 합의 도출이 어렵고, 어떤 합의도 빠르게 와해될 수 있음**
+
+이것이 전후 외교에서 가장 저평가된 리스크다: **협상이 이제 그날 그날 커뮤니케이션을 통제하는 이란 파벌에 인질이 될 수 있다.**
 
 ## 파키스탄 비밀 채널
 

@@ -8,8 +8,10 @@ sources:
   - raw/finance-and-economics/260412-americas-next-fed-chair.md
   - raw/finance-and-economics/260414-buttonwood.md
   - raw/business/260413-haute-streak.md
-updated: 2026-04-14
-tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury]
+  - raw/leaders/260416-america-will-come-to-regret-its-war-on-taxes.md
+  - raw/finance-and-economics/260420-war-what-war.md
+updated: 2026-04-21
+tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury, truss-moment, fiscal-politics]
 ---
 
 # Financial Markets (2026)
@@ -42,6 +44,55 @@ By April 10 CPI release, **headline inflation hit 3.3%** (up from 2.4% February)
 
 ### Powell May Stay
 Powell confirmed he won't leave the Fed board at chair term expiry (May 2026), at least until DOJ concludes its spurious probe on Fed HQ renovation. If GOP senators refuse to confirm any Fed appointees during that probe, Powell could remain chair past May. Terms of Jefferson and Barr extend into the 2030s — Warsh faces years of internal disagreement.
+
+### IMF Spring Meetings: "Liz Truss Moment" Watch (mid-April)
+At the IMF spring meetings in Washington, economists were "beginning to wonder **when, rather than if**, America will suffer a **bond-market reckoning worthy of Liz Truss**." (The Economist, April 16 leader.)
+
+The setup:
+- **Budget deficit at 6% of GDP** — highest outside recession/wartime; CBO expects it to keep rising.
+- **Bipartisan tax-cutting mania** (Trump's Big Beautiful Bill + Booker/Van Hollen Democratic proposals combined could take ~55% of filers off federal income tax).
+- **3.3% CPI** making rate cuts impossible precisely when Trump wants them.
+- **Traditional safety valve — foreign central-bank Treasury purchases — weakening** as global [[global-imbalances-2026|imbalances]] re-emerge and the "exorbitant privilege" is actively tested.
+
+The Truss precedent matters because the UK episode (September 2022) showed how quickly bond markets can break a sitting prime minister when fiscal credibility snaps — mini-budget → gilt spike → pension-fund collateral spiral → 45-day PM. Markets were "living under the bond market's microscope" — the exact experience "emerging-market finance ministers have long known and their counterparts in Europe are rediscovering."
+
+**Why America might be closer than it looks**: unlike the UK, US has reserve-currency privilege — but that privilege has limits, and no prior episode has stressed it with deficits this large + active US tariff policy degrading the system that foreign buyers benchmark against. See [[global-imbalances-2026]] for the broader imbalance dynamics.
+
+## US Equities: "War, What War?" — Q1 2026 Earnings Bonanza
+
+Despite the trade war and the [[iran-war-and-ceasefire-2026|real war]], **American corporate earnings have shrugged**. The [[strait-of-hormuz|Hormuz reopen news]] briefly took the **S&P 500 to an all-time high on April 17**; it dipped on April 20 when the deal collapsed.
+
+### FactSet aggregates (mid-April)
+- **S&P 500 Q1 2026 EPS: +19% YoY** (blend of reported + analyst estimates)
+- **Forward 12-month earnings: +24% YoY** — beaten only twice in two decades (post-COVID 2020 rebound; post-GFC 2009)
+- **Beats even the post-2017 Tax Cuts & Jobs Act** profit bonanza
+
+### Where the growth comes from
+- **4 of top 5 EPS contributors** are AI winners
+- **Nvidia 2026 EPS: +~80%** expected
+- **Broadcom**: nearly as strong
+- **Micron, Sandisk** (memory chips for AI): forecast **7x and 16x** EPS growth
+- **Eli Lilly** (April 30 report): forecast to be 3rd-largest single Q1 contributor behind Nvidia/Micron
+
+### Even ex-mag-7, the picture is strong
+- **493 ex-mag-7 S&P 500 firms**: forecast **+16% EPS growth in 2026** — comparable to Japan's TOPIX **including** its tech stars; **2x** Europe's STOXX 600; **5x** Hong Kong's Hang Seng
+- Financials Q1 revenues +10%, profits ~+20% (broader economy proxy)
+- Materials: revenues +5%, profits +20%; mining/metals +90%
+- Even consumer goods (PepsiCo, J&J) beat expectations
+
+### Why so resilient
+- US firms entered Trumpian disruption **in great shape** — buffers + pricing power
+- AI/pharma innovation moats still intact
+- Consumers in sour mood per surveys but **still spending**
+- Tariff costs largely passed through to shoppers
+
+### Risks to the narrative
+- Iran war drags on → energy/inflation drag
+- Trump fires more tariff salvoes
+- Trump tries to **sack [[federal-reserve|Powell]]** (threatened again recently) or meddles with November midterms — could erode confidence in **institutions** themselves
+- For now: "in the contest between American decline and American dynamism, dynamism is still the hands-down winner"
+
+This is the single most important counter-evidence to the **[[#imf-spring-meetings-liz-truss-moment-watch-mid-april|Truss-moment thesis]]**: dollar-denominated earnings are this strong, foreign demand for US assets is structurally supported. But these are not mutually exclusive — earnings can keep rising while reserve-currency privilege is being eroded; the bond-market reckoning is about **funding the deficit at non-punitive rates**, not about whether US firms make money.
 
 ## The Unraveling of Trump Trades
 
@@ -182,6 +233,42 @@ The **60/40 breakdown** is the same energy shock refracted through portfolio con
 
 ### Powell 잔류 가능성
 Powell은 5월 의장 임기 만료 후에도 이사직을 떠나지 않음을 확인 — DOJ의 허위성 연준 본부 조사 종료 전까지. 조사 기간 중 공화당 상원의원들이 신규 연준 지명자 확정을 거부하면 Powell이 5월 이후에도 의장직 유지 가능. Jefferson과 Barr의 임기는 2030년대까지 — Warsh는 수년간 내부 반대에 직면할 것.
+
+## 미국 주식: "전쟁? 무슨 전쟁?" — 2026 Q1 실적 대풍년
+
+트레이드 전쟁과 [[iran-war-and-ceasefire-2026|실제 전쟁]]에도 불구하고 **미 기업 실적은 무동**. [[strait-of-hormuz|호르무즈 재개방 뉴스]]로 **S&P 500이 4월 17일 사상 최고치**; 4월 20일 합의 붕괴 후 하락.
+
+### FactSet 집계 (4월 중순)
+- **S&P 500 Q1 2026 EPS: 전년 대비 +19%** (보고 + 분석가 추정 혼합)
+- **향후 12개월 EPS: 전년 대비 +24%** — 20년 중 2회만 능가(코로나 2020 반등; GFC 2009 이후)
+- **2017 감세법안 이후 실적 대풍년도 능가**
+
+### 성장의 근원
+- **상위 5개 EPS 기여자 중 4곳**이 AI 수혜주
+- **엔비디아 2026 EPS: ~+80%** 예상
+- **Broadcom**: 거의 비슷한 강세
+- **Micron, Sandisk** (AI용 메모리): 각각 **7배, 16배** EPS 성장 예상
+- **엘라일릴리** (4월 30일 보고): Q1 3대 단일 기여자 예상(엔비디아, Micron 다음)
+
+### 매그니피센트 7 제외해도 강력
+- **Mag-7 제외 S&P 493사**: 2026 EPS **+16% 예상** — 테크 포함 일본 TOPIX와 대등; 유럽 STOXX 600의 **2배**; 홍콩 항셍의 **5배**
+- 금융: Q1 매출 +10%, 이익 ~+20% (경제 프록시)
+- 소재: 매출 +5%, 이익 +20%; 광업/금속 +90%
+- 소비재(펩시코, J&J)도 예상 상회
+
+### 강건한 이유
+- 미 기업들은 트럼프발 혼란에 **호조 상태**로 진입 — 버퍼 + 가격 결정력
+- AI·제약 혁신 해자 유지
+- 소비자 심리 서베이는 비관적이나 **여전히 지출 중**
+- 관세 비용 대부분 소비자에 전가
+
+### 내러티브에 대한 리스크
+- 이란 전쟁 지속 → 에너지·인플레 부담
+- 트럼프가 관세 재발사
+- 트럼프가 **[[federal-reserve|파월]] 해임 시도**(최근 재위협) 또는 11월 중간선거 개입 — **제도** 자체에 대한 신뢰 훼손
+- 지금은: "미국 쇠퇴 vs 미국 역동성 대결에서 역동성이 압승"
+
+이것이 **[[#imf-spring-meetings-liz-truss-moment-watch-mid-april|트러스 모멘트 가설]]**에 대한 가장 중요한 반대 증거: 달러 표시 실적이 이 정도로 강하면 미국 자산에 대한 외국 수요가 구조적으로 지지됨. 그러나 양자는 양립 가능 — 실적이 계속 상승해도 기축통화 특권은 훼손 중일 수 있음; 채권시장 리셋은 **미 기업의 수익성**이 아닌 **징벌적이지 않은 금리로 적자를 조달**하는 문제.
 
 ## 트럼프 트레이드의 붕괴
 

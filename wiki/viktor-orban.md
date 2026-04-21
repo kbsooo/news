@@ -23,7 +23,7 @@ Over four consecutive terms, Orbán transformed Hungary from a democracy into a 
 
 ## Hero of Illiberal Democracy
 
-His brand of illiberal democracy made him an icon to populist conservatives across Europe and to America's MAGA movement. [[donald-trump|Donald Trump]] proclaimed support the day before the April 12 election, vowing to use America's "full economic might" to help Hungary if Fidesz won. **JD Vance** visited Budapest to stump for Orbán earlier in April.
+His brand of illiberal democracy made him an icon to populist conservatives across Europe and to America's MAGA movement. [[donald-trump|Donald Trump]] proclaimed support the day before the April 12 election, vowing to use America's "full economic might" to help Hungary if Fidesz won. **[[jd-vance|JD Vance]]** visited Budapest on **April 7** and, standing beside Orbán, declared that under Orbán and Trump Hungary and America represented **"the defence of Western civilisation"** — "founded on a certain Christian civilisation and Christian values that animate everything from freedom of speech to rule of law, to respect for minority rights and protection of the vulnerable." Five days later, Hungarians voted Orbán out — the most public rejection yet of the Vance/MAGA "civilisational Christianity" framing. Same day (April 12), Trump posted an image of himself as Christ and attacked the pope — underscoring how little his actual practice maps to Vance's theory. See [[jd-vance]].
 
 ## Why He Lost
 
@@ -86,7 +86,7 @@ This entrenchment, the editorial argues, is precisely why Magyar's two-thirds ma
 
 ## 비자유주의 민주주의의 영웅
 
-그의 비자유주의 민주주의 브랜드는 유럽 보수 포퓰리스트와 미국 MAGA 운동의 상징이 되었다. [[donald-trump|트럼프]]는 4월 12일 선거 전날 지지를 선언하며 Fidesz 승리 시 미국의 "모든 경제력"을 동원해 헝가리를 돕겠다고 공언; **JD 밴스**는 4월 초 부다페스트 유세.
+그의 비자유주의 민주주의 브랜드는 유럽 보수 포퓰리스트와 미국 MAGA 운동의 상징이 되었다. [[donald-trump|트럼프]]는 4월 12일 선거 전날 지지를 선언하며 Fidesz 승리 시 미국의 "모든 경제력"을 동원해 헝가리를 돕겠다고 공언; **[[jd-vance|JD 밴스]]**는 **4월 7일** 부다페스트 방문 — 오르반 옆에 서서, 오르반과 트럼프 하에서 헝가리와 미국이 **"서구 문명의 수호"**(표현의 자유, 법치, 소수자 권리 존중, 약자 보호 등을 관통하는 기독교 문명·가치에 기초)를 대표한다고 선언. 5일 후 헝가리인들은 오르반을 축출 — 밴스/MAGA의 "문명적 기독교" 프레이밍에 대한 가장 공개적 거부. 같은 날(4월 12일) 트럼프는 자신을 예수로 묘사한 이미지를 게시하고 교황을 공격 — 그의 실제 실천이 밴스의 이론과 얼마나 무관한지를 드러냄. [[jd-vance]] 참조.
 
 ## 패배 원인
 

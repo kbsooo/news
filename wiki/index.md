@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
+updated: 2026-04-21 (Hormuz reopen-collapse whiplash + Iran "jungle of power" + Caracas Condition + neo-primes defence shake-up + S&P earnings boom + Apple succession + Chinese satellites + reverse tech transfer)
 ---
 
 # Wiki Index
@@ -24,12 +24,15 @@ updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 - [[federal-reserve]] — Caught between Trump's demand for cuts and 3.3% inflation; Powell may stay past May
 - [[kevin-warsh]] — Trump's Fed chair pick: AI-justifies-cuts argument both empirically weak and theoretically backwards
 - [[ukraine]] — Drone-defense expertise exported to Gulf (228 advisers, 10-year partnerships), $2-5K interceptors vs $50K Shaheds, "plan B for countries who had America as plan A"
+- [[jd-vance]] — VP, chief MAGA ideologist; Iraq-war isolationist turned Iran negotiator; 4/7 Budapest "Western civilisation" speech rejected 4/12; "graveyard for grand strategies"
+- [[venezuela]] — Maduro captured 1/3, Delcy Rodríguez running country to Trump's liking; partial transformation; Trump misreading it as model for Iran (ideology = weakness fallacy)
 
 ## Events
 
-- [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, Islamabad talks collapsed 4/12 after 21hr, US counter-blockade effective 4/13, Brent could hit $150
+- [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, Islamabad talks collapsed 4/12, counter-blockade 4/13, Lebanon ceasefire 4/16 (Trump's 5th imposed on Israel), US 20yr vs Iran 5yr moratorium bracket
 - [[anthropic-mythos]] — April 7: Mythos too powerful to release, found vulnerabilities in every major OS, Project Glasswing
 - [[artemis-ii]] — Farthest human travel since Apollo 13, Blue Marble legacy, NASA climate science rollback (Isaacman/Marvel)
+- [[france-2027-presidential-election]] — RN (Le Pen/Bardella) almost certain to reach run-off at ~38%; Philippe only proven Bardella-beater; Le Pen July ruling; Orban loss hurts; 12 months out
 
 ## Concepts
 
@@ -44,7 +47,13 @@ updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 - [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama/Montreux
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
-- [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs (IsoDDE drug discovery), biosecurity dilemma
+- [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs, biosecurity dilemma, model lock-up, AI tycoons ranked vs Ford/Rockefeller (all in bottom half)
+- [[ai-regulation-mythos-moment]] — "Five geeks", Bessent summons banks, 70% AI-harm perception, 2028 electoral issue, tiered vetted-access scheme
+- [[asian-remittance-shock-2026]] — 20m GCC migrant workers; Nepal 25% / Bangladesh 6.5% / India 3.5% GDP; -66% emigration clearances; JP/KR pivot
+- [[global-imbalances-2026]] — 1.6% of GDP (vs 2.6% peak); CEPR industrial-policy intensity correlates with exports not surpluses; "blunder not crime" framing
+- [[laws-of-war-and-civilian-infrastructure]] — Three-test framework; desalination = breach; oil = ambiguous under "war-sustaining"; Trump puffery shield, allied exposure
+- [[european-energy-response-2026]] — Ireland €500m + Spain/Poland/Germany fuel-tax cuts = learning nothing from 2022; diesel crack $60, jet $100; France's €10bn electrify is the exception
+- [[us-defence-tech-shake-up-2026]] — Anduril/Palantir/SpaceX "neo-primes" worth >3x legacy primes despite fraction of sales; Trump cosying up; $1m missile vs $50K Iranian drone economics; lock-in + Trump-family-VC concerns
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
 - [[market-snapshot]] — Rolling reference of volatile market indicators (equities, FX, rates, crypto, commodities)
 
@@ -56,7 +65,7 @@ updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted, wider distribution). Samsung foundry is the asymmetric hedge vs SK Hynix pure-play.
 
-## Sources Ingested (93)
+## Sources Ingested (116)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -153,3 +162,26 @@ updated: 2026-04-13 (Samsung/SK Hynix vs. hyperscaler custom-silicon sim)
 | 2026-04-15 | AI labs locking up frontier models (Mythos/GPT-5.4) | Business |
 | 2026-04-15 | Gulf $5trn sovereign wealth fund stress | Finance & Economics |
 | 2026-04-15 | Hegseth's Pentagon purge (21 generals ousted) | United States |
+| 2026-04-15 | How to end the war in Iran | Leaders |
+| 2026-04-16 | America wakes up to AI's dangerous power | Leaders |
+| 2026-04-16 | The impending global food shock is preventable | Leaders |
+| 2026-04-16 | Collapsing remittances compound Asia's energy shock | Asia |
+| 2026-04-16 | Singapore and Malaysia knock heads over Iran war | Asia |
+| 2026-04-16 | Why China's government worries about AI | China |
+| 2026-04-16 | A scramble ahead of France's presidential election | Europe |
+| 2026-04-16 | Global imbalances are back. Who's to blame? | Finance & Economics |
+| 2026-04-16 | Is bombing power plants and oil facilities a war crime? | Middle East & Africa |
+| 2026-04-16 | The Gulf war has settled into an uneasy limbo | Middle East & Africa |
+| 2026-04-16 | Could AI's leading men become as powerful as Ford or Rockefeller? | Business |
+| 2026-04-16 | European policymakers fiddle with energy prices, again | Europe |
+| 2026-04-16 | America will come to regret its war on taxes | Leaders |
+| 2026-04-16 | J.D. Vance's theory of Trumpism is no match for the practice | United States |
+| 2026-04-17 | A lasting Lebanese peace still looks a long way off | Middle East & Africa |
+| 2026-04-16 | The Caracas Condition (Venezuela) | Leaders |
+| 2026-04-17 | A narrow opening (Hormuz reopen mechanics) | Finance & Economics |
+| 2026-04-19 | A jungle of power (Iran power struggle) | Middle East & Africa |
+| 2026-04-19 | How Chinese satellites have boosted Iran's war effort | China |
+| 2026-04-20 | Anduril, Palantir, SpaceX — neo-primes | Business |
+| 2026-04-20 | Chaguan: reverse tech transfer from China | China |
+| 2026-04-20 | American corporate profits keep shrugging off tumult | Finance & Economics |
+| 2026-04-21 | Tim Cook hands Apple over to John Ternus | Business |

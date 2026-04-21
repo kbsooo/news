@@ -7,8 +7,10 @@ sources:
   - raw/business/260408-mythical-monster.md
   - raw/finance-and-economics/260413-code-red.md
   - raw/business/260415-locked-up-models.md
-updated: 2026-04-13
-tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment]
+  - raw/business/260416-could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller.md
+  - raw/business/260421-not-far-from-the-tree.md
+updated: 2026-04-21
+tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment, tycoons, historical-comparison]
 ---
 
 # AI Labs and Industry
@@ -49,6 +51,74 @@ Hassabis spun off **Isomorphic Labs** from Google (~5 years ago) to turn DeepMin
 
 ### The Speed Pattern
 AlphaFold: **6 years** for first protein structure → **1 year** for all 200 million known proteins. Hassabis expects similar acceleration in drug discovery.
+
+## AI Tycoons in Historical Context
+
+The Economist (April 16) examined 11 technological waves in America over 150 years (railways, oil, steel, cars, retail banking, internet, etc.) — quantifying each era's top five most-powerful magnates by revenue, employment, market cap, corporate control, and personal wealth, all normalised to GDP/population at the time. **The AI magnates fall well below historical peaks.**
+
+### The AI Five
+**Dario, Demis, Elon, Mark, Sam** — first names alone identify them.
+- **Sam Altman ([[anthropic-mythos|OpenAI]])**: ChatGPT 900m+ weekly users; runs OpenAI "at the pleasure of his board" (briefly ousted November 2023, board since purged).
+- **Dario Amodei (Anthropic)**: Built Mythos, good enough at hacking to panic policymakers; **owns only a small stake** in the lab he co-founded.
+- **Demis Hassabis (Google DeepMind)**: Nobel laureate; **not even the most senior employee at his company**.
+- **Elon Musk (xAI, Tesla, SpaceX)**: Richest person alive.
+- **Mark Zuckerberg (Meta)**: Most popular Western open-source models.
+
+### Why AI-Pure-Play Tycoons Rank Low
+- **Small workforces**: "Model-making relies on a small number of clever people and oodles of computing power" — AI labs have **relatively few workers** vs Ford (0.15% of US population in 1925), Amazon (1m+ American workers today).
+- **Weak corporate control**: None of the AI five has Ford-level control; Altman runs at board's pleasure; Amodei small stake; Hassabis not most senior.
+- **Profits still distant**: OpenAI ~10 years old and **still not profitable**; Ford Motor Co. by year 10 (1913) was making ~$1bn/yr in today's money.
+- **Technology in infancy**: "It may be many years until the moguls behind AI reach the apex of their power."
+
+### The Economist Ranking (11 Tech Waves, Top Ten by Normalized Power)
+
+| Rank | Mogul | Tech Wave |
+|------|-------|-----------|
+| #1 | **Henry Ford** | automobiles (most powerful ever — Model T, >40% of US cars in 1917, 0.15% US population employed, full family ownership from 1919) |
+| #4 | **Jeff Bezos** (living) | retail/cloud — Amazon $2.7trn, 1m+ Americans |
+| #8 | **Elon Musk** (living) | elevated by **Tesla + SpaceX**, not AI |
+| #11 | **Mark Zuckerberg** (living) | elevated by **Meta social media**, not AI |
+| Bottom half | **Altman, Amodei, Hassabis** | AI alone currently insufficient for top-10 power |
+
+Rockefeller's peak wealth ≈ **1.5% of US GDP**; Musk may exceed this depending on measurement.
+
+### Three Historical Commonalities
+1. **Many tycoons were deeply strange.** Ford: antisemitic newspaper. Rockefeller: obsessed with saving money. Vanderbilt: liaised with spirits. Morgan: consulted astrologers. Edison: opposed sleep. Jobs: extreme diets. **Musk's conspiracies and Zuckerberg's robotic demeanour** no longer seem out of the ordinary by historical standard.
+2. **New technologies introduced new dangers.** Physical (railway speed fears, unsafe aviation, car deaths, Edison's AC-electrocution panic); financial (railway-driven 19th-c crashes, banking crises); labor (horse-based locomotion crushed, manufacturing automation).
+3. **Magnate-state relations shifted from latitude to constraint.** 19th-c: Carnegie violently suppressed unions; Morgan personally functioned as US central bank during 1907 panic; Mellon served as treasury secretary while steering an industrial empire. From **20th century**: Standard Oil broken up 1911 → Federal Reserve created 1913 → 1930s holding-company reforms → Microsoft breakup order 2000 (narrowly escaped on appeal but chastened).
+
+### What This Implies for AI
+- **Tycoons are a necessary condition for innovation** (Shari Eli 2023 on Ford/Model T; Ufuk Akcigit 2024 on "transformative entrepreneurs"). Prosperity requires tycoons.
+- But **"governments may likewise encounter" the AI moguls with curbs** — the [[ai-regulation-mythos-moment|Mythos moment]] and **OpenClaw** shutdown in China look like the opening moves of a Standard-Oil-1911 pattern.
+- Of the AI five, **Musk and Zuckerberg may be closest to breakout tycoon status** — but via their non-AI businesses. The pure-AI trio (Altman, Amodei, Hassabis) are structurally constrained (board governance, small equity stakes, employee-not-founder positioning) in ways Ford and Rockefeller were not.
+- **Prediction** (Economist): "Time and again, towering, quasi-autocratic figures have gained control over large swathes of the economy… if history is any guide, a Rockefeller or Ford is likely to emerge soon enough." Not necessarily any of the current five.
+
+## Apple Succession: Tim Cook → John Ternus (announced April 20)
+
+A signal that Apple, alone among Big Tech, is **doubling down on hardware** for the AI era rather than pivoting to software-and-services.
+
+### The transition
+- **Tim Cook** (CEO since 2011) hands over to **John Ternus** (head of hardware engineering, age 50, ~half his life at Apple) — effective **September 1, 2026**
+- Cook stays as **executive chairman**
+- Cook is 65; this is Apple's 50th anniversary year; the timing is "a bit sooner than expected" but **not a shock**
+- Apple shares barely moved on the news
+- Promotion of **Johny Srouji** (chip strategy) into a powerful new role reinforces the hardware bet
+
+### What Cook leaves behind
+- Apple sales: **$108bn (2011) → $416bn (2026)**
+- Profits ballooned; share price up **~2,000%**
+- Market cap **>$4trn**, +40% in past year
+- Massive dividends and buybacks
+
+### What Ternus has to fix — and the contrarian bet
+**Apple Intelligence** has been "a flop since it was unveiled almost two years ago." **Siri** has not been transformed by AI. Apple is now **relying on Gemini models from Alphabet/Google** to dig itself — and Siri — out of the AI hole.
+
+The conventional view: in the AI age Apple needs **software-and-services**. The Cook/Ternus bet is the opposite — **new hardware "form factors"** (smart glasses, VR kit, AI-friendly gadgets) are how Apple stays in the game. Mac, iPod, iPhone — all hardware-driven inflections — happened **under Jobs**, not Cook. Cook's era was process improvements (China supply chain). Ternus is hired to break that pattern.
+
+### Strategic implication
+- If Ternus is right, Apple will **arbitrage other labs' models** for the foreground (Gemini in Siri) while owning the **device + chip stack** that AI runs on locally — a defensible position
+- If wrong, Apple becomes a **hardware shell** for someone else's AI experience, vulnerable to a **device-class disruption** by a model lab that builds hardware (Meta with Ray-Ban, OpenAI with rumoured Jony Ive device)
+- Either way, the pure-AI labs (Altman/Amodei/Hassabis) face **less platform-distribution leverage** at Apple than they would have if Apple were going software-first
 
 ## The Biosecurity Dilemma
 
@@ -138,8 +208,19 @@ Leading model-makers are shifting from broad API access to **exclusive client pr
 - Applications built on **vendor-neutral middleware** (Cursor-style) may be competitively disadvantaged as the highest-capability models retreat behind exclusive programs.
 - Combined with the [[anthropic-mythos|biosecurity-dilemma]] pattern from Isomorphic and Anthropic, this extends the picture: private labs unilaterally decide **who** gets access to dual-use capability, on **what** terms — with no democratic oversight and increasing commercial self-interest.
 
+## The Mythos Moment — Regulatory Pivot
+
+The commercial "model lock-up" trend is now converging with an **acute political moment** on the regulation side. See [[ai-regulation-mythos-moment]] for the full framing. Key cross-links:
+- **Treasury Secretary Scott Bessent** summoned the biggest banks for urgent talks after Mythos release
+- **Pentagon** had already intervened on autonomous-weapons and mass-surveillance use of Anthropic models
+- **Voter backlash**: 70% of Americans think AI will hurt job opportunities; Sam Altman's house attacked **twice** in recent days; grassroots opposition to data centers
+- **Regulatory architecture emerging**: industry-led certification + tiered vetted access — the **commercial lock-up logic and the safety framing converge on the same scheme**
+
+This creates an interpretive knot: from the outside it becomes hard to distinguish **genuine biosecurity restraint** from **commercial moat-building**. Labs can select whichever justification fits the audience.
+
 ## See Also
 - [[anthropic-mythos]]
+- [[ai-regulation-mythos-moment]]
 - [[ai-in-mathematics]]
 - [[great-power-rivalry]]
 - [[china]] (AI micro-dramas, competing AI ecosystem)
@@ -184,6 +265,33 @@ DeepMind의 창업 논문: 스스로 게임을 배우는 AI → 범용 지능. �
 
 ### 속도 패턴
 AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질 **1년**. 신약 발견에서도 유사한 가속을 기대.
+
+## 애플 승계: 팀 쿡 → 존 터너스 (4월 20일 발표)
+
+빅테크 중 **애플만이 AI 시대에 소프트웨어·서비스가 아닌 하드웨어에 배팅**한다는 신호.
+
+### 승계
+- **팀 쿡** (2011년 취임 CEO)이 **존 터너스**(하드웨어 엔지니어링 헤드, 50세, 생의 절반을 애플에서)에게 승계 — **2026년 9월 1일** 발효
+- 쿡은 **행정 회장**으로 잔류
+- 쿡 65세; 애플 창립 50주년; 시기가 "예상보다 약간 빠름"이나 **충격은 아님**
+- 발표에 애플 주가 거의 무반응
+- **조니 스루지**(칩 전략)의 새 역할 승진이 하드웨어 베팅 강화
+
+### 쿡이 남기는 것
+- 매출: **1,080억 달러(2011) → 4,160억 달러(2026)**
+- 이익 급증; 주가 **~2,000%** 상승
+- 시가총액 **4조 달러 초과**, 지난 1년 +40%
+- 배당·자사주 매입으로 거대한 자본 반환
+
+### 터너스가 고쳐야 할 것 — 그리고 역설적 베팅
+**애플 인텔리전스**는 "2년 전 공개 이후 실패작." **Siri**도 AI로 변모하지 못함. 애플은 이제 Siri를 — 그리고 자신을 — AI 구렁에서 건져내기 위해 **알파벳/구글의 Gemini 모델에 의존** 중.
+
+통상적 시각: AI 시대엔 애플이 **소프트웨어·서비스**가 필요. 쿡/터너스의 베팅은 반대 — **새 하드웨어 "폼팩터"**(스마트 안경, VR, AI 친화적 가젯). 맥, 아이팟, 아이폰 — 모두 하드웨어 주도 변곡점 — 은 **잡스 시대** 사건이었지 쿡 시대가 아님. 쿡 시대는 공정 개선(중국 공급망). 터너스는 이 패턴을 깨기 위해 고용됨.
+
+### 전략적 함의
+- 터너스가 맞다면 애플은 다른 랩의 모델을 **아비트라지**(Siri의 Gemini)하면서 AI가 로컬에서 돌아가는 **디바이스+칩 스택** 소유 — 방어 가능 포지션
+- 틀리면 애플은 다른 사람의 AI 경험을 담는 **하드웨어 껍데기**로 전락, 하드웨어를 만드는 모델 랩(Meta×Ray-Ban, OpenAI×Jony Ive 소문 디바이스)에 의한 **디바이스급 파괴**에 취약
+- 어느 쪽이든 순수 AI 랩(Altman/Amodei/Hassabis)은 애플이 소프트웨어 우선으로 갔을 때보다 **플랫폼 배포 레버리지가 적음**
 
 ## 생물 보안 딜레마
 

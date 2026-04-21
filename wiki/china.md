@@ -6,7 +6,10 @@ sources:
   - raw/leaders/260409-the-hangover.md
   - raw/leaders/260409-our-cover.md
   - raw/china/260413-chaguan.md
-updated: 2026-04-13
+  - raw/china/260416-why-chinas-government-worries-about-ai.md
+  - raw/china/260419-views-of-the-middle-east.md
+  - raw/china/260420-chaguan.md
+updated: 2026-04-21
 tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions]
 ---
 
@@ -74,6 +77,67 @@ McDonald's and KFC are aggressively expanding into smaller Chinese cities:
 
 Partial easing of the **2020 investment ban** on Chinese companies in India, but the **trade deficit exceeds $100bn**. Trump's tariffs are pushing India toward closer economic ties with China — a geopolitical irony.
 
+## Satellite ISR: Filling the Void Left by America (April 2026)
+
+As American commercial satellite firms have **clamped down under Trump administration pressure** — cutting off journalists, researchers and activists from open-source intelligence — **Chinese satellite firms have stepped in** during the [[iran-war-and-ceasefire-2026|Iran war]].
+
+### Scale of Chinese capability
+- **120+ remote-sensing satellites launched in 2025 alone**
+- **640+ total in orbit** — second only to America
+- **Jilin-1 constellation** (over 100 satellites) operated by **Chang Guang Satellite Technology (CGST)** — close PLA ties; plan: **image any spot every 10 minutes**
+- **Siwei's Superview Neo-1** matches America's Vantor on image sharpness
+- Jilin-1 **leads on cadence** (revisit frequency) vs American peers
+- Chinese and American commercial satellites are now "**neck-and-neck**" (Aravind Ravichandran, TerraWatch Space)
+- **2 known commercial video-capable constellations** (Jilin-1, Zhuhai-1) — **Planet** is the only known American equivalent
+- Jilin-1 uses **satellite-to-ground laser comms** to transfer video
+
+### Helping Iran directly
+- **China Siwei** (state-owned CASC subsidiary) known to have taken **high-res photos of American and allied military sites**
+- **Iran's Revolutionary Guards have purchased a Chinese satellite** (Financial Times) — likely source of Iranian state media strike-damage photos
+- **Chinese ships** carrying **sodium perchlorate** (missile propellant precursor) thought to have arrived in Iran recently
+- American intelligence reportedly warned China is preparing to send **shoulder-fired rockets** (anti-helicopter / low-flying planes)
+
+### The "reverse transparency" pattern
+- Chinese firms are **not bound by US shutter-control regulation** — xrTech Group (Dubai-based) boasts no "export licence restrictions"
+- But Chinese firms "are not doing anything that the Communist Party does not want them to do" (Mike Dahm, former ONI senior China intel)
+- **MizarVision** (Hangzhou) publishes **AI-annotated images** of American planes and Patriot batteries — uses AI to classify dots as aircraft and track changes over time
+- Researchers' public comments on errors **become training data** that refines the firms' models in real time
+
+### The precedent
+- **2023**: US sanctioned CGST for providing Ukraine images to the **Wagner Group**
+- **April 2025**: State Dept said CGST supplied **Houthi rebels** with images to target American warships in Red Sea
+- Sanctions have had **limited effect** — **Spacety** raised **$190m** in April 2026 from state-linked funds despite being sanctioned three years ago
+
+### Why it matters beyond Iran
+- End of the **Western monopoly on advanced space imagery**
+- Western analysts are wary of tasking Chinese firms due to military ties; some report Chinese providers **ignore their requests**
+- Both superpowers now increasingly use space ISR for **spying on each other** rather than as a **public good** (Bill Greer, Commonspace)
+- The Trump administration's domestic clampdown on US firms **hands China the open-source intelligence market** — a strategic own-goal
+
+## Reverse Tech Transfer (April 2026)
+
+For years foreign business and political leaders worried about **too much tech transfer to China**. In the past year or so the complaint has inverted: they now fear **China is too effective at preventing its best technology from passing to foreigners** (EVs, AI-powered robots, battery systems, advanced robotics). A former Chinese trade official: "It is a bit hypocritical but it's understandable."
+
+### The reversal mechanism
+- **EU proposal**: procurement rules requiring battery-storage systems sold in Europe to be **made in Europe** — Chinese firms wanting market access must invest in local factories
+- **Developing countries** (Brazil to Vietnam): opening doors to Chinese EVs, urging **local content**
+- This mirrors China's own 1990s-2010s playbook: market access in exchange for JV + tech-transfer
+
+### Chinese counter-measures
+- **Export-control regime** mimicking America's — stated goal "national security," many controls actually **shoring up Chinese industry**
+- **2025 licensing requirement** for companies exporting **EV battery technologies**
+- Official reaction to EU made-in-Europe legislation: **angry** — seen as ploy to weaken Chinese industry
+- **Manus saga** (AI startup): founded in China, shifted business registration to **Singapore** last year to facilitate a sale to **Meta**. Chinese regulators are now trying to **unwind the deal** and **barred the co-founders from leaving the country**
+
+### Why reverse transfer will happen anyway (Chaguan's bet)
+- **Persistence** (China took 30 years): incentives + JVs + content rules + university partnerships + IP theft
+- **Foreign investment in Chinese manufacturing** proves exportable: **Apple in India** now makes ~25% of iPhones there; many components via Chinese-owned factories in India (Miller & Venugopalan, AEI)
+- **Global auto R&D migrating to China**: GM, Hyundai, Volkswagen are developing EVs in China, learning from local firms; **"biggest companies are off limits but there are thousands of suppliers"**
+- **Manus chilling effect may backfire**: young innovators who can't sell to foreigners will have **more incentive to take ideas abroad early**
+- China's own continuing need for **semiconductors** the West controls means tech transfer inevitably has a **negotiation character**: "China will not fully benefit from its inventiveness unless it can export its own technology"
+
+Chaguan's prediction: reverse tech transfer will occur despite Beijing's best efforts to build a moat. "They will, however, struggle to stop it."
+
 ## Actions During the War
 
 - Helped nudge Iran toward ceasefire
@@ -86,6 +150,52 @@ Partial easing of the **2020 investment ban** on Chinese companies in India, but
 China exemplifies the [[great-power-rivalry]] pattern but with a distinctive strategy: patience over aggression, economic leverage over military confrontation. The key question is whether this patience is wisdom or complacency built on a fragile assumption of American decline.
 
 The Iran war exposed a gap between China's rhetoric and action. The Gulf states' hoped-for "multipolar era" has been replaced by American centrality — China remains on the margins despite being the region's largest oil customer.
+
+## AI Governance Pivot (April 2026)
+
+Xi Jinping has called AI an **"epoch-defining technology"**, central to his plan to revive an ailing economy and to win competition with America. But **government anxieties are sharpening fast** — in parallel to the [[ai-regulation-mythos-moment|American Mythos moment]].
+
+### The OpenClaw Incident (March–April 2026)
+- Tencent released an **AI agent called OpenClaw** ("lobster farming" → its mascot)
+- Hundreds queued outside Tencent's Shenzhen HQ to install it — mostly **pensioners and students** (16% youth unemployment context)
+- Chinese users quickly **outpaced** US or any other country
+- Problems emerged: **sensitive data deletion**, **agents burning compute at oblivious users' expense**, hacking vulnerability, device takeover
+- **Unusually, authorities moved to slow its spread** — regulators **banned** it in banks and other sensitive sectors
+- A small industry for **paid "uninstallations"** emerged
+
+This was notable: Chinese regulators have rarely slowed an AI app, yet OpenClaw was throttled.
+
+### Xi's Shift on AI Risks
+- **2017**: Xi said AI must always be "controllable" — meaning **produced domestically** under party authority
+- **Post-ChatGPT (2022)**: focus on chatbot utterances about leaders → algorithm registration + banned word lists
+- **New edict**: bans systems that encourage **self-harm or emotional dependency** (response to "AI boyfriends")
+- **Early 2026 speech**: Xi raised **"security problems"** including, **perhaps for the first time, a potential technical loss of control** over frontier AI
+
+### The Job-Displacement Anxiety
+- Workers who worry AI will replace their jobs: **49% (2024) → 59% (2025)**
+- **Wuhan robotaxi drivers** petitioned government to slow roll-out
+- **December 2025 ruling**: firms **cannot fire** employees replaced by AI — "offloading risks from technological change onto workers" by firms "enjoying the benefits of AI" is prohibited
+- State media: **white paper in the works** on AI's effect on employment
+- **Youth unemployment**: 16% (**roughly double US level**), dire wage growth
+- Beijing analyst Poe Zhao: **"What looks like grassroots tech enthusiasm is closer to grassroots career anxiety"**
+
+### Key AI Firms and Party Relationships
+The "movers and shakers" keep lower profiles than Western peers because of government expectations, but a few are emerging:
+- **Liang Wenfeng (DeepSeek)**: shook the world in 2024; state media broadcast his **handshake with Xi**
+- **Yan Junjie (Minimax)**: newly minted billionaire; briefed PM **Li Qiang** on economic issues
+- **Yang Zhilin (Moonshot AI)**: also briefed the PM
+- **Z.ai** (founded by **Jie Tang** of Tsinghua): deep government connections
+- Carnegie's **Matt Sheehan**: unclear whether elites fret about the **technology itself** or the **public anxiety** that is steadily emerging
+
+### Safety-Incident Cascade
+- Late March: **100+ robotaxis in Wuhan** suddenly stopped, leaving customers stranded on highways for up to two hours
+- **Ministry of Public Security** convened senior officials afterwards
+- Government asked a group of experts to propose **"safety standards" and rules governing agent behaviour**
+
+### Response to Mythos
+News of Anthropic's Mythos (April 7, cyber-vulnerability discovery capability) has caused **muted public reaction in China** but will "surely be picked over by national-security authorities." A government adviser in Beijing: if forced to choose, the party will prioritize its technological goals over all else — winning the AI race is **"life or death."**
+
+This sets up a **symmetric tension** with [[ai-regulation-mythos-moment|America's regulatory pivot]]: both superpowers face frontier-AI risks that they don't want to slow down for, but both are being pushed toward intervention by national-security scares and public anxiety. Neither can easily coordinate with the other.
 
 ## AI Micro-Dramas: Entertainment Disrupted
 
@@ -200,6 +310,67 @@ This contradiction — a country that built a subway to every village but leaves
 
 인도의 중국 기업에 대한 **2020년 투자 금지**가 부분적으로 완화되었으나, **무역 적자는 1,000억 달러 이상**. 트럼프의 관세가 인도를 중국과의 경제적 밀착으로 밀어붙이고 있다 — 지정학적 아이러니.
 
+## 위성 ISR: 미국이 떠난 자리를 메우다 (2026년 4월)
+
+미 상업 위성 기업들이 **트럼프 행정부 압박으로 클램프다운** — 언론인·연구자·활동가의 오픈소스 정보 접근 차단 — 하는 동안, **중국 위성 기업들이 [[iran-war-and-ceasefire-2026|이란 전쟁]] 중 그 자리를 채움**.
+
+### 중국 능력의 규모
+- **2025년에만 원격 감지 위성 120기 이상 발사**
+- **궤도 총 640기 이상** — 미국에 이은 2위
+- **Jilin-1 컨스텔레이션** (위성 100기 이상): **CGST**(Chang Guang Satellite Tech) 운영 — PLA와 긴밀; 계획: **모든 지점 10분마다 촬영**
+- **Siwei의 Superview Neo-1**은 미국 Vantor와 동급 해상도
+- Jilin-1은 **재방문 빈도(cadence)에서 미국 동급 능가**
+- 중·미 상업 위성은 이제 "**대등**" (Aravind Ravichandran, TerraWatch Space)
+- **알려진 비디오 가능 컨스텔레이션 2개**(Jilin-1, Zhuhai-1) — 미국에선 **Planet**만 알려진 동급
+- Jilin-1은 **위성-지상 레이저 통신**으로 비디오 전송
+
+### 이란을 직접 돕다
+- **China Siwei**(국유 CASC 자회사)가 **미·동맹 군사시설 고해상도 사진** 촬영
+- **이란 혁명수비대가 중국 위성을 구매** (FT) — 이란 국영매체 폭격 피해 사진의 출처 가능성
+- **중국 선박**이 **과염소산나트륨**(미사일 추진체 전구체)을 이란에 운송한 것으로 추정
+- 미 정보당국은 중국이 **어깨 발사형 로켓**(대헬리콥터/저공기 표적) 송부 준비 중이라고 경고
+
+### "역방향 투명성" 패턴
+- 중국 기업은 **미국식 셔터 통제 규제 미적용** — xrTech Group(두바이)가 "수출 라이선스 제한 없음"을 자랑
+- 그러나 중국 기업은 "공산당이 원하지 않는 것은 하지 않음" (Mike Dahm, 전 ONI 중국 정보 책임자)
+- **MizarVision**(항저우)이 미 항공기·패트리어트 포대의 **AI 주석 이미지** 공개 — AI로 점들을 항공기로 분류하고 시간 변화 추적
+- 연구자들의 오류 코멘트가 **훈련 데이터로 변환되어** 모델을 실시간 개선
+
+### 선례
+- **2023**: 미국이 우크라이나 이미지를 **Wagner Group**에 제공한 CGST 제재
+- **2025년 4월**: 국무부, CGST가 홍해에서 미 군함 표적용으로 **후티 반군**에 이미지 공급 발표
+- 제재 효과 **제한적** — **Spacety**가 3년 전 제재에도 불구하고 2026년 4월 국유 펀드로부터 **1억 9천만 달러** 조달
+
+### 이란 외에서도 중요한 이유
+- **고급 우주 이미지에서 서방 독점 종료**
+- 서방 분석가들은 군사 연계 우려로 중국 기업 활용 회피; 일부는 중국 공급자가 **요청을 무시**한다고 보고
+- 양 초강대국이 우주 ISR을 **공공재**가 아닌 **상호 감시**에 점점 더 사용 (Bill Greer, Commonspace)
+- 트럼프 행정부의 미 기업 국내 단속은 **오픈소스 정보 시장을 중국에 헌납** — 전략적 자살골
+
+## 역방향 기술 이전 (2026년 4월)
+
+수년간 외국 비즈니스·정치 지도자들은 **중국으로의 과도한 기술 이전**을 우려. 지난 1년 새 우려가 역전: 이제 그들은 **중국이 자국 최고 기술이 외국에 넘어가는 것을 막는 데 너무 능숙**해졌다고 우려(EV, AI 로봇, 배터리 시스템, 첨단 로봇공학). 전 중국 무역 관계자: "약간 위선적이지만 이해할 만하다."
+
+### 역전 메커니즘
+- **EU 제안**: 유럽에 판매되는 배터리 저장 시스템을 **유럽에서 제조**하도록 요구하는 조달 규칙 — 시장 접근을 원하는 중국 기업은 현지 공장 투자 필요
+- **개도국**(브라질부터 베트남): 중국 EV에 문호 개방하며 **현지 콘텐츠** 요구
+- 이는 중국의 1990-2010년대 플레이북 거울: 시장 접근 ↔ JV + 기술이전
+
+### 중국의 대응 조치
+- **수출 통제 체제** 미국 모방 — 명목상 "국가 안보," 다수 통제는 실제로 **중국 산업 보호**
+- **2025년** **EV 배터리 기술** 수출 라이선스 요구
+- EU 메이드인유럽 입법에 대한 공식 반응: **분노** — 중국 산업 약화 책략으로 인식
+- **Manus 사태**(AI 스타트업): 중국에서 창업, 작년 사업 등록을 **싱가포르**로 이전해 **Meta**에 매각 추진. 중국 규제당국은 거래 **무효화 시도** 중이며 **공동 창업자들의 출국 금지**
+
+### 그럼에도 역방향 이전이 발생할 이유 (Chaguan의 베팅)
+- **끈기**(중국은 30년 소요): 인센티브 + JV + 콘텐츠 규칙 + 대학 파트너십 + IP 절도
+- **중국 내 외국 제조 투자가 이전 가능성을 입증**: **인도의 Apple**이 이제 아이폰의 ~25%를 인도에서 생산; 다수 부품은 인도 내 중국계 공장 경유 (Miller & Venugopalan, AEI)
+- **글로벌 자동차 R&D가 중국으로 이전**: GM, 현대, 폭스바겐이 중국에서 EV 개발하며 현지 기업에서 학습; **"가장 큰 회사들은 접근 불가지만 수천 개 공급사 가능"**
+- **Manus 위축 효과 역효과 가능**: 외국에 팔 수 없는 젊은 혁신가들은 **아이디어를 일찍 해외로 가져갈 동기 증가**
+- 중국 자체가 서방이 통제하는 **반도체** 필요 — 기술이전은 불가피하게 **협상 성격**: "중국은 자국 기술을 수출할 수 없으면 자기 발명의 혜택을 온전히 누릴 수 없다"
+
+Chaguan의 예측: 베이징의 노력에도 불구하고 역방향 기술 이전이 발생할 것. "그러나 이를 막는 데는 어려움을 겪을 것."
+
 ## 전쟁 중 행동
 
 - 이란의 휴전 결정을 유도하는 데 기여
@@ -212,6 +383,52 @@ This contradiction — a country that built a subway to every village but leaves
 중국은 [[great-power-rivalry|강대국 경쟁]] 패턴의 전형이지만 독특한 전략을 취한다: 공격보다 인내, 군사적 대결보다 경제적 레버리지. 핵심 질문은 이 인내가 지혜인지, 아니면 미국 쇠퇴라는 취약한 가정 위에 세워진 안일함인지 여부이다.
 
 이란 전쟁은 중국의 수사와 행동 사이의 괴리를 드러냈다. 걸프 국가들이 기대했던 "다극 시대"는 미국 중심성으로 대체되었으며 — 중국은 이 지역 최대의 석유 고객임에도 불구하고 여전히 주변부에 머물러 있다.
+
+## AI 거버넌스의 전환 (2026년 4월)
+
+시진핑은 AI를 **"시대를 정의할 기술"**로 부르며, 부진한 경제 회복과 대미 경쟁의 핵심으로 삼았다. 그러나 **정부의 불안은 빠르게 첨예해지고 있다** — [[ai-regulation-mythos-moment|미국의 Mythos 모먼트]]와 평행선.
+
+### OpenClaw 사건 (2026년 3–4월)
+- Tencent가 **OpenClaw**라는 AI 에이전트("랍스터 양식" 마스코트)를 공개
+- 심천 Tencent 본사 앞에 수백 명 줄 — 주로 **연금 수급자와 학생** (청년실업 16% 맥락)
+- 중국 사용자가 미국 등 어떤 나라보다도 빠르게 증가
+- 문제 발생: **민감 데이터 삭제**, **사용자 모르게 컴퓨팅 자원 소모**, 해킹 취약, 기기 탈취
+- **이례적으로 당국이 확산 저지에 나섬** — 규제 당국은 **은행 및 기타 민감 부문에서 금지**
+- 유료 "제거 서비스"라는 소산업까지 등장
+
+주목할 만한 전환: 중국 규제 당국이 AI 앱의 확산을 늦춘 드문 사례.
+
+### 시진핑의 AI 리스크 인식 변화
+- **2017년**: 시진핑, AI는 항상 "통제 가능"해야 한다 — 당의 권위 하에 **국내에서 생산**
+- **ChatGPT 이후(2022)**: 지도자에 대한 챗봇 발언에 초점 → 알고리즘 등록 + 금지 단어 리스트
+- **신규 칙령**: **자해나 감정적 의존**을 조장하는 시스템 금지 ("AI 남자친구" 현상 대응)
+- **2026년 초 연설**: 시진핑이 **"보안 문제"**를 언급하며, **아마도 최초로 프론티어 AI에 대한 기술적 통제 상실**을 포함시킴
+
+### 일자리 대체 불안
+- AI가 일자리를 대체할 것이라고 우려하는 노동자: **2024년 49% → 2025년 59%**
+- **우한 로보택시** 기사들이 도입 속도를 늦추라고 정부에 청원
+- **2025년 12월 규정**: AI로 대체된 직원을 **해고할 수 없다** — "기술 변화의 리스크를 노동자에게 떠넘기는 것"이라며 "AI 혜택을 누리는" 기업들의 해고 금지
+- 국영 언론: AI가 고용에 미치는 영향에 대한 **백서 준비 중**
+- **청년실업**: 16% (**미국의 약 2배**), 임금 성장 저조
+- 베이징 분석가 Poe Zhao: **"풀뿌리 기술 열광처럼 보이는 것이 실은 풀뿌리 커리어 불안에 더 가깝다"**
+
+### 주요 AI 기업과 당과의 관계
+"무버·셰이커"들은 정부 기대 때문에 서방 경쟁자들보다 낮은 프로파일을 유지하지만 몇몇은 부상 중:
+- **Liang Wenfeng (DeepSeek)**: 2024년 세계에 충격; 국영 매체가 **시진핑과의 악수 장면** 방송
+- **Yan Junjie (Minimax)**: 신흥 억만장자; **리창(Li Qiang) 총리**에게 경제 이슈 브리핑
+- **Yang Zhilin (Moonshot AI)**: 역시 총리에게 브리핑
+- **Z.ai** (칭화대 **Jie Tang** 교수 창업): 정부와 밀접한 관계
+- Carnegie의 **Matt Sheehan**: 엘리트층이 **기술 자체**를 걱정하는지, 아니면 서서히 형성 중인 **대중의 불안**을 걱정하는지 불분명
+
+### 안전사고 연쇄
+- 3월 말: **우한에서 100대 이상의 로보택시**가 갑자기 정지, 승객이 고속도로에서 최대 2시간 발이 묶임
+- **공안부** 고위 관계자 후속 회의
+- 정부가 전문가 그룹에 **"안전 기준"과 에이전트 행동 규칙** 제안을 지시
+
+### Mythos에 대한 반응
+Anthropic의 Mythos(4월 7일, 사이버 취약점 탐지 능력) 뉴스는 중국 내 **대중 반응은 잠잠**했으나 "국가안보 당국에서 분명히 정밀 분석될 것"이라는 평가. 베이징 정부 자문: 선택을 강요받는다면 당은 모든 것보다 기술 목표를 우선할 것 — AI 경쟁 승리는 **"생사 문제"**.
+
+이는 [[ai-regulation-mythos-moment|미국의 규제 전환]]과 **대칭적 긴장**을 만든다: 두 초강대국 모두 속도를 늦추고 싶지 않은 프론티어 AI 리스크에 직면해 있지만, 국가안보 우려와 대중 불안에 의해 개입 쪽으로 밀리고 있다. 양자 간 조율은 쉽지 않다.
 
 ## AI 미니드라마: 엔터테인먼트 산업의 격변
 

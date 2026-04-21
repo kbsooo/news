@@ -6,7 +6,8 @@ sources:
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/briefing/260409-with-a-whimper.md
   - raw/middle-east-and-africa/260414-the-other-front.md
-updated: 2026-04-14
+  - raw/middle-east-and-africa/260417-a-lasting-lebanese-peace-still-looks-a-long-way-off.md
+updated: 2026-04-17
 tags: [middle-east, military, geopolitics]
 ---
 
@@ -85,6 +86,37 @@ Despite Israel's campaign, **Hezbollah retains over 10,000 short-range weapons a
 - **2,000+ killed** in Lebanon by Israeli strikes
 - **1+ million displaced** from their homes
 - Overwhelmingly **Lebanese civilians** bear the cost as the war grinds on
+
+## April 16 Ceasefire (Imposed by Trump)
+
+At midnight between April 16 and 17, a **10-day Lebanon ceasefire** went into effect, announced via a Trump social-media post hours earlier. This is Trump's **fifth imposed ceasefire on Israel** (two in Gaza, two in Iran, now Lebanon).
+
+### The Iran Link
+- Israeli officials believe Trump's push was **largely a result of Iranian pressure** as part of the [[iran-war-and-ceasefire-2026|Iran-US ceasefire]]. Iran has always insisted Lebanon be part of any peace deal.
+- **Iranian success**: They have ensured their Lebanese proxy **survives to fight another day**.
+- Israeli diplomat: *"It's clear Trump is fed up with the war in Iran and doesn't want to jeopardise the ceasefire there. He's now also imposing a ceasefire in Lebanon to appease the Iranians."*
+
+### Domestic Political Fallout
+- Netanyahu waited ~2 hours after Trump's post to issue a statement. He **praised Hizbullah damage** but insisted the IDF **would not leave the 10km security zone**.
+- **Northern border anger**: David Azulay, council leader of Metula (Israel's northernmost town), said "The fact that the president of the United States is the one announcing the ceasefire just shows how detached the prime minister of Israel is." He accused Netanyahu of failing to protect citizens.
+
+### Hizbullah Response
+- Rocket fire continued **until minutes before the ceasefire began**.
+- After midnight, Hizbullah fighters paraded through the **battered southern suburbs of Beirut** in a show of force.
+- **Still-intact** after 46 days and devastating losses — weakened, but not broken.
+
+### Terms and Feasibility
+- Lebanon's government to take "meaningful steps to **disarm Hizbullah**" and open "good-faith negotiations" on a border agreement with Israel.
+- **Capability gap**: The Lebanese armed forces have **neither the military capability nor the political consensus** to disarm Hizbullah. The government **could not even enforce its own decision to eject Iran's ambassador**.
+- Trump announced Netanyahu and Lebanese president **Joseph Aoun** would travel to Washington for talks — but neither is likely to risk domestic wrath by appearing together.
+- **Displacement reality**: Thousands packed into cars for a journey south to see if homes were still standing — but many cannot return because IDF still controls the 10km zone.
+
+### The Gaza Precedent (Why "Lasting Peace" Is Unlikely)
+Trump proved he **can force Netanyahu to pause Israeli attacks** — unlike Biden. But he has been **less successful** in ensuring that any lasting peace follows:
+- Gaza ceasefire #1 broke down within weeks.
+- Gaza ceasefire #2 remains in force, but Israeli air strikes continue; Israel still controls over half of Gaza's territory; Hamas rules 2m+ Gazans in the remaining devastated territory.
+- **Six months in**, talks about disarming Hamas and beginning reconstruction have gone nowhere.
+- Lebanon expected to follow the same pattern: Hizbullah intact, Israel in buffer zone, displaced civilians unable to return.
 
 ## See Also
 - [[iran-war-and-ceasefire-2026]]
@@ -171,3 +203,34 @@ Despite Israel's campaign, **Hezbollah retains over 10,000 short-range weapons a
 - 이스라엘 공습으로 레바논에서 **2,000명 이상 사망**
 - **100만 명 이상** 집을 잃고 피난
 - 전쟁이 장기화될수록 그 대가는 대부분 **레바논 민간인**이 치르고 있다
+
+## 4월 16일 휴전 (트럼프가 강제)
+
+4월 16-17일 자정, **10일간 레바논 휴전**이 발효되었다 — 몇 시간 전 트럼프의 SNS 게시물로 발표. 이는 트럼프가 이스라엘에 **강제한 다섯 번째 휴전**(가자 2회, 이란 2회, 이제 레바논 1회).
+
+### 이란 연결고리
+- 이스라엘 관리들은 트럼프의 압박이 [[iran-war-and-ceasefire-2026|이란-미국 휴전]]의 일부로 **이란 측 압박에 주로 기인**한다고 본다. 이란은 어떤 평화협정에서도 레바논이 포함되어야 한다고 항상 주장해왔다.
+- **이란의 성공**: 레바논 프록시를 **또 다른 날을 위해 생존**시키는 데 성공.
+- 이스라엘 외교관: *"트럼프는 이란 전쟁에 질렸고, 그쪽 휴전을 위태롭게 하고 싶지 않다. 이란을 달래기 위해 레바논에도 휴전을 강제하고 있다."*
+
+### 국내 정치적 파장
+- 네타냐후는 트럼프 게시 후 ~2시간 지나 성명 발표. **헤즈볼라 피해를 강조**하면서도 IDF는 **10km 안보 구역에서 철수하지 않을 것**이라 고수.
+- **북부 국경 분노**: 이스라엘 최북단 도시 메툴라(Metula)의 의회 의장 David Azulay: "미국 대통령이 휴전을 발표하는 이 사실 자체가 이스라엘 총리가 얼마나 유리되어 있는지를 보여준다." 네타냐후가 시민 보호에 실패했다고 비난.
+
+### 헤즈볼라의 대응
+- 로켓 공격은 **휴전 발효 몇 분 전까지 계속**되었다.
+- 자정 이후 헤즈볼라 전투원들은 **폭격당한 베이루트 남부 교외**에서 시위 행진.
+- 46일간의 막대한 손실에도 **여전히 건재** — 약해졌지만 붕괴하지 않음.
+
+### 조항과 실현가능성
+- 레바논 정부는 "**헤즈볼라 무장해제**를 위한 의미 있는 조치"와 이스라엘과의 국경 협정에 대한 "선의의 협상"을 개시하기로 약속.
+- **역량 공백**: 레바논군은 헤즈볼라를 무장해제할 **군사적 역량도, 정치적 합의도 없다**. 정부는 **이란 대사 축출 결정조차 집행할 수 없었다**.
+- 트럼프는 네타냐후와 레바논 대통령 **Joseph Aoun**이 곧 워싱턴에서 회담하겠다고 발표 — 하지만 어느 쪽도 국내 반발을 감수하고 함께 나타날 가능성은 낮다.
+- **실향 현실**: 수천 명이 남부의 집이 아직 남아 있는지 보려 차를 몰고 내려갔지만 — IDF가 10km 구역을 여전히 통제하므로 많은 이들이 돌아가지 못한다.
+
+### 가자 선례 (왜 "지속적 평화"가 어려운가)
+트럼프는 바이든과 달리 **네타냐후에게 공격 중단을 강제할 수 있음**을 증명했다. 하지만 **지속적 평화가 뒤따르게 하는 데는 덜 성공적**:
+- 가자 휴전 1차: 몇 주 만에 붕괴.
+- 가자 휴전 2차: 명목상 유지되지만 이스라엘의 공습 계속; 이스라엘이 가자 영토의 절반 이상 통제; 하마스는 남은 폐허에서 200만+ 가자인을 통치.
+- **6개월이 지난 지금**, 하마스 무장해제와 재건 협상은 **전혀 진전되지 않았다**.
+- 레바논은 같은 패턴이 예상됨: 헤즈볼라 건재, 이스라엘이 완충지대 점령, 실향민 귀환 불가.

@@ -16,8 +16,13 @@ sources:
   - raw/united-states/260414-happy-filing-day.md
   - raw/business/260414-board-to-tears.md
   - raw/united-states/260415-hegseths-pentagon.md
-updated: 2026-04-15
-tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military]
+  - raw/middle-east-and-africa/260417-a-lasting-lebanese-peace-still-looks-a-long-way-off.md
+  - raw/leaders/260416-america-will-come-to-regret-its-war-on-taxes.md
+  - raw/leaders/260416-the-caracas-condition.md
+  - raw/finance-and-economics/260417-a-narrow-opening.md
+  - raw/middle-east-and-africa/260419-a-jungle-of-power.md
+updated: 2026-04-21
+tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer]
 ---
 
 # Donald Trump
@@ -49,11 +54,39 @@ Trump launched a war against [[iran|Iran]] that he expected to be easy. After ~4
 ### May 14 Xi Summit
 - The Xi-Trump summit (May 14) serves as a **de facto deadline** for ending the war, as Trump seeks to pivot to China diplomacy
 
+### The Serial Ceasefire-Imposer
+Trump has now **imposed five ceasefires on Israel** (two in Gaza, two in Iran, one in Lebanon on April 16). He has proven he can do what Biden could not — **force [[israel|Netanyahu]] to pause Israeli attacks**. But he has been less successful in converting those pauses into lasting peace:
+- **Gaza**: First ceasefire broke down in weeks; second holds but Israel still controls >half the territory, Hamas still rules 2m+ Gazans, disarmament/reconstruction talks stuck after 6 months.
+- **Lebanon (April 16)**: Trump announced a 10-day pause via social-media post. Israeli officials believe the push was largely **Iranian pressure via the Iran-US ceasefire** — Iran's consistent demand that Lebanon be included in any deal finally landing. See [[israel]], [[iran-war-and-ceasefire-2026]].
+- **Mechanism**: Trump keeps enforcing the Lebanon ceasefire **as long as he is determined to reach a deal with Iran** — Iran-track stability is now the load-bearing variable for the entire regional architecture.
+
 Unresolved dilemma: declare victory while Iran acts as toll-collector, or resume military action that already failed once?
 
 ### April 12 Blockade Order
 
 After the Islamabad talks collapsed without a deal (~21 hours), Trump ordered the US Navy to **blockade the strait** and to **"seek and interdict" every vessel in international waters that had paid a toll to Iran**. Two US destroyers transited Hormuz on April 11 to begin **mine-clearing operations**. A third aircraft carrier is crossing the Atlantic; an amphibious-warfare group is crossing the Pacific — both arriving before the ceasefire expires (~April 22). Pentagon has deployed thousands of additional marines. Gulf officials had urged Trump to intercept Iranian ships — Iran is exporting as much oil as before the war (or more), at higher prices.
+
+### April 17 → 20: Hormuz reopen-and-collapse
+On April 17 Trump echoed Iran's foreign minister: Hormuz "**completely open and ready for business**." S&P 500 hit an all-time high. Within hours he added that "Iran has removed, or is removing, all sea mines" — an unverified claim. Within **a single day** the IRGC re-closed the strait; on April 20 Trump said the US Navy had **fired upon and boarded an Iranian cargo ship**, and the deal collapsed. Stocks dipped. He once again threatened to **bomb Iran's civilian infrastructure** unless negotiations succeed (see [[laws-of-war-and-civilian-infrastructure]]) and announced the US delegation would **return to Islamabad** — but **which Iran the US is talking to** is now unclear (see [[iran|Iran "Jungle of Power"]]).
+
+## "The Caracas Condition" — Misreading His Own Win
+
+Trump's **January 3, 2026 capture of Maduro** by US special forces is one of his few foreign-policy successes. 100 days in, [[venezuela|Venezuela]] is freer (opposition meeting openly, prisoners released, investors returning) under former vice-president **Delcy Rodríguez**, who is "running the country to Trump's liking, albeit under threat of violence." But Trump misreads his own win in two ways:
+
+1. **Treats the transformation as complete**: "Venezuela has worked out so incredibly." Untrue — democracy hasn't been rekindled, ~480 political prisoners remain, and rule of law is backed only by Trump's word. Without elections, raised hopes will boil into protest.
+2. **Holds it up as a model for [[iran|Iran]]** ("the perfect, the perfect scenario"). Maduro's regime was **uniquely vulnerable** to a transactional approach — corrupt, ideology-free, with a robust pre-existing opposition. Iran is the opposite: shared **revolutionary ideology** holds the regime together even as factions feud. Even tiny **Cuba** has held out for 66 years for the same reason.
+
+> "Trump sees ideology as weakness. He thinks making money is all that really counts. If he keeps following the model he stumbled into in Venezuela, reality will prove him wrong." — Economist leader, April 16
+
+**Marco Rubio**, Cuban-American secretary of state, has staked his presidential ambitions on Venezuela's success — he is the structural champion for elections rather than Rodríguez's "string-things-out" play.
+
+## Cosying Up to the Defence Neo-Primes
+
+Trump's pivot to the new defence-tech upstarts (**Anduril, Palantir, SpaceX**) is creating governance and political-risk concerns. See [[us-defence-tech-shake-up-2026]]. Specifically:
+- When Palantir shares were hit by short-sellers, Trump posted a defence on Truth Social including the ticker: *"Palantir Technologies (PLTR) has proven to have great war-fighting capabilities and equipment. Just ask our enemies!!!"*
+- **Donald Trump Jr.** is a partner at **1789 Capital**, a VC firm that has invested in Anduril
+- The cluster's value (3 firms now worth >3x the legacy primes despite a fraction of the sales) reflects investor confidence in **policy access**, not just innovation
+- Trump pushing Congress for **+40% defence budget** (to $1.5trn) further amplifies the policy stake
 
 ## Pressure on the Fed
 
@@ -189,6 +222,16 @@ Rather than defending higher taxes, Democrats are pitching their own cuts for th
 ### Reading
 **Grover Norquist** on Democrats' new tax-cut enthusiasm: "**a sign of weakness**" in their worldview. The episode marks a bipartisan collapse of fiscal discipline — both parties now competing to deliver cuts against an already-ballooning deficit and a hollowed-out IRS. See [[financial-markets-2026]].
 
+### April 16 Editorial: "America Will Come to Regret Its War on Taxes"
+The Economist's April 16 leader sharpens the argument:
+- **~55% of tax filers would pay no federal income tax** under the Booker/Van Hollen proposals combined — proposals that unsurprisingly **poll tremendously well**.
+- Tax-fairness perceptions are at a **30-year low**.
+- **The bad-time-to-do-this economics**: America has low taxes by rich-country standards; the tax code is already progressive; deficits are running at **6% of GDP** — the highest outside recession or wartime, and the CBO expects that figure to keep rising.
+- **IMF spring meetings (mid-April)**: economists "beginning to wonder when, rather than if, America will suffer a **bond-market reckoning worthy of Liz Truss**." See [[financial-markets-2026]].
+- **The dubious politics**: Trump's first-term tax cuts did not prevent his 2020 defeat; his approval ratings have kept sliding during refund season. Rishi Sunak jammed through 0.7% of GDP payroll cuts before his 2024 defeat — British voters ranked those cuts **below banning the XL Bully dog** among his achievements.
+- **The affordability diagnosis Democrats miss**: voter angst doesn't reflect actual falls in purchasing power (wage growth has outstripped inflation for years). Voters get **sticker shock from high nominal prices** — padding incomes by cutting taxes won't fix that.
+- **The deeper political harm**: removing so many Americans from the tax base entirely risks **severing the tax-citizenship link** — leaving large chunks of the electorate as "mere recipients of state largesse" and putting the mature fiscal conversation America needs even further out of reach.
+
 ## Proxy Adviser Crackdown
 
 In **December 2025**, Trump accused **Glass Lewis** and **ISS** — the proxy-advisory duopoly — of using "substantial power to advance and prioritise radical politically motivated agendas," and instructed regulators to investigate them.
@@ -263,6 +306,28 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 **선행 구상: "공동 관리" 구상.** 봉쇄를 확정하기 전, 트럼프는 미국이 이란 정권과 호르무즈를 **"공동(jointly)" 관리**할 수 있다는 아이디어를 내비친 바 있다 — 이는 국제 해협을 규율하는 국제법을 뒤집는 구상. 봉쇄와 결합되면, 이는 트럼프가 개인적으로 **항행의 자유** 원칙을 시험대에 올리고 있음을 의미한다. Kevin Rowlands(RUSI Journal): "규칙 기반 질서니 국제법이니 하는 허울에 박는 또 하나의 못."
 
 **핵심 실행 가능성/위험 프레임**(Mark Montgomery 퇴역 해군 소장; Ernest Censier, Vortexa; Robin Brooks, Brookings; Esfandyar Batmanghelidj, Bourse & Bazaar Foundation; Kevin Rowlands, RUSI): 군사적으로는 "절대적으로 가능"하며 12월~2월 베네수엘라 연관 유조선 10척 나포라는 선례가 있음. 낙관: 이란이 10~20일 내 생산 축소 강요, 하이퍼인플레이션이 체제를 협상 테이블로 이끎. 비관: 이란은 2018~20년 수출이 하루 220만에서 40만 배럴 미만으로 폭락한 상황도 버텼으며, 화폐 발행, 말레이시아·중국 해상 비축분 1억 배럴, 비공식 수입 신용으로 **약 6개월** 버틸 수 있음. Rowlands: "한 주짜리 봉쇄란 없다. **장기전이거나, 아예 하지 말아야 한다.**" 이란이 중립국 선박 공격을 재개하고 사우디·UAE 시설을 타격하며 후티 홍해 공격이 가세하면 4월 말까지 **브렌트유 선물 $150/배럴** 도달 가능. 중국은 봉쇄에 도전하지 않을 것으로 예상되나, 이를 수용하면 태평양 전쟁 시 **말라카 해협** 봉쇄 선례가 만들어짐. 상세 분석은 [[iran-war-and-ceasefire-2026]] 참조.
+
+### 4월 17 → 20: 호르무즈 개방-붕괴
+4월 17일 트럼프가 이란 외무장관에 호응 — 호르무즈 "**완전히 개방되어 영업 준비 완료**." S&P 500 사상 최고치. 수 시간 후 "이란이 모든 해상 기뢰를 제거했거나 제거 중"이라고 추가 — 미검증 주장. **하루 만에** IRGC가 해협을 재차 폐쇄; 4월 20일 트럼프는 미 해군이 **이란 화물선에 포격·승선**했다고 발언, 합의 붕괴. 주가 하락. 협상 불성공 시 **이란 민간 인프라 폭격**을 재위협([[laws-of-war-and-civilian-infrastructure]] 참조). 미 대표단이 **이슬라마바드로 재귀환** 예정이라 발표 — 그러나 **미국이 어느 이란과 대화하고 있는지**가 불분명해짐([[iran|이란 "권력의 정글"]] 참조).
+
+## "카라카스 조건" — 자신의 성과를 잘못 읽다
+
+트럼프의 **2026년 1월 3일 마두로 체포**는 그의 흔치 않은 외교 성과. 100일 후 [[venezuela|베네수엘라]]는 전 부통령 **델시 로드리게스** 체제하에 자유로워졌지만(야권 공개 회동, 정치범 석방, 투자자 귀환), 그녀는 "트럼프 입맛에 맞춰, 무력 위협 아래" 통치 중. 트럼프는 두 가지 오독:
+
+1. **변화가 완료되었다고 간주**: "베네수엘라가 너무도 잘 풀렸다." 사실이 아님 — 민주주의 미부활, 정치범 약 480명 잔존, 법치는 트럼프의 말에만 의존. 선거가 없다면 기대가 시위로 폭발.
+2. **[[iran|이란]] 모델로 제시**("완벽한, 완벽한 시나리오"). 마두로 정권은 거래주의에 **유일무이하게 취약** — 부패·이념 없음·견고한 야권. 이란은 정반대: **혁명적 이념**이 파벌 분열에도 결속 유지. 작은 **쿠바**조차 66년을 견딤.
+
+> "트럼프는 이념을 약점으로 본다. 돈벌이가 전부라 생각한다. 그가 베네수엘라에서 우연히 발견한 모델을 계속 따른다면 현실이 그가 틀렸음을 입증할 것이다." — 이코노미스트 리더, 4월 16일
+
+쿠바계 미국인 **마르코 루비오 국무장관**은 대선 야망을 걸고 선거 추진을 원하는 구조적 챔피언.
+
+## 방산 네오프라임과의 친밀화
+
+신예 방산 기업(**Anduril, Palantir, SpaceX**)으로의 피봇이 거버넌스·정치 리스크 유발. [[us-defence-tech-shake-up-2026]] 참조. 구체적으로:
+- Palantir 공매도 공격 시 트럼프가 티커 포함 트루스소셜 옹호: *"Palantir Technologies (PLTR)는 위대한 전쟁 수행 역량을 입증. 우리 적들에게 물어봐라!!!"*
+- **도널드 트럼프 주니어**가 Anduril 투자 VC **1789 Capital** 파트너
+- 3사 가치가 레거시 프라임 3사의 3배 초과(매출은 일부분) — 혁신만이 아닌 **정책 접근성**에 대한 투자자 신뢰 반영
+- 트럼프의 **국방예산 +40%**(1.5조 달러) 추진이 정책 이해관계 증폭
 
 ## 연준에 대한 압박
 
@@ -397,6 +462,16 @@ SWAT팀이 출동하는 동안:
 
 ### 해석
 **Grover Norquist**는 민주당의 새로운 감세 열기를 두고 민주당 세계관의 "**약함의 징후**"라고 평한다. 이 국면은 양당 공히 재정 규율이 붕괴한 사건 — 이미 팽창한 재정적자와 공동화된 IRS를 배경으로 양당이 감세 경쟁에 뛰어들고 있다. [[financial-markets-2026]] 참조.
+
+### 4월 16일 사설: "미국은 감세 전쟁을 후회하게 될 것"
+The Economist 4월 16일 사설의 논지:
+- Booker/Van Hollen 안을 합치면 **전체 납세자의 ~55%가 연방 소득세를 내지 않게** 된다 — 당연히 **여론조사에서 엄청난 호응**.
+- 세금 공정성 인식은 **30년 만의 최저치**.
+- **지금이 감세 타이밍이 나쁜 이유(경제)**: 미국은 선진국 기준으로 세금이 낮다; 이미 누진적이다; 재정 적자는 **GDP의 6%** — 경기침체나 전시 외로는 사상 최고, CBO는 이 수치가 더 오를 것으로 전망.
+- **IMF 봄 회의(4월 중순)**: 경제학자들이 미국이 "**Liz Truss 수준의 채권시장 발작**을 언제 겪을지, 겪을지 말지가 아니라"를 논의하기 시작. [[financial-markets-2026]] 참조.
+- **의심스러운 정치 논리**: 트럼프 1기 감세는 2020년 패배를 막지 못했다; 환급 시즌 내내 지지율은 계속 하락. Rishi Sunak은 2024년 패배 전 GDP의 0.7%에 해당하는 급여세 감세를 강행 — 영국 유권자는 그 감세를 그의 업적 중 "**XL Bully 개 금지**"보다도 낮게 평가.
+- **민주당이 놓치는 affordability 진단**: 유권자의 불안은 실제 구매력 하락을 반영하지 않는다(수년간 임금 상승률이 인플레 상승률을 초과). 유권자는 **높은 명목 가격에서 오는 sticker shock**에 시달린다 — 세금을 깎아 소득을 부풀려도 이 문제는 해결되지 않는다.
+- **더 깊은 정치적 해악**: 그렇게 많은 미국인을 세 기반에서 완전히 제외하면 **세금-시민권 연결고리가 끊어질** 위험 — 유권자의 상당 부분이 "단순한 국가 수혜의 수령인"이 되고, 미국에 필요한 성숙한 재정 논의는 더욱 멀어진다.
 
 ## 의결권 자문사(Proxy Adviser) 단속
 
