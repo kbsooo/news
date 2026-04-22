@@ -7,7 +7,9 @@ sources:
   - raw/leaders/260401-geopolitics.md
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/leaders/260409-our-cover.md
-updated: 2026-04-11
+  - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
+  - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
+updated: 2026-04-22
 tags: [geopolitics, war, nationalism, history]
 ---
 
@@ -86,6 +88,17 @@ AI appears in three roles:
 
 The question: will AI primarily enable better decisions, or compress decision time below the threshold of human judgment?
 
+## US Information-Domain Forfeit (April 2026)
+
+Two parallel self-inflicted wounds during the [[iran-war-and-ceasefire-2026|Iran war]] showed the US **voluntarily ceding the two most powerful information channels of open-society dominance**:
+
+| Domain | US self-inflicted action | Adversary filled the void |
+|--------|-------------------------|---------------------------|
+| **Open-source imagery (OSINT)** | Trump admin clamped down on US commercial satellite firms; cut off journalists, researchers, activists | [[china\|China]] ([[chinese-earth-observation-rise\|Jilin-1, Siwei, MizarVision]]) now neck-and-neck with US; MizarVision uses researcher-comment errors as free training data |
+| **Narrative / propaganda** | Trump closed State Dept counter-propaganda office (2025) | Iran's Explosive Media (see [[ai-propaganda-war-2026]]) racked up >1bn X views mocking Trump in first month of war |
+
+The structural lesson: great-power competition now includes **AI-enabled information-production asymmetries** where the side with faster iteration of models + looser distribution regulation wins. Trump's instinct to gate US commercial actors **actively transfers capability** to state-aligned Chinese and Iranian competitors. Sanctions have shown **limited effect** — sanctioned CGST-partner Spacety raised $190m in April 2026.
+
 ## See Also
 - [[donald-trump]]
 - [[china]]
@@ -94,6 +107,8 @@ The question: will AI primarily enable better decisions, or compress decision ti
 - [[iran]]
 - [[israel]]
 - [[ai-in-mathematics]]
+- [[chinese-earth-observation-rise]]
+- [[ai-propaganda-war-2026]]
 
 ---
 
@@ -171,3 +186,14 @@ AI는 세 가지 역할로 등장한다:
 - **지적 영역**: [[ai-in-mathematics|수학 분야의 AI]]가 증명 검증을 가속화 — 동일한 패턴 처리 역량이 평화적 목적에 적용된 사례
 
 핵심 질문: AI가 주로 더 나은 의사결정을 가능하게 할 것인가, 아니면 인간의 판단력이 미치는 문턱 이하로 의사결정 시간을 압축할 것인가?
+
+## 미국의 정보 도메인 포기 (2026년 4월)
+
+[[iran-war-and-ceasefire-2026|이란 전쟁]] 중 두 개의 평행한 자해(自害) — 미국이 **개방 사회 우위의 두 가장 강력한 정보 채널**을 자발적으로 포기한 것:
+
+| 도메인 | 미국의 자해 행동 | 적대국이 공백 충전 |
+|--------|----------------|------------------|
+| **오픈소스 이미지(OSINT)** | 트럼프 행정부가 미 상업 위성 기업 단속; 언론인·연구자·활동가 접근 차단 | [[china|중국]]([[chinese-earth-observation-rise|Jilin-1, Siwei, MizarVision]])이 미국과 대등; MizarVision은 연구자 코멘트 오류를 무료 훈련 데이터로 활용 |
+| **서사/프로파간다** | 트럼프가 국무부 대응 프로파간다 부서 폐쇄(2025) | 이란의 Explosive Media(see [[ai-propaganda-war-2026]])가 전쟁 첫 달 X에서 트럼프 조롱 영상 10억+ 뷰 기록 |
+
+구조적 교훈: 강대국 경쟁은 이제 **AI 지원 정보 생산의 비대칭**을 포함 — 모델 이터레이션이 더 빠르고 배포 규제가 더 느슨한 쪽이 승리. 트럼프가 미 상업 행위자를 게이팅하려는 본능은 **국가 정렬 중국·이란 경쟁자에게 역량을 적극적으로 이전**. 제재는 **제한적 효과** — 제재된 CGST 파트너 Spacety가 2026년 4월 1억 9천만 달러 조달.

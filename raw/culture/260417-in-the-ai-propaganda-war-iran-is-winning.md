@@ -1,0 +1,25 @@
+# In the AI propaganda war, Iran is winning
+
+A joyless theocracy produces wittier videos than the Trump administration
+
+In previous decades, propaganda for murderous Middle Eastern regimes tended to be unpersuasive. As American forces rolled into the Iraqi capital in 2003, Saddam Hussein's information minister, Muhammad Saeed al-Sahaf, stood on a roof and claimed that "Baghdad is safe…the infidels are committing suicide by the hundreds on the gate." He added that God was "grilling their stomachs in hell". Behind him, television audiences could see Iraqi soldiers fleeing for their lives.
+
+In today's Gulf war, astonishingly, a murderous dictatorship appears to be winning the propaganda battle against the land of the free and the home of Hollywood. Day after day, a team backing Iran's theocratic regime releases videos, made with AI, that ridicule Donald Trump and glorify those who resist him. Joseph Bodner and Krysia Sikora of the Institute for Strategic Dialogue, a pro-democracy NGO, found that two pro-Iran networks had racked up more than a billion views on X in the first month of the war.
+
+The regime is not known for its sense of humour—ask Sir Salman Rushdie. Yet many of the videos are witty and show fluency in their enemy's culture. The soundtrack is often thumping rap, with English lyrics. The figures are frequently made of Lego. Mr Trump is portrayed as a vain, cowardly liar who declares victory even as his pants are, literally, on fire. Pete Hegseth, America's secretary of war, is shown as a vomiting drunk with crusader tattoos.
+
+Iran's propagandists have advantages that Saddam's flack lacked. AI allows expensive-looking videos to be made cheaply and quickly in response to breaking news. Since most AI models are trained on Western content, the technology also makes it easy to generate new slop that riffs on Western cultural tropes. Social-media channels offer multiple ways to circulate Iran's zingers: handy, since YouTube has blocked them. And an unpopular American president waging an unpopular war gives them a mockable target.
+
+Nonetheless, Iran has played its cards deftly. Rather than chanting "Death to America", as is traditional, the videos play up criticisms of Mr Trump that resonate with a global audience. Binyamin Netanyahu, Israel's prime minister, is shown whispering words of strife into his ear. Young Americans line up to be drafted as plutocrats on Epstein island frolic with girls in bikinis. A ticker shows the oil price soaring. A bonfire of banknotes shows American taxpayers' cash being wasted. American bombs kill Iranian schoolchildren.
+
+The lyrics are not exactly Omar Khayyam, but they are sharper than plenty of popular hip-hop tracks. "Hey Loser, come closer, I'm the exposer/Fake billionaire, your whole empire a poser" is not a bad put-down. Nor is: "You drop Fake News, sitting high in your tower/Morally bankrupt, just drunk on the power".
+
+Explosive Media, the group that makes many of the videos, claims to be independent. However, it is operating out of Iran, where the internet is shut down for all except those most deeply favoured by those in power. And a spokesman for Explosive Media admitted to the BBC that the regime was a "customer".
+
+Look closely, and the propaganda is blatant. Iranian forces are portrayed as heroic (though the regime has massacred thousands of its own people) and ever-victorious, obliterating American bases and Gulf skyscrapers that in fact they only singed. Nods to conspiracy theories popular both in the Middle East and the West abound: that the Illuminati control America and that the death of Princess Diana, a British royal who was dating a Muslim, was no accident. Antisemitic images appear, too. Mr Netanyahu is depicted as a worm in an apple.
+
+Yet all these nasties flit past your eyes so fast they are easy to miss. The videos have "hotwired" the world's brains, says Moustafa Ayad, also of the Institute for Strategic Dialogue. "The Iranians have been able to tap into the zeitgeist…through really good use of internet subcultures, memes [and] animations." The message—don't trust America—comes not from the mouths of Iran's actual leaders, who are "hated or polarising", but from Lego versions of them, "who look like fun", says Mr Ayad.
+
+Iran is also taking pro-Trump AI content and repurposing it. After Mr Trump posted an AI-generated image of himself as Jesus healing the sick (and explained, when Christians were outraged, that he thought it showed him as a doctor), someone added the real Jesus descending from the sky to cast Mr Trump into the fiery pit. Iranian embassies gleefully circulated it.
+
+America's State Department used to have an office that counteracted enemy propaganda, but the Trump administration closed it last year. So the world's greatest military power is struggling to subdue a regional bully, and the world's cultural superpower is being out-trolled by a regime that whips women for showing their hair. For the man who let this happen, "loser" seems like an understatement. ■

@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-21 (Hormuz reopen-collapse whiplash + Iran "jungle of power" + Caracas Condition + neo-primes defence shake-up + S&P earnings boom + Apple succession + Chinese satellites + reverse tech transfer)
+updated: 2026-04-22 (Apr 15-21 batch: Chinese satellite rise + Iran AI propaganda win + Israel doctrine abandonment + Russia village budget cracks + Mythos deeper evaluation + midterms forecast — info-domain forfeit thesis crystallizes)
 ---
 
 # Wiki Index
@@ -30,9 +30,10 @@ updated: 2026-04-21 (Hormuz reopen-collapse whiplash + Iran "jungle of power" + 
 ## Events
 
 - [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, Islamabad talks collapsed 4/12, counter-blockade 4/13, Lebanon ceasefire 4/16 (Trump's 5th imposed on Israel), US 20yr vs Iran 5yr moratorium bracket
-- [[anthropic-mythos]] — April 7: Mythos too powerful to release, found vulnerabilities in every major OS, Project Glasswing
+- [[anthropic-mythos]] — April 7: Mythos too powerful to release, found vulnerabilities in every major OS, Project Glasswing (+$20K/bug, Firefox 20%, OpenSSL Jan)
 - [[artemis-ii]] — Farthest human travel since Apollo 13, Blue Marble legacy, NASA climate science rollback (Isaacman/Marvel)
 - [[france-2027-presidential-election]] — RN (Le Pen/Bardella) almost certain to reach run-off at ~38%; Philippe only proven Bardella-beater; Le Pen July ruling; Orban loss hurts; 12 months out
+- [[us-midterms-2026]] — Economist forecast 95% House flip, 46% Senate; -17 approval; Trump window closes Jan 2027 → 2026 acceleration risk
 
 ## Concepts
 
@@ -56,6 +57,10 @@ updated: 2026-04-21 (Hormuz reopen-collapse whiplash + Iran "jungle of power" + 
 - [[us-defence-tech-shake-up-2026]] — Anduril/Palantir/SpaceX "neo-primes" worth >3x legacy primes despite fraction of sales; Trump cosying up; $1m missile vs $50K Iranian drone economics; lock-in + Trump-family-VC concerns
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
 - [[market-snapshot]] — Rolling reference of volatile market indicators (equities, FX, rates, crypto, commodities)
+- [[chinese-earth-observation-rise]] — China 640+ sats (120 in 2025 alone), Jilin-1 PLA-linked, Siwei neck-and-neck with US; MizarVision AI-annotated imagery + reverse-RLHF via researcher comments; end of Western space-imagery monopoly
+- [[ai-propaganda-war-2026]] — Iran's Explosive Media, >1bn X views in first month; Lego Trump, rap lyrics; US State Dept counter-prop office closed 2025; AI info-ops unregulated while cyber gets Glasswing
+- [[israeli-security-doctrine-shift]] — Ben-Gurion's harta'a/hatra'a/hachra'a abandoned; pre-emption-against-capability has no stopping condition; generals cowed by Oct 7; only Trump restrains (5 ceasefires in 15 months)
+- [[russia-war-home-front]] — Nikolsk village officials openly say "there is a war" (not SMO); Kremlin narrative crack at bureaucratic level; rural schools 45k→21k since 2000
 
 ## Simulations
 
@@ -65,7 +70,7 @@ updated: 2026-04-21 (Hormuz reopen-collapse whiplash + Iran "jungle of power" + 
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted, wider distribution). Samsung foundry is the asymmetric hedge vs SK Hynix pure-play.
 
-## Sources Ingested (116)
+## Sources Ingested (122)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -185,3 +190,9 @@ updated: 2026-04-21 (Hormuz reopen-collapse whiplash + Iran "jungle of power" + 
 | 2026-04-20 | Chaguan: reverse tech transfer from China | China |
 | 2026-04-20 | American corporate profits keep shrugging off tumult | Finance & Economics |
 | 2026-04-21 | Tim Cook hands Apple over to John Ternus | Business |
+| 2026-04-15 | Examining the Mythos (AI hackers will shake cybersecurity) | Science & Technology |
+| 2026-04-17 | Iran is winning the AI propaganda war | Culture |
+| 2026-04-19 | How Chinese satellites have boosted Iran's war effort | China |
+| 2026-04-20 | Russia budget cuts: Nikolsk village fights to survive | Europe |
+| 2026-04-21 | Remember the days of old (Israel's open-ended wars) | Middle East & Africa |
+| 2026-04-21 | Our midterms forecast predicts pain for Donald Trump | United States |

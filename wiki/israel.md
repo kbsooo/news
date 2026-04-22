@@ -7,7 +7,8 @@ sources:
   - raw/briefing/260409-with-a-whimper.md
   - raw/middle-east-and-africa/260414-the-other-front.md
   - raw/middle-east-and-africa/260417-a-lasting-lebanese-peace-still-looks-a-long-way-off.md
-updated: 2026-04-17
+  - raw/middle-east-and-africa/260421-remember-the-days-of-old.md
+updated: 2026-04-22
 tags: [middle-east, military, geopolitics]
 ---
 
@@ -118,6 +119,18 @@ Trump proved he **can force Netanyahu to pause Israeli attacks** — unlike Bide
 - **Six months in**, talks about disarming Hamas and beginning reconstruction have gone nowhere.
 - Lebanon expected to follow the same pattern: Hizbullah intact, Israel in buffer zone, displaced civilians unable to return.
 
+## Doctrine Abandonment (April 21 leader)
+
+Israel's national-security doctrine — the **harta'a / hatra'a / hachra'a** (deterrence / early warning / decisive action) framework created by Ben-Gurion — has been **effectively abandoned** under Netanyahu. The Independence-Day visit Trump was to make on **April 22** was cancelled; instead, on **April 16** Israel received orders to stop bombing Lebanon. This is the **5th Trump-imposed ceasefire** in 15 months (Gaza ×2, Iran ×2, Lebanon ×1).
+
+A former Israeli strategic-affairs chief (Jeremy Issacharoff): *"The ceasefires are a positive development, but having them dictated to us by America harms Israel's deterrence and makes it a client state."*
+
+A new unofficial doctrine: **if Israel can no longer detect enemy intentions, it must strike earlier against capabilities** — the logic behind Iran strikes, Gaza/Lebanon/Syria "security zones," and open-ended war. But pre-emption-against-capability has **no stopping condition**.
+
+Generals are **too cowed by the October 7 failure** to restrain the government. Or Rabinowitz (Stanford): *"The only restraint now is Trump's foot on the brakes."*
+
+See [[israeli-security-doctrine-shift]] for the full analysis — including the **parallel military ascendancy in Iran** (IRGC denouncing diplomats, military communiqués replacing clerical sermons): both post-war militaries are politically ascendant precisely because both experienced wartime humiliation.
+
 ## See Also
 - [[iran-war-and-ceasefire-2026]]
 - [[iran-war-damage-assessment]]
@@ -125,6 +138,7 @@ Trump proved he **can force Netanyahu to pause Israeli attacks** — unlike Bide
 - [[donald-trump]]
 - [[gulf-states]]
 - [[nato-and-transatlantic-crisis]]
+- [[israeli-security-doctrine-shift]]
 
 ---
 
@@ -234,3 +248,15 @@ Trump proved he **can force Netanyahu to pause Israeli attacks** — unlike Bide
 - 가자 휴전 2차: 명목상 유지되지만 이스라엘의 공습 계속; 이스라엘이 가자 영토의 절반 이상 통제; 하마스는 남은 폐허에서 200만+ 가자인을 통치.
 - **6개월이 지난 지금**, 하마스 무장해제와 재건 협상은 **전혀 진전되지 않았다**.
 - 레바논은 같은 패턴이 예상됨: 헤즈볼라 건재, 이스라엘이 완충지대 점령, 실향민 귀환 불가.
+
+## 독트린 포기 (4월 21일 리더)
+
+이스라엘의 국가안보 독트린 — 벤구리온의 **harta'a / hatra'a / hachra'a**(억지력 / 조기 경보 / 결정적 행동) 프레임워크 — 가 네타냐후 하에서 **사실상 포기**됨. 트럼프가 **4월 22일** 방문할 예정이던 독립기념일 방문은 취소; 대신 **4월 16일** 이스라엘은 레바논 폭격 중단 명령 수령. 이는 15개월 내 **트럼프 강제 5번째 휴전**(가자 ×2, 이란 ×2, 레바논 ×1).
+
+전 이스라엘 전략 업무 책임자(Jeremy Issacharoff): *"휴전은 긍정적 진전이지만, 미국에 의해 받아쓰게 되는 것은 이스라엘의 억지력을 해치고 위성국으로 만든다."*
+
+새로운 비공식 독트린: **이스라엘이 더 이상 적의 의도를 탐지할 수 없다면, 역량에 대해 더 일찍 타격해야 한다** — 이란 타격, 가자·레바논·시리아 "안보 구역", 개방형 전쟁의 논리. 그러나 역량 선제 대응은 **정지 조건이 없음**.
+
+장성들은 **10월 7일 실패에 너무 위축**되어 정부를 제어하지 못함. Or Rabinowitz(Stanford): *"유일한 제동은 트럼프의 브레이크."*
+
+전체 분석과 **이란에서의 평행한 군 우위**(IRGC가 외교관 비난, 군사 성명이 성직자 설교 대체)는 [[israeli-security-doctrine-shift]] 참조: 전후 양국 군이 모두 정치적으로 우위를 점한다 — 양쪽 모두 전시 굴욕을 경험했기 때문.

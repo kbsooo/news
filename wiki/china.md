@@ -9,7 +9,8 @@ sources:
   - raw/china/260416-why-chinas-government-worries-about-ai.md
   - raw/china/260419-views-of-the-middle-east.md
   - raw/china/260420-chaguan.md
-updated: 2026-04-21
+  - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
+updated: 2026-04-22
 tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions]
 ---
 

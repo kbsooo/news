@@ -20,7 +20,10 @@ sources:
   - raw/middle-east-and-africa/260417-a-lasting-lebanese-peace-still-looks-a-long-way-off.md
   - raw/finance-and-economics/260417-a-narrow-opening.md
   - raw/middle-east-and-africa/260419-a-jungle-of-power.md
-updated: 2026-04-21
+  - raw/middle-east-and-africa/260421-remember-the-days-of-old.md
+  - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
+  - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
+updated: 2026-04-22
 tags: [war, middle-east, united-states, iran, ceasefire]
 ---
 

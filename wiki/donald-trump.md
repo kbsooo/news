@@ -21,7 +21,10 @@ sources:
   - raw/leaders/260416-the-caracas-condition.md
   - raw/finance-and-economics/260417-a-narrow-opening.md
   - raw/middle-east-and-africa/260419-a-jungle-of-power.md
-updated: 2026-04-21
+  - raw/united-states/260421-our-midterms-forecast-predicts-pain-for-donald-trump.md
+  - raw/middle-east-and-africa/260421-remember-the-days-of-old.md
+  - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
+updated: 2026-04-22
 tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer]
 ---
 
@@ -196,6 +199,12 @@ At a task force meeting, **Stephen Miller** asked what fraud "**does to public t
 Democrats have an enduring lead on healthcare (which is popular); Republicans are associated with spending cuts. The strategy is word-association: **when voters think of healthcare, Republicans hope they think of fraud, rather than the cuts.** With polls plunging and midterms in November 2026, the fraud war substitutes for a policy agenda.
 
 This connects to [[nationalism-and-great-power-rivalry|the strongman pattern]]: the "war on fraud" doubles as a tool to punish opposition states, target minorities for immigration enforcement, and delegitimize public programs — classic illiberal tactics dressed as good governance.
+
+### April 21 Forecast — The Messaging May Not Save Them
+
+The Economist's statistical forecast (April 21, 2026): Democrats **95% House flip, 46% Senate** — see [[us-midterms-2026]]. Key drivers all run against Trump: **-17 net approval**, **53-47 generic ballot**, Democratic over-performance in special elections. House popular-vote 95% range: **50.7% (near-tie) to 55.6% (biggest D landslide since 1976)**. 
+
+**Strategic implication**: Trump's window for transformational legislative and foreign-policy moves closes around **January 2027**. This creates **acceleration risk** — bigger 2026 gambles (tariffs, foreign commitments, Pentagon purges) to lock in before oversight returns.
 
 ## Tax Revolt and IRS Hollowing-Out
 
@@ -437,6 +446,12 @@ SWAT팀이 출동하는 동안:
 민주당은 의료(인기 있는 분야)에서 지속적인 우위를; 공화당은 지출 삭감과 연관된다. 전략은 단어 연상이다: **유권자가 의료를 생각할 때, 공화당은 예산 삭감 대신 사기를 떠올리기를 바란다.** 지지율이 하락하고 2026년 11월 중간선거가 다가오는 가운데, 사기와의 전쟁은 정책 의제를 대신한다.
 
 이는 [[nationalism-and-great-power-rivalry|강인한 지도자 패턴]]과 연결된다: "사기와의 전쟁"은 반대 주(州) 처벌, 이민 단속을 위한 소수민족 표적화, 공공 프로그램의 정당성 훼손을 위한 도구로 이중 활용된다 — 좋은 거버넌스로 포장된 전형적인 비자유주의 전술이다.
+
+### 4월 21일 예측 — 메시지가 구하지 못할 수도
+
+The Economist의 통계 예측(2026년 4월 21일): 민주당 **하원 95% 뒤집기, 상원 46%** — [[us-midterms-2026]] 참조. 핵심 동인 모두 트럼프 반대 방향: **순지지율 -17%**, **일반투표 53-47**, 특별선거 민주당 과도 성과. 하원 대중투표 95% 범위: **50.7%(박빙) ~ 55.6%(1976년 이래 민주당 최대 압승)**.
+
+**전략적 함의**: 트럼프의 변혁적 입법·외교 이동 창은 **2027년 1월경** 닫힘. 이는 **가속 리스크**를 만듦 — 감독 복귀 전 고착을 위해 2026년 더 큰 도박(관세, 외교 공약, 펜타곤 숙청).
 
 ## 세금 반란과 IRS(국세청) 공동화
 

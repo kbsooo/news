@@ -4,7 +4,8 @@ type: event
 sources:
   - raw/business/260408-mythical-monster.md
   - raw/business/260415-locked-up-models.md
-updated: 2026-04-11
+  - raw/science-and-technology/260415-examining-the-mythos.md
+updated: 2026-04-22
 tags: [ai, cybersecurity, safety, technology]
 ---
 
@@ -59,6 +60,38 @@ As exclusivity became a marketing weapon in its own right, Glasswing's perimeter
 - Anthropic's rivals (OpenAI, Google) have their own responsible release policies
 - **Chinese open-source labs** tend to be less focused on safety
 - These will eventually develop similar capabilities — the question is whether defenses are in place by then
+
+## Technical Evaluation — "Jagged" but Advancing (April 15 deeper dive)
+
+### AI Security Institute (UK government agency) test results
+- Mythos was **neck-and-neck** with other models on relatively simple cyber-security tests
+- But **noticeably ahead** in an advanced test that requires dozens of steps before successfully taking over a target machine
+- **Verdict**: step-change in **multi-step agentic cyber-capability**, not raw bug-finding
+
+### Is Mythos really revolutionary or evolutionary?
+- A "vigorous debate" is raging online
+- **Stanislav Fort** (Aisle, AI cyber-security startup): **used several smaller, older models to find the same FreeBSD bug** — the AI cyber-security frontier is "**jagged**", with no model having a clear edge
+- But the state of the art is advancing quickly — "**One change I've noticed in the past couple of months is that a lot of these AI-generated bug reports are increasingly of good quality**" (Bruce Schneier)
+
+### Concrete AI-found fixes already in production
+- **OpenSSL update (January 2026)**: **fixed a dozen security flaws** found by AI models employed by Fort's firm
+- **Firefox (2025)**: an older, **pre-Mythos Claude** found **~20% of all high-severity bugs fixed** that year
+- Mythos found "thousands" of high- or critical-severity flaws (most kept secret until fixed), including:
+  - One in **FreeBSD** (comprehensible enough that other AI models found it too)
+  - One in **FFmpeg** (video-and-audio library)
+  - One in **cloud-computing software — still unfixed** at publication
+
+## The Cost Problem
+
+- One Mythos bug cost Anthropic **nearly $20,000-worth of tokens to find**
+- **Linux** (partly volunteer-maintained): prohibitive cost
+- **Home routers, smart gadgets (TVs, fridges), industrial machinery**: mostly **nobody maintains this code at all** — "attackers could have a field day"
+
+The defender asymmetry is compute-budget-gated: rich maintainers can afford AI hardening; everyone else is exposed.
+
+## Optimistic Long-Term View
+
+All researchers The Economist interviewed for the April 15 piece agreed: in the **long run**, AI-enabled hacking will probably **help defenders more than attackers** by allowing more thorough pre-publication code checks. But Schneier qualifies: "**In the medium term I think this will be a mess. But in the long run I think it will actually be good for the defenders.**"
 
 ## Connection to Broader AI Trends
 
@@ -121,6 +154,38 @@ Anthropic의 완화 전략 — 방어자에게 선제적 우위를 제공:
 - Anthropic의 경쟁사(OpenAI, Google)는 자체적인 책임 있는 출시 정책을 보유
 - **중국의 오픈소스 연구소**는 안전성에 대한 관심이 상대적으로 낮은 경향
 - 이들도 결국 유사한 역량을 개발할 것 — 문제는 그때까지 방어 체계가 갖춰져 있느냐 여부
+
+## 기술 평가 — "들쭉날쭉"하지만 진보 중 (4월 15일 심층)
+
+### AI 보안 연구소(AISI, 영국 정부 기관) 테스트 결과
+- Mythos는 비교적 단순한 사이버보안 테스트에서는 다른 모델과 **막상막하**
+- 그러나 목표 기기를 성공적으로 장악하기 위해 수십 단계를 완료해야 하는 고급 테스트에서는 **뚜렷이 앞섬**
+- **판단**: 원시 버그 발견보다 **다단계 에이전틱 사이버 역량**의 단계 변화
+
+### Mythos는 정말 혁명적인가 점진적인가?
+- 온라인에서 "격렬한 토론" 진행 중
+- **Stanislav Fort**(Aisle, AI 사이버보안 스타트업): **여러 더 작고 오래된 모델로 같은 FreeBSD 버그 발견** — AI 사이버보안 프론티어는 "**들쭉날쭉(jagged)**", 어느 모델도 명확한 우위 없음
+- 그러나 최첨단은 빠르게 진보 — "**지난 몇 달간 내가 주목한 변화는 AI 생성 버그 보고가 점점 질이 좋아지고 있다는 것**"(Bruce Schneier)
+
+### 이미 프로덕션에 적용된 AI 발견 수정
+- **OpenSSL 업데이트(2026년 1월)**: Fort 회사가 고용한 AI 모델이 찾은 **12개 보안 결함 수정**
+- **Firefox(2025)**: **Mythos 이전 Claude**가 그해 수정된 **고심각도 버그의 약 20%** 발견
+- Mythos는 고·중대 심각도 결함을 "수천 개" 발견(대부분 수정 전까지 비공개), 공개된 것:
+  - **FreeBSD** 한 개(다른 AI 모델도 발견할 만큼 이해 가능)
+  - **FFmpeg** 한 개(비디오·오디오 라이브러리)
+  - **클라우드 컴퓨팅 소프트웨어 한 개 — 발표 시점 미수정**
+
+## 비용 문제
+
+- Mythos 버그 하나에 **거의 $20,000 상당의 토큰** 소비
+- **Linux**(부분 자원봉사 유지 관리): 비용 부담 불가능
+- **가정용 라우터, 스마트 기기(TV, 냉장고), 산업용 기계**: 대부분 **아무도 코드를 유지 관리하지 않음** — "공격자들에게 '봄철'이 될 수 있음"
+
+방어자 비대칭은 컴퓨팅 예산에 의해 게이팅됨: 부유한 유지 관리자는 AI 강화를 감당 가능, 나머지는 노출.
+
+## 장기 낙관론
+
+The Economist가 4월 15일 기사를 위해 인터뷰한 모든 연구자들이 동의: **장기적으로** AI 지원 해킹은 **방어자에게 공격자보다 더 유리**할 것, 출판 전 코드 검사를 더 철저히 할 수 있게 해줌. 단 Schneier가 조건: "**중기적으로는 난장판이 될 것이다. 하지만 장기적으로는 방어자에게 유리할 것이다.**"
 
 ## 광범위한 AI 트렌드와의 연결
 

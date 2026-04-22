@@ -1,9 +1,29 @@
 ---
 title: Log
-updated: 2026-04-21 (Hormuz reopen-collapse + Iran "jungle of power" + Caracas Condition + neo-primes + S&P earnings boom + Apple succession + China satellites + reverse tech transfer)
+updated: 2026-04-22 (Apr 15-21 batch: info-domain forfeit + Israel doctrine + Russia home-front + Mythos deeper + midterms forecast)
 ---
 
 # Wiki Log
+
+## [2026-04-22] ingest | 6 Economist articles (Chinese satellites + AI propaganda + Russia village + Israel doctrine + Mythos deeper + midterms forecast) — info-domain forfeit thesis
+
+**Sources (6)**:
+- `raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md` — 640+ Chinese sats (120 in 2025 alone); Jilin-1 (CGST, PLA-linked) targets 10-min revisit; Siwei Superview Neo-1 matches US Vantor; IRGC purchased Chinese satellite; MizarVision AI-annotated imagery + researcher-comments-as-training-data flywheel; Spacety raised $190m despite sanctions
+- `raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md` — Explosive Media >1bn X views first month; Lego Trump as "vain cowardly liar"; rap lyrics; Iran weaponizes pro-Trump Jesus-healing AI image; Illuminati + antisemitic embedded priming; State Dept counter-prop office closed 2025
+- `raw/europe/260420-as-russia-looks-to-slash-budgets-a-village-fights-to-survive.md` — Nikolsk village; district council head openly says "there is a war — no matter what it's called"; rural schools 45k→21k since 2000; Kremlin scrapped local self-governance 2025; villagers suing for referendum
+- `raw/middle-east-and-africa/260421-remember-the-days-of-old.md` — Israel's Ben-Gurion doctrine (harta'a/hatra'a/hachra'a) abandoned; Trump's 5th imposed ceasefire on Israel (Apr 16 Lebanon); new unofficial doctrine = preempt capabilities when intentions undetectable (no stopping condition); generals cowed by Oct 7
+- `raw/science-and-technology/260415-examining-the-mythos.md` — AISI test: Mythos neck-and-neck on simple cyber, ahead on multi-step agentic; Stanislav Fort (Aisle) found same FreeBSD bug with smaller older models — "jagged" frontier; $20K tokens/bug; Firefox pre-Mythos Claude found ~20% 2025 high-sev; OpenSSL Jan 2026 AI-found fixes
+- `raw/united-states/260421-our-midterms-forecast-predicts-pain-for-donald-trump.md` — 95% House flip, 46% Senate; -17 net approval; generic ballot 53-47; special-election over-performance; redistricting war fought to draw; Maine Platner Nazi-tattoo wildcard; Sherrod Brown + Peltola + Paxton primary as wild cards
+
+**Deleted as duplicate**: `raw/middle-east-and-africa/260419-which-iran-is-america-dealing-with.md` — byte-identical to already-ingested `260419-a-jungle-of-power.md`
+
+**New pages (5)**: `us-midterms-2026`, `ai-propaganda-war-2026`, `chinese-earth-observation-rise`, `israeli-security-doctrine-shift`, `russia-war-home-front`
+
+**Updated pages**: `iran`, `israel`, `china`, `donald-trump`, `anthropic-mythos`, `ai-regulation-mythos-moment`, `great-power-rivalry`, `iran-war-and-ceasefire-2026`, `index`
+
+**Emergent synthesis — "US information-domain forfeit"**: Two self-inflicted wounds during the Iran war show the US voluntarily ceding the two most powerful information channels of open-society dominance: (1) Trump admin clamped down on US commercial satellite firms → China Jilin-1/Siwei/MizarVision fill the OSINT void; (2) Trump closed State Dept counter-propaganda office 2025 → Iran's Explosive Media wins the meme war. Cross-wired with Mythos: regulation caught up to cyber risk but not info-ops risk. Added as dedicated section in `great-power-rivalry`.
+
+**Emergent synthesis — "parallel military ascendancy"**: Both Iran (IRGC denouncing diplomats, military communiqués replacing clerical sermons) and Israel (generals cowed by Oct 7, cannot restrain far-right government, new pre-emption-against-capability doctrine) show military ascendancy post-wartime-humiliation. Only Trump restrains both — his midterm weakening therefore matters beyond US politics. Captured in `israeli-security-doctrine-shift`.
 
 ## [2026-04-21] ingest | 8 Economist articles (Hormuz reopen-collapse + Iran power struggle + Caracas Condition + neo-primes defence + S&P earnings + Apple succession + China satellites + reverse tech transfer)
 Sources (8):
