@@ -12,7 +12,9 @@ sources:
   - raw/leaders/260415-how-to-end-the-war-in-iran.md
   - raw/finance-and-economics/260417-a-narrow-opening.md
   - raw/middle-east-and-africa/260419-a-jungle-of-power.md
-updated: 2026-04-21
+  - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
+  - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
+updated: 2026-04-23
 tags: [geography, shipping, oil, chokepoint]
 ---
 
@@ -75,6 +77,27 @@ Feasibility is not in doubt — Mark Montgomery (retired rear-admiral) calls it 
 
 ### Freedom-of-navigation implications
 Combined with Trump's earlier musing about **"jointly"** controlling Hormuz with Iran's regime — a practice that would upend the international law governing such waterways — the blockade puts the principle of freedom of navigation under severe stress. Kevin Rowlands (RUSI Journal): "another nail in the coffin for any pretence that there is such a thing as a rules-based order or international law." US officials assess China will not challenge the blockade, but accepting it sets a precedent China has long feared for the **Strait of Malacca** in a Pacific-war scenario.
+
+## April 21-22: Blockade Holding, Strait Empty
+
+### Blockade scorecard
+- **Pentagon**: has stopped **28 ships** transiting Hormuz; seized **at least 2 Iranian vessels** (one in the **Bay of Bengal**, 5,000 km from the strait by sea)
+- **Lloyd's List**: **more than two dozen Iranian ships have dodged** the blockade — it is not hermetic
+- **Iran production squeeze**: storage filling up; Iran will probably have to **cut oil production within days**; prolonged port closure drives up food/essentials prices
+
+### Strait traffic
+- **April 21**: **zero ships** passed through Hormuz
+- **April 22**: IRGC **fired on a container ship**; also claimed to have **seized 2 more vessels** (not immediately confirmed)
+- Non-Iranian traffic **at a standstill** — no meaningful resumption despite extended ceasefire
+
+### Market response
+- **Brent ~$100/bbl** — markets unimpressed with the extended ceasefire. Trump needs the strait open before high petrol prices sink Republicans in the midterms. See [[us-midterms-2026]].
+- But see [[energy-markets-seizure-april-2026]] — physical markets are in far worse shape than futures imply. Asian spot prices: **petrol $120, diesel $175, jet fuel $200** (all double pre-war).
+
+### What persistence means
+A prolonged closure **guarantees** material economic damage even if reopening eventually happens:
+- Trafigura's **Saad Rahim**: cumulative Gulf-crude loss of **1.5bn barrels (~5% of annual global output)** is now virtually **unavoidable**. Double that if closure extends further.
+- See [[energy-markets-seizure-april-2026]] for dashboard detail.
 
 ## April 17 — "Completely Open" (Briefly)
 

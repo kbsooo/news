@@ -6,13 +6,22 @@ sources:
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/finance-and-economics/260407-buttonwood.md
   - raw/europe/260413-a-friend-in-need.md
-updated: 2026-04-13
+  - raw/europe/260422-can-the-bundeswehr-fight.md
+updated: 2026-04-23
 tags: [defence, europe, arms, ukraine, industry]
 ---
 
 # European Defence Industry
 
 The combination of the Ukraine war, [[nato-and-transatlantic-crisis|NATO crisis]], and [[iran-war-and-ceasefire-2026|Iran war]] has triggered a European defence boom.
+
+## Germany's €160bn Pivot (April 2026)
+
+See [[bundeswehr-rearmament]] and [[germany]]. Germany pledged to hit NATO's **3.5% of GDP** target by 2029, with a defence budget that could **exceed €160bn ($188bn)** — leaving Britain and France behind. Target: **260,000 active troops** + **200,000 reserve** by 2035. Merz: Bundeswehr to become "**the strongest conventional army in Europe**."
+
+**Critical orders flow** to Rheinmetall, KNDS (Leopard/Puma tanks, Caesar howitzers), Airbus Defence (Eurofighter, A400M), Diehl (IRIS-T air defence), Hensoldt (radar/sensors), Rheinmetall-MBDA-led European missile portfolios. The "**lightning-speed**" procurement of loitering munitions March-December 2025 signals **Germany will reward firms that can deliver fast** — potentially breaking legacy-prime dominance.
+
+**Strategic tension**: Bundeswehr doctrine (data primacy, cheap unmanned systems, hybrid defence, deep-precision strikes) aligns with what CSG-style rising firms and next-gen defence-tech startups offer. Critics (including Merz reportedly) worry too much spending goes to legacy platforms — but Breuer defends these as "gap-fillers" for the previous decade of neglect.
 
 ## The CSG Phenomenon
 

@@ -8,7 +8,8 @@ sources:
   - raw/china/260416-why-chinas-government-worries-about-ai.md
   - raw/science-and-technology/260415-examining-the-mythos.md
   - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
-updated: 2026-04-22
+  - raw/science-and-technology/260415-how-ai-hackers-will-shake-up-cyber-security.md
+updated: 2026-04-23
 tags: [ai, regulation, policy, united-states, anthropic, election-2028]
 ---
 

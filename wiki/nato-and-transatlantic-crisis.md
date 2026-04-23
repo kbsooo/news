@@ -5,7 +5,8 @@ sources:
   - raw/leaders/260409-the-transatlantic-divorce.md
   - raw/leaders/260409-our-cover.md
   - raw/europe/260412-peter-magyar-defeats-orban.md
-updated: 2026-04-13
+  - raw/europe/260422-can-the-bundeswehr-fight.md
+updated: 2026-04-23
 tags: [nato, europe, united-states, defence, alliance]
 ---
 
@@ -27,6 +28,22 @@ The [[iran-war-and-ceasefire-2026|Iran war]] has pushed NATO closer than ever to
 - **Ivo Daalder** (former US Ambassador to NATO): "last three months have done more damage to NATO than any other three months in history"
 
 Mark Rutte (NATO secretary-general) visited Trump on April 8 to argue that staying in NATO serves American interests. Did not appear to have much success. **NATO summit scheduled for Ankara, July 2026.**
+
+## Germany's Structural Response: The Bundeswehr Pivot
+
+See [[bundeswehr-rearmament]], [[germany]]. In April 2026 Germany published its **first-ever Military Strategy** and committed to:
+- **3.5% of GDP** defence spending by 2029 — budget could exceed **€160bn ($188bn)**
+- **260,000 active troops** + **200,000 reserve** by 2035
+- "**Technological superiority**" by 2039
+- Merz: the Bundeswehr will become "**the strongest conventional army in Europe**"
+
+This leaves Britain and France behind in absolute terms. Germany's General Breuer frames it openly: "**We are not doing this only for ourselves. We are doing this for the sake of Europe.**" The strategy cites Russia creating "conditions for war against NATO"; less explicitly, it acknowledges a "strategic dilemma" where Europeans must accept responsibility for capabilities America may no longer provide.
+
+**Ukraine as teacher**: Breuer treats Ukraine's war as "a teacher, not a blueprint" — rapid innovation cycles, cheap unmanned systems, distributed command. Critics (reportedly including Merz) worry too much spending goes to legacy systems rather than next-gen R&D.
+
+**The conscription flashpoint**: Germany needs 260k troops (from 185k) + 200k reserve. Conscription was suspended in 2011 and is likely to return. Majority of Germans support; majority of young adults oppose. This is where the first serious public resistance to rearmament will concentrate.
+
+**France's anxiety**: worried about European rearmament being shaped by a country still groping toward a strategic culture and wary of deploying troops. Most allies welcome; Pentagon "delighted".
 
 ## Article 5: Not Dead, But Weakened
 

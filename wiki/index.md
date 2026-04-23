@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-22 (Apr 15-21 batch: Chinese satellite rise + Iran AI propaganda win + Israel doctrine abandonment + Russia village budget cracks + Mythos deeper evaluation + midterms forecast — info-domain forfeit thesis crystallizes)
+updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn rearmament + China export boom +14.7% + 50-day energy seizure + Iran ceasefire extended + Trump deportation machine — "transactional autocracy diplomacy" thesis crystallizes)
 ---
 
 # Wiki Index
@@ -8,12 +8,12 @@ updated: 2026-04-22 (Apr 15-21 batch: Chinese satellite rise + Iran AI propagand
 ## Entities
 
 - [[iran]] — Khamenei killed day 1, Qalibaf/pragmatists in control, Mojtaba injured, 400kg HEU, 3 factions, Islamabad talks collapsed (21hr)
-- [[china]] — "Never interrupt your enemy": self-reliance, May summit, vetoed UN Hormuz mission, blind spot
-- [[donald-trump]] — War's biggest loser: Islamabad collapse + blockade order, Fed chair trap, Orbán defeat, "might is right" fallacy
+- [[china]] — "Never interrupt your enemy": self-reliance, May summit, vetoed UN Hormuz mission, Q1 exports +14.7%, factory-to-factories
+- [[donald-trump]] — War's biggest loser: Islamabad collapse + blockade order, ceasefire extended Apr 21 (2nd retreat), deportation machine (16 countries), Fed chair trap
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
-- [[gulf-states]] — All assumptions shattered: America attracted attacks, China/Russia failed, pipeline alternatives needed
-- [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade order (4/12), US counter-blockade effective 4/13, CENTCOM impartial enforcement
-- [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, Nobel nomination for Trump, UAE $3.5bn pullback
+- [[gulf-states]] — All assumptions shattered: UAE as hidden throughline (Iran/Sudan/China), pipeline alternatives needed
+- [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21
+- [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, UAE $3.5bn pullback, Nobel nomination for Trump
 - [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox
 - [[kolkata]] — India's most liveable megacity, but that's a symptom of stagnation; Mamata 4th term bid; 23m pop
 - [[south-korea]] — $530bn chip plan collides with energy shock, gas days from exhaustion, 97% bromine from Israel
@@ -23,44 +23,53 @@ updated: 2026-04-22 (Apr 15-21 batch: Chinese satellite rise + Iran AI propagand
 - [[viktor-orban]] — 16-year PM defeated, illiberal democracy eroded, Russia-aid reports, blow to MAGA
 - [[federal-reserve]] — Caught between Trump's demand for cuts and 3.3% inflation; Powell may stay past May
 - [[kevin-warsh]] — Trump's Fed chair pick: AI-justifies-cuts argument both empirically weak and theoretically backwards
-- [[ukraine]] — Drone-defense expertise exported to Gulf (228 advisers, 10-year partnerships), $2-5K interceptors vs $50K Shaheds, "plan B for countries who had America as plan A"
-- [[jd-vance]] — VP, chief MAGA ideologist; Iraq-war isolationist turned Iran negotiator; 4/7 Budapest "Western civilisation" speech rejected 4/12; "graveyard for grand strategies"
-- [[venezuela]] — Maduro captured 1/3, Delcy Rodríguez running country to Trump's liking; partial transformation; Trump misreading it as model for Iran (ideology = weakness fallacy)
+- [[ukraine]] — Drone-defense expertise exported to Gulf (228 advisers, 10-year partnerships), "plan B for countries who had America as plan A"
+- [[jd-vance]] — VP, chief MAGA ideologist; Iraq-war isolationist turned Iran negotiator; "graveyard for grand strategies"
+- [[venezuela]] — Maduro captured 1/3, Delcy Rodríguez running country to Trump's liking; Trump misreading it as model for Iran
+- [[united-arab-emirates]] — **NEW** Hidden superpower: RSF patron (gold→Dubai, Ethiopia training camp, Colombian mercenaries) + Iran war victim (50+ missiles) + $5trn SWF anchor; Iran war strengthens its Sudan posture
+- [[rapid-support-forces]] — **NEW** Transnational paramilitary empire; UAE-backed; Darfur + Kordofan + Blue Nile; el-Fasher + Kurmuk captures; 20+ Dubai properties
+- [[sudan]] — **NEW** 4yr civil war; 33m need aid; RSF vs SAF; SAF reclaimed Khartoum; RSF holds ~half; US sanctions shells but not principals
+- [[germany]] — **NEW** Merz chancellor; first-ever military strategy Apr 2026; 3.5% GDP by 2029; 260k troops; pivot from Merkel platitudes to continental leadership
 
 ## Events
 
-- [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, Islamabad talks collapsed 4/12, counter-blockade 4/13, Lebanon ceasefire 4/16 (Trump's 5th imposed on Israel), US 20yr vs Iran 5yr moratorium bracket
-- [[anthropic-mythos]] — April 7: Mythos too powerful to release, found vulnerabilities in every major OS, Project Glasswing (+$20K/bug, Firefox 20%, OpenSSL Jan)
+- [[iran-war-and-ceasefire-2026]] — Feb 28-Apr 7, Islamabad collapse 4/12, counter-blockade 4/13, Lebanon ceasefire 4/16 (Trump's 5th), Apr 21 extended (2nd retreat), Apr 22: 0 transits, 28 ships stopped
+- [[anthropic-mythos]] — April 7: Mythos too powerful to release; Glasswing 12 founder members (Apple/Google/Nvidia) +40 more; $20K/bug; AISI multi-step advantage
 - [[artemis-ii]] — Farthest human travel since Apollo 13, Blue Marble legacy, NASA climate science rollback (Isaacman/Marvel)
-- [[france-2027-presidential-election]] — RN (Le Pen/Bardella) almost certain to reach run-off at ~38%; Philippe only proven Bardella-beater; Le Pen July ruling; Orban loss hurts; 12 months out
+- [[france-2027-presidential-election]] — RN (Le Pen/Bardella) almost certain to reach run-off at ~38%; Philippe only proven Bardella-beater; Le Pen July ruling; Orban loss hurts
 - [[us-midterms-2026]] — Economist forecast 95% House flip, 46% Senate; -17 approval; Trump window closes Jan 2027 → 2026 acceleration risk
+- [[bundeswehr-rearmament]] — **NEW** 2026-2039 transformation: first-ever military strategy, €160bn budget, 260k troops, "technological superiority" by 2039, conscription flashpoint
 
 ## Concepts
 
 - [[iran-war-damage-assessment]] — 4,784 drones + 1,851 missiles from Iran, 21k+ strikes on Iran, 18.5m within 1km of strikes
-- [[iran-war-economic-impact]] — $144 Dated Brent peak, $25bn infrastructure damage, 10m bbl/day cut, Ras Laffan/Al Taweelah
+- [[iran-war-economic-impact]] — Day 50 dashboard: 550m bbl lost, refiner cuts accelerating, Asian spot petrol $120/diesel $175/jet $200
 - [[fertiliser-and-food-crisis-2026]] — Gulf supplies 1/3 of fertiliser, urea +70%, 45m more in acute hunger, Bangladesh factories shut
 - [[financial-markets-2026]] — Bond stagflation whipsaw, Trump trades -20%, DJT -80%, Fed cuts evaporate, private credit stress
 - [[great-power-rivalry]] — 1914 parallels, strongmen, multipolar illusion proved false, AI three-way sword, 30-35% WW probability
-- [[nato-and-transatlantic-crisis]] — Article 5 at 77-year low, Europe must self-arm, Hungary veto gone post-Orbán
-- [[european-defence-industry]] — CSG €6.7bn (12x from 2021), €58bn EU ammo deal, boom driven by Ukraine + NATO crisis
+- [[nato-and-transatlantic-crisis]] — Article 5 at 77-year low, Europe must self-arm, **Germany's €160bn pivot to continental leadership**
+- [[european-defence-industry]] — CSG €6.7bn (12x from 2021), €58bn EU ammo deal, Bundeswehr orders flowing in
 - [[japanese-auto-industry]] — "Brink of survival": Honda first loss since 1957, EV skepticism, China eating share (31→26%)
 - [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama/Montreux
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
 - [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs, biosecurity dilemma, model lock-up, AI tycoons ranked vs Ford/Rockefeller (all in bottom half)
-- [[ai-regulation-mythos-moment]] — "Five geeks", Bessent summons banks, 70% AI-harm perception, 2028 electoral issue, tiered vetted-access scheme
+- [[ai-regulation-mythos-moment]] — "Five geeks", Bessent summons banks, 70% AI-harm perception, 2028 electoral issue, tiered vetted-access; info-ops gap remains
 - [[asian-remittance-shock-2026]] — 20m GCC migrant workers; Nepal 25% / Bangladesh 6.5% / India 3.5% GDP; -66% emigration clearances; JP/KR pivot
-- [[global-imbalances-2026]] — 1.6% of GDP (vs 2.6% peak); CEPR industrial-policy intensity correlates with exports not surpluses; "blunder not crime" framing
-- [[laws-of-war-and-civilian-infrastructure]] — Three-test framework; desalination = breach; oil = ambiguous under "war-sustaining"; Trump puffery shield, allied exposure
-- [[european-energy-response-2026]] — Ireland €500m + Spain/Poland/Germany fuel-tax cuts = learning nothing from 2022; diesel crack $60, jet $100; France's €10bn electrify is the exception
-- [[us-defence-tech-shake-up-2026]] — Anduril/Palantir/SpaceX "neo-primes" worth >3x legacy primes despite fraction of sales; Trump cosying up; $1m missile vs $50K Iranian drone economics; lock-in + Trump-family-VC concerns
+- [[global-imbalances-2026]] — 1.6% of GDP (vs 2.6% peak); CEPR industrial-policy intensity correlates with exports not surpluses; "blunder not crime"
+- [[laws-of-war-and-civilian-infrastructure]] — Three-test framework; desalination = breach; oil = ambiguous under "war-sustaining"; Trump puffery shield
+- [[european-energy-response-2026]] — **UPDATE** Refiner margins now negative; stocks depleting; policy that looks protective is accelerating the seizure
+- [[us-defence-tech-shake-up-2026]] — Anduril/Palantir/SpaceX "neo-primes" worth >3x legacy primes despite fraction of sales; $1m missile vs $50K drone
 - [[assisted-dying-uk]] — Leadbeater bill blocked in Lords, 90 years of debate
 - [[market-snapshot]] — Rolling reference of volatile market indicators (equities, FX, rates, crypto, commodities)
-- [[chinese-earth-observation-rise]] — China 640+ sats (120 in 2025 alone), Jilin-1 PLA-linked, Siwei neck-and-neck with US; MizarVision AI-annotated imagery + reverse-RLHF via researcher comments; end of Western space-imagery monopoly
-- [[ai-propaganda-war-2026]] — Iran's Explosive Media, >1bn X views in first month; Lego Trump, rap lyrics; US State Dept counter-prop office closed 2025; AI info-ops unregulated while cyber gets Glasswing
-- [[israeli-security-doctrine-shift]] — Ben-Gurion's harta'a/hatra'a/hachra'a abandoned; pre-emption-against-capability has no stopping condition; generals cowed by Oct 7; only Trump restrains (5 ceasefires in 15 months)
-- [[russia-war-home-front]] — Nikolsk village officials openly say "there is a war" (not SMO); Kremlin narrative crack at bureaucratic level; rural schools 45k→21k since 2000
+- [[chinese-earth-observation-rise]] — China 640+ sats (120 in 2025 alone), Jilin-1 PLA-linked; end of Western space-imagery monopoly
+- [[ai-propaganda-war-2026]] — Iran's Explosive Media, >1bn X views in first month; US info-ops gap
+- [[israeli-security-doctrine-shift]] — Ben-Gurion's harta'a/hatra'a/hachra'a abandoned; pre-emption-against-capability has no stopping condition
+- [[russia-war-home-front]] — Nikolsk village officials openly say "there is a war" (not SMO); Kremlin narrative crack at bureaucratic level
+- [[china-export-boom-2026]] — **NEW** Q1 exports +14.7%, memory chips +174% (AI supercharge), "factory to the factories", 89% of diversion is real new demand
+- [[energy-markets-seizure-april-2026]] — **NEW** Day-50 dashboard: 550m bbl lost, tankers exhausted, Asia rationing, Japan reserves gone in May, Europe jet fuel precipitous fall by June
+- [[transactional-autocracy-diplomacy-2026]] — **NEW** Unifying frame: deportation machine + UAE/Sudan non-pressure + Venezuela "Caracas Condition" + Iran brinkmanship = leverage-for-compliance without sustainable outcomes
+- [[trump-third-country-deportations]] — **NEW** 16 countries accept non-citizen deportees; $7.5m to Equatorial Guinea/Rwanda; only 17k deported (deterrence, not scale); refoulement time-bomb
 
 ## Simulations
 
@@ -68,9 +77,9 @@ updated: 2026-04-22 (Apr 15-21 batch: Chinese satellite rise + Iran AI propagand
 - [[simulations/sim-what-if-us-iran-ceasefire-negotiations-succeed-or-collapse-h-2026-04-11|US-Iran Ceasefire & Korea/Investment Outlook]] — 8-round sim. Xi Framework deal resolves nuclear crisis; China becomes Gulf security architect; Korea biggest non-great-power beneficiary.
 - [[simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12|US-Iran Talks v2: Branching → Korea + Equities + Crypto]] — 4 scenarios (A 12% / B 50% / C 28% / D 10%), WebSearch-anchored. Korean jeonse is asymmetric amplifier.
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
-- [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted, wider distribution). Samsung foundry is the asymmetric hedge vs SK Hynix pure-play.
+- [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (122)
+## Sources Ingested (129)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -196,3 +205,10 @@ updated: 2026-04-22 (Apr 15-21 batch: Chinese satellite rise + Iran AI propagand
 | 2026-04-20 | Russia budget cuts: Nikolsk village fights to survive | Europe |
 | 2026-04-21 | Remember the days of old (Israel's open-ended wars) | Middle East & Africa |
 | 2026-04-21 | Our midterms forecast predicts pain for Donald Trump | United States |
+| 2026-04-15 | How AI hackers will shake up cyber-security | Science & Technology |
+| 2026-04-21 | Why China's exports will keep on rising | China |
+| 2026-04-21 | Global energy markets are on the verge of a disaster | Finance & Economics |
+| 2026-04-22 | Can the Bundeswehr fight? | Europe |
+| 2026-04-22 | An extended ceasefire over Iran | Middle East & Africa |
+| 2026-04-22 | How a Sudanese militia built a military/economic empire | Middle East & Africa |
+| 2026-04-22 | Donald Trump's deportation machine is innovating | United States |

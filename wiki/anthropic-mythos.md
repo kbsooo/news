@@ -5,7 +5,8 @@ sources:
   - raw/business/260408-mythical-monster.md
   - raw/business/260415-locked-up-models.md
   - raw/science-and-technology/260415-examining-the-mythos.md
-updated: 2026-04-22
+  - raw/science-and-technology/260415-how-ai-hackers-will-shake-up-cyber-security.md
+updated: 2026-04-23
 tags: [ai, cybersecurity, safety, technology]
 ---
 
@@ -28,6 +29,8 @@ Anthropic's mitigation approach — give defenders a head start:
 - Companies can use Mythos to test unpublished code for weaknesses before release
 - Anthropic covering first **$100m** of costs
 - Will eventually charge **5x more than Opus** for Mythos access
+- **12 founder members** including **Apple, Google, Nvidia** (Economist, April 15)
+- Expansion announced to **another 40 digital-infrastructure organisations** to harden the software on which the internet depends
 - Participants include major software companies across the industry
 
 ## Business Context

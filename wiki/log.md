@@ -1,9 +1,53 @@
 ---
 title: Log
-updated: 2026-04-22 (Apr 15-21 batch: info-domain forfeit + Israel doctrine + Russia home-front + Mythos deeper + midterms forecast)
+updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn + China exports +14.7% + 50-day energy seizure + Iran ceasefire extended + Trump deportation machine — "transactional autocracy diplomacy" thesis)
 ---
 
 # Wiki Log
+
+## [2026-04-23] ingest | 7 Economist articles (UAE/Sudan/RSF nexus + Bundeswehr + China export boom + energy seizure + Iran ceasefire extended + Trump deportation machine) — transactional autocracy diplomacy thesis
+
+**Sources (7)**:
+- `raw/china/260421-why-chinas-exports-will-keep-on-rising.md` — Q1 2026 exports +14.7% YoY; "factory to the factories"; memory chips +174%
+- `raw/europe/260422-can-the-bundeswehr-fight.md` — Germany's first-ever Military Strategy; €160bn budget; 260k troops; conscription flashpoint
+- `raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md` — Day-50 dashboard; tankers exhausted; Asia rationing; Japan reserves gone in May
+- `raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md` — Trump extends Apr 21 (2nd retreat); Iran refuses Islamabad; blockade holds; 28 ships stopped
+- `raw/middle-east-and-africa/260422-how-a-sudanese-militia-built-a-military-and-economic-empire.md` — RSF transnational empire; UAE backing; gold→Dubai; Ethiopia training camp
+- `raw/science-and-technology/260415-how-ai-hackers-will-shake-up-cyber-security.md` — Glasswing 12 founders (Apple/Google/Nvidia); +40 expansion; $20K/bug; Schneier long-run optimism
+- `raw/united-states/260422-donald-trumps-deportation-machine-is-innovating.md` — 16 countries + 11 signed; Obiang case; "Jonathan" refoulement; 17k deported for deterrence
+
+**New pages created (8)**:
+- `united-arab-emirates.md` (entity) — hidden-superpower thread: Iran victim + RSF patron + SWF anchor
+- `rapid-support-forces.md` (entity) — paramilitary-industrial complex; UAE nexus; gold-laundering
+- `sudan.md` (entity) — world's largest displacement crisis; RSF vs SAF; diplomatic deadbolt
+- `germany.md` (entity) — Merkel→Merz pivot; continental leadership claim
+- `bundeswehr-rearmament.md` (event) — 2026-2039 transformation; first-ever military strategy
+- `china-export-boom-2026.md` (concept) — factory-to-factories; 89% real new demand; AI supercharge
+- `energy-markets-seizure-april-2026.md` (concept) — day-50 dashboard; markets mispricing physical reality
+- `transactional-autocracy-diplomacy-2026.md` (concept) — unifying frame: deportation + UAE + Venezuela + Iran
+- `trump-third-country-deportations.md` (concept) — 16 countries; refoulement time-bomb; deterrence-not-scale
+
+**Pages updated (11)**:
+- `iran-war-and-ceasefire-2026.md` — Apr 21 extension timeline; 10yr moratorium bracket
+- `donald-trump.md` — Apr 21 2nd retreat; deportation machine section
+- `china.md` — export boom section (factory-to-factories, AI supercharge)
+- `strait-of-hormuz.md` — Apr 21-22 blockade scorecard (28 ships, 0 transits, $100 Brent)
+- `nato-and-transatlantic-crisis.md` — Germany's €160bn structural response
+- `european-defence-industry.md` — Bundeswehr orders flowing to Rheinmetall/KNDS
+- `gulf-states.md` — UAE throughline across Iran/Sudan/China
+- `european-energy-response-2026.md` — refiner margins now negative, policy accelerating seizure
+- `iran-war-economic-impact.md` — Day 50 dashboard integrated
+- `anthropic-mythos.md` — 12 founder members (Apple/Google/Nvidia), +40 expansion
+- `ai-regulation-mythos-moment.md` — added 260415-how-ai-hackers source
+
+**Central insights this batch**:
+1. **UAE as hidden superpower thread** — The same country is the Iran-war victim, Sudan's RSF patron, and Gulf SWF anchor. Iran war *strengthens* UAE's Sudan posture by removing US leverage. One-country case study in how **multi-conflict systems reinforce each other**.
+2. **"Transactional autocracy-friendly diplomacy" as unifying frame** — Deportation deals + UAE non-pressure + Venezuela Caracas-condition + Iran brinkmanship all follow the same operating logic: leverage-for-compliance, autocratic regimes welcomed, human-rights frame discarded. Produces sticks but no sustainable outcomes.
+3. **Germany's structural pivot** — The single most consequential European response to the Trump-era NATO crisis. €160bn budget + first-ever military strategy + "strongest conventional army in Europe" ambition. Conscription is where first public resistance will land.
+4. **China's tariff-proof export machine** — 89% of non-US export growth is genuine new demand, not transshipment. "Factory to the factories" makes tariffs structurally less effective than policymakers expected. Memory chips (+174%) = global AI buildout supercharging Chinese exports.
+5. **The 50-day energy cliff** — Brent at $90-100 is deceptive calm. Physical market (Asia spot petrol $120, diesel $175, jet $200; tankers exhausted; Japan reserves gone in May) is close to seizure. Europe's consumer-shielding policy is *accelerating* the seizure by preventing demand destruction.
+6. **Two-side-believe-winning deadlock** — Trump thinks blockade will fold Iran; Iran thinks Trump is desperate before midterms. Both right about leverage, both wrong about imminent capitulation. The ceasefire extends precisely because neither side converts.
+7. **Glasswing tier-locking accelerates** — 12 founders (Apple/Google/Nvidia) + 40 more. $20K/bug prices out Linux/IoT → cyber-apartheid risk. Defender-favoring trajectory conditional on who can afford to defend.
 
 ## [2026-04-22] ingest | 6 Economist articles (Chinese satellites + AI propaganda + Russia village + Israel doctrine + Mythos deeper + midterms forecast) — info-domain forfeit thesis
 

@@ -10,11 +10,27 @@ sources:
   - raw/china/260419-views-of-the-middle-east.md
   - raw/china/260420-chaguan.md
   - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
-updated: 2026-04-22
+  - raw/china/260421-why-chinas-exports-will-keep-on-rising.md
+updated: 2026-04-23
 tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions]
 ---
 
 # China
+
+## Export Boom Continues — Despite Tariffs and Wars
+
+See [[china-export-boom-2026]] for full detail. Headline: Q1 2026 exports **+14.7% YoY** — continuing 2025's record **$1.2trn surplus** on **$3.8trn exports**. Memory chips **+174%** (now China's largest single export item, supercharged by global AI buildout). Transistors +26%.
+
+Key findings:
+- **Only ~$33bn (11%) of the $300bn increase** in non-US exports is trade diversion to America — 89% is **genuine new demand** from third countries
+- China has moved from "world's factory" to "**factory to the factories**" — Q1: intermediate/capital goods **+10.2%**, consumption goods **−4.6%**
+- Export complexity (Atlas of Economic Complexity) **0.29 → 0.36** (2014-2024) while US complexity **fell to −0.15**
+- **Factory-gate prices fell for 41 months straight** (ended March); real exchange rate **−15% since 2022**
+- Structural driver: **weak domestic demand** → cheap exports + depressed imports → amplified surplus → 1.6%p of 2025 GDP growth
+
+**Iran war cross-effect**: China's Gulf exports −52% YoY in March, but Gulf is only 3.8% of Chinese exports; war-triggered EV boom in Japan/Korea/India benefits Chinese EV-makers; coal-based domestic power insulates Chinese manufacturers from the energy shock. The war is a small negative — not the knockout blow some expected.
+
+**Implication**: tariff-based decoupling is insufficient. China's upstream integration (batteries, chips, rare earths, capital goods) is the binding constraint. See [[global-imbalances-2026]].
 
 ## Strategic Posture: "Never Interrupt Your Enemy"
 

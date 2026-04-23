@@ -3,13 +3,32 @@ title: European Energy Response (2026)
 type: concept
 sources:
   - raw/europe/260416-european-policymakers-fiddle-with-energy-prices-again.md
-updated: 2026-04-17
+  - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
+updated: 2026-04-23
 tags: [europe, energy, fuel, subsidies, inflation, ecb, fiscal-policy, iran-war]
 ---
 
 # European Energy Response (2026)
 
 Europe's policy response to the [[iran-war-and-ceasefire-2026|Iran war]] fuel shock shows that **politicians have learned little from the 2022 Russia/Ukraine energy crisis**. Instead of targeted support and investment, the default reflex is fuel-tax cuts and price caps — which subsidise demand precisely when demand needs to fall to balance supply.
+
+## April 21 Update: Margins Now Negative, Stocks Depleting
+
+European shielding has worked **against** the continent. See [[energy-markets-seizure-april-2026]] for the full dashboard. Key dynamics:
+
+- European refiners have barely cut output — unlike Asia which cut **~3m b/d (10% of capacity)**. But **margins are now in the red**: raw crude at effective **$130-150/bbl** (per Benedict George, Argus Media) vs Brent futures ~$90; **extreme backwardation** crushes profits (pay high spot now, sell at lower futures prices)
+- **Dated Brent / Brent futures spread** widened greatly in April; still much wider than usual
+- **European jet-fuel reserves**: ~50 days consumption now (normal); Kpler modelling shows **precipitous fall if Hormuz does not normalise by June**
+- 16 of 27 EU countries using fuel-tax cuts or subsidies — preventing the demand destruction that would help rebalance the market
+
+**The paradox**: the policy that **looks protective** is actually **accelerating the seizure**:
+1. Subsidies prevent demand falling → market stays out of balance
+2. Refiner margins collapse under extreme backwardation → output cuts arrive anyway, via supply side
+3. Stocks deplete while Asia-style rationing is absent → no buffer when refiner cuts land
+4. **Europe starts restocking gas for winter** in coming months → competition with Asia for LNG intensifies
+5. If **America bans refined-product exports** (emulating China), European position worsens sharply
+
+France's **€10bn electrification** stands out as the **one investment-focused package** — everyone else is rerunning the 2022 playbook.
 
 ## Protest Wave
 

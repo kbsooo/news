@@ -24,7 +24,9 @@ sources:
   - raw/united-states/260421-our-midterms-forecast-predicts-pain-for-donald-trump.md
   - raw/middle-east-and-africa/260421-remember-the-days-of-old.md
   - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
-updated: 2026-04-22
+  - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
+  - raw/united-states/260422-donald-trumps-deportation-machine-is-innovating.md
+updated: 2026-04-23
 tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer]
 ---
 
@@ -69,6 +71,11 @@ Unresolved dilemma: declare victory while Iran acts as toll-collector, or resume
 
 After the Islamabad talks collapsed without a deal (~21 hours), Trump ordered the US Navy to **blockade the strait** and to **"seek and interdict" every vessel in international waters that had paid a toll to Iran**. Two US destroyers transited Hormuz on April 11 to begin **mine-clearing operations**. A third aircraft carrier is crossing the Atlantic; an amphibious-warfare group is crossing the Pacific — both arriving before the ceasefire expires (~April 22). Pentagon has deployed thousands of additional marines. Gulf officials had urged Trump to intercept Iranian ships — Iran is exporting as much oil as before the war (or more), at higher prices.
 
+### April 21 — Ceasefire extended (second retreat)
+Hours before expiry Trump announced he would **extend** the ceasefire — the **second time in two weeks** he retreated from a threat to bomb Iran's power plants. **Blockade on Iranian shipping remains in effect.** Stated reason: Iran's "**seriously fractured**" government had not responded to the latest proposal. Iran refused to attend another round in Islamabad, demanding **lifting of the blockade** as a precondition. Trump takes the opposite view: the blockade gives him the advantage, and a cash-strapped Iran will soon fold. "**It is hard to end a war that both sides believe they are winning**" (Economist framing). No formal deadline — holds until one side breaks it.
+
+**Market signal**: Brent crude around **$100/bbl** despite the extension — markets recognise the deal has not meaningfully progressed. Trump needs the strait open before high petrol prices sink his Republican Party in the midterms. See [[us-midterms-2026]].
+
 ### April 17 → 20: Hormuz reopen-and-collapse
 On April 17 Trump echoed Iran's foreign minister: Hormuz "**completely open and ready for business**." S&P 500 hit an all-time high. Within hours he added that "Iran has removed, or is removing, all sea mines" — an unverified claim. Within **a single day** the IRGC re-closed the strait; on April 20 Trump said the US Navy had **fired upon and boarded an Iranian cargo ship**, and the deal collapsed. Stocks dipped. He once again threatened to **bomb Iran's civilian infrastructure** unless negotiations succeed (see [[laws-of-war-and-civilian-infrastructure]]) and announced the US delegation would **return to Islamabad** — but **which Iran the US is talking to** is now unclear (see [[iran|Iran "Jungle of Power"]]).
 
@@ -82,6 +89,17 @@ Trump's **January 3, 2026 capture of Maduro** by US special forces is one of his
 > "Trump sees ideology as weakness. He thinks making money is all that really counts. If he keeps following the model he stumbled into in Venezuela, reality will prove him wrong." — Economist leader, April 16
 
 **Marco Rubio**, Cuban-American secretary of state, has staked his presidential ambitions on Venezuela's success — he is the structural champion for elections rather than Rodríguez's "string-things-out" play.
+
+## Third-Country Deportation Machine
+
+At least **16 countries** (mostly Africa and Latin America) have accepted US deportees who are **not their own citizens**; another **11 have inked deals**. This is a core instance of Trump's transactional, autocracy-friendly diplomacy. See [[trump-third-country-deportations]] and [[transactional-autocracy-diplomacy-2026]].
+
+- **Teodoro ("Teddy") Obiang Junior** — once on the US "naughty list" for extortion/embezzlement — welcomed back by the Trump administration. **Equatorial Guinea** accepted **9 non-citizen deportees** in November 2025 for $7.5m, then locked them in a hotel owned by the president's brother. "Jonathan" — gay, tortured by gangs in home country — was **frog-marched onto a plane home** after a month's detention.
+- **16+ named deals**; sweeteners vary: $7.5m to Equatorial Guinea and Rwanda, $30m to Cameroon (UNHCR grant contingent on signing), visa-restriction rollbacks to **Ghana** and **Liberia** (after Liberia accepted Kilmar Abrego Garcia), Panama-Canal-seizure talk dropped after **Panama** took 300 people.
+- **Scale**: only **17,000 actually deported** to third countries vs 234,000 total — the effect is **deterrence** ("scare the shit out of people"), not scale.
+- **Legal status**: International law prohibits refoulement; federal judge's notice order is on hold pending appeal. Courts asked if DHS was OK sending deportees to third countries where someone might shoot them without warning. Reply: "**In short, yes.**"
+
+The pattern mirrors the Iran brinkmanship and RSF non-pressure: **extract compliance from weaker states via leverage from unrelated US interests**, treat autocratic regimes as valued partners, ignore human-rights constraints. See [[transactional-autocracy-diplomacy-2026]].
 
 ## Cosying Up to the Defence Neo-Primes
 

@@ -11,7 +11,8 @@ sources:
   - raw/finance-and-economics/260409-semi-baked.md
   - raw/europe/260416-european-policymakers-fiddle-with-energy-prices-again.md
   - raw/finance-and-economics/260417-a-narrow-opening.md
-updated: 2026-04-21
+  - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
+updated: 2026-04-23
 tags: [economics, energy, oil, supply-chain, inflation]
 ---
 
@@ -24,6 +25,25 @@ Markets have been surprisingly resilient — the "Teflon economy." The S&P 500 s
 **But**: if the ceasefire fails, the rally reverses hard — investors would have to price in a war resistant to peacemaking.
 
 **Update (April 11)**: US annual inflation hit **3.3%** in March (highest since May 2024), up from 2.4% in February — driven by surging petrol prices from the war. Core rate rose only slightly, suggesting the impact hasn't fully spread through the economy. S&P 500 ended the week up **3.6%** (best since November). Oil fell below $97.
+
+## Day 50 Dashboard (April 21) — Markets vs Reality
+
+See [[energy-markets-seizure-april-2026]] for the full analysis. Headline: **world has lost 550m barrels of Gulf crude** (~2% of last year's global output) and is missing **7m tonnes of LNG per month** (2% of annual supply). Yet Brent trades ~$90. The disconnect is dangerous.
+
+Three forces pushing to the cliff:
+1. **Oil cargoes at sea — exhausted.** By April 20 the last pre-war Gulf crude tankers reached destinations. Jet fuel and petrol volumes well below historical norms — near minimum for seaborne trade.
+2. **Refineries cutting output.** Asian refiners already cut **3m b/d** (10% of capacity); forecast to rise to **5m b/d in May, 10m b/d in July** if strait stays closed (Sparta Commodities).
+3. **Demand artificially high in Europe.** 16/27 EU countries using taxpayer money or tax cuts; refiner margins now in the red but output holding.
+
+**Asian spot fuel prices** (vs pre-war): petrol **$120** ($80), diesel **$175** ($93), jet **$200** ($94). **7 countries** now imposing work-from-home mandates; at least 5 rationing fuel.
+
+**Regional stock collapse**:
+- **Asia ex-China crude stocks**: −67m barrels (−11%) in the month to April 19 (Kayrros)
+- **South Korea**: tapering strategic-reserve releases
+- **Japan**: strategic reserves **exhausted in May**
+- **Europe jet fuel**: ~50 days consumption; Kpler model says **precipitous fall if Hormuz not normal by June**
+
+Trafigura's **Saad Rahim**: a cumulative loss of **1.5bn Gulf barrels** (5% of annual global output) is **unavoidable even if the strait reopens now**. Double that if it stays closed.
 
 ## April 17–20: Hormuz Reopen Whiplash & The Sequencing Problem
 

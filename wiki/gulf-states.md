@@ -7,13 +7,24 @@ sources:
   - raw/finance-and-economics/260408-the-state-of-the-deal.md
   - raw/middle-east-and-africa/260413-double-trouble.md
   - raw/finance-and-economics/260415-treasure-chest.md
-updated: 2026-04-15
+  - raw/middle-east-and-africa/260422-how-a-sudanese-militia-built-a-military-and-economic-empire.md
+updated: 2026-04-23
 tags: [middle-east, geopolitics, energy, security]
 ---
 
 # Gulf States
 
 The [[iran-war-and-ceasefire-2026|Iran war]] has shattered the Gulf states' core assumptions about their security and economic model.
+
+## The UAE as Hidden Throughline (April 2026 update)
+
+The **UAE is the common thread** across three seemingly separate conflict systems: the Iran war, Sudan's civil war, and the shadow US-China great-power competition. See [[united-arab-emirates]] entity page, and [[rapid-support-forces]].
+
+- UAE is the **chief foreign backer of Sudan's RSF** — gold laundered through Dubai shell companies ($24m of Dagalo-family properties); **Ethiopia training camp** (Reuters); Colombian mercenary air bridge
+- The **Iran war *strengthens* UAE's Sudan posture** — America needs UAE basing/airspace for Gulf operations; cannot afford to pressure Abu Dhabi even over genocide-adjacent conduct in Darfur
+- **April 17, 2026 US sanctions**: on 2 Colombian mercenary firms but **not** the UAE-based security firm accused of paying and training them
+
+This is the canonical 2026 case of [[transactional-autocracy-diplomacy-2026|transactional diplomacy]]: the US lets the UAE off the hook on Sudan to keep its cooperation on Iran. Stopping either conflict requires political capital that the other makes unaffordable.
 
 ## Assumptions Destroyed
 
