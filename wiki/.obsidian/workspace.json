@@ -11,14 +11,10 @@
             "id": "fd74b343199ec82c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,6 +181,11 @@
   },
   "active": "fd74b343199ec82c",
   "lastOpenFiles": [
+    "south-korea.md",
+    "log.md",
+    "index.md",
+    "donald-trump.md",
+    "simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13.md",
     "ukraine.md",
     "simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13.md",
     "simulations/sim-us-iran-talks-korea-crypto-equities-2026-04-12.md",
@@ -206,11 +207,6 @@
     "ai-labs-and-industry.md",
     "anthropic-mythos.md",
     "ai-in-mathematics.md",
-    "log.md",
-    "maritime-law-and-chokepoints.md",
-    "index.md",
-    "south-korea.md",
-    "european-defence-industry.md",
-    "gulf-states.md"
+    "maritime-law-and-chokepoints.md"
   ]
 }

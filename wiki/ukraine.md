@@ -3,8 +3,10 @@ title: Ukraine
 type: entity
 sources:
   - raw/europe/260413-a-friend-in-need.md
-updated: 2026-04-13
-tags: [europe, military, defence, ukraine, drones]
+  - raw/europe/260423-ukraines-quest-for-new-friends.md
+  - raw/leaders/260422-how-to-bolster-the-arsenal-of-democracy.md
+updated: 2026-04-24
+tags: [europe, military, defence, ukraine, drones, turkey, syria]
 ---
 
 # Ukraine
@@ -91,6 +93,48 @@ The gap was dramatised on **March 27th 2026** when **Armin Papperger** (Rheinmet
 
 Before the Iran war, Ukraine's diplomatic card was moral: solidarity against Russian aggression. After March–April 2026, it has a **transactional card** as well — hard security value that Gulf royal families, European chancelleries, and (eventually) a reluctant White House cannot ignore. Ukrainian arms firms will increasingly branch into **exports**, especially if the war with Russia winds down and they need new customers to maintain scale.
 
+## April 2026 Update: The Turkey-Syria Pivot
+
+See [[ukraine-middle-power-diplomacy-2026]] for the full frame.
+
+### Zelensky to Damascus (April 5)
+- First European leader to visit post-Assad Damascus
+- Flown on **Turkish government plane**, alongside Turkey's foreign minister
+- Set up by **Erdogan** the day before in Istanbul
+- Syria reopens Kyiv embassy; Ukraine names ambassador
+- Framed as: *"we want to step into Russia's fading footprint wherever we can"* (Yevgeniya Gaber, Atlantic Council)
+
+### Barter economics — phosphate for wheat
+- **Syria has ~2bn tonnes phosphate reserves** (world's largest-class)
+- Ukraine is wheat exporter; Syria is inflation-hit, needs grain
+- Barter structure sidesteps dollar-denominated trade-finance frictions
+
+### Security partnership trajectory
+- Syria has ageing Soviet-era weapons; Ukraine knows the stack, has tested Russian-threat upgrades
+- Ukrainian engineers/advisers served in Syria during the Cold War (Soviet-era legacy)
+- Not perceived as "Western imperial" proxy the way US/UK would be
+
+### Turkey as gateway — integration deepens
+- **Baykar building drone factory in Kyiv** (first Turkish major defence foreign production)
+- Other Turkish defence firms rumored JVs under consideration
+- Erdogan distances further from Russia despite big bilateral trade
+
+### Zelensky's April 20 strategic framing
+On televised address: *"because of the risk of American withdrawal from NATO, the European Union needs a security architecture that includes Turkey and Ukraine, which now has Europe's biggest army (Russia aside)."*
+
+Claim: **co-architect European security**, not request protection.
+
+## Arsenal of Democracy Editorial (April 22)
+
+*The Economist*'s Leaders section reinforces the Ukraine-as-central-asset thesis:
+- **Rheinmetall + Destinus (Netherlands)**: JV on long-range missiles at fraction of other models' cost
+- **Britain-Ukraine**: interceptor drone co-development
+- **Germany-Ukraine**: new drone agreement (this month)
+- Ukraine offered to **share battlefield data to train AI** — a commodity US military covets
+- *"Much more of this is necessary if the arsenal of democracy is not to depend on a handful of American firms."*
+
+Europe is catching up — but the article notes: Germany's €100bn special defence fund **goes almost entirely to traditional kit**; UK reviewers argued F-35 (20 years old) should count as "novel technology"; **Skycutter** (British drone firm) won Pentagon contract but may leave UK for lack of domestic orders. Europe's problem is structural, not intentional.
+
 ## See Also
 - [[european-defence-industry]]
 - [[gulf-states]]
@@ -99,6 +143,9 @@ Before the Iran war, Ukraine's diplomatic card was moral: solidarity against Rus
 - [[donald-trump]]
 - [[strait-of-hormuz]]
 - [[china]]
+- [[ukraine-middle-power-diplomacy-2026]]
+- [[iran-war-as-system-accelerator-2026]]
+- [[nato-and-transatlantic-crisis]]
 
 ---
 

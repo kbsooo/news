@@ -11,8 +11,9 @@ sources:
   - raw/china/260420-chaguan.md
   - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
   - raw/china/260421-why-chinas-exports-will-keep-on-rising.md
-updated: 2026-04-23
-tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions]
+  - raw/finance-and-economics/260423-xi-jinping-wants-a-powerful-currency.md
+updated: 2026-04-24
+tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions, yuan, monetary-policy]
 ---
 
 # China
@@ -31,6 +32,22 @@ Key findings:
 **Iran war cross-effect**: China's Gulf exports −52% YoY in March, but Gulf is only 3.8% of Chinese exports; war-triggered EV boom in Japan/Korea/India benefits Chinese EV-makers; coal-based domestic power insulates Chinese manufacturers from the energy shock. The war is a small negative — not the knockout blow some expected.
 
 **Implication**: tariff-based decoupling is insufficient. China's upstream integration (batteries, chips, rare earths, capital goods) is the binding constraint. See [[global-imbalances-2026]].
+
+## Yuan Internationalization — Iran War Tailwind
+
+See [[yuan-internationalization-2026]] for the full analysis.
+
+The [[iran-war-and-ceasefire-2026|Iran war]] has become an unexpected accelerator for yuan's international role:
+- **CIPS daily volume**: March 2026 average 920bn yuan ($134bn) — **+35% vs 2025**; April 2 peak **1.2trn yuan**
+- **Yuan share of China's international transactions**: >56% in March 2026 (plateaued most of 2025)
+- **Hormuz tolls paid in yuan**: per IMF-meeting consensus (Lipsky, Atlantic Council)
+- **mBridge** multi-CBDC platform ($55.5bn through Nov 2025; 95% e-CNY; 7-10s settlement)
+- **Dim-sum bonds**: Portugal first euro-area sovereign (Apr 2026, 2bn yuan); Indonesia government 9bn yuan in Feb
+- **Global trade finance**: yuan share >8% (SWIFT data, March 2026)
+
+Xi's stated goal is a "powerful" currency. Reality: it is becoming a **comfort currency** — alternative to the dollar for states and firms uneasy about dollar weaponization. The 2% interest-rate gap vs USD provides independent carry-trade appeal.
+
+**Ceiling constraint**: capital controls. True international currency requires free capital flow; China has not accepted that discipline and shows no sign of doing so in this cycle. Caps yuan at "comfort" level, not "powerful" level.
 
 ## Strategic Posture: "Never Interrupt Your Enemy"
 

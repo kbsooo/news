@@ -3,7 +3,9 @@ title: Israeli Security Doctrine Shift — From Ben-Gurion to Open-Ended War
 type: concept
 sources:
   - raw/middle-east-and-africa/260421-remember-the-days-of-old.md
-updated: 2026-04-22
+  - raw/middle-east-and-africa/260421-israels-open-ended-wars-have-eroded-its-security.md
+  - raw/leaders/260423-the-high-price-of-forever-wars.md
+updated: 2026-04-24
 tags: [israel, military, doctrine, netanyahu, united-states, middle-east]
 ---
 
@@ -101,6 +103,31 @@ Paradoxically, the **same dynamic is visible in Iran** (see [[iran]] "jungle of 
 - **Medium-term (by 2027)**: [[us-midterms-2026|Midterms]] may neuter Trump's leverage; Netanyahu election (Oct 2026) is the forcing function
 - **Long-term**: The Ben-Gurion framework (decisive wars + diplomatic peace-building) is effectively dead unless a successor government explicitly revives it
 
+## Update (Apr 22-23, 2026): Editorial Crystallization
+
+Two more articles converge on the same diagnosis:
+
+### ME&A deep-dive (Apr 21, 260421-israels-open-ended-wars)
+- **Trump Independence Day no-show** (Apr 22): was to receive **Israel Prize** (first non-Israeli). Instead issued **Apr 16 Lebanon ceasefire order** (5th imposed). No visit.
+- **5 Trump-imposed ceasefires in 15 months**: two in Gaza 2025, two over Iran, Lebanon Apr 16
+- **Israel excluded from US-Iran Islamabad talks** (which collapsed) — will have to abide by whatever is agreed
+- Jeremy Issacharoff (former Israeli ambassador): ceasefires *"having them dictated to us by America harms Israel's deterrence and makes it a client state"*
+- Netanyahu added new war aim mid-war: *"crush the regime in Iran"* → instead, regime endures, Trump seeks deal
+- **Dan Meridor** (former Likud minister, 2006 doctrine reviser): *"The Israeli public doesn't want to hear now that you can't just destroy Hamas or Hizbullah, or topple the regime in a massive country like Iran... But as long as the aims are unrealistic and the only solutions are solely military, we're bound to fail."*
+- **Damage to international legitimacy**: Gaza death toll now >**70,000**; Israel killing population brought close to starvation
+- Netanyahu has **refused independent commission of inquiry** — to protect far-right coalition (ministers who advocated ethnic cleansing of Gaza/South Lebanon)
+
+### Leaders editorial (Apr 23, "The high price of forever wars")
+- Reframes October 7 response: Israel "**fully justified** in responding forcefully" but **tactics have caused many thousands of unjustified deaths**
+- Rejects strategic goals: Israel "sought the **unattainable goal of winning total victories** to guarantee total security... shunned more limited objectives that were achievable"
+- **Abandoned proposals** to engage with: Biden PA-replacement-Hamas-in-Gaza plan; Lebanon government vs Hizbullah balance; Syria security agreement with new government
+- **Explicit ideological diagnosis of Netanyahu**: *"perhaps anxious to avoid a reckoning for his failings before October 7th, he seems driven to repeatedly escalate conflicts in the hope of 'changing the map of the Middle East'"*
+- **Opposition failure**: *"The main opposition figures offer no compelling alternative, preferring to limit their criticism to ways in which military operations are being carried out."* — not whether they should be fought
+- **Elections by end-October**: campaign will force public debate but *"many feel unsafe after the massacre of 2023 and are unwilling to listen to moderate messages"*
+
+### New synthesis: The doctrine shift is now editorial consensus
+The April 21 ME&A briefing was a deep report. The April 23 Leaders editorial is *The Economist* putting its institutional weight behind the same analysis. Consensus forming across formats: **Israel has broken with Ben-Gurion, the public knows it, the generals won't contest it, the opposition offers no alternative, and only Trump can brake it**. This is the diagnostic consensus going into October 2026 Israeli elections.
+
 ## See Also
 - [[israel]]
 - [[iran]]
@@ -108,6 +135,7 @@ Paradoxically, the **same dynamic is visible in Iran** (see [[iran]] "jungle of 
 - [[iran-war-and-ceasefire-2026]]
 - [[nato-and-transatlantic-crisis]]
 - [[us-midterms-2026]]
+- [[iran-war-as-system-accelerator-2026]]
 
 ---
 

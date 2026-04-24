@@ -3,8 +3,9 @@ title: US Defence Tech Shake-Up — Neo-Primes (2026)
 type: concept
 sources:
   - raw/business/260420-shooting-to-prominence.md
-updated: 2026-04-21
-tags: [defence, military-industrial-complex, ai, drones, anduril, palantir, spacex, trump]
+  - raw/leaders/260422-how-to-bolster-the-arsenal-of-democracy.md
+updated: 2026-04-24
+tags: [defence, military-industrial-complex, ai, drones, anduril, palantir, spacex, trump, europe, ukraine]
 ---
 
 # US Defence Tech Shake-Up — Neo-Primes (2026)
@@ -73,6 +74,51 @@ The shake-up is **structurally overdue** — the legacy military-industrial comp
 - Reduce the per-unit economics asymmetry that punishes the West in drone warfare (the lesson of the [[iran-war-and-ceasefire-2026|Iran war]])
 
 If it fails or misfires, it leaves a **partisan-vulnerable**, **lock-in-prone** new oligopoly that may be no less rent-seeking than the one it replaces.
+
+## Arsenal-of-Democracy Editorial (Apr 22, 2026) — Institutional Synthesis
+
+*The Economist* Leaders promoted the neo-prime thesis to institutional editorial position. Core claims:
+
+### Unified lesson from Ukraine + Iran wars
+- Ukraine: pioneered low-cost drones with **weekly software updates** against larger Russian army
+- Israel/US used **F-35, B-2 bombers, air-launched ballistic missiles, refueling tankers** vs Iran
+- **Common thread**: whether big/small, expensive/cheap, crewed/uncrewed, **what matters is the software** — best algorithms, best data, updated most frequently
+
+### Three explicit messages
+1. **Western defence-manufacturing capacity insufficient**: America used up **half its stocks of high-end air-defence munitions in 40 days** of war
+2. **Balance high-end + cheap-replaceable**: a few exquisite systems, many cheap/replaceable ones
+3. **Software primacy**: regardless of form factor, software is the binding constraint
+
+### Palantir = most valuable defence prime
+- Palantir now worth **more than RTX** (formerly Raytheon, most valuable legacy prime)
+- Together with SpaceX and Anduril, **"neo-prime" trio**
+- Behave as software-first; draw from modern manufacturing (including car industry) for the physical products
+- Hungrier than incumbents; heavy in-house R&D
+
+### Hegseth's procurement reforms (from Nov 2024)
+- **Buy things faster** — speeding up Byzantine processes
+- Give **front-line commands greater say** in what gets bought
+- Draw **more from commercial technology** vs bespoke
+- These create conditions for competition with legacy primes — mercifully, "the right ideas about procurement" despite Hegseth's broader chaos
+
+### Europe's structural problem
+- **Hardly any big new defence-tech companies**
+- Small innovative firms **stifled** by fragmented market, limited VC, low government demand
+- **Germany's €100bn special fund — nearly all on traditional kit**
+- Britain's defence review: 10% to "novel" technology — **some insiders argued F-35 (20 years old) should count**
+- **Skycutter** (British drone co) won Pentagon contract; may leave Britain for lack of UK orders
+
+### What Europe should do — "lean in" to Ukraine
+- Britain-Ukraine: interceptor drone co-development
+- Germany-Ukraine: new drone agreement
+- **Rheinmetall + Destinus** (Netherlands) JV: long-range missiles at fraction of cost of other models
+- Ukraine offered to **share battlefield data for AI training** — valuable commodity
+- Editorial: *"Much more of this is necessary if the arsenal of democracy is not to depend on a handful of American firms"*
+
+### Strategic framing
+The editorial reframes neo-primes not as a trading opportunity but as a **democracy-strategic** necessity. Two clauses are tightly linked:
+- (a) autocracies are rearming (China's annual increase = Taiwan's entire budget); this is NOT optional
+- (b) **arms not budgets deter** — Europe's €300bn/year extra doesn't translate unless procurement + industrial base shift
 
 ## Cross-Connections
 

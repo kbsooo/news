@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn rearmament + China export boom +14.7% + 50-day energy seizure + Iran ceasefire extended + Trump deportation machine — "transactional autocracy diplomacy" thesis crystallizes)
+updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internationalization leap + renewables > coal (first in century) + Ukraine-Turkey-Syria pivot + Israel forever-wars editorial + Trump midterms rigging scenarios — "Iran war as world-system accelerator" thesis crystallizes: four parallel re-architectures running in sync)
 ---
 
 # Wiki Index
@@ -37,8 +37,9 @@ updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn 
 - [[anthropic-mythos]] — April 7: Mythos too powerful to release; Glasswing 12 founder members (Apple/Google/Nvidia) +40 more; $20K/bug; AISI multi-step advantage
 - [[artemis-ii]] — Farthest human travel since Apollo 13, Blue Marble legacy, NASA climate science rollback (Isaacman/Marvel)
 - [[france-2027-presidential-election]] — RN (Le Pen/Bardella) almost certain to reach run-off at ~38%; Philippe only proven Bardella-beater; Le Pen July ruling; Orban loss hurts
-- [[us-midterms-2026]] — Economist forecast 95% House flip, 46% Senate; -17 approval; Trump window closes Jan 2027 → 2026 acceleration risk
-- [[bundeswehr-rearmament]] — **NEW** 2026-2039 transformation: first-ever military strategy, €160bn budget, 260k troops, "technological superiority" by 2039, conscription flashpoint
+- [[us-midterms-2026]] — Economist forecast 95% House flip; **UPDATE**: Morelle 150-item war-game; ICE-at-polls + back-end certification fights; most likely damage = delegitimization, not stolen election
+- [[bundeswehr-rearmament]] — 2026-2039 transformation: first-ever military strategy, €160bn budget, 260k troops, "technological superiority" by 2039, conscription flashpoint
+- [[indonesia-malacca-toll-proposal-2026]] — **NEW** Apr 8 Prabowo + Apr 22 Purbaya float Malacca toll citing Iran precedent; Singapore + Malaysia reject within 24hr; Sugiono walks back Apr 23; first public test of Hormuz precedent contagion
 
 ## Concepts
 
@@ -68,8 +69,15 @@ updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn 
 - [[russia-war-home-front]] — Nikolsk village officials openly say "there is a war" (not SMO); Kremlin narrative crack at bureaucratic level
 - [[china-export-boom-2026]] — **NEW** Q1 exports +14.7%, memory chips +174% (AI supercharge), "factory to the factories", 89% of diversion is real new demand
 - [[energy-markets-seizure-april-2026]] — **NEW** Day-50 dashboard: 550m bbl lost, tankers exhausted, Asia rationing, Japan reserves gone in May, Europe jet fuel precipitous fall by June
-- [[transactional-autocracy-diplomacy-2026]] — **NEW** Unifying frame: deportation machine + UAE/Sudan non-pressure + Venezuela "Caracas Condition" + Iran brinkmanship = leverage-for-compliance without sustainable outcomes
-- [[trump-third-country-deportations]] — **NEW** 16 countries accept non-citizen deportees; $7.5m to Equatorial Guinea/Rwanda; only 17k deported (deterrence, not scale); refoulement time-bomb
+- [[transactional-autocracy-diplomacy-2026]] — Unifying frame: deportation machine + UAE/Sudan non-pressure + Venezuela "Caracas Condition" + Iran brinkmanship = leverage-for-compliance without sustainable outcomes
+- [[trump-third-country-deportations]] — 16 countries accept non-citizen deportees; $7.5m to Equatorial Guinea/Rwanda; only 17k deported (deterrence, not scale); refoulement time-bomb
+- [[yuan-internationalization-2026]] — **NEW** CIPS +35% daily volume (Apr 2 peak 1.2trn yuan); yuan = 56% of China's intl transactions; Iran Hormuz tolls yuan-denominated; mBridge 7-10s settlement; Portugal first euro-area dim-sum; "comfort currency" not "powerful"
+- [[renewables-acceleration-2026]] — **NEW** 2025 renewables 34% > coal 33% (first in century); solar +30% YoY; IEA + Ember reports landing in Asian finance ministries post-Hormuz; Germany €25bn gas-savings precedent
+- [[ukraine-middle-power-diplomacy-2026]] — **NEW** Zelensky to Damascus via Turkey (Apr 5); Baykar Kyiv drone factory; phosphate-for-wheat barter; "step into Russia's fading footprint"; explicit claim to co-architect EU security
+
+## Synthesis
+
+- [[iran-war-as-system-accelerator-2026]] — **NEW** Central synthesis: Iran war is accelerating four parallel world-system re-architectures simultaneously (monetary / chokepoint / energy / alliance). Same catalyst, four editors, four sections, Apr 23 issue. Why Iran catalyst > Russia-Ukraine: multi-target sanctions, physical chokepoint, Asian-sovereign forcing, distrusted-dollar timing
 
 ## Simulations
 
@@ -79,7 +87,7 @@ updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn 
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (129)
+## Sources Ingested (137)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -212,3 +220,11 @@ updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn 
 | 2026-04-22 | An extended ceasefire over Iran | Middle East & Africa |
 | 2026-04-22 | How a Sudanese militia built a military/economic empire | Middle East & Africa |
 | 2026-04-22 | Donald Trump's deportation machine is innovating | United States |
+| 2026-04-21 | Israel's open-ended wars have eroded its security | Middle East & Africa |
+| 2026-04-22 | How to bolster the arsenal of democracy | Leaders |
+| 2026-04-23 | The high price of forever wars (Israel editorial) | Leaders |
+| 2026-04-23 | Indonesia suggests charging a toll to transit the Malacca Strait | Asia |
+| 2026-04-23 | Might Donald Trump try to rig the midterms? | Briefing |
+| 2026-04-23 | Ukraine's quest for new friends (Turkey/Syria pivot) | Europe |
+| 2026-04-23 | Renewables are shining (IEA + Ember 2025 reports) | Finance & Economics |
+| 2026-04-23 | Xi Jinping wants a powerful currency (yuan int'l) | Finance & Economics |

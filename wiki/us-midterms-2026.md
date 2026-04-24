@@ -3,8 +3,9 @@ title: US Midterms 2026 — Forecast and Implications
 type: event
 sources:
   - raw/united-states/260421-our-midterms-forecast-predicts-pain-for-donald-trump.md
-updated: 2026-04-22
-tags: [united-states, elections, donald-trump, democrats, congress]
+  - raw/briefing/260423-might-donald-trump-try-to-rig-the-midterms.md
+updated: 2026-04-24
+tags: [united-states, elections, donald-trump, democrats, congress, election-integrity, ice]
 ---
 
 # US Midterms 2026 — Forecast and Implications
@@ -69,6 +70,80 @@ Conversely, the Dem-held House would create a **hard floor** against further exe
 - Economist does **not** recommend betting on the Dems solely on this — markets incorporate race-specific info and non-incumbent candidate info the model lacks
 - But it signals that the House flip is closer to a **shoo-in** than a **dogfight**
 
+## Can Trump Rig the Midterms? (Apr 23 Briefing)
+
+The Apr 23 Economist briefing is the **definitive scenario catalog** of what Trump might attempt. Joe Morelle (ranking Democrat, House Administration Committee) has compiled a **150-item what-if list** and war-gamed for over a year. Attorneys, state AGs, and secretaries of state have coordinated response plans.
+
+### What Trump has already tried (and failed)
+- Attempted to change mechanics of voting (blocked)
+- **Engineered mid-decade gerrymander** in Republicans' favor → Democrats countered with their own → net wash
+- **March 31 executive order** directing USPS not to send ballots to anyone not on a "state citizenship list" administration is supposedly compiling → likely to be blocked by judge
+- **DOJ sued 30 mostly Democratic states** to force handover of unredacted voter rolls (with SSN, DL numbers) → 4 courts rejected
+- **SAVE America Act**: stalled in Senate, lacks filibuster-proof 60 votes
+
+### Front-end interference (vote-casting)
+**ICE at polls**: Steve Bannon on podcast (Feb 2026): *"You're damn right we're going to have ICE surround the polls... Their presence at airports has been a 'test run'."*
+- Federal law **prohibits "troops or armed men" at polls**
+- Could be stopped by courts immediately (David Becker, former DOJ voting-rights lawyer)
+- But: doesn't take hundreds of thousands of agents to affect outcome
+- Recent ICE surges in cities: **Latino turnout suppression** observed (even citizens stay home out of fear of dragnets)
+- **Counter-effect**: sending ICE to polls could **galvanize Democratic turnout** (Minneapolis ICE surge provoked massive public response; 2024 Latino Trump voters could swing back)
+
+**Pam Bondi letter** (while AG, January): wrote to Minnesota governor implying **detente possible if state handed over voter rolls** — "Out of control fraud by Somali immigrants... also implicates election security"
+
+### Back-end interference (counting + certification)
+**More effective if election is close**. Dem 74% probability of ≥229 seats (218 = majority) means likely big margin → nothing to do but *"throw a tantrum"* (Derek Muller, Notre Dame election law).
+
+If control comes down to handful of tight races:
+- **Narrow margins** → more counting/recounting
+- **Blue shift** (postal ballots) favors Dems — protracted tallying delays declarations
+- Trump already used this 2020: *"stop the counting"* as position worsened
+
+**Ballot seizure scenario**: FBI in January 2026 seized **700 boxes** of 2020 election material from **Fulton County, Georgia** (long-debunked Cleta Mitchell theories). If applied to **in-progress count**:
+- Disrupts chain of custody
+- Could **necessitate redo** of affected race
+- DOJ's long-standing policy: **"non-interference in pending elections"** — manual *"Federal Role: Prosecution, Not Intervention"*
+- **DOJ quietly pulled latest manual from webpage** of Election Crimes Branch (older version still buried elsewhere)
+
+**Warrant requirement**: any seizure requires judge approval + probable cause. Alexandra Chandler (Protect Democracy): local officials should **pre-draft court filings** to regain custody immediately.
+
+### January 2027 congressional seating fight
+Constitution gives each chamber right to determine membership. Typically mundane; seat whoever states certify.
+- **Last rejection**: 1984 (four-vote House race)
+- **What if states/counties delay or withhold certification**? Morelle's plan: go to federal court, seek **writ of mandamus** compelling administrators to certify (courts ruled certification is "ministerial," not discretionary)
+- 2020 + 2022: Republican county officials in some places refused to accept Dem victories; stonewalling failed; **Arizona** official awaiting trial on felony charges
+
+### Emergency-declaration scenario
+Cleta Mitchell (grande dame of election deniers) podcast: *"The president's authority is limited... Except where there is a threat to the national sovereignty of the United States — as I think that we can establish with the porous system that we have."*
+- Election deniers want Trump to **declare national emergency**, ban some voting machines (made-up Chinese-involvement theory)
+- Would see **quick rebuke from courts** (Rick Hasen, UCLA): *"that's not a thing in our constitution"*
+
+### Subversion likelihood: low
+- 2020: Trump/allies filed **62 lawsuits**; **lost all but one** (and that had no bearing)
+- This time: Morelle's team spent 12+ months pre-preparing
+- Expected path for meddling attempts: **public gestures that fail in court**, but contribute to delegitimization
+
+### The delegitimization damage (already done)
+- **Majority of Republicans now think Trump beat Biden in 2020**
+- **Confidence in fair elections**: 44% (pre-2024 vote) → **25%** (post-Trump midterm-cancellation musings)
+- **Election workers face threats and harassment routinely** (sometimes from Trump personally)
+- Delegitimization partly feeds on itself: Democrats' warnings about rigging also reduce confidence
+
+### The counter-mobilization case
+- Democratic turnout in post-2024 special elections and off-year races **higher than 2018** (which itself was highest midterm rate in over a century)
+- *"The more Mr Trump fulminates against elections, the keener [Democratic voters] seem to punish him in this one"*
+- David Becker warns pro-democracy organizations may **compound fear** by talking up nightmare scenarios
+
+### Scenario probability (synthesis)
+| Outcome | Probability (synthesis) |
+|---------|------------------------|
+| Dem wins House cleanly (margins > 6-8 seats) | ~70% |
+| Close House, disputed races + back-end interference attempts | ~20% |
+| Trump back-end interference succeeds in overturning results | **~2-3%** |
+| Constitutional crisis surviving January 2027 seating | **~3-5%** |
+
+The **most likely danger is not stolen election** — it is **sustained delegitimization damage** (25% → ~20% confidence), feeding into 2028 mobilization by both sides.
+
 ## See Also
 - [[donald-trump]]
 - [[iran-war-and-ceasefire-2026]]
@@ -76,6 +151,8 @@ Conversely, the Dem-held House would create a **hard floor** against further exe
 - [[kevin-warsh]]
 - [[jd-vance]]
 - [[peter-magyar]]
+- [[transactional-autocracy-diplomacy-2026]]
+- [[trump-third-country-deportations]]
 
 ---
 

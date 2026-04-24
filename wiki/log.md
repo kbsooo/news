@@ -1,9 +1,57 @@
 ---
 title: Log
-updated: 2026-04-23 (Apr 21-22 batch: UAE/Sudan/RSF nexus + Bundeswehr €160bn + China exports +14.7% + 50-day energy seizure + Iran ceasefire extended + Trump deportation machine — "transactional autocracy diplomacy" thesis)
+updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll + yuan leap + renewables > coal + Ukraine-Turkey-Syria + Israel forever-wars editorial + Trump midterms rigging — "Iran war as world-system accelerator" synthesis)
 ---
 
 # Wiki Log
+
+## [2026-04-24] ingest | 8 Economist articles (Apr 21-23 batch) — Iran war as world-system accelerator thesis
+
+**Sources (8)**:
+- `raw/asia/260423-indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait.md` — Prabowo Apr 8 + Purbaya Apr 22 float Malacca toll citing Iran; Singapore/Malaysia reject; Sugiono walks back Apr 23
+- `raw/briefing/260423-might-donald-trump-try-to-rig-the-midterms.md` — Morelle 150-item what-if list; ICE at polls; back-end certification interference; FBI 700-box Fulton raid; emergency declaration scenarios; confidence 44% → 25%
+- `raw/europe/260423-ukraines-quest-for-new-friends.md` — Zelensky to Damascus Apr 5 via Turkey government plane; Baykar Kyiv drone factory; phosphate-for-wheat barter; "step into Russia's fading footprint"
+- `raw/finance-and-economics/260423-renewables-are-shining.md` — IEA + Ember 2025 reports; solar +30%, renewables 34% > coal 33% first time in a century; Germany €25bn gas savings precedent
+- `raw/finance-and-economics/260423-xi-jinping-wants-a-powerful-currency.md` — CIPS daily volume +35% March; Apr 2 peak 1.2trn yuan; Iran Hormuz tolls yuan-denominated; Portugal dim-sum; mBridge 7-10s
+- `raw/leaders/260422-how-to-bolster-the-arsenal-of-democracy.md` — Palantir > RTX; neo-primes worth 3x legacy despite ~1/8 sales; Hegseth procurement reforms; Europe behind; lean into Ukraine; Rheinmetall-Destinus
+- `raw/leaders/260423-the-high-price-of-forever-wars.md` — Editorial version of Israel doctrine breakdown; explicit rejection of "total victory" framing; opposition offers no alternative
+- `raw/middle-east-and-africa/260421-israels-open-ended-wars-have-eroded-its-security.md` — Trump no-show April 22; 5th ceasefire in 15 months; Israel excluded from US-Iran talks; Dan Meridor diagnosis
+
+**New pages created (5)**:
+- `iran-war-as-system-accelerator-2026.md` (synthesis) — **CENTRAL INSIGHT** — four parallel re-architectures running in sync, Iran as superior catalyst to Russia-Ukraine 2022
+- `yuan-internationalization-2026.md` (concept) — "comfort currency" thesis; CIPS+mBridge+rates+capital-flight mechanism; capital-controls ceiling
+- `indonesia-malacca-toll-proposal-2026.md` (event) — first public contagion test; failed but norm now defended; technical democratization of chokepoint leverage
+- `renewables-acceleration-2026.md` (concept) — IEA + Ember 2025 data; why renewables not coal is Iran-war winner; energy-security unlocks renewable procurement from non-climate constituencies
+- `ukraine-middle-power-diplomacy-2026.md` (concept) — Turkey-Syria pivot; Baykar factory; co-architect-EU-security claim; 2028 NATO two-path strategy
+
+**Pages updated (6)**:
+- `israeli-security-doctrine-shift.md` — added Leaders editorial + ME&A briefing; editorial consensus diagnosis of Netanyahu-era doctrine collapse
+- `ukraine.md` — added Turkey-Syria pivot section + Arsenal-of-Democracy editorial reinforcement
+- `strait-of-hormuz.md` — Malacca contagion signal; yuan-denominated toll confirmation
+- `maritime-law-and-chokepoints.md` — Indonesia first-test section; technical-democratization angle; candidate chokepoint inventory
+- `china.md` — yuan internationalization section; CIPS data; comfort-vs-powerful framing
+- `us-defence-tech-shake-up-2026.md` — Arsenal editorial institutional-synthesis section
+- `us-midterms-2026.md` — rig-the-midterms briefing full scenario analysis; subversion probability table (~2-3% stolen, 20% back-end fights, 70% clean Dem win)
+
+**Central insights this batch**:
+
+1. **THE Iran war is the 2020s' biggest single policy catalyst, and the April 23 issue is its crystallization moment**. In a single edition *The Economist* published 4 unrelated-looking lead pieces (Malacca toll / yuan / renewables / Ukraine-Syria) that each, unprompted, cite the Iran war as the proximate accelerator. Four different sections, four different editors, same causal arrow. That convergence is not coincidental; it is the diagnostic signal that a **phase transition** has occurred in world-system trajectory.
+
+2. **Four parallel system re-architectures now visible**: (a) monetary — yuan as "comfort currency" with CIPS +35% and Hormuz-toll denomination; (b) chokepoint governance — Iran's toll precedent now explicitly cited by Indonesia, UNCLOS norm defended rather than assumed; (c) energy — 2025 solar > coal first time in a century, acceleration reframed as energy security unlocking non-climate political constituencies; (d) security architecture — Ukraine claims co-architect role in EU security via Turkey-Syria pivot, not petitioner.
+
+3. **Why Iran > Russia-Ukraine as catalyst**: 2022 Russia SWIFT ejection was single-country; Iran 2026 creates a PATTERN (two major sanctions events, broad 2ndary sanctions). Russian war didn't touch a chokepoint; Iran does. Russia-Ukraine was European-coded; Iran is Asian-coded, 3bn constituents vs 400m. Dollar was strong in 2022; now distrusted under tariff chaos + Fed capture attempts. All four factors amplify.
+
+4. **The Malacca rejection matters more than it appears**. Singapore and Malaysia held the line, Indonesia walked back. But the idea is now **in the international conversation for the first time since the 2000s**, the framing has shifted from "public good funding" to "sovereignty monetization," and the technical entry cost for chokepoint-enforcement (cheap drones, cheap mines) has fallen by an order of magnitude. The norm is now defended, not assumed.
+
+5. **Israel forever-wars editorial consensus**. What was ME&A-briefing diagnosis on April 21 becomes Leaders editorial on April 23. The Economist's institutional weight now sits behind: Israel has broken with Ben-Gurion, public knows it, generals won't contest it, opposition offers no alternative, only Trump can brake it. Going into Israeli October 2026 elections this is the consensus.
+
+6. **Midterm subversion scenarios: ~2-3% actually stolen; ~70% Dem wins cleanly**. Morelle has war-gamed 150 scenarios for 12+ months. 2020 lesson: 62 lawsuits, 61 losses. Most likely damage is **sustained delegitimization** (confidence already 25% from 44%), not overturned result. Trump's Jan 2027 risk: congressional seating fights, not election theft.
+
+7. **Yuan internationalization hits its "comfort currency" ceiling due to capital-control discipline**. CIPS +35%, mBridge operational, Hormuz tolls in yuan. But China will not accept external discipline on exchange rate, which caps yuan at alternative-not-rival level. That's still enough to blunt dollar weaponization marginally, which compounds over years.
+
+8. **Renewables acceleration is durable because it's unlocked from climate politics**. Post-Iran-war, solar procurement works under climate-skeptic governments (India, Gulf monarchies, US red states, China). Energy-security frame unlocks what climate frame couldn't. This is the most under-appreciated political-economy shift.
+
+## [2026-04-23] ingest | 7 Economist articles (UAE/Sudan/RSF nexus + Bundeswehr + China export boom + energy seizure + Iran ceasefire extended + Trump deportation machine) — transactional autocracy diplomacy thesis
 
 ## [2026-04-23] ingest | 7 Economist articles (UAE/Sudan/RSF nexus + Bundeswehr + China export boom + energy seizure + Iran ceasefire extended + Trump deportation machine) — transactional autocracy diplomacy thesis
 

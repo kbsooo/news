@@ -3,8 +3,9 @@ title: Maritime Law and Chokepoints
 type: concept
 sources:
   - raw/middle-east-and-asia/260410-the-price-of-passage.md
-updated: 2026-04-11
-tags: [law, shipping, geopolitics, trade]
+  - raw/asia/260423-indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait.md
+updated: 2026-04-24
+tags: [law, shipping, geopolitics, trade, unclos, malacca]
 ---
 
 # Maritime Law and Chokepoints
@@ -47,10 +48,50 @@ The key distinction: Egypt and Panama charge for canals dug on their territory. 
 
 If Iran's toll-gate model stands, it could encourage other nations to monetize or control maritime chokepoints, fundamentally altering global trade. This is why the IMO calls it a "dangerous precedent."
 
+## April 2026 Update: First Contagion Test — Indonesia
+
+See [[indonesia-malacca-toll-proposal-2026]].
+
+- **Apr 8**: Indonesian President **Prabowo** (televised cabinet meeting) linked Hormuz precedent to Indonesian straits: *"70% of East Asia's energy needs and 70% of its trade pass through the Indonesian straits"*
+- **Apr 22**: Finance Minister **Purbaya** at conference: floated Malacca toll, citing Iran directly — *"if only it could be like that"*
+- **Apr 22**: Singapore FM Balakrishnan + Malaysian FM rejected publicly within 24 hours
+- **Apr 23**: Indonesian FM Sugiono walked back — cited UNCLOS archipelagic-waters deal (Indonesia traded archipelagic claim for innocent passage)
+
+**Significance**: This is the **first public international test** of whether Iran's Hormuz precedent generalizes. The test *failed* (Singapore+Malaysia held, Indonesia backed down), but:
+1. The idea is now in the international conversation after the 2000s rejection
+2. Prabowo/Purbaya have not personally retracted — only Sugiono (on behalf of state)
+3. Article's closing: *"expect the Malacca issue to drift back into view again before too long"*
+
+### The technical democratization angle
+The article underscores: Iran used **cheap one-way drones** to shut Hormuz. This **lowers the entry cost** for other chokepoint-adjacent states:
+- Indonesia lacks a strong navy, but Iran's model shows that is no longer disqualifying
+- Small coastal states + cheap drones + cheap mines = chokepoint-toll-enforcement capability
+- International law was historically sustained by the assumption that only great powers could blockade straits — no longer true
+
+### Indonesian straits trade modeling (Economist)
+| Scenario | Affected global seaborne trade | Detour |
+|----------|-------------------------------|--------|
+| Malacca only closed | **21%** | +1,200 km |
+| All Indonesian straits closed | **26%** | +7,800 km |
+
+### Candidate chokepoints to watch
+| Chokepoint | Operator | Fiscal pressure | Leverage potential |
+|-----------|---------|-----------------|--------------------|
+| Malacca | Indonesia/Singapore/Malaysia | High (Indonesia) | Very high (21-26% trade) |
+| Bosporus | Turkey (Montreux tolled) | Moderate | High (esp. for Russian interests) |
+| Suez | Egypt (tolled) | High | Already tolled; Houthi-disrupted |
+| Bab el-Mandeb | Djibouti/Yemen | Moderate (Djibouti) | High if Red Sea stays contested |
+| Danish Straits | Denmark | Low | Low (NATO coordination) |
+| Panama | Panama (tolled) | Moderate | Already tolled |
+
+Highest contagion probability: **Indonesia returns** + **Egypt raises Suez tolls aggressively** + possibly **Turkey expands Montreux scope**.
+
 ## See Also
 - [[strait-of-hormuz]]
 - [[iran]]
 - [[iran-war-and-ceasefire-2026]]
+- [[indonesia-malacca-toll-proposal-2026]]
+- [[iran-war-as-system-accelerator-2026]]
 
 ---
 

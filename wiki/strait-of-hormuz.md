@@ -14,7 +14,9 @@ sources:
   - raw/middle-east-and-africa/260419-a-jungle-of-power.md
   - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
-updated: 2026-04-23
+  - raw/asia/260423-indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait.md
+  - raw/finance-and-economics/260423-xi-jinping-wants-a-powerful-currency.md
+updated: 2026-04-24
 tags: [geography, shipping, oil, chokepoint]
 ---
 
@@ -47,6 +49,9 @@ Three tiers of access:
 2. **Friendly nations** (India, China, Russia): Must submit extensive paperwork proving no connections to America or Israel
 3. **All other nationalities**: Must also pay tolls — up to $2m for the largest tankers (~$1/barrel of crude), more typically $120,000-$250,000 per vessel. Payment in crypto stablecoins or Chinese yuan.
 
+### Toll payment currency — yuan-denominated (confirmed Apr 2026)
+Per April 2026 IMF-meeting consensus (Josh Lipsky, Atlantic Council): *"most of the money brought in by Tehran's 'toll booth' is in yuan not crypto"*. This adds a direct yuan-internationalization mechanism. See [[yuan-internationalization-2026]] and the **CIPS** volume spike (daily average 920bn yuan in March 2026 vs 680bn in 2025; April 2 peak 1.2trn yuan). Iran's Hormuz toll has become part of the yuan's rising international role.
+
 Brent crude trading at ~$95/barrel as of April 2026.
 
 ## Legal Dispute
@@ -77,6 +82,9 @@ Feasibility is not in doubt — Mark Montgomery (retired rear-admiral) calls it 
 
 ### Freedom-of-navigation implications
 Combined with Trump's earlier musing about **"jointly"** controlling Hormuz with Iran's regime — a practice that would upend the international law governing such waterways — the blockade puts the principle of freedom of navigation under severe stress. Kevin Rowlands (RUSI Journal): "another nail in the coffin for any pretence that there is such a thing as a rules-based order or international law." US officials assess China will not challenge the blockade, but accepting it sets a precedent China has long feared for the **Strait of Malacca** in a Pacific-war scenario.
+
+### Update (Apr 22-23): Malacca contagion has surfaced publicly
+Indonesia's President **Prabowo** (Apr 8) and Finance Minister **Purbaya** (Apr 22) publicly floated charging ships to transit the Strait of Malacca, explicitly citing Iran's Hormuz toll as precedent. See [[indonesia-malacca-toll-proposal-2026]]. Singapore and Malaysia rejected within 24 hours; Indonesia's FM walked back on Apr 23. But the first public test of Hormuz precedent-contagion has now occurred. The UNCLOS norm is now defended rather than assumed.
 
 ## April 21-22: Blockade Holding, Strait Empty
 
