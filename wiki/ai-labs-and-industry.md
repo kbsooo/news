@@ -9,8 +9,9 @@ sources:
   - raw/business/260415-locked-up-models.md
   - raw/business/260416-could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller.md
   - raw/business/260421-not-far-from-the-tree.md
-updated: 2026-04-21
-tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment, tycoons, historical-comparison]
+  - raw/united-states/260423-artificial-intelligence-is-creeping-into-american-lawmaking.md
+updated: 2026-04-25
+tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment, tycoons, historical-comparison, governance]
 ---
 
 # AI Labs and Industry
@@ -218,9 +219,14 @@ The commercial "model lock-up" trend is now converging with an **acute political
 
 This creates an interpretive knot: from the outside it becomes hard to distinguish **genuine biosecurity restraint** from **commercial moat-building**. Labs can select whichever justification fits the audience.
 
+## AI as a Governance Input
+
+See [[ai-in-lawmaking]]. AI is no longer only an industry to be regulated; it is becoming a tool used by legislators to research, draft and stress-test bills. This creates a reflexive loop: lawmakers may use general-purpose models to write rules governing general-purpose models. The upside is capacity for under-staffed state legislatures; the risk is hallucinated law, review overload and quiet outsourcing of elected judgment.
+
 ## See Also
 - [[anthropic-mythos]]
 - [[ai-regulation-mythos-moment]]
+- [[ai-in-lawmaking]]
 - [[ai-in-mathematics]]
 - [[great-power-rivalry]]
 - [[china]] (AI micro-dramas, competing AI ecosystem)
@@ -380,3 +386,7 @@ AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질
 - **안전성 프레임**("오남용 방지를 위한 단계적 공개")과 **상업적 프레임**(락인, 디스틸레이션 방어, 컴퓨팅 자원 분배)이 동일한 전략으로 수렴한다. 동기를 구분하기 어렵게 만들며 — 청중에 따라 원하는 정당화를 선택해 제시하기 쉬워진다.
 - **벤더 중립적 미들웨어**(Cursor 형태)에 기반한 애플리케이션은 최고 역량 모델이 배타적 프로그램 뒤로 후퇴함에 따라 경쟁적으로 불리해질 수 있다.
 - Isomorphic과 Anthropic의 [[anthropic-mythos|생물보안 딜레마]] 패턴과 결합하면 그림이 확장된다: 민간 연구소가 민주적 감독 없이, 그리고 점점 더 커지는 상업적 이해관계 속에서, **누가** 이중용도 역량에 **어떤 조건으로** 접근하는지를 일방적으로 결정한다.
+
+## 거버넌스 투입물로서의 AI
+
+[[ai-in-lawmaking]] 참조. AI는 더 이상 규제 대상 산업일 뿐 아니라, 의원들이 법안을 연구하고 작성하며 스트레스 테스트하는 도구가 되고 있다. 이는 반사적 루프를 만든다: 입법자들이 범용 모델을 규제하는 규칙을 쓰기 위해 범용 모델을 사용할 수 있다. 장점은 인력이 부족한 주 의회의 역량 향상이고, 위험은 환각된 법, 검토 과부하, 선출된 판단의 조용한 외주화다.

@@ -7,8 +7,9 @@ sources:
   - raw/finance-and-economics/260407-buttonwood.md
   - raw/europe/260413-a-friend-in-need.md
   - raw/europe/260422-can-the-bundeswehr-fight.md
-updated: 2026-04-23
-tags: [defence, europe, arms, ukraine, industry]
+  - raw/asia/260423-why-japan-is-loosening-restrictions-on-exports-of-lethal-arms.md
+updated: 2026-04-25
+tags: [defence, europe, arms, ukraine, industry, japan]
 ---
 
 # European Defence Industry
@@ -63,6 +64,7 @@ Ukraine is both driver and participant in the defence boom:
 - Drone startups (e.g., Helsing, Germany) may capture growing share of budgets
 - European production still insufficient — need integrated, not duplicated, manufacturing
 - [[south-korea|South Korea]] also entering the market (air defence systems to UAE)
+- [[japan-defence-industry|Japan]] is entering lethal arms exports, adding another allied competitor in ships, submarines and regional security supply.
 
 ## Ukraine as Defence Innovation Hub (Apr 2026)
 
@@ -140,6 +142,7 @@ European MoDs and legacy primes may not be culturally ready for what Ukraine off
 - 드론 스타트업(예: 독일 헬싱)이 예산에서 점점 더 큰 비중을 차지할 가능성
 - 유럽의 생산 역량 여전히 불충분 — 중복이 아닌 통합된 제조 체계 필요
 - [[south-korea|한국]]도 시장 진입 중(UAE에 방공 시스템 수출)
+- [[japan-defence-industry|일본]]도 살상 무기 수출에 진입하면서 함정, 잠수함, 지역 안보 공급에서 또 다른 동맹 경쟁자가 되고 있다.
 
 ## 방위 혁신 허브로서의 우크라이나 (2026년 4월)
 

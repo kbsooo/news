@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internationalization leap + renewables > coal (first in century) + Ukraine-Turkey-Syria pivot + Israel forever-wars editorial + Trump midterms rigging scenarios — "Iran war as world-system accelerator" thesis crystallizes: four parallel re-architectures running in sync)
+updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan lethal-arms export turn + Europe/Britain sovereignty crisis + World Bank industrial-policy realism + Ethiopia media repression + AI in lawmaking + US electoral vandalism — "capacity without trust" emerges as today's cross-cutting insight)
 ---
 
 # Wiki Index
@@ -30,6 +30,8 @@ updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internati
 - [[rapid-support-forces]] — **NEW** Transnational paramilitary empire; UAE-backed; Darfur + Kordofan + Blue Nile; el-Fasher + Kurmuk captures; 20+ Dubai properties
 - [[sudan]] — **NEW** 4yr civil war; 33m need aid; RSF vs SAF; SAF reclaimed Khartoum; RSF holds ~half; US sanctions shells but not principals
 - [[germany]] — **NEW** Merz chancellor; first-ever military strategy Apr 2026; 3.5% GDP by 2029; 260k troops; pivot from Merkel platitudes to continental leadership
+- [[asim-munir]] — **NEW** Pakistan's army chief as Iran-war broker; diplomatic leverage strengthens military-rule trap
+- [[ethiopia]] — **NEW** Abiy's reformist opening reverses into sham-election repression; Million Beyene disappearance
 
 ## Events
 
@@ -51,6 +53,7 @@ updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internati
 - [[nato-and-transatlantic-crisis]] — Article 5 at 77-year low, Europe must self-arm, **Germany's €160bn pivot to continental leadership**
 - [[european-defence-industry]] — CSG €6.7bn (12x from 2021), €58bn EU ammo deal, Bundeswehr orders flowing in
 - [[japanese-auto-industry]] — "Brink of survival": Honda first loss since 1957, EV skepticism, China eating share (31→26%)
+- [[japan-defence-industry]] — **NEW** Japan loosens lethal arms exports; US supply constraint + China pressure force allied self-help
 - [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama/Montreux
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
@@ -74,10 +77,14 @@ updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internati
 - [[yuan-internationalization-2026]] — **NEW** CIPS +35% daily volume (Apr 2 peak 1.2trn yuan); yuan = 56% of China's intl transactions; Iran Hormuz tolls yuan-denominated; mBridge 7-10s settlement; Portugal first euro-area dim-sum; "comfort currency" not "powerful"
 - [[renewables-acceleration-2026]] — **NEW** 2025 renewables 34% > coal 33% (first in century); solar +30% YoY; IEA + Ember reports landing in Asian finance ministries post-Hormuz; Germany €25bn gas-savings precedent
 - [[ukraine-middle-power-diplomacy-2026]] — **NEW** Zelensky to Damascus via Turkey (Apr 5); Baykar Kyiv drone factory; phosphate-for-wheat barter; "step into Russia's fading footprint"; explicit claim to co-architect EU security
+- [[european-economic-sovereignty]] — **NEW** Europe regulated itself into platform/payments/energy dependence; Britain special relationship worst since Suez
+- [[industrial-policy-for-development]] — **NEW** World Bank shifts from anti-intervention scolding to damage-control realism; public inputs > market incentives
+- [[ai-in-lawmaking]] — **NEW** US state legislators use AI to research/draft bills; capacity gain vs hallucinated law and outsourced judgment
 
 ## Synthesis
 
 - [[iran-war-as-system-accelerator-2026]] — **NEW** Central synthesis: Iran war is accelerating four parallel world-system re-architectures simultaneously (monetary / chokepoint / energy / alliance). Same catalyst, four editors, four sections, Apr 23 issue. Why Iran catalyst > Russia-Ukraine: multi-target sanctions, physical chokepoint, Asian-sovereign forcing, distrusted-dollar timing
+- [[capacity-without-trust-2026]] — **NEW** Today's synthesis: states are racing to add capacity (arms, AI, industrial policy, mediation, sovereignty) while political trust decays
 
 ## Simulations
 
@@ -87,7 +94,7 @@ updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internati
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (137)
+## Sources Ingested (145)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -218,6 +225,14 @@ updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll float + yuan internati
 | 2026-04-21 | Global energy markets are on the verge of a disaster | Finance & Economics |
 | 2026-04-22 | Can the Bundeswehr fight? | Europe |
 | 2026-04-22 | An extended ceasefire over Iran | Middle East & Africa |
+| 2026-04-23 | Asim Munir's geopolitical successes | Asia |
+| 2026-04-23 | Japan loosens lethal-arms export restrictions | Asia |
+| 2026-04-23 | Europe regulated itself into American vassalage | Europe |
+| 2026-04-23 | World Bank and industrial policy | Finance & Economics |
+| 2026-04-23 | America is vulnerable to electoral vandalism | Leaders |
+| 2026-04-23 | Britain's alliance with America | Leaders |
+| 2026-04-23 | Abiy Ahmed throttles free expression | Middle East & Africa |
+| 2026-04-23 | AI creeps into American lawmaking | United States |
 | 2026-04-22 | How a Sudanese militia built a military/economic empire | Middle East & Africa |
 | 2026-04-22 | Donald Trump's deportation machine is innovating | United States |
 | 2026-04-21 | Israel's open-ended wars have eroded its security | Middle East & Africa |

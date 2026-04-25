@@ -4,8 +4,9 @@ type: event
 sources:
   - raw/united-states/260421-our-midterms-forecast-predicts-pain-for-donald-trump.md
   - raw/briefing/260423-might-donald-trump-try-to-rig-the-midterms.md
-updated: 2026-04-24
-tags: [united-states, elections, donald-trump, democrats, congress, election-integrity, ice]
+  - raw/leaders/260423-america-is-vulnerable-to-electoral-vandalism.md
+updated: 2026-04-25
+tags: [united-states, elections, donald-trump, democrats, congress, election-integrity, ice, legitimacy]
 ---
 
 # US Midterms 2026 — Forecast and Implications
@@ -144,6 +145,12 @@ Cleta Mitchell (grande dame of election deniers) podcast: *"The president's auth
 
 The **most likely danger is not stolen election** — it is **sustained delegitimization damage** (25% → ~20% confidence), feeding into 2028 mobilization by both sides.
 
+## Electoral Vandalism as the Core Risk
+
+The April 23 leader clarifies the central threat: Trump probably cannot steal the midterms, but he can further damage the legitimacy mechanism that makes losers accept election outcomes. The danger is not one spectacular coup; it is repeated vandalism of trust.
+
+The evidence is already visible: only **25%** of voters say they are confident the midterms will not suffer interference; only **10%** say both parties are honest and ethical; a majority in both parties think the other side is too extreme. The democratic system can survive failed executive orders, ICE-at-polls threats and lawsuits. It may be less able to survive a norm in which every close loss is interpreted as theft and every transfer of power as treachery.
+
 ## See Also
 - [[donald-trump]]
 - [[iran-war-and-ceasefire-2026]]
@@ -153,6 +160,7 @@ The **most likely danger is not stolen election** — it is **sustained delegiti
 - [[peter-magyar]]
 - [[transactional-autocracy-diplomacy-2026]]
 - [[trump-third-country-deportations]]
+- [[ai-in-lawmaking]]
 
 ---
 
@@ -217,6 +225,12 @@ The Economist의 통계 예측 모델(2026년 4월 21일 발표)은 민주당이
 - 예측 시장: **하원 85%**
 - Economist는 이 모델만으로 민주당 베팅을 권하지 않음 — 시장은 모델이 놓치는 개별 경선·비현직 후보 정보 반영
 - 그러나 하원 뒤집기는 **격전**보다는 **거의 확정**에 가깝다는 신호
+
+## 선거 훼손이 핵심 위험
+
+4월 23일 리더 기사는 핵심 위협을 분명히 한다: 트럼프는 중간선거를 훔칠 수는 없을 가능성이 높지만, 패자가 선거 결과를 받아들이게 만드는 정당성 메커니즘을 더 훼손할 수 있다. 위험은 하나의 극적인 쿠데타가 아니라 신뢰에 대한 반복적 훼손이다.
+
+증거는 이미 보인다: 중간선거가 개입을 겪지 않을 것이라고 확신하는 유권자는 **25%**뿐이고, 양당이 모두 정직하고 윤리적이라고 말하는 비율은 **10%**뿐이며, 양당 지지층의 다수는 상대방이 너무 극단적이라고 본다. 민주주의 시스템은 실패한 행정명령, 투표소 ICE 배치 위협, 소송을 견딜 수 있다. 그러나 모든 박빙 패배가 도둑질로 해석되고 모든 권력 이양이 배신으로 간주되는 규범은 견디기 더 어려울 수 있다.
 
 ## See Also
 - [[donald-trump]]

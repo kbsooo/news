@@ -1,9 +1,46 @@
 ---
 title: Log
-updated: 2026-04-24 (Apr 23 batch: Indonesia Malacca toll + yuan leap + renewables > coal + Ukraine-Turkey-Syria + Israel forever-wars editorial + Trump midterms rigging — "Iran war as world-system accelerator" synthesis)
+updated: 2026-04-25 (Apr 23 second batch: capacity without trust synthesis)
 ---
 
 # Wiki Log
+
+## [2026-04-25] ingest | 8 Economist articles (Apr 23 second batch) — capacity without trust
+
+**Sources (8)**:
+- `raw/asia/260423-what-do-the-geopolitical-successes-of-asim-munir-mean-for-pakistan.md` — Asim Munir's diplomatic rise
+- `raw/asia/260423-why-japan-is-loosening-restrictions-on-exports-of-lethal-arms.md` — Japan loosens lethal arms exports
+- `raw/europe/260423-how-europe-regulated-itself-into-american-vassalage.md` — Europe regulated itself into American platform dependence
+- `raw/finance-and-economics/260423-has-the-world-bank-performed-a-u-turn-on-industrial-policy.md` — World Bank industrial-policy realism
+- `raw/leaders/260423-america-is-vulnerable-to-electoral-vandalism.md` — US electoral vandalism risk
+- `raw/leaders/260423-pomp-and-pageantry-wont-save-britains-alliance-with-america.md` — Britain-US special relationship under strain
+- `raw/middle-east-and-africa/260423-abiy-ahmed-is-throttling-free-expression-in-ethiopia.md` — Ethiopia media repression before election
+- `raw/united-states/260423-artificial-intelligence-is-creeping-into-american-lawmaking.md` — AI enters state lawmaking
+
+**New pages created (7)**:
+- `asim-munir.md` — Pakistan army chief as Iran-war broker; diplomacy as regime insurance risk
+- `japan-defence-industry.md` — Japan's lethal-arms export turn; US supply constraint + China pressure
+- `european-economic-sovereignty.md` — platform/payments/energy dependence; Britain post-special-relationship
+- `industrial-policy-for-development.md` — World Bank realism; public inputs vs market incentives
+- `ethiopia.md` — Abiy's media repression; Million Beyene disappearance
+- `ai-in-lawmaking.md` — state legislatures using AI; capacity vs legal hallucination
+- `capacity-without-trust-2026.md` — synthesis page
+
+**Pages updated (5)**:
+- `pakistan.md` — Munir's moment and domestic trap
+- `nato-and-transatlantic-crisis.md` — Britain after the special relationship
+- `european-defence-industry.md` — Japan as allied arms-export competitor
+- `us-midterms-2026.md` — electoral vandalism framing from Leaders
+- `ai-labs-and-industry.md` — AI as governance input
+
+**Central insight**: The batch is about **capacity without trust**. Actors are adding capabilities because old guarantees are failing: Pakistan turns military rule into diplomatic leverage; Japan arms and exports; Europe seeks sovereignty after regulating scale away; the World Bank accepts industrial-policy reality; US statehouses use AI to compensate for thin staff. But each capacity gain carries a trust deficit: military authoritarianism, election delegitimization, media repression, platform dependence, hallucinated law, and alliance anxiety.
+
+**Cross-source connections**:
+1. **American unreliability as trigger**: Japan's export turn, Britain's anxiety, Europe's economic sovereignty debate and Pakistan's mediator role all respond to a less dependable United States.
+2. **State capacity vs legitimacy**: Munir, Abiy and Trump each show how formal institutions can be bypassed or hollowed while the state remains operationally capable.
+3. **AI moves from object to instrument of governance**: The wiki already tracked AI regulation and model lock-up; US lawmaking adds the reflexive loop where AI helps write the rules that may govern AI.
+4. **Industrial policy becomes damage-control doctrine**: The World Bank has not embraced old-style protectionism; it has accepted that intervention is inevitable and is trying to steer it toward public inputs.
+5. **The next risk is brittle strength**: Systems become more capable but less governable when publics, allies and opposition parties stop trusting the institutions deploying that capability.
 
 ## [2026-04-24] ingest | 8 Economist articles (Apr 21-23 batch) — Iran war as world-system accelerator thesis
 
