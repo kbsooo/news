@@ -3,7 +3,8 @@ title: Federal Reserve
 type: entity
 sources:
   - raw/finance-and-economics/260412-americas-next-fed-chair.md
-updated: 2026-04-13
+  - raw/finance-and-economics/260426-will-kevin-warsh-trumpify-the-federal-reserve.md
+updated: 2026-04-27
 tags: [united-states, central-bank, monetary-policy, inflation]
 ---
 
@@ -27,10 +28,12 @@ America's central bank, caught in April 2026 between a president demanding rate 
 
 ## The Succession Question
 
-[[kevin-warsh|Kevin Warsh]] was nominated in **January 2026** to succeed **Jerome Powell** as chair. Powell's chair term expires **May 2026** but he has now confirmed:
-- He will **not step down from the Fed board** until DOJ concludes its (spurious) probe of Fed HQ renovation costs
-- He could theoretically remain on the board until **early 2028**
-- If "recalcitrant Republican senators honour their pledge not to confirm any new Fed appointees including Mr Warsh before the DOJ probe wraps up," Powell could even **stay on as chair beyond May**
+[[kevin-warsh|Kevin Warsh]] was nominated in **January 2026** to succeed **Jerome Powell** as chair. By April 24 the Department of Justice had dropped its bogus case against Powell, largely clearing Warsh's path to the chair. But the institutional balance remains more constrained than Trump's rhetoric implies:
+
+- Powell may remain as a governor after leaving the chair, potentially until **2028**
+- Biden-appointed governors have strong incentives to stay rather than create vacancies for Trump loyalists
+- Trump is still far from a Fed majority; even first-term Trump appointees **Christopher Waller** and **Michelle Bowman** are serious policymakers rather than automatic MAGA votes
+- Major changes require majorities on the Board of Governors or **7 of 12** FOMC votes
 
 ## Internal Pushback Against Warsh
 
@@ -44,9 +47,10 @@ Jefferson and Barr have terms extending into the **2030s** — they will be voic
 ## Independence Under Pressure
 
 - Trump's regular tirades: "Jerome 'Too Late' Powell"
-- **DOJ probe** of Fed HQ renovation bill — broadly seen as spurious
-- The Fed's public pushback "defanged a criminal probe" (see [[financial-markets-2026]])
+- **DOJ probe** of Fed HQ renovation bill — broadly seen as spurious, dropped April 24 after political and institutional resistance
+- Supreme Court appears poised to deny Trump's attempt to fire Fed governor **Lisa Cook**
 - Markets have not priced in loss of Fed independence
+- The main risk is subtler: a sitting Fed chair attacking the institution he leads if colleagues block his preferred cuts or balance-sheet changes
 
 ## See Also
 - [[kevin-warsh]]
@@ -76,10 +80,12 @@ Jefferson and Barr have terms extending into the **2030s** — they will be voic
 
 ## 의장 승계 문제
 
-[[kevin-warsh|Kevin Warsh]]는 **2026년 1월** **Jerome Powell**의 후임자로 지명됨. Powell의 의장 임기는 **2026년 5월** 만료지만 다음을 확인:
-- DOJ의 (허위성) 연준 본부 리노베이션 비용 조사 종료 전까지 **이사직을 떠나지 않음**
-- 이론상 **2028년 초**까지 이사직 유지 가능
-- "완고한 공화당 상원의원들이 DOJ 조사 종료 전 Warsh를 포함한 신규 연준 지명자 확정을 거부하겠다는 서약을 지킨다면", Powell은 **5월 이후에도 의장직을 유지** 가능
+[[kevin-warsh|Kevin Warsh]]는 **2026년 1월** **Jerome Powell**의 후임자로 지명됨. 4월 24일 법무부가 Powell에 대한 허위성 사건을 취하하면서 Warsh의 의장직 경로는 대체로 열렸다. 그러나 제도적 균형은 트럼프의 수사보다 훨씬 제약적이다:
+
+- Powell은 의장직을 떠난 뒤에도 이사로 남아 **2028년**까지 재직할 수 있음
+- 바이든 지명 이사들은 트럼프 충성파에게 공석을 만들어주지 않기 위해 남을 유인이 큼
+- 트럼프는 여전히 Fed 다수파와 거리가 멀다; 1기 트럼프 지명자인 **Christopher Waller**와 **Michelle Bowman**도 자동 MAGA 표가 아니라 진지한 정책가
+- 주요 변화는 이사회 다수 또는 FOMC **12표 중 7표**가 필요
 
 ## Warsh에 대한 내부 반발
 
@@ -93,6 +99,7 @@ Jefferson과 Barr의 임기는 **2030년대**까지 연장 — 수년간 반대 
 ## 독립성에 대한 압박
 
 - 트럼프의 정기적 비난: "Jerome 'Too Late' Powell"
-- **DOJ의 연준 본부 리노베이션 비용 조사** — 광범위하게 허위성으로 인식
-- 연준의 공개 반박이 "형사 수사를 무력화"([[financial-markets-2026]] 참조)
+- **DOJ의 연준 본부 리노베이션 비용 조사** — 광범위하게 허위성으로 인식되며, 정치적·제도적 저항 끝에 4월 24일 취하
+- 대법원은 Fed 이사 **Lisa Cook** 해임 시도를 허용하지 않을 가능성이 커 보임
 - 시장은 연준 독립성 상실을 가격에 반영하지 않음
+- 더 미묘한 위험은 동료들이 선호하는 금리 인하나 대차대조표 변화를 막을 경우, 현직 Fed 의장이 자신이 이끄는 기관을 공격하는 상황

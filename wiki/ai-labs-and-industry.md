@@ -9,8 +9,10 @@ sources:
   - raw/business/260415-locked-up-models.md
   - raw/business/260416-could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller.md
   - raw/business/260421-not-far-from-the-tree.md
+  - raw/business/260423-apples-new-boss-needs-to-restore-its-magic-for-the-ai-era.md
+  - raw/leaders/260423-tim-cook-wrote-a-winning-recipe-for-apple.md
   - raw/united-states/260423-artificial-intelligence-is-creeping-into-american-lawmaking.md
-updated: 2026-04-25
+updated: 2026-04-27
 tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment, tycoons, historical-comparison, governance]
 ---
 
@@ -98,6 +100,8 @@ Rockefeller's peak wealth ≈ **1.5% of US GDP**; Musk may exceed this depending
 
 A signal that Apple, alone among Big Tech, is **doubling down on hardware** for the AI era rather than pivoting to software-and-services.
 
+See [[apple]] for the full entity page. The succession matters here because it defines one likely counterweight to pure AI labs: a platform owner that may rent model intelligence while keeping control of the device layer.
+
 ### The transition
 - **Tim Cook** (CEO since 2011) hands over to **John Ternus** (head of hardware engineering, age 50, ~half his life at Apple) — effective **September 1, 2026**
 - Cook stays as **executive chairman**
@@ -120,6 +124,7 @@ The conventional view: in the AI age Apple needs **software-and-services**. The 
 - If Ternus is right, Apple will **arbitrage other labs' models** for the foreground (Gemini in Siri) while owning the **device + chip stack** that AI runs on locally — a defensible position
 - If wrong, Apple becomes a **hardware shell** for someone else's AI experience, vulnerable to a **device-class disruption** by a model lab that builds hardware (Meta with Ray-Ban, OpenAI with rumoured Jony Ive device)
 - Either way, the pure-AI labs (Altman/Amodei/Hassabis) face **less platform-distribution leverage** at Apple than they would have if Apple were going software-first
+- The wider strategic fork: if models commoditise, Apple captures AI value through devices, chips and App Store distribution; if a model lab creates a post-smartphone device, Apple's hardware moat is threatened
 
 ## The Biosecurity Dilemma
 
@@ -276,6 +281,8 @@ AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질
 
 빅테크 중 **애플만이 AI 시대에 소프트웨어·서비스가 아닌 하드웨어에 배팅**한다는 신호.
 
+전체 엔티티 페이지는 [[apple]] 참조. 이 승계가 여기서 중요한 이유는 순수 AI 연구소에 대한 가능한 대응축을 정의하기 때문이다: 모델 지능은 빌려오되 기기 계층의 통제권은 유지하려는 플랫폼 소유자다.
+
 ### 승계
 - **팀 쿡** (2011년 취임 CEO)이 **존 터너스**(하드웨어 엔지니어링 헤드, 50세, 생의 절반을 애플에서)에게 승계 — **2026년 9월 1일** 발효
 - 쿡은 **행정 회장**으로 잔류
@@ -298,6 +305,7 @@ AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질
 - 터너스가 맞다면 애플은 다른 랩의 모델을 **아비트라지**(Siri의 Gemini)하면서 AI가 로컬에서 돌아가는 **디바이스+칩 스택** 소유 — 방어 가능 포지션
 - 틀리면 애플은 다른 사람의 AI 경험을 담는 **하드웨어 껍데기**로 전락, 하드웨어를 만드는 모델 랩(Meta×Ray-Ban, OpenAI×Jony Ive 소문 디바이스)에 의한 **디바이스급 파괴**에 취약
 - 어느 쪽이든 순수 AI 랩(Altman/Amodei/Hassabis)은 애플이 소프트웨어 우선으로 갔을 때보다 **플랫폼 배포 레버리지가 적음**
+- 더 넓은 전략적 분기: 모델이 범용재화되면 애플은 기기, 칩, 앱스토어 유통으로 AI 가치를 포착한다. 모델 연구소가 포스트 스마트폰 기기를 만들면 애플의 하드웨어 해자는 위협받는다.
 
 ## 생물 보안 딜레마
 

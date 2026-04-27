@@ -1,9 +1,43 @@
 ---
 title: Log
-updated: 2026-04-25 (Apr 23 second batch: capacity without trust synthesis)
+updated: 2026-04-27 (Apr 26 batch: Apple succession, India statistics, San Francisco AI, Warsh/Fed, Trump dinner gunman)
 ---
 
 # Wiki Log
+
+## [2026-04-27] ingest | 7 Economist articles (Apr 26 batch) — capacity, trust and platform control
+
+**Sources (7)**:
+- `raw/asia/260426-making-indias-numbers-count-again.md` — India repairs official statistics under Saurabh Garg
+- `raw/business/260421-tim-cook-hands-apple-over-to-its-hardware-guru.md` — Tim Cook hands Apple to John Ternus
+- `raw/business/260423-apples-new-boss-needs-to-restore-its-magic-for-the-ai-era.md` — Ternus must fix Apple for AI
+- `raw/finance-and-economics/260426-san-francisco-ai-capital-of-the-world-is-an-economic-laggard.md` — San Francisco's AI wealth/local weakness paradox
+- `raw/finance-and-economics/260426-will-kevin-warsh-trumpify-the-federal-reserve.md` — Warsh's constrained Fed agenda
+- `raw/leaders/260423-tim-cook-wrote-a-winning-recipe-for-apple.md` — Cook's Apple formula and geopolitical fragility
+- `raw/united-states/260426-a-gunman-storms-donald-trumps-dinner-with-the-press.md` — Trump correspondents' dinner gunman
+
+**New pages created (4)**:
+- `apple.md` — Cook formula, Ternus succession, hardware bet, AI dependency and China/India supply-chain risk
+- `indian-statistical-system.md` — statistics repair as state-capacity and AI-readiness issue
+- `san-francisco-ai-economy.md` — AI capital with weak broad economy, office vacancy and local fiscal stress
+- `us-political-violence-2026.md` — Apr 25 dinner attack inside wider political-violence/security-trust pattern
+
+**Pages updated (6)**:
+- `india.md` — added statistical capacity/state capacity section
+- `federal-reserve.md` — DOJ climbdown, Warsh constraints, Fed independence risk
+- `kevin-warsh.md` — "regime change" substance and limits
+- `donald-trump.md` — correspondents' dinner gunman and security narrative
+- `ai-labs-and-industry.md` — Apple as hardware/platform counterweight to pure AI labs
+- `index.md` — catalog and source list updated
+
+**Central insight**: Today's batch extends **capacity without trust** into corporate platforms and urban economics. Apple has platform capacity but must rent model intelligence; India has reforming data capacity but thin administrative depth; San Francisco hosts AI wealth but cannot convert it into broad local resilience; the Fed has institutional capacity against Trump but faces politicisation from within; American security capacity rises as political violence erodes public trust.
+
+**Cross-source connections**:
+1. **Platform control vs model control**: Apple's Ternus bet is the mirror image of AI lab lock-up. Labs control models; Apple wants to control the device layer where AI reaches consumers.
+2. **AI wealth is not automatically social capacity**: San Francisco's 91 AI unicorns and OpenAI/Anthropic wealth coexist with 35% office vacancy and a shrinking labour force.
+3. **Trusted numbers precede AI governance**: India's statistical repair shows that AI readiness is not only compute or models; it requires harmonised definitions, metadata and credible administrative process.
+4. **Institutional resistance can work but still corrode**: The Fed may resist a Trump takeover numerically, yet a politicised chair can attack legitimacy from inside.
+5. **Security upgrades follow trust collapse**: The Trump dinner attack converts political violence into arguments for hardened venues, reinforcing the pattern that operational capacity grows as civic trust decays.
 
 ## [2026-04-25] ingest | 8 Economist articles (Apr 23 second batch) — capacity without trust
 

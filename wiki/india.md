@@ -7,8 +7,9 @@ sources:
   - raw/asia/260409-conversion-price.md
   - raw/asia/260412-indias-most-liveable-megacity.md
   - raw/asia/260414-girls-aloud.md
-updated: 2026-04-14
-tags: [asia, geopolitics, economics, energy]
+  - raw/asia/260426-making-indias-numbers-count-again.md
+updated: 2026-04-27
+tags: [asia, geopolitics, economics, energy, governance, statistics]
 ---
 
 # India
@@ -98,6 +99,14 @@ India finds itself pulled in multiple directions by the Iran war and Trump-era d
 - **May 2025 war with [[pakistan|Pakistan]]** — a four-day air conflict that Pakistan credited Trump with resolving (to India's irritation)
 - India's manufacturing still relies heavily on Chinese inputs and know-how, creating structural dependence even as national-security hawks push for decoupling
 
+## Statistical Capacity and State Capacity
+
+India is repairing its damaged official data system under **Saurabh Garg**, who took over the statistics ministry in 2024. See [[indian-statistical-system]] for the full page.
+
+The key point is not only statistical quality but governance capacity. India has **1.45bn** people, an increasingly sophisticated economy and only **5,577** elite civil-service officers. That thin administrative layer makes the system unusually dependent on capable individuals rather than durable process.
+
+The reform agenda now includes data-release calendars, clearing survey backlogs, district-level output numbers for roughly **800** districts, and AI-ready metadata standards. This connects directly to [[capacity-without-trust-2026]]: policy cannot ride on dashboards if the underlying numbers are not trusted.
+
 ## Female Voters Reshape Politics
 
 A historic shift is underway: women are becoming India's decisive voting bloc, and politicians are pivoting to cash-transfer schemes to win them.
@@ -142,6 +151,7 @@ A historic shift is underway: women are becoming India's decisive voting bloc, a
 - [[strait-of-hormuz]]
 - [[fertiliser-and-food-crisis-2026]]
 - [[kolkata]]
+- [[indian-statistical-system]]
 
 ---
 
@@ -231,6 +241,14 @@ A historic shift is underway: women are becoming India's decisive voting bloc, a
 - **이란 전쟁**은 미국이 신뢰할 수 있는 파트너라는 확신을 약화
 - **2025년 5월 [[pakistan|파키스탄]]과의 전쟁** — 4일간의 공중전으로, 파키스탄이 트럼프의 중재 공로를 돌렸다 (인도에게는 큰 불만)
 - 인도 제조업은 여전히 중국 부품과 기술에 크게 의존하며, 안보 강경파가 디커플링을 밀어붙여도 구조적 의존이 지속
+
+## 통계 역량과 국가역량
+
+인도는 2024년 통계부를 맡은 **사우라브 가르그** 아래 손상된 공식 데이터 시스템을 복구하고 있다. 전체 내용은 [[indian-statistical-system]] 참조.
+
+핵심은 통계 품질뿐 아니라 거버넌스 역량이다. 인도는 **14.5억** 인구와 점점 정교해지는 경제를 갖고 있지만, 엘리트 공무원은 **5,577명**뿐이다. 이 얇은 행정층은 시스템을 지속 가능한 절차보다 유능한 개인에게 지나치게 의존하게 만든다.
+
+개혁 의제에는 데이터 발표 일정, 조사 적체 해소, 약 **800개** 지구 단위 산출 통계, AI가 읽을 수 있는 메타데이터 표준이 포함된다. 이는 [[capacity-without-trust-2026|신뢰 없는 역량]]과 직접 연결된다: 기초 숫자가 신뢰받지 못하면 정책은 대시보드 위에 올라탈 수 없다.
 
 ## 여성 유권자가 정치를 재편하다
 

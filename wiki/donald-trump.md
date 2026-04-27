@@ -26,8 +26,9 @@ sources:
   - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
   - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
   - raw/united-states/260422-donald-trumps-deportation-machine-is-innovating.md
-updated: 2026-04-23
-tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer]
+  - raw/united-states/260426-a-gunman-storms-donald-trumps-dinner-with-the-press.md
+updated: 2026-04-27
+tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer, political-violence]
 ---
 
 # Donald Trump
@@ -147,6 +148,11 @@ The war exposed a fundamental error in Trump's foreign policy philosophy:
 
 ### White House Ballroom
 Trump's proposed 90,000 sq ft White House ballroom — **quadrupled** from the original $100m estimate — was **blocked by Judge Richard Leon** on March 31.
+
+### Correspondents' Dinner Gunman
+On **April 25, 2026**, a gunman opened fire outside the Washington Hilton ballroom while Trump, the First Lady, cabinet officials and reporters were inside for the White House correspondents' dinner. Trump was unharmed; a Secret Service officer was shot but survived. Police tackled the suspect, **Cole Tomas Allen**, before he entered the ballroom.
+
+Trump immediately folded the incident into his security narrative, arguing it showed why his White House ballroom plan should include bullet-proof and drone-proof features. The episode also belongs to the broader [[us-political-violence-2026]] pattern: repeated attacks or attempted attacks on political figures are becoming a background condition of American politics.
 
 ### Military and Cabinet Shakeups
 - Defense Secretary Pete Hegseth **fired General Randy George**, the Army chief of staff
@@ -394,6 +400,11 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 
 ### 백악관 대연회장
 트럼프가 추진한 90,000평방피트 규모의 백악관 대연회장은 원래 1억 달러 예상에서 **4배로 불어났으며**, 3월 31일 **리처드 리언 판사에 의해 저지**되었다.
+
+### 출입기자단 만찬 총격범
+2026년 **4월 25일**, 트럼프와 영부인, 각료들, 기자들이 백악관 출입기자단 만찬을 위해 워싱턴 힐튼 볼룸 안에 있는 동안 총격범이 볼룸 밖에서 총을 쐈다. 트럼프는 다치지 않았고, Secret Service 요원 한 명은 총에 맞았지만 생존했다. 경찰은 용의자 **Cole Tomas Allen**이 볼룸에 들어가기 전에 제압했다.
+
+트럼프는 즉시 이 사건을 자신의 보안 서사에 통합하며, 백악관 대연회장 계획에 방탄 및 드론 방어 기능이 필요하다고 주장했다. 이 사건은 더 넓은 [[us-political-violence-2026|2026년 미국 정치폭력]] 패턴에도 속한다: 정치 인물에 대한 반복적 공격 또는 공격 시도가 미국 정치의 배경 조건이 되고 있다.
 
 ### 군부 및 내각 인사 교체
 - 국방장관 피트 헤그세스가 **랜디 조지 육군참모총장을 해임**

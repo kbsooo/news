@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan lethal-arms export turn + Europe/Britain sovereignty crisis + World Bank industrial-policy realism + Ethiopia media repression + AI in lawmaking + US electoral vandalism — "capacity without trust" emerges as today's cross-cutting insight)
+updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair + San Francisco AI paradox + Warsh/Fed constraints + Trump dinner gunman — capacity, trust and platform control remain the cross-cutting pattern)
 ---
 
 # Wiki Index
@@ -9,20 +9,20 @@ updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan
 
 - [[iran]] — Khamenei killed day 1, Qalibaf/pragmatists in control, Mojtaba injured, 400kg HEU, 3 factions, Islamabad talks collapsed (21hr)
 - [[china]] — "Never interrupt your enemy": self-reliance, May summit, vetoed UN Hormuz mission, Q1 exports +14.7%, factory-to-factories
-- [[donald-trump]] — War's biggest loser: Islamabad collapse + blockade order, ceasefire extended Apr 21 (2nd retreat), deportation machine (16 countries), Fed chair trap
+- [[donald-trump]] — War's biggest loser: Islamabad collapse + blockade order, ceasefire extended Apr 21, deportation machine, Fed chair trap, Apr 25 correspondents' dinner gunman
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: UAE as hidden throughline (Iran/Sudan/China), pipeline alternatives needed
 - [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21
 - [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, UAE $3.5bn pullback, Nobel nomination for Trump
-- [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox
+- [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox, statistical-system repair under Saurabh Garg
 - [[kolkata]] — India's most liveable megacity, but that's a symptom of stagnation; Mamata 4th term bid; 23m pop
 - [[south-korea]] — $530bn chip plan collides with energy shock, gas days from exhaustion, 97% bromine from Israel
 - [[monte-dei-paschi-di-siena]] — World's oldest bank: revival €2bn→€28bn, Mediobanca bid, boardroom coup
 - [[hungary]] — Orbán defeated 4/12 by Tisza 54-38, likely 2/3 majority, EU veto gone, *Ruszkik haza*
 - [[peter-magyar]] — Ex-Fidesz insider, 45yo, central anti-corruption theme, unified opposition
 - [[viktor-orban]] — 16-year PM defeated, illiberal democracy eroded, Russia-aid reports, blow to MAGA
-- [[federal-reserve]] — Caught between Trump's demand for cuts and 3.3% inflation; Powell may stay past May
-- [[kevin-warsh]] — Trump's Fed chair pick: AI-justifies-cuts argument both empirically weak and theoretically backwards
+- [[federal-reserve]] — Caught between Trump's demand for cuts and 3.3% inflation; Warsh path clearer after DOJ climbdown but Fed majority still blocks takeover
+- [[kevin-warsh]] — Trump's Fed chair pick: AI-justifies-cuts argument weak; "regime change" mostly policy tweaks constrained by Board/FOMC votes
 - [[ukraine]] — Drone-defense expertise exported to Gulf (228 advisers, 10-year partnerships), "plan B for countries who had America as plan A"
 - [[jd-vance]] — VP, chief MAGA ideologist; Iraq-war isolationist turned Iran negotiator; "graveyard for grand strategies"
 - [[venezuela]] — Maduro captured 1/3, Delcy Rodríguez running country to Trump's liking; Trump misreading it as model for Iran
@@ -32,6 +32,7 @@ updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan
 - [[germany]] — **NEW** Merz chancellor; first-ever military strategy Apr 2026; 3.5% GDP by 2029; 260k troops; pivot from Merkel platitudes to continental leadership
 - [[asim-munir]] — **NEW** Pakistan's army chief as Iran-war broker; diplomatic leverage strengthens military-rule trap
 - [[ethiopia]] — **NEW** Abiy's reformist opening reverses into sham-election repression; Million Beyene disappearance
+- [[apple]] — **NEW** Cook→Ternus succession; hardware/device-stack bet for AI era; Gemini/Siri dependency vs post-iPhone form-factor risk
 
 ## Events
 
@@ -57,7 +58,7 @@ updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan
 - [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama/Montreux
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
-- [[ai-labs-and-industry]] — DeepMind/Hassabis biography, transformer vs RL, Isomorphic Labs, biosecurity dilemma, model lock-up, AI tycoons ranked vs Ford/Rockefeller (all in bottom half)
+- [[ai-labs-and-industry]] — DeepMind/Hassabis, transformer vs RL, Isomorphic Labs, biosecurity dilemma, model lock-up, AI tycoons, Apple hardware counterweight
 - [[ai-regulation-mythos-moment]] — "Five geeks", Bessent summons banks, 70% AI-harm perception, 2028 electoral issue, tiered vetted-access; info-ops gap remains
 - [[asian-remittance-shock-2026]] — 20m GCC migrant workers; Nepal 25% / Bangladesh 6.5% / India 3.5% GDP; -66% emigration clearances; JP/KR pivot
 - [[global-imbalances-2026]] — 1.6% of GDP (vs 2.6% peak); CEPR industrial-policy intensity correlates with exports not surpluses; "blunder not crime"
@@ -80,6 +81,9 @@ updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan
 - [[european-economic-sovereignty]] — **NEW** Europe regulated itself into platform/payments/energy dependence; Britain special relationship worst since Suez
 - [[industrial-policy-for-development]] — **NEW** World Bank shifts from anti-intervention scolding to damage-control realism; public inputs > market incentives
 - [[ai-in-lawmaking]] — **NEW** US state legislators use AI to research/draft bills; capacity gain vs hallucinated law and outsourced judgment
+- [[indian-statistical-system]] — **NEW** Saurabh Garg repairs survey calendars/backlogs; AI-ready metadata meets deeper administrative-capacity shortage
+- [[san-francisco-ai-economy]] — **NEW** AI capital with OpenAI/Anthropic wealth but weak local economy: 35% office vacancy, -13% computer-systems employment
+- [[us-political-violence-2026]] — **NEW** Apr 25 Trump dinner gunman as part of repeated political-violence/security-trust pattern
 
 ## Synthesis
 
@@ -94,7 +98,7 @@ updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (145)
+## Sources Ingested (151)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -238,6 +242,12 @@ updated: 2026-04-25 (Apr 23 second batch: Munir/Pakistan diplomatic rise + Japan
 | 2026-04-21 | Israel's open-ended wars have eroded its security | Middle East & Africa |
 | 2026-04-22 | How to bolster the arsenal of democracy | Leaders |
 | 2026-04-23 | The high price of forever wars (Israel editorial) | Leaders |
+| 2026-04-23 | Tim Cook wrote a winning recipe for Apple | Leaders |
+| 2026-04-23 | Apple's new boss needs to restore its magic for the AI era | Business |
+| 2026-04-26 | Making India's numbers count again | Asia |
+| 2026-04-26 | San Francisco, AI capital of the world, is an economic laggard | Finance & Economics |
+| 2026-04-26 | Will Kevin Warsh Trumpify the Federal Reserve? | Finance & Economics |
+| 2026-04-26 | A gunman storms Donald Trump's dinner with the press | United States |
 | 2026-04-23 | Indonesia suggests charging a toll to transit the Malacca Strait | Asia |
 | 2026-04-23 | Might Donald Trump try to rig the midterms? | Briefing |
 | 2026-04-23 | Ukraine's quest for new friends (Turkey/Syria pivot) | Europe |
