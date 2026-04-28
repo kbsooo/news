@@ -27,8 +27,12 @@ sources:
   - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
   - raw/united-states/260422-donald-trumps-deportation-machine-is-innovating.md
   - raw/united-states/260426-a-gunman-storms-donald-trumps-dinner-with-the-press.md
-updated: 2026-04-27
-tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer, political-violence]
+  - raw/business/260422-paper-leviathan.md
+  - raw/united-states/260423-lexington.md
+  - raw/united-states/260424-cocaine-crypto-and-lawsuits.md
+  - raw/united-states/260427-sow-bad.md
+updated: 2026-04-28
+tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer, political-violence, crypto, state-capitalism, agriculture]
 ---
 
 # Donald Trump
@@ -146,6 +150,18 @@ The war exposed a fundamental error in Trump's foreign policy philosophy:
 
 ## Domestic Governance and Personnel
 
+### Loud but Weak State Capitalism
+See [[us-state-capitalism-2026]]. Trump often talks like a central planner, but his interventions have had uneven force. Mortgage rates, petrol prices and credit-card rates have not obeyed presidential commands; defence firms ignored a payout ban; investors still discipline the White House. The Anthropic case is revealing: after Trump tried to punish the firm for refusing unrestricted Pentagon access, Washington reversed tone when its cyber-capable model became strategically indispensable.
+
+### Crypto Conflicts
+See [[trump-crypto-conflicts]]. Justin Sun's April 21 lawsuit against World Liberty Financial alleges that a Trump-affiliated crypto project froze his tokens after he refused to buy and promote **$200m** of its stablecoin. The case links Trump-family proceeds, SEC leniency, stablecoin ambitions and private retaliation claims.
+
+### Farmers Hit by Trump's Own Shocks
+See [[us-farmers-trade-war-2026]]. American farmers are absorbing the combined costs of Trump's trade war and Iran war: China soybean exports fell from **5.9m tonnes to zero**, diesel is up about **40%** since late February, and fertiliser prices are soaring because Hormuz remains disrupted. Rural voters still mostly back Trump, turning the pain into pressure for farm subsidies rather than mass defection.
+
+### Pragmatists Leaving Congress
+See [[us-congress-pragmatism-collapse]]. Thom Tillis's Warsh/Powell maneuver shows the few remaining Republican institutionalists trying to create off-ramps for Trump while defending process. But Tillis is retiring after a clash with Trump over Medicaid cuts, making North Carolina harder for Republicans and weakening Congress's ability to check the executive.
+
 ### White House Ballroom
 Trump's proposed 90,000 sq ft White House ballroom — **quadrupled** from the original $100m estimate — was **blocked by Judge Richard Leon** on March 31.
 
@@ -222,7 +238,7 @@ At a task force meeting, **Stephen Miller** asked what fraud "**does to public t
 ### The Strategy
 Democrats have an enduring lead on healthcare (which is popular); Republicans are associated with spending cuts. The strategy is word-association: **when voters think of healthcare, Republicans hope they think of fraud, rather than the cuts.** With polls plunging and midterms in November 2026, the fraud war substitutes for a policy agenda.
 
-This connects to [[nationalism-and-great-power-rivalry|the strongman pattern]]: the "war on fraud" doubles as a tool to punish opposition states, target minorities for immigration enforcement, and delegitimize public programs — classic illiberal tactics dressed as good governance.
+This connects to [[great-power-rivalry|the strongman pattern]]: the "war on fraud" doubles as a tool to punish opposition states, target minorities for immigration enforcement, and delegitimize public programs — classic illiberal tactics dressed as good governance.
 
 ### April 21 Forecast — The Messaging May Not Save Them
 
@@ -398,6 +414,18 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 
 ## 국내 통치 및 인사
 
+### 시끄럽지만 약한 국가자본주의
+[[us-state-capitalism-2026]] 참조. 트럼프는 종종 중앙계획가처럼 말하지만, 그의 개입은 힘이 들쭉날쭉했다. 모기지 금리, 휘발유 가격, 신용카드 금리는 대통령 명령을 따르지 않았고, 방산기업들은 지급 금지를 무시했으며, 투자자들은 여전히 백악관을 규율한다. Anthropic 사례가 특히 드러난다: 트럼프가 국방부의 무제한 접근을 거부한 회사를 처벌하려 한 뒤, 그 회사의 사이버 역량 모델이 전략적으로 필수적이 되자 워싱턴의 태도는 뒤집혔다.
+
+### 암호화폐 이해충돌
+[[trump-crypto-conflicts]] 참조. Justin Sun의 4월 21일 World Liberty Financial 상대 소송은 트럼프 연계 암호화폐 프로젝트가 자신이 그 회사의 스테이블코인 **2억 달러**어치를 구매·홍보하라는 요구를 거부한 뒤 토큰을 동결했다고 주장한다. 이 사건은 트럼프 일가 수익, SEC 관대함, 스테이블코인 야망, 민간 보복 주장을 연결한다.
+
+### 트럼프 자신의 충격에 맞은 농민들
+[[us-farmers-trade-war-2026]] 참조. 미국 농민들은 트럼프의 무역전쟁과 이란 전쟁 비용을 동시에 흡수하고 있다: 중국향 대두 수출은 **590만 톤에서 0**으로 떨어졌고, 디젤은 2월 말 이후 약 **40%** 올랐으며, 호르무즈 차질 때문에 비료 가격이 급등하고 있다. 농촌 유권자는 여전히 대체로 트럼프를 지지하며, 그 고통은 대규모 이탈보다 농업 보조금 압력으로 전환되고 있다.
+
+### 의회를 떠나는 실용주의자들
+[[us-congress-pragmatism-collapse]] 참조. Thom Tillis의 Warsh/Powell maneuver는 남은 몇 안 되는 공화당 제도주의자들이 절차를 방어하면서도 트럼프에게 퇴로를 만들어주려는 모습을 보여준다. 그러나 Tillis는 Medicaid 삭감을 둘러싼 트럼프와의 충돌 뒤 은퇴하며, 노스캐롤라이나는 공화당에 더 어려워지고 의회의 행정부 견제 능력도 약해진다.
+
 ### 백악관 대연회장
 트럼프가 추진한 90,000평방피트 규모의 백악관 대연회장은 원래 1억 달러 예상에서 **4배로 불어났으며**, 3월 31일 **리처드 리언 판사에 의해 저지**되었다.
 
@@ -474,7 +502,7 @@ SWAT팀이 출동하는 동안:
 ### 전략
 민주당은 의료(인기 있는 분야)에서 지속적인 우위를; 공화당은 지출 삭감과 연관된다. 전략은 단어 연상이다: **유권자가 의료를 생각할 때, 공화당은 예산 삭감 대신 사기를 떠올리기를 바란다.** 지지율이 하락하고 2026년 11월 중간선거가 다가오는 가운데, 사기와의 전쟁은 정책 의제를 대신한다.
 
-이는 [[nationalism-and-great-power-rivalry|강인한 지도자 패턴]]과 연결된다: "사기와의 전쟁"은 반대 주(州) 처벌, 이민 단속을 위한 소수민족 표적화, 공공 프로그램의 정당성 훼손을 위한 도구로 이중 활용된다 — 좋은 거버넌스로 포장된 전형적인 비자유주의 전술이다.
+이는 [[great-power-rivalry|강인한 지도자 패턴]]과 연결된다: "사기와의 전쟁"은 반대 주(州) 처벌, 이민 단속을 위한 소수민족 표적화, 공공 프로그램의 정당성 훼손을 위한 도구로 이중 활용된다 — 좋은 거버넌스로 포장된 전형적인 비자유주의 전술이다.
 
 ### 4월 21일 예측 — 메시지가 구하지 못할 수도
 

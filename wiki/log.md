@@ -618,3 +618,25 @@ Key insight: ML-targeted transfers could cut poverty to 1% for $318bn/yr (0.3% G
 - **Alliance fragmentation benefits adversaries**: NATO crisis (article 4) + China's exploitation (article 1) = exactly the great power rivalry pattern from the earlier batch
 - **AI in warfare**: Both China article and Trump article note AI integration in US military operations — China is alarmed but also more cautious about Taiwan invasion as a result
 - **Nuclear proliferation risk**: Iran's 400kg HEU is a ticking clock — failure to resolve it could mean periodic US strikes for years, or regional nuclear arms race
+
+## [2026-04-28] ingest | Apr 28 batch — domestic capacity, trust and political economy
+Sources:
+- `raw/asia/260427-silver-lining.md`
+- `raw/business/260422-paper-leviathan.md`
+- `raw/finance-and-economics/260421-buttonwood.md`
+- `raw/finance-and-economics/260423-imported-enthusiasm.md`
+- `raw/united-states/260423-lexington.md`
+- `raw/united-states/260424-cocaine-crypto-and-lawsuits.md`
+- `raw/united-states/260427-sow-bad.md`
+
+Created: [[east-asian-ageing-labour]], [[us-state-capitalism-2026]], [[stablecoins-and-tokenised-finance]], [[chinamaxxing]], [[us-congress-pragmatism-collapse]], [[trump-crypto-conflicts]], [[us-farmers-trade-war-2026]]
+
+Updated: [[donald-trump]], [[china]], [[south-korea]], [[federal-reserve]], [[financial-markets-2026]], [[iran-war-economic-impact]], [[us-midterms-2026]], [[capacity-without-trust-2026]], `wiki/index.md`
+
+Key insight: This batch moves the wiki's "capacity without trust" frame from geopolitics into domestic political economy. Trump can threaten markets but not reliably command them; farmers harmed by his policies still trust him and demand subsidy relief; Congress loses pragmatists just as institutional checks matter; stablecoins stall because demand is mostly crypto-native; East Asia's demographic capacity depends on redesigning late-life work.
+
+## [2026-04-28] note | Cross-source connections (Apr 28 batch)
+- **Weak command state**: US state capitalism is noisy but constrained; the same pattern appears in farm policy, where Trump creates shocks then must buy political stability through subsidies.
+- **Trust without accountability**: Rural voters and some business actors still adapt around Trump rather than defecting from him, converting policy failure into clientelistic relief or compliance.
+- **Capacity bottleneck is institutional**: East Asian ageing labour, US congressional pragmatism and stablecoin payments all show that raw capacity is not enough; systems fail when matching, verification or legitimacy mechanisms lag.
+- **China's softer asymmetry**: Chinamaxxing is minor next to exports/yuan/satellites, but it reinforces the broader China pattern: foreign attention, commerce and state messaging can be braided into advantage.

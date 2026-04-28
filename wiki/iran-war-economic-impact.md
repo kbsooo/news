@@ -12,8 +12,9 @@ sources:
   - raw/europe/260416-european-policymakers-fiddle-with-energy-prices-again.md
   - raw/finance-and-economics/260417-a-narrow-opening.md
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
-updated: 2026-04-23
-tags: [economics, energy, oil, supply-chain, inflation]
+  - raw/united-states/260427-sow-bad.md
+updated: 2026-04-28
+tags: [economics, energy, oil, supply-chain, inflation, agriculture]
 ---
 
 # Iran War Economic Impact
@@ -100,6 +101,12 @@ Total Gulf hydrocarbon infrastructure repair bill: **$25 billion** (Rystad). Key
 - **Helium**: Critical for chipmaking, 65% from Qatar — impacts [[south-korea|South Korean]] semiconductor industry
 - **Petrochemicals**: Polyethylene at highest since 2022 — affects agricultural plastic packaging
 - **Aluminium**: Al Taweelah shutdown = ~10% of global supply offline for ~1 year
+
+### American Farm Transmission Channel
+
+See [[us-farmers-trade-war-2026]]. The Iran war is now visible inside American farm budgets. Diesel prices have risen about **40%** since the end of February to around **$5.40/gallon**, and fertiliser prices are soaring because roughly a third of global supply passes through [[strait-of-hormuz|Hormuz]]. Unlike many industries, farmers cannot easily substitute away from diesel during planting season, and cutting fertiliser directly risks yields.
+
+The political economy is important: the same rural voters who strongly back [[donald-trump|Trump]] are absorbing the combined cost of his trade war and real war, then asking for subsidy relief. That converts a geopolitical supply shock into fiscal pressure.
 
 ## Macro Consequences
 
@@ -199,6 +206,12 @@ The war has made a powerful case for reducing dependence on the Gulf:
 - **헬륨**: 반도체 제조에 필수적이며, 65%가 카타르산 — [[south-korea|한국]] 반도체 산업에 타격
 - **석유화학**: 폴리에틸렌이 2022년 이후 최고치 — 농업용 플라스틱 포장에 영향
 - **알루미늄**: 알 타윌라 가동 중단 = 전 세계 공급의 약 10%가 약 1년간 오프라인
+
+### 미국 농업 전달 경로
+
+[[us-farmers-trade-war-2026]] 참조. 이란 전쟁은 이제 미국 농가 예산 내부에서 보인다. 디젤 가격은 2월 말 이후 약 **40%** 상승해 갤런당 약 **5.40달러**가 되었고, 전 세계 비료 공급의 약 3분의 1이 [[strait-of-hormuz|호르무즈]]를 통과하기 때문에 비료 가격도 급등하고 있다. 다른 산업과 달리 농민들은 파종기에 디젤을 쉽게 대체할 수 없고, 비료를 줄이면 곧바로 수확량 위험이 생긴다.
+
+정치경제가 중요하다: [[donald-trump|트럼프]]를 강하게 지지하는 바로 그 농촌 유권자들이 그의 무역전쟁과 실제 전쟁의 결합 비용을 흡수한 뒤 보조금 구제를 요구하고 있다. 이는 지정학적 공급 충격을 재정 압력으로 전환한다.
 
 ## 거시경제적 결과
 

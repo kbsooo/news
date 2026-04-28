@@ -10,8 +10,11 @@ sources:
   - raw/business/260413-haute-streak.md
   - raw/leaders/260416-america-will-come-to-regret-its-war-on-taxes.md
   - raw/finance-and-economics/260420-war-what-war.md
-updated: 2026-04-21
-tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury, truss-moment, fiscal-politics]
+  - raw/finance-and-economics/260421-buttonwood.md
+  - raw/business/260422-paper-leviathan.md
+  - raw/united-states/260427-sow-bad.md
+updated: 2026-04-28
+tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury, truss-moment, fiscal-politics, crypto, agriculture]
 ---
 
 # Financial Markets (2026)
@@ -161,6 +164,18 @@ Don't dump 60/40 — **reweight** it based on risk tolerance:
 - **Risk-takers**: **more stocks, fewer bonds** (since bonds offer less upside / diversification, their opportunity cost is higher)
 
 Either way, the era of unthinkingly parking money at 60/40 is over.
+
+## Stablecoins Stall
+
+See [[stablecoins-and-tokenised-finance]]. Stablecoins were expected to become a new Treasury-demand engine and a threat to bank deposits, but total assets have barely grown since late October 2025 after a 30% six-month surge. The problem is demand, not just regulation: research cited by The Economist finds nearly **half** of stablecoins function as crypto-trading assets and **less than 1%** are used for payments.
+
+This reinforces the 60/40 lesson above: crypto remains tied to risk appetite rather than acting as independent financial infrastructure. If tokenised assets grow beyond today's roughly **$30bn**, stablecoin demand may revive; until then, the market is still attached to its unstable crypto cousins.
+
+## Personalised State Capitalism and Farm Subsidy Pressure
+
+[[us-state-capitalism-2026]] adds a governance angle to the market story. Trump's administration can bully firms, take stakes and move small stocks, but it has failed to command mortgage rates, petrol prices, credit-card rates or defence-company payouts. Markets still have the whip hand.
+
+[[us-farmers-trade-war-2026]] adds a fiscal angle. Tariffs and the Iran-war energy shock are pushing farm distress higher, with bankruptcies up **46%** in 2025 and a Farm Bill that could nearly double cash subsidies to **$41bn** by 2027. The same policy shocks that hurt Trump's rural base now create pressure for deficit-financed relief.
 
 ## American Luxury Outpaces European
 
@@ -337,6 +352,18 @@ AQR이 자체적으로 제시하는 대안 — **주식 시장 중립(equity-mar
 - **위험선호형** 투자자: **주식 비중 확대, 채권 비중 축소** (채권의 상방/분산 효과가 줄어 기회비용이 커짐)
 
 어느 쪽이든, 60/40에 무심코 돈을 맡기는 시대는 끝났다.
+
+## 스테이블코인 성장 정체
+
+[[stablecoins-and-tokenised-finance]] 참조. 스테이블코인은 새로운 국채 수요 엔진이자 은행 예금에 대한 위협이 될 것으로 예상됐지만, 2025년 10월 말까지 6개월간 30% 급증한 뒤 전체 자산은 거의 늘지 않았다. 문제는 규제만이 아니라 수요다: The Economist가 인용한 연구에 따르면 스테이블코인의 거의 **절반**은 암호화폐 거래 자산으로 기능하고, 결제에 쓰이는 비중은 **1% 미만**이다.
+
+이는 위의 60/40 교훈을 강화한다: 암호화폐는 독립적 금융 인프라라기보다 위험 선호에 묶여 있다. 토큰화 자산이 현재 약 **300억 달러** 수준을 넘어 성장하면 스테이블코인 수요가 되살아날 수 있지만, 그 전까지 시장은 불안정한 암호화폐 친척들에 붙어 있다.
+
+## 개인화된 국가자본주의와 농업 보조금 압력
+
+[[us-state-capitalism-2026]]은 시장 서사에 거버넌스 각도를 더한다. 트럼프 행정부는 기업을 괴롭히고, 지분을 취득하고, 소형주를 움직일 수 있지만, 모기지 금리, 휘발유 가격, 신용카드 금리, 방산기업 배당을 명령하는 데는 실패했다. 시장은 여전히 우위에 있다.
+
+[[us-farmers-trade-war-2026]]은 재정 각도를 더한다. 관세와 이란 전쟁 에너지 충격은 농업 고통을 높이고 있으며, 2025년 파산은 **46%** 증가했고 Farm Bill은 2027년까지 현금 보조금을 **410억 달러**로 거의 두 배 늘릴 수 있다. 트럼프의 농촌 기반을 해치는 바로 그 정책 충격이 이제 적자 재정 구제 압력을 만든다.
 
 ## 미국 럭셔리가 유럽을 앞지르다
 

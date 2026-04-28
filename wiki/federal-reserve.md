@@ -4,8 +4,9 @@ type: entity
 sources:
   - raw/finance-and-economics/260412-americas-next-fed-chair.md
   - raw/finance-and-economics/260426-will-kevin-warsh-trumpify-the-federal-reserve.md
-updated: 2026-04-27
-tags: [united-states, central-bank, monetary-policy, inflation]
+  - raw/united-states/260423-lexington.md
+updated: 2026-04-28
+tags: [united-states, central-bank, monetary-policy, inflation, congress]
 ---
 
 # Federal Reserve
@@ -52,11 +53,16 @@ Jefferson and Barr have terms extending into the **2030s** — they will be voic
 - Markets have not priced in loss of Fed independence
 - The main risk is subtler: a sitting Fed chair attacking the institution he leads if colleagues block his preferred cuts or balance-sheet changes
 
+## Congressional Backstop: Thom Tillis
+
+[[us-congress-pragmatism-collapse]] adds the Senate channel. Thom Tillis blocked [[kevin-warsh|Warsh]] until the DOJ dropped its bogus Powell investigation, while carefully blaming low-level aides rather than [[donald-trump|Trump]] himself. The maneuver shows that Fed independence now depends not only on legal doctrine and market reaction, but also on a dwindling number of senators willing to defend institutional process.
+
 ## See Also
 - [[kevin-warsh]]
 - [[donald-trump]]
 - [[financial-markets-2026]]
 - [[iran-war-economic-impact]]
+- [[us-congress-pragmatism-collapse]]
 
 ---
 
@@ -103,3 +109,7 @@ Jefferson과 Barr의 임기는 **2030년대**까지 연장 — 수년간 반대 
 - 대법원은 Fed 이사 **Lisa Cook** 해임 시도를 허용하지 않을 가능성이 커 보임
 - 시장은 연준 독립성 상실을 가격에 반영하지 않음
 - 더 미묘한 위험은 동료들이 선호하는 금리 인하나 대차대조표 변화를 막을 경우, 현직 Fed 의장이 자신이 이끄는 기관을 공격하는 상황
+
+## 의회 방어선: Thom Tillis
+
+[[us-congress-pragmatism-collapse]]는 상원 경로를 추가한다. Thom Tillis는 DOJ가 Powell에 대한 허위성 조사를 취하할 때까지 [[kevin-warsh|Warsh]]를 막았고, 동시에 [[donald-trump|트럼프]] 본인이 아니라 하급 참모를 탓했다. 이 움직임은 연준 독립성이 이제 법리와 시장 반응뿐 아니라, 제도적 절차를 방어하려는 소수의 상원의원에게도 의존함을 보여준다.

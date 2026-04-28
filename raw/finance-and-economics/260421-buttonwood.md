@@ -1,0 +1,23 @@
+# The stablecoin market has got too stable
+
+Rapid growth in dollar-backed crypto has stalled
+
+Stablecoins are, to proponents, the respectable face of crypto. In contrast to volatile bitcoin, let alone speculative meme coins, they should be backed by holdings of Treasury bills or other dollar-denominated assets. On paper, this makes them a safer store of value than many fiat currencies and a more viable means of payment than other crypto monies, whose price can swing wildly day to day. They should also fuel demand for Treasuries, making it easier for America to finance its budget deficits.
+
+President Donald Trump, whose family has extensive crypto interests and who has issued meme coins himself, is a fan. So are lawmakers. Last July Congress passed the Genius Act, regulating stablecoins in America. In November Scott Bessent, the treasury secretary, predicted the stablecoin market, then worth some $300bn, could grow ten-fold by 2030. In February Standard Chartered, a sober bank, forecast that it could be worth $2trn by the end of 2028.
+
+This prospect spooked America's banks. That is because a loophole in the law lets stablecoins offer a deposit-like yield without bank-like regulatory burden. The American Bankers Association, an industry group, warned that a $2trn market for stablecoins, virtually all of it dollar-pegged, could lead to a 10% decline in bank deposits. This would raise the average funding cost for lenders by about a quarter of a percentage point, they said, crimping their profits and driving up interest rates on all manner of loans for everyone else.
+
+Bankers and stablecoin issuers have since been locked in a fight over the final shape of a follow-up bill, the Clarity Act. The House of Representatives passed its more restrictive version last July. The Senate is preparing to vote on its (slightly more permissive) text in the next few weeks. Yet as the battle comes to a head, the bankers and their crypto rivals suddenly have much less to fight over.
+
+After growing by 30% in the six months to late October, total stablecoin assets have barely budged. That is better than bitcoin, whose market value has plunged from $2.3trn to $1.6trn. Still, it is hardly the stuff of a financial revolution.
+
+Announcements of new stablecoin experiments and products have not been explosive, either. In October ten big banks from America, Britain, Canada, Europe and Japan formed a group "to explore" if stablecoins have merit. The exploration has yet to lead to discoveries. Rumoured stablecoins from retailers such as Walmart and Amazon have remained rumours.
+
+One explanation for stablecoins' excessive stability concerns regulation. The Genius Act offered some certainty in that regard but also, as the yield loophole shows, left many things hazy. Even before the Clarity Act clears it all up, financial rule-makers are tightening the screws. Mr Bessent's bullishness notwithstanding, this month his department released a proposal that would treat stablecoin issuers as financial institutions for the purposes of anti-money-laundering and know-your-customer laws. This means adopting the same onerous monitoring and compliance procedures as banks, adding to the cost of launching and managing a new coin.
+
+Besides regulatory constraints on supply, stablecoins have been beset by a more serious problem: soft demand. In particular, their vaunted usefulness as a means of payment has failed to impress. Some businesses rely on them to enable payments outside office hours. So do some individuals in places where dollar banking is out of reach. But the lion's share of transactions concerns trading and transfers associated with the crypto industry, not the real world.
+
+New research by Franklin Noll of the Federal Reserve Bank of Kansas City finds that nearly half of all stablecoins play the role of crypto-trading assets. Less than 1% of stablecoins in circulation are used for payments. Boston Consulting Group and Allium, a blockchain-data firm, arrive at a similar figure looking at annual transaction values using stablecoins. As crypto enters one of its periodic winters amid a broader risk-off mood provoked by Mr Trump's warmongering on trade, Iran and the Fed (which he wants to lower interest rates), stablecoins feel the chill.
+
+If investors embrace blockchain-based "tokenised" assets, which require something like stablecoins to trade, demand for dollar-pegged digital currencies may rise. But tokenised finance, worth $30bn today, is in its infancy. So long as stablecoins are tied at the hip to their unstable crypto cousins, bankers need not lose sleep. ■

@@ -12,8 +12,9 @@ sources:
   - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
   - raw/china/260421-why-chinas-exports-will-keep-on-rising.md
   - raw/finance-and-economics/260423-xi-jinping-wants-a-powerful-currency.md
-updated: 2026-04-24
-tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions, yuan, monetary-policy]
+  - raw/finance-and-economics/260423-imported-enthusiasm.md
+updated: 2026-04-28
+tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions, yuan, monetary-policy, soft-power, tourism]
 ---
 
 # China
@@ -106,6 +107,12 @@ The **Jamestown Foundation** identified **2,000+ United Front Work Department (U
 McDonald's and KFC are aggressively expanding into smaller Chinese cities:
 - McDonald's: **3,000 new outlets**; KFC: **4,000 new outlets**
 - Ownership has shifted toward **Chinese state capital**: CITIC for McDonald's; **Boyu Capital** (linked to Jiang Zemin's grandson) for Starbucks
+
+## Chinamaxxing and Tourist Soft Power
+
+See [[chinamaxxing]] for detail. Western social-media fascination with Chinese habits, goods and places has begun to feed China's tourist trade and local commerce. More than **35m foreigners** visited China last year, a record; a 55-country visa-free programme is probably the main driver, but social-media clips are reshaping perceptions and sending both foreign and domestic tourists to featured places.
+
+This is a softer counterpart to China's harder economic strengths. Export upgrading and yuan internationalisation matter more structurally, but Chinamaxxing shows how foreign attention can be converted into local demand, domestic prestige and small-scale export opportunities.
 
 ## India Rapprochement
 
@@ -339,6 +346,12 @@ This contradiction — a country that built a subway to every village but leaves
 맥도날드와 KFC가 중국 중소 도시로 공격적으로 확장 중:
 - 맥도날드: **3,000개 신규 매장**; KFC: **4,000개 신규 매장**
 - 소유권이 **중국 국유 자본**으로 이동: 맥도날드는 CITIC; 스타벅스는 **보위 캐피탈** (장쩌민 손자 연관)
+
+## 차이나맥싱과 관광 소프트파워
+
+자세한 내용은 [[chinamaxxing]] 참조. 중국의 습관, 상품, 장소에 대한 서구 소셜미디어의 관심은 중국 관광과 지역 상업에 영향을 주기 시작했다. 지난해 중국을 방문한 외국인은 **3,500만 명 이상**으로 사상 최고치였다. 55개국 대상 무비자 프로그램이 아마 가장 큰 동인이지만, 소셜미디어 영상은 인식을 바꾸고 외국인과 내국인 관광객을 영상에 등장한 장소로 보내고 있다.
+
+이는 중국의 더 단단한 경제적 강점에 대응하는 부드러운 힘이다. 수출 고도화와 위안 국제화가 구조적으로 더 중요하지만, 차이나맥싱은 외국의 관심이 지역 수요, 국내 위신, 소규모 수출 기회로 전환될 수 있음을 보여준다.
 
 ## 인도와의 관계 개선
 

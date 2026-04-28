@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair + San Francisco AI paradox + Warsh/Fed constraints + Trump dinner gunman — capacity, trust and platform control remain the cross-cutting pattern)
+updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + stalled stablecoins + Chinamaxxing + Congress pragmatism collapse + Trump crypto conflicts + farm trade-energy squeeze)
 ---
 
 # Wiki Index
@@ -8,15 +8,15 @@ updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair +
 ## Entities
 
 - [[iran]] — Khamenei killed day 1, Qalibaf/pragmatists in control, Mojtaba injured, 400kg HEU, 3 factions, Islamabad talks collapsed (21hr)
-- [[china]] — "Never interrupt your enemy": self-reliance, May summit, vetoed UN Hormuz mission, Q1 exports +14.7%, factory-to-factories
-- [[donald-trump]] — War's biggest loser: Islamabad collapse + blockade order, ceasefire extended Apr 21, deportation machine, Fed chair trap, Apr 25 correspondents' dinner gunman
+- [[china]] — "Never interrupt your enemy": self-reliance, May summit, Q1 exports +14.7%, yuan comfort currency, Chinamaxxing soft-power tailwind
+- [[donald-trump]] — War's biggest loser: blockade/ceasefire whiplash, deportation machine, Fed trap, state-capitalism limits, crypto conflicts, farm pain
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: UAE as hidden throughline (Iran/Sudan/China), pipeline alternatives needed
 - [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21
 - [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, UAE $3.5bn pullback, Nobel nomination for Trump
 - [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox, statistical-system repair under Saurabh Garg
 - [[kolkata]] — India's most liveable megacity, but that's a symptom of stagnation; Mamata 4th term bid; 23m pop
-- [[south-korea]] — $530bn chip plan collides with energy shock, gas days from exhaustion, 97% bromine from Israel
+- [[south-korea]] — $530bn chip plan collides with energy shock + ageing-labour constraint; gas days from exhaustion, 97% bromine from Israel
 - [[monte-dei-paschi-di-siena]] — World's oldest bank: revival €2bn→€28bn, Mediobanca bid, boardroom coup
 - [[hungary]] — Orbán defeated 4/12 by Tisza 54-38, likely 2/3 majority, EU veto gone, *Ruszkik haza*
 - [[peter-magyar]] — Ex-Fidesz insider, 45yo, central anti-corruption theme, unified opposition
@@ -40,7 +40,7 @@ updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair +
 - [[anthropic-mythos]] — April 7: Mythos too powerful to release; Glasswing 12 founder members (Apple/Google/Nvidia) +40 more; $20K/bug; AISI multi-step advantage
 - [[artemis-ii]] — Farthest human travel since Apollo 13, Blue Marble legacy, NASA climate science rollback (Isaacman/Marvel)
 - [[france-2027-presidential-election]] — RN (Le Pen/Bardella) almost certain to reach run-off at ~38%; Philippe only proven Bardella-beater; Le Pen July ruling; Orban loss hurts
-- [[us-midterms-2026]] — Economist forecast 95% House flip; **UPDATE**: Morelle 150-item war-game; ICE-at-polls + back-end certification fights; most likely damage = delegitimization, not stolen election
+- [[us-midterms-2026]] — Economist forecast 95% House flip; **UPDATE**: rural pain + Tillis retirement add subsidy/candidate-quality channels; main risk still delegitimization
 - [[bundeswehr-rearmament]] — 2026-2039 transformation: first-ever military strategy, €160bn budget, 260k troops, "technological superiority" by 2039, conscription flashpoint
 - [[indonesia-malacca-toll-proposal-2026]] — **NEW** Apr 8 Prabowo + Apr 22 Purbaya float Malacca toll citing Iran precedent; Singapore + Malaysia reject within 24hr; Sugiono walks back Apr 23; first public test of Hormuz precedent contagion
 
@@ -84,11 +84,18 @@ updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair +
 - [[indian-statistical-system]] — **NEW** Saurabh Garg repairs survey calendars/backlogs; AI-ready metadata meets deeper administrative-capacity shortage
 - [[san-francisco-ai-economy]] — **NEW** AI capital with OpenAI/Anthropic wealth but weak local economy: 35% office vacancy, -13% computer-systems employment
 - [[us-political-violence-2026]] — **NEW** Apr 25 Trump dinner gunman as part of repeated political-violence/security-trust pattern
+- [[east-asian-ageing-labour]] — **NEW** Japan/Korea older-worker frontier: high participation masks pension gaps, seniority-system waste and second-career redesign need
+- [[us-state-capitalism-2026]] — **NEW** Trump's command-economy rhetoric meets market/court/firm constraints; loud, personal, often ineffective intervention
+- [[stablecoins-and-tokenised-finance]] — **NEW** Stablecoin growth stalls; <1% used for payments; still tied to crypto trading unless tokenised finance scales
+- [[chinamaxxing]] — **NEW** Western social-media fascination with China converts into tourism, local demand and soft-power commerce, but may be transient
+- [[us-congress-pragmatism-collapse]] — **NEW** Thom Tillis/Warsh/Fed episode as institutional case: both parties punish compromise exactly when checks matter
+- [[trump-crypto-conflicts]] — **NEW** Justin Sun vs World Liberty: Trump-family crypto proceeds, SEC leniency, stablecoin pressure and retaliation claims collide
+- [[us-farmers-trade-war-2026]] — **NEW** Tariffs + Iran-war diesel/fertiliser shock squeeze farmers who still back Trump; subsidies become political maintenance
 
 ## Synthesis
 
 - [[iran-war-as-system-accelerator-2026]] — **NEW** Central synthesis: Iran war is accelerating four parallel world-system re-architectures simultaneously (monetary / chokepoint / energy / alliance). Same catalyst, four editors, four sections, Apr 23 issue. Why Iran catalyst > Russia-Ukraine: multi-target sanctions, physical chokepoint, Asian-sovereign forcing, distrusted-dollar timing
-- [[capacity-without-trust-2026]] — **NEW** Today's synthesis: states are racing to add capacity (arms, AI, industrial policy, mediation, sovereignty) while political trust decays
+- [[capacity-without-trust-2026]] — **UPDATE** Capacity/trust frame now extends into domestic political economy: ageing labour, weak state capitalism, Congress pragmatism loss, farm subsidies
 
 ## Simulations
 
@@ -98,7 +105,7 @@ updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair +
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (151)
+## Sources Ingested (158)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -253,3 +260,10 @@ updated: 2026-04-27 (Apr 26 batch: Apple succession + India statistical repair +
 | 2026-04-23 | Ukraine's quest for new friends (Turkey/Syria pivot) | Europe |
 | 2026-04-23 | Renewables are shining (IEA + Ember 2025 reports) | Finance & Economics |
 | 2026-04-23 | Xi Jinping wants a powerful currency (yuan int'l) | Finance & Economics |
+| 2026-04-27 | Ageing workers in East Asia are essential | Asia |
+| 2026-04-22 | America's descent into state capitalism is exaggerated | Business |
+| 2026-04-21 | Stablecoin market has got too stable | Finance & Economics |
+| 2026-04-23 | Chinamaxxing is starting to catch on, in China | Finance & Economics |
+| 2026-04-23 | Why Congress keeps getting dumber (Lexington) | United States |
+| 2026-04-24 | Justin Sun sues Trump-affiliated crypto project | United States |
+| 2026-04-27 | Donald Trump is crushing America's farmers | United States |

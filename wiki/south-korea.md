@@ -3,8 +3,9 @@ title: South Korea
 type: entity
 sources:
   - raw/finance-and-economics/260409-semi-baked.md
-updated: 2026-04-11
-tags: [asia, semiconductors, industrial-policy, energy]
+  - raw/asia/260427-silver-lining.md
+updated: 2026-04-28
+tags: [asia, semiconductors, industrial-policy, energy, demographics, ageing]
 ---
 
 # South Korea
@@ -45,12 +46,19 @@ The 1974 parallel is eerie: Park launched industrial policy right into the first
 
 Government says redistributing industry to the renewables-rich south is "more important than ever" post-energy shock. Critics: locating high-tech facilities far from Seoul's talent hubs and supplier networks (80% of Korean chips made near Seoul) makes no sense. Park the dictator didn't face this opposition; Lee the democrat does.
 
+## Ageing Labour Constraint
+
+South Korea also sits at the frontier of [[east-asian-ageing-labour]]. Nearly **40% of South Koreans over 65** remain at work, the highest rate in the OECD, but this is partly a symptom of inadequate retirement security. The average public pension replaces only about **one-third** of pre-retirement income, and nearly **40%** of over-65s live in poverty.
+
+This matters for Korea's industrial-policy ambitions. A shrinking young workforce makes older-worker participation essential, but seniority-based pay, age discrimination and a mismatch between white-collar experience and available late-career jobs waste human capital. Korea's chip and AI plans therefore require not only capital reallocation away from housing, but also labour-system redesign.
+
 ## See Also
 - [[iran-war-economic-impact]]
 - [[fertiliser-and-food-crisis-2026]]
 - [[china]] (competing chip ambitions)
 - [[strait-of-hormuz]]
 - [[israel]]
+- [[east-asian-ageing-labour]]
 
 ---
 
@@ -91,3 +99,9 @@ Government says redistributing industry to the renewables-rich south is "more im
 ## 갈등: 메가 클러스터 vs 벨트
 
 정부는 에너지 충격 이후 재생에너지가 풍부한 남부로의 산업 재배치가 "그 어느 때보다 중요하다"고 말한다. 비판론자들의 반론: 한국 반도체의 80%가 서울 인근에서 생산되는 상황에서, 첨단 시설을 서울의 인재 허브와 협력업체 네트워크에서 멀리 떨어진 곳에 배치하는 것은 비합리적이라는 것이다. 독재자 박정희는 이런 반대에 직면하지 않았지만, 민주주의 지도자 이재명은 직면하고 있다.
+
+## 고령 노동 제약
+
+한국은 [[east-asian-ageing-labour|동아시아 고령 노동]]의 최전선에도 있다. 65세 이상 한국인의 거의 **40%**가 계속 일하며, 이는 OECD 최고 수준이지만 부분적으로는 불충분한 노후 보장의 증상이다. 평균 공적연금은 은퇴 전 소득의 약 **3분의 1**만 대체하고, 65세 이상 인구의 거의 **40%**가 빈곤 상태다.
+
+이는 한국의 산업정책 야망에 중요하다. 줄어드는 청년 노동력은 고령자 참여를 필수로 만들지만, 연공서열 임금, 연령 차별, 화이트칼라 경험과 후기 경력 일자리 사이의 불일치는 인적자본을 낭비한다. 따라서 한국의 반도체·AI 계획은 주택에서 산업으로의 자본 재배치뿐 아니라 노동 시스템 재설계도 필요로 한다.

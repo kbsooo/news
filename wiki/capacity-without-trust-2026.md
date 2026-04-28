@@ -10,8 +10,12 @@ sources:
   - raw/leaders/260423-pomp-and-pageantry-wont-save-britains-alliance-with-america.md
   - raw/middle-east-and-africa/260423-abiy-ahmed-is-throttling-free-expression-in-ethiopia.md
   - raw/united-states/260423-artificial-intelligence-is-creeping-into-american-lawmaking.md
-updated: 2026-04-25
-tags: [synthesis, governance, trust, state-capacity, democracy, sovereignty]
+  - raw/business/260422-paper-leviathan.md
+  - raw/united-states/260423-lexington.md
+  - raw/united-states/260427-sow-bad.md
+  - raw/asia/260427-silver-lining.md
+updated: 2026-04-28
+tags: [synthesis, governance, trust, state-capacity, democracy, sovereignty, labour, agriculture]
 ---
 
 # Capacity Without Trust (2026)
@@ -19,6 +23,8 @@ tags: [synthesis, governance, trust, state-capacity, democracy, sovereignty]
 ## Core Insight
 
 The April 23 second batch is about a world racing to add **capacity** while losing **trust**. States, parties and institutions are trying to become more capable: Pakistan brokers Iran diplomacy, Japan loosens arms exports, Europe seeks economic sovereignty, the World Bank accepts industrial-policy reality, American legislators use AI, Britain tries to salvage alliance leverage. But the institutional trust that makes capacity legitimate is decaying at the same time: Pakistan's gain runs through military rule, US election trust is collapsing, Ethiopia is abducting journalists, Europe is dependent on foreign platforms, and AI-generated law threatens to outpace legal review.
+
+The April 28 additions sharpen the same pattern inside domestic political economy. America talks like a state-capitalist power but cannot reliably command prices or firms; Congress loses pragmatic senators just as institutional checks matter more; farmers absorb Trump-created shocks while still trusting him; East Asia needs older workers but its labour institutions waste their human capital.
 
 ## Pattern Map
 
@@ -32,6 +38,10 @@ The April 23 second batch is about a world racing to add **capacity** while losi
 | [[ethiopia]] | State control over election/media environment | Reformist credibility collapses; journalists disappear |
 | [[ai-in-lawmaking]] | Legislative research and drafting capacity | Human judgment, legal accuracy and review capacity become uncertain |
 | Britain-US alliance | Intelligence, defence tech and European rapprochement as leverage | "Special relationship" no longer assumed durable |
+| [[us-state-capitalism-2026]] | Stakes, subsidies, bullying and selective industrial policy | Markets and firms do not believe the state can sustain commands |
+| [[us-congress-pragmatism-collapse]] | A few senators still defend process and institutional checks | Primary electorates punish compromise and independence |
+| [[us-farmers-trade-war-2026]] | Subsidies protect an exposed rural base | Policy damage is converted into fiscal relief rather than accountability |
+| [[east-asian-ageing-labour]] | Older workers extend demographic capacity | Pension and seniority systems fail to make work dignified or efficient |
 
 ## Causal Chain
 
@@ -70,6 +80,8 @@ The usual state-capacity story says competent institutions solve problems. This 
 
 4월 23일 두 번째 묶음은 **역량**을 늘리기 위해 질주하면서 **신뢰**를 잃는 세계에 관한 것이다. 국가, 정당, 제도는 더 유능해지려 한다: 파키스탄은 이란 외교를 중재하고, 일본은 무기 수출을 완화하며, 유럽은 경제 주권을 찾고, 세계은행은 산업정책 현실을 받아들이며, 미국 의원들은 AI를 사용하고, 영국은 동맹 레버리지를 되살리려 한다. 그러나 그 역량을 정당하게 만드는 제도적 신뢰는 동시에 약화된다: 파키스탄의 성과는 군부 통치를 통해 흐르고, 미국 선거 신뢰는 붕괴 중이며, 에티오피아는 언론인을 납치하고, 유럽은 외국 플랫폼에 의존하며, AI 생성 법은 법적 검토 속도를 앞지를 위험이 있다.
 
+4월 28일 추가 기사들은 같은 패턴을 국내 정치경제 내부에서 더 선명하게 만든다. 미국은 국가자본주의 강국처럼 말하지만 가격이나 기업을 안정적으로 명령하지 못한다; 제도적 견제가 더 중요해지는 순간 의회는 실용적 상원의원을 잃는다; 농민들은 트럼프가 만든 충격을 흡수하면서도 그를 신뢰한다; 동아시아는 고령 노동자가 필요하지만 노동 제도는 그들의 인적자본을 낭비한다.
+
 ## 패턴 지도
 
 | 기사 | 추가되는 역량 | 잃어가는 신뢰 |
@@ -82,6 +94,10 @@ The usual state-capacity story says competent institutions solve problems. This 
 | [[ethiopia]] | 선거·미디어 환경에 대한 국가 통제 | 개혁가 신뢰 붕괴; 언론인 실종 |
 | [[ai-in-lawmaking]] | 입법 연구·작성 역량 | 인간 판단, 법적 정확성, 검토 역량 불확실 |
 | 영국-미국 동맹 | 정보, 방위기술, 유럽 접근을 레버리지로 활용 | "특수관계"의 지속성을 더 이상 가정할 수 없음 |
+| [[us-state-capitalism-2026]] | 지분, 보조금, 괴롭힘, 선택적 산업정책 | 시장과 기업은 국가 명령이 지속될 것이라 믿지 않음 |
+| [[us-congress-pragmatism-collapse]] | 일부 상원의원은 여전히 절차와 제도적 견제를 방어 | 경선 유권자는 타협과 독립성을 처벌 |
+| [[us-farmers-trade-war-2026]] | 보조금이 노출된 농촌 기반을 보호 | 정책 피해가 책임 추궁이 아니라 재정 구제로 전환 |
+| [[east-asian-ageing-labour]] | 고령 노동자가 인구 역량을 연장 | 연금·연공서열 시스템이 일을 존엄하거나 효율적으로 만들지 못함 |
 
 ## 인과 사슬
 
