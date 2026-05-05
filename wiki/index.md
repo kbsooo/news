@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + stalled stablecoins + Chinamaxxing + Congress pragmatism collapse + Trump crypto conflicts + farm trade-energy squeeze)
+updated: 2026-05-05 (May 5 batch: Ukraine operational-depth drone advantage + stranded seafarer human layer in Hormuz crisis)
 ---
 
 # Wiki Index
@@ -12,7 +12,7 @@ updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + st
 - [[donald-trump]] — War's biggest loser: blockade/ceasefire whiplash, deportation machine, Fed trap, state-capitalism limits, crypto conflicts, farm pain
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: UAE as hidden throughline (Iran/Sudan/China), pipeline alternatives needed
-- [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21
+- [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21, stranded Asian seafarer layer noted May 5
 - [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, UAE $3.5bn pullback, Nobel nomination for Trump
 - [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox, statistical-system repair under Saurabh Garg
 - [[kolkata]] — India's most liveable megacity, but that's a symptom of stagnation; Mamata 4th term bid; 23m pop
@@ -23,7 +23,7 @@ updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + st
 - [[viktor-orban]] — 16-year PM defeated, illiberal democracy eroded, Russia-aid reports, blow to MAGA
 - [[federal-reserve]] — Caught between Trump's demand for cuts and 3.3% inflation; Warsh path clearer after DOJ climbdown but Fed majority still blocks takeover
 - [[kevin-warsh]] — Trump's Fed chair pick: AI-justifies-cuts argument weak; "regime change" mostly policy tweaks constrained by Board/FOMC votes
-- [[ukraine]] — Drone-defense expertise exported to Gulf (228 advisers, 10-year partnerships), "plan B for countries who had America as plan A"
+- [[ukraine]] — Drone-defense expertise exported to Gulf; May 5 update: operational-depth drone advantage hitting Russian logistics/radars/fuel/air defence 30-200km behind front
 - [[jd-vance]] — VP, chief MAGA ideologist; Iraq-war isolationist turned Iran negotiator; "graveyard for grand strategies"
 - [[venezuela]] — Maduro captured 1/3, Delcy Rodríguez running country to Trump's liking; Trump misreading it as model for Iran
 - [[united-arab-emirates]] — **NEW** Hidden superpower: RSF patron (gold→Dubai, Ethiopia training camp, Colombian mercenaries) + Iran war victim (50+ missiles) + $5trn SWF anchor; Iran war strengthens its Sudan posture
@@ -78,6 +78,7 @@ updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + st
 - [[yuan-internationalization-2026]] — **NEW** CIPS +35% daily volume (Apr 2 peak 1.2trn yuan); yuan = 56% of China's intl transactions; Iran Hormuz tolls yuan-denominated; mBridge 7-10s settlement; Portugal first euro-area dim-sum; "comfort currency" not "powerful"
 - [[renewables-acceleration-2026]] — **NEW** 2025 renewables 34% > coal 33% (first in century); solar +30% YoY; IEA + Ember reports landing in Asian finance ministries post-Hormuz; Germany €25bn gas-savings precedent
 - [[ukraine-middle-power-diplomacy-2026]] — **NEW** Zelensky to Damascus via Turkey (Apr 5); Baykar Kyiv drone factory; phosphate-for-wheat barter; "step into Russia's fading footprint"; explicit claim to co-architect EU security
+- [[drone-war-operational-depth-2026]] — **NEW** Ukraine's drone edge moves from defence/export story to operational-depth warfare: $5k drones hitting logistics, radars, fuel, depots and aircraft 30-200km behind Russian lines
 - [[european-economic-sovereignty]] — **NEW** Europe regulated itself into platform/payments/energy dependence; Britain special relationship worst since Suez
 - [[industrial-policy-for-development]] — **NEW** World Bank shifts from anti-intervention scolding to damage-control realism; public inputs > market incentives
 - [[ai-in-lawmaking]] — **NEW** US state legislators use AI to research/draft bills; capacity gain vs hallucinated law and outsourced judgment
@@ -105,7 +106,7 @@ updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + st
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (158)
+## Sources Ingested (160)
 
 | Date | Source | Category |
 |------|--------|----------|
@@ -267,3 +268,5 @@ updated: 2026-04-28 (Apr 28 batch: ageing labour + weak US state capitalism + st
 | 2026-04-23 | Why Congress keeps getting dumber (Lexington) | United States |
 | 2026-04-24 | Justin Sun sues Trump-affiliated crypto project | United States |
 | 2026-04-27 | Donald Trump is crushing America's farmers | United States |
+| 2026-05-05 | Asia's stranded seafarers suffer as the Iran war drags on | Asia |
+| 2026-05-05 | The War Room: Is Russia being out-droned? | Europe |

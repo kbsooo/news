@@ -16,7 +16,8 @@ sources:
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
   - raw/asia/260423-indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait.md
   - raw/finance-and-economics/260423-xi-jinping-wants-a-powerful-currency.md
-updated: 2026-04-24
+  - raw/asia/260505-choppy-waters.md
+updated: 2026-05-05
 tags: [geography, shipping, oil, chokepoint]
 ---
 
@@ -163,6 +164,10 @@ Backlog could theoretically clear in a week, but captains won't risk it until sa
 **Restocking problem**: Ship owners unlikely to send vessels *into* the Gulf while ceasefire is fragile — may end up trapped if talks collapse. LNG carriers (most valuable) may dodge this risk entirely. "I don't see anybody bringing ships inside the Gulf right now" (Anne-Sophie Corbeau, Columbia University).
 
 Even after departure, Asia-bound vessels take **3+ weeks**; Europe faces **4-6 week** wait for diesel/jet fuel.
+
+### May 5 limited-capture note: stranded Asian seafarers
+
+The May 5 Asia item was captured only as a header/RSS entry, not full article text, so this wiki should not infer details beyond the preserved metadata. Its headline still matters: *Asia's stranded seafarers suffer as the Iran war drags on*. It reinforces that the Hormuz crisis is not only an energy-price and legal-order story. The 715-vessel backlog also has a human layer: mariners are trapped in a more dangerous maritime environment while states bargain over tolls, mines, convoy routes and blockade legitimacy.
 
 ## The Malacca Precedent Debate — Singapore vs Malaysia
 
@@ -315,6 +320,10 @@ The strait is the world's most important oil chokepoint. Iran's ability to hold 
 **재입항 문제**: 휴전이 불안정한 상황에서 선주들은 선박을 걸프만 *안으로* 보내려 하지 않을 것이다 — 협상이 결렬될 경우 갇힐 수 있기 때문이다. LNG 운반선(가장 고가)은 이 위험을 완전히 회피할 가능성이 높다. "지금 당장 걸프만 안으로 선박을 들여보내는 사람은 없을 것이다" (Anne-Sophie Corbeau, 컬럼비아대학교).
 
 출항 이후에도 아시아행 선박은 **3주 이상**, 유럽은 디젤/항공유 도착까지 **4~6주**가 소요된다.
+
+### 5월 5일 제한 캡처 메모: 발 묶인 아시아 선원들
+
+5월 5일 아시아 기사는 전문이 아니라 제목/RSS 항목만 캡처되었으므로, 이 위키는 보존된 메타데이터 이상의 세부사항을 추론하지 않는다. 그래도 제목은 중요하다: *이란 전쟁이 길어지며 아시아의 발 묶인 선원들이 고통받고 있다*. 이는 호르무즈 위기가 에너지 가격과 법질서 문제에 그치지 않음을 강화한다. 715척 선박 적체에는 인간적 층위도 있다: 국가들이 통행료, 기뢰, 호송 경로, 봉쇄 정당성을 두고 협상하는 동안 선원들은 더 위험해진 해양 환경에 갇힌다.
 
 ## 말라카 선례 논쟁 — 싱가포르 vs 말레이시아
 

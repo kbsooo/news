@@ -5,7 +5,8 @@ sources:
   - raw/europe/260413-a-friend-in-need.md
   - raw/europe/260423-ukraines-quest-for-new-friends.md
   - raw/leaders/260422-how-to-bolster-the-arsenal-of-democracy.md
-updated: 2026-04-24
+  - raw/europe/260505-the-war-room-newsletter-is-russia-being-out-droned.md
+updated: 2026-05-05
 tags: [europe, military, defence, ukraine, drones, turkey, syria]
 ---
 
@@ -135,6 +136,18 @@ Claim: **co-architect European security**, not request protection.
 
 Europe is catching up — but the article notes: Germany's €100bn special defence fund **goes almost entirely to traditional kit**; UK reviewers argued F-35 (20 years old) should count as "novel technology"; **Skycutter** (British drone firm) won Pentagon contract but may leave UK for lack of domestic orders. Europe's problem is structural, not intentional.
 
+## May 2026 Update: Operational-Depth Drone Advantage
+
+See [[drone-war-operational-depth-2026]] for the full frame.
+
+The War Room newsletter adds that Ukraine's drone edge is not only defensive or exportable. Ukrainian forces are now using drones and anti-drone systems to attack Russian **operational depth**: logistics, radars, air defence, ammunition stores, fuel depots and aircraft **30-200km behind the front line**.
+
+Key details:
+- Russia launched almost **7,000 drones and missiles** at Ukraine overnight in April, a record bombardment month.
+- Ukraine now strikes Russian targets nightly at **80-120km** depth and can routinely hit **30-150km** targets with roughly **$5,000** drones.
+- Russian depots are moving farther back, fuel consumption is being reduced, and convoy sizes in Donetsk are reportedly limited to **two trucks**.
+- The important claim is doctrinal: drones do not merely freeze manoeuvre; when integrated with reconnaissance, software and strike allocation, they may reopen local manoeuvre before Russia's own interceptor system matures late in 2026.
+
 ## See Also
 - [[european-defence-industry]]
 - [[gulf-states]]
@@ -144,6 +157,7 @@ Europe is catching up — but the article notes: Germany's €100bn special defe
 - [[strait-of-hormuz]]
 - [[china]]
 - [[ukraine-middle-power-diplomacy-2026]]
+- [[drone-war-operational-depth-2026]]
 - [[iran-war-as-system-accelerator-2026]]
 - [[nato-and-transatlantic-crisis]]
 
@@ -232,3 +246,15 @@ Europe is catching up — but the article notes: Germany's €100bn special defe
 ## 전략적 재구성
 
 이란 전쟁 이전, 우크라이나의 외교 카드는 도덕적이었다: 러시아 침공에 맞선 연대. 2026년 3–4월 이후, 거기에 **거래 카드**가 추가되었다 — 걸프 왕실, 유럽 관저, 그리고 (언젠가는) 꺼려하는 백악관조차 무시할 수 없는 실질적 안보 가치다. 우크라이나 방산 기업들은 러시아와의 전쟁이 수그러들 경우 규모 유지를 위해 **수출** 확대가 불가피하다.
+
+## 2026년 5월 업데이트: 작전종심 드론 우위
+
+전체 프레임은 [[drone-war-operational-depth-2026|드론전과 작전종심]] 참조.
+
+War Room 뉴스레터는 우크라이나의 드론 우위가 방어적이거나 수출 가능한 것에 그치지 않음을 덧붙인다. 우크라이나군은 이제 드론과 대드론 체계를 이용해 러시아의 **작전종심**을 공격한다: 전선 후방 **30-200km**의 물류, 레이더, 방공, 탄약고, 연료 저장소, 항공기다.
+
+핵심 세부사항:
+- 러시아는 4월에 우크라이나를 향해 거의 **7,000대의 드론과 미사일**을 야간 발사했다. 월간 기록이다.
+- 우크라이나는 이제 매일 밤 러시아 표적을 **80-120km** 깊이에서 타격하며, 약 **5,000달러**짜리 드론으로 **30-150km** 표적을 일상적으로 때릴 수 있다.
+- 러시아 저장고는 더 후방으로 이동하고, 연료 소비는 줄며, 도네츠크 지역 차량대 규모는 **트럭 두 대**로 제한된다고 한다.
+- 중요한 주장은 교리적이다: 드론은 기동을 얼리기만 하는 것이 아니라, 정찰·소프트웨어·타격 배분과 통합될 때 러시아의 자체 요격 체계가 2026년 말 성숙하기 전 국지 기동을 다시 열 수도 있다.

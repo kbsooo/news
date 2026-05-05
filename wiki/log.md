@@ -640,3 +640,20 @@ Key insight: This batch moves the wiki's "capacity without trust" frame from geo
 - **Trust without accountability**: Rural voters and some business actors still adapt around Trump rather than defecting from him, converting policy failure into clientelistic relief or compliance.
 - **Capacity bottleneck is institutional**: East Asian ageing labour, US congressional pragmatism and stablecoin payments all show that raw capacity is not enough; systems fail when matching, verification or legitimacy mechanisms lag.
 - **China's softer asymmetry**: Chinamaxxing is minor next to exports/yuan/satellites, but it reinforces the broader China pattern: foreign attention, commerce and state messaging can be braided into advantage.
+
+## [2026-05-05] ingest | May 5 batch — Ukraine drone depth + stranded seafarers
+Sources:
+- `raw/europe/260505-the-war-room-newsletter-is-russia-being-out-droned.md`
+- `raw/asia/260505-choppy-waters.md` (limited capture: title/RSS only, no full text archived)
+
+Created: [[drone-war-operational-depth-2026]]
+
+Updated: [[ukraine]], [[european-defence-industry]], [[russia-war-home-front]], [[strait-of-hormuz]], `wiki/index.md`
+
+Key insight: Ukraine's drone advantage is no longer just a defensive/export capability. It is now described as an operational-depth system hitting Russian logistics, radars, air defence, fuel depots and aircraft 30-200km behind the front, potentially reopening bounded manoeuvre before Russia's own interceptor network matures. The seafarer item was only partially captured, but it usefully marks the human layer of the Hormuz backlog.
+
+## [2026-05-05] note | Cross-source connections (May 5 batch)
+- **Drone advantage becomes operational, not just technological**: The decisive piece is not cheap drones alone, but reconnaissance + software + target allocation + strike discipline.
+- **Russia stress appears in routines before maps**: Depot relocation, fuel limits and two-truck convoys rhyme with Nikolsk's school-budget conflict: capacity erosion shows up first in mundane administrative/logistical constraints.
+- **European defence's real bottleneck is tempo**: The article reinforces that Europe must learn Ukraine's iteration cycle, not merely fund more legacy procurement.
+- **Hormuz has a human layer**: The stranded-seafarer headline links the legal/energy chokepoint story to mariners trapped inside the backlog; the source is limited, so this remains a flagged angle rather than a full page.

@@ -8,7 +8,8 @@ sources:
   - raw/europe/260413-a-friend-in-need.md
   - raw/europe/260422-can-the-bundeswehr-fight.md
   - raw/asia/260423-why-japan-is-loosening-restrictions-on-exports-of-lethal-arms.md
-updated: 2026-04-25
+  - raw/europe/260505-the-war-room-newsletter-is-russia-being-out-droned.md
+updated: 2026-05-05
 tags: [defence, europe, arms, ukraine, industry, japan]
 ---
 
@@ -89,12 +90,19 @@ European MoDs and legacy primes may not be culturally ready for what Ukraine off
 - Context that sharpened the embarrassment: Rheinmetall's own **Skyranger** anti-drone system (ordered by the Bundeswehr) is **16+ months behind schedule** (firm says less)
 - The episode crystallised the anxiety inside European primes about being **outflanked by Ukrainian startups** on cost and iteration speed
 
+## May 2026: Iteration Speed Becomes Operational Effect
+
+The War Room drone update deepens the procurement lesson. Ukraine's edge is not just cheap hardware; it is the cycle of detection, software display, target allocation and rapid strike. Ukrainian forces are now hitting Russian logistics, radars, air-defence systems, fuel depots and helicopters at **30-200km** depth, using drones that can cost around **$5,000**.
+
+That puts pressure on European defence ministries to buy systems that can evolve in weeks, not programmes that mature over decades. If Russia's interceptor-drone network improves by the end of 2026, the advantage will shift again. Procurement tempo is therefore not administrative detail; it is combat power.
+
 ## See Also
 - [[nato-and-transatlantic-crisis]]
 - [[iran-war-and-ceasefire-2026]]
 - [[gulf-states]]
 - [[great-power-rivalry]]
 - [[ukraine]]
+- [[drone-war-operational-depth-2026]]
 
 ---
 
@@ -166,3 +174,9 @@ European MoDs and legacy primes may not be culturally ready for what Ukraine off
 - 파퍼거의 발언은 가공할 경쟁자에 대한 잘못된 마케팅 시도였을 가능성
 - 망신을 한층 뼈아프게 만든 배경: 라인메탈 자체의 **Skyranger** 대드론 시스템(독일연방군 발주)이 **16개월 이상 일정 지연** 중(회사 측은 그보다 짧다고 주장)
 - 이 사건은 비용과 반복 속도에서 **우크라이나 스타트업에 측면을 찔릴** 것이라는 유럽 대형 방산업체 내부의 불안을 응축해서 드러냈다
+
+## 2026년 5월: 반복 속도가 작전 효과가 되다
+
+War Room의 드론 업데이트는 조달의 교훈을 더 깊게 만든다. 우크라이나의 우위는 단순한 저가 하드웨어가 아니라 탐지, 소프트웨어 표시, 표적 배분, 신속 타격의 순환이다. 우크라이나군은 이제 약 **5,000달러**짜리 드론으로 러시아 물류, 레이더, 방공 체계, 연료 저장소, 헬기를 **30-200km** 깊이에서 타격하고 있다.
+
+이는 유럽 국방부에 수십 년짜리 프로그램이 아니라 몇 주 단위로 진화할 수 있는 체계를 사라는 압박을 건다. 러시아의 드론 요격망이 2026년 말 개선된다면 우위는 다시 이동할 수 있다. 따라서 조달 속도는 행정 세부사항이 아니라 전투력이다.

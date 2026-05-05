@@ -3,7 +3,8 @@ title: Russia's War Home Front — Rural Austerity, Openly Blamed on Ukraine
 type: concept
 sources:
   - raw/europe/260420-as-russia-looks-to-slash-budgets-a-village-fights-to-survive.md
-updated: 2026-04-22
+  - raw/europe/260505-the-war-room-newsletter-is-russia-being-out-droned.md
+updated: 2026-05-05
 tags: [russia, ukraine, domestic-politics, austerity, propaganda-crack]
 ---
 
@@ -76,6 +77,12 @@ The [[ukraine]] war has been depicted externally as limited in domestic cost to 
 - Infrastructure of social cohesion (schools) is being **cannibalized for military spending**
 
 If this pattern is representative (not a one-off), Russia's domestic capacity to sustain a long war is weaker than the macro indicators suggest.
+
+## May 2026: Operational Stress Behind the Front
+
+The War Room drone update adds a military-side parallel to the local-budget story. Ukraine's strikes at **30-200km** depth are forcing Russian depots farther back, reducing fuel consumption and limiting convoy size in Donetsk to **two trucks**. That does not prove collapse, but it shows another place where the war is becoming a systems problem rather than a map problem.
+
+If front-line commanders must satisfy political demands while logistics and fuel become more constrained, the local-government pattern above and the operational-depth pattern reinforce each other: Russian capacity may be eroding first in mundane administrative and logistical routines, before it appears as dramatic territorial loss.
 
 ## See Also
 - [[ukraine]]
@@ -153,6 +160,13 @@ If this pattern is representative (not a one-off), Russia's domestic capacity to
 
 이 패턴이 대표적이라면(일회성이 아니라면), 러시아가 장기전을 유지할 국내 역량은 거시 지표가 시사하는 것보다 약함.
 
+## 2026년 5월: 전선 후방의 작전 압박
+
+War Room 드론 업데이트는 지방 예산 이야기와 병렬되는 군사 측면을 추가한다. 우크라이나의 **30-200km** 종심 타격은 러시아 저장고를 더 후방으로 밀어내고, 연료 소비를 줄이며, 도네츠크 지역 차량대 규모를 **트럭 두 대**로 제한하게 만들고 있다. 이것이 붕괴를 증명하지는 않지만, 전쟁이 지도 문제가 아니라 체계 문제가 되는 또 다른 지점을 보여준다.
+
+전선 지휘관들이 정치적 요구를 만족시켜야 하는 동시에 물류와 연료가 더 제약된다면, 위의 지방정부 패턴과 작전종심 패턴은 서로를 강화한다. 러시아 역량은 극적인 영토 상실보다 먼저, 평범한 행정·물류 루틴에서 침식될 수 있다.
+
 ## See Also
 - [[ukraine]]
+- [[drone-war-operational-depth-2026]]
 - [[great-power-rivalry]]
