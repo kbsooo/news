@@ -1,0 +1,31 @@
+# Despite Donald Trump's talk, a lasting peace is some way off
+
+Iran is now targeting the UAE
+
+After a dramatic few days the Gulf war seems stuck once again. Donald Trump announced, with great fanfare, a scheme to guide merchant ships through the stopped-up Strait of Hormuz, only to suspend it two days later. Iran broke the ceasefire by attacking the United Arab Emirates (UAE), one of America's closest allies in the region, only for America to dismiss the attack as trivial. Now Mr Trump is once again playing up the prospect of an imminent diplomatic breakthrough.
+
+The short-lived "Project Freedom", as Mr Trump called it, was born out of frustration. More than three weeks have passed since America announced a blockade of Iran's ports, choking off its oil exports. The results have been less catastrophic for Iran than Mr Trump had hoped. On April 26th, for example, he predicted that Iran's clogged oil facilities would "explode" within three days. That deadline, like so many, came and went.
+
+The blockade is nonetheless hurting Iran, which has already had to trim oil production and press derelict tankers into service as floating storage. Its economy is a mess. But America has not achieved its goal of compelling Iran to make major concessions to get a deal, nor is it likely to do so soon.
+
+Hence the effort to break the deadlock in the strait. American destroyers did manage to escort two US-flagged ships through Hormuz on May 4th. But the "project" was never likely to help the hundreds of others still stuck. Shippers still see transiting the strait as an intolerable risk—particularly after Iranian attacks this week that hit a tanker owned by the UAE's national oil company and a South Korean vessel.
+
+What it did do was offer Iran a pretext to resume attacks on its neighbours. Iran fired at least 19 missiles and drones at the UAE on May 4th, the first such strikes since shortly after the ceasefire was called on April 8th. The drones caused a fire at the oil terminal in Fujairah, the UAE's only major port outside the Persian Gulf and thus its only wartime outlet for crude exports. The Emiratis were understandably furious, and many officials in the Gulf assumed America would retaliate. Instead it played down the attacks. Mr Trump soon said that he was suspending "Project Freedom", ostensibly at the behest of Pakistan, which is mediating between America and Iran.
+
+The president claimed "great progress" towards an agreement to end the war. That is almost certainly an exaggeration. At best the two sides seem to be closing in on a rough framework for further talks. They would lift their blockades of Hormuz over a 30-day period, which they would use to negotiate over Iran's nuclear programme, its demand for sanctions relief and other issues. There is no guarantee those talks would succeed, however, and the fear of failure—and further war—would probably continue to impede the flow of oil, gas and other commodities.
+
+Many Gulf-watchers were struck that Iran singled out the UAE in this week's attacks; earlier in this war it attacked all six members of the Gulf Co-operation Council (GCC). Iran probably had two motives: treating the UAE as a proxy for Israel, and trying to deepen its divide with its neighbours, particularly the Saudis.
+
+The UAE established formal diplomatic ties with Israel in 2020, the first of four Arab countries to do so under the Abraham accords. The move was part of a broader effort to define a foreign policy independent of the Saudi-dominated GCC. While other Gulf countries all have discreet relations with Israel, only Bahrain and the UAE have joined the accords. The devastating campaign Israel has fought in Gaza since October 2023 has made it difficult for Arab regimes to bring such relationships into the open. The UAE is the only one that has publicly doubled down on its alliance.
+
+It had already fielded Israeli missile-defence systems before the war started on February 28th. Once Iranian missiles and drones began flying, Israel rushed an Iron Dome battery—manned by Israelis—as well as advanced sensors and laser systems, some still prototypes, to bolster Emirati defences. One Israeli defence official called the level of co-operation "unprecedented". The relationship goes beyond defence. In recent years the UAE has embarked on a series of bilateral economic "partnership agreements". The first was signed with India; the second with Israel.
+
+The two countries have a similar worldview. With the weakening of Iran's network of proxies and client states, they are concerned that a new axis dominated by Turkey will increase its power in the region, particularly in Iraq, Lebanon and Syria, where Iran previously held sway. "The Emiratis have made a strategic choice," says one Israeli diplomat who has been posted in the Gulf. "From their perspective, Israel is part of their security plans, but also the business and diplomatic ones."
+
+Meanwhile, the Emiratis are increasingly estranged from Saudi Arabia. Their decision to leave the Organisation of the Petroleum Exporting Countries (OPEC) on May 1st was prompted partly by commercial concerns: they want to pump far more oil than the cartel allows them to. But after months of bitter dispute over foreign policy in Sudan, Yemen and elsewhere, it was widely seen as a swipe at the Saudis.
+
+Some state-backed commentators in the UAE also speak of abandoning the GCC and the Arab League. The latter would be purely symbolic, since the league is a useless talking-shop. Ditching the GCC would matter more: the bloc offers free movement for goods and people. Even if the council holds together, the Saudi-Emirati schism leaves it politically paralysed.
+
+To Iran, all of this may look like a fissure worth exploiting. The Saudis were once keen for Mr Trump to continue the war, but they have taken a doveish turn since the ceasefire. Fearful of further attacks on their oilfields (or worse), they are urging America not to resume fighting, even as they fret about what sort of diplomatic arrangement it might reach with Iran. By focusing its attacks on the UAE, Iran creates tension between the Emirati desire for retaliation and the Saudi wish for calm.
+
+That tension may subside if America and Iran do reach an initial understanding. Still, more than two months into the war, a lasting peace looks far off. ■

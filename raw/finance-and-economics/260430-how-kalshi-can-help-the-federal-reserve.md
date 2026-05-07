@@ -1,0 +1,17 @@
+# How Kalshi can help the Federal Reserve
+
+In odds we trust — prediction markets may be a win for central banking
+
+Americans love a flutter. Trading volumes on Kalshi and Polymarket, their favourite peer-to-peer bookies, surpassed $50bn last year, up from $16bn the year before. Most of the bets concern sports. But punters also place wagers on everything from actual weather to the political climate and, to economists' delight, economic conditions. Bets on things like official GDP growth, payrolls and inflation still account for just 1-2% of trading on the two platforms. However, they are now large enough to attract one giant whale—the Federal Reserve.
+
+To be sure, the Fed is not playing the odds itself. It is, though, beginning to pay close attention to those being played by others. In a recent paper Anthony Diercks of the Fed and two colleagues assessed whether Kalshi could complement the sundry data, from surveys, financial markets, internal economic models and so on, already at the central bank's disposal. They conclude that for the Fed, prediction markets look like a dead cert.
+
+The authors start out by examining the accuracy of Kalshi predictions. They find that the prediction market outperforms conventional instruments such as futures and options contracts at forecasting where the Fed's benchmark interest rate will land in a given month. Kalshi odds frequently offered a more accurate range of plausible outcomes than those instruments.
+
+In other cases, such as estimates of GDP growth or unemployment, market-based alternatives simply do not exist. Surveys that try to capture expectations about such indicators, including those conducted by the Fed, take weeks or more to compile. By the time they are ready for release, they may be out of date. Mr Diercks and his co-authors point out that Kalshi probabilities have the advantage of being always available and constantly updated. Better yet, they appear as good as analysts' consensus forecasts compiled by Bloomberg, a data provider, for unemployment and core inflation (which excludes volatile food and energy prices). For headline inflation, they again look better.
+
+Kalshi is not infallible. Probabilities implied by related contracts, such as about growth expectations and the likelihood of recession, can be out of step. Despite the surge in activity, trading often remains so thin that even modest wagers of $500 can move prices. As more professional traders move onto the platform, liquidity will rise but so could correlation with professional forecasts. Already some Kalshi odds seem to disproportionately track the more up-to-date GDPNow estimates produced by the Fed's Atlanta branch.
+
+None of this is likely to dissuade the Fed from closer Kalshi-watching. The incoming chair, Kevin Warsh, is a fan of real-time economic indicators and a critic of "breathlessly awaiting trailing data from stale national accounts", which he has likened to "evidence of false precision and analytic complacency". Although he does not appear to have publicly endorsed prediction markets by name as an alternative data source, it is hard to imagine that he would not welcome the rate-setting committee considering them in their decisions.
+
+Mr Diercks and his co-authors are eager to make that happen. The trio are, "subject to approval", building a website to make data on individual Kalshi contracts easier to download, interpret and use. The odds that they will get the nod from Mr Warsh are short. Any takers? ■

@@ -1,9 +1,93 @@
 ---
 title: Log
-updated: 2026-04-27 (Apr 26 batch: Apple succession, India statistics, San Francisco AI, Warsh/Fed, Trump dinner gunman)
+updated: 2026-05-07 (May 7 batch: scarcity becomes governance)
 ---
 
 # Wiki Log
+
+## [2026-05-07] ingest | 56 Economist articles (Apr 27-May 7 batch) — scarcity becomes governance
+
+**Sources (56)**:
+- `raw/asia/260430-climate-change-is-forcing-vanuatu-to-confront-an-unthinkable-future.md` — Vanuatu climate displacement and limits of legal remedies
+- `raw/asia/260430-is-vietnams-latest-railway-ambition-worthwhile.md` — Vietnam high-speed rail ambition and financing doubts
+- `raw/asia/260504-saffron-march.md` — BJP landslide in West Bengal and wider anti-incumbent pattern
+- `raw/asia/260506-red-sky-in-the-morning.md` — US/allied deterrence exercises near Taiwan weather window
+- `raw/asia/260507-the-energy-shock-triggers-an-asian-dash-for-biofuels.md` — Asian biofuel substitution under Hormuz shock
+- `raw/briefing/260430-nothing-in-the-tank.md` — oil-market crisis and rationing arithmetic
+- `raw/business/260427-the-ai-rush-is-hitting-a-bottleneck.md` — AI token and infrastructure bottlenecks
+- `raw/business/260428-why-deepseeks-sequel-failed-to-impress.md` — DeepSeek V4 under Chinese chip constraints
+- `raw/business/260429-spacex-openai-and-anthropic-are-already-public-companies.md` — private AI/space giants already priced through public proxies
+- `raw/business/260429-swashbuckling-oil-services-firms-are-preparing-for-a-boom.md` — oil-services firms benefit from replacement supply
+- `raw/business/260430-ai-and-the-danger-of-cognitive-surrender.md` — AI dependence and judgment erosion
+- `raw/business/260430-elon-musk-and-sam-altman-bring-their-rivalry-to-court.md` — Musk/Altman rivalry enters litigation
+- `raw/business/260503-red-lights.md` — global carmakers try to learn from Chinese EV firms
+- `raw/business/260506-only-one-of-berkshire-hathaway-and-softbank-can-survive.md` — Berkshire/SoftBank as opposite capitalism bets
+- `raw/china/260430-cai-qi-may-be-chinas-second-most-powerful-man.md` — Cai Qi and Xi-era court politics
+- `raw/china/260430-hong-kong-is-a-conduit-for-looted-chinese-antiquities.md` — Hong Kong antiquities laundering channel
+- `raw/china/260504-chaguan.md` — China sees America as declining but still dangerous
+- `raw/europe/260428-how-to-protect-france-from-an-orban-style-takeover.md` — safeguards against RN/Orban-style capture
+- `raw/europe/260429-europes-unpopular-leaders-are-paralysing-the-eu.md` — weak leaders block EU urgency
+- `raw/europe/260503-kinsley-gaffe.md` — Merz-Trump clash
+- `raw/europe/260506-the-off-chancellor.md` — Merz leadership crisis
+- `raw/finance-and-economics/260428-a-global-fight-over-banking-rules-is-just-getting-started.md` — Basel capital-rule fraying
+- `raw/finance-and-economics/260430-can-countries-grow-richer-by-exporting-people-not-goods.md` — labour exports/remittance development model
+- `raw/finance-and-economics/260430-how-kalshi-can-help-the-federal-reserve.md` — prediction markets as Fed inputs
+- `raw/finance-and-economics/260430-indias-weak-currency-reflects-deeper-problems-than-the-iran-war.md` — rupee weakness beyond oil shock
+- `raw/finance-and-economics/260504-disfigured.md` — bad statistics impose economic costs
+- `raw/finance-and-economics/260504-simplify-and-integrate.md` — EU simplification push
+- `raw/finance-and-economics/260505-can-bill-ackman-save-the-closed-end-fund.md` — closed-end fund governance
+- `raw/finance-and-economics/260507-the-myth-of-the-petrodollar.md` — dollar dominance beyond oil pricing
+- `raw/leaders/260429-how-kevin-warsh-could-save-the-federal-reserve.md` — Warsh reform case for the Fed
+- `raw/leaders/260430-how-to-capitalise-on-londons-thriving-financial-industry.md` — London's finance opportunity
+- `raw/leaders/260430-is-samia-suluhu-hassan-africas-most-disappointing-president.md` — Tanzania democratic disappointment
+- `raw/leaders/260430-oil-markets-are-still-in-la-la-land.md` — oil markets underpricing physical disruption
+- `raw/leaders/260430-the-ai-supply-crunch-is-here.md` — AI compute scarcity reshapes economics
+- `raw/leaders/260430-the-uae-doubles-down-on-israel-and-america.md` — UAE alignment with Israel and America
+- `raw/leaders/260430-time-to-edit-some-biological-metaphors.md` — biological metaphors and public science language
+- `raw/leaders/260505-to-fight-antisemitism-first-grasp-where-it-comes-from.md` — antisemitism sources and diagnosis
+- `raw/leaders/260507-europe-is-unshackling-business-but-not-enough.md` — Europe deregulation and integration agenda
+- `raw/leaders/260507-narendra-modis-party-is-on-a-roll-in-india.md` — Modi/BJP state expansion
+- `raw/middle-east-and-africa/260428-the-uaes-departure-from-opec-may-not-break-the-cartel.md` — UAE/OPEC dynamics
+- `raw/middle-east-and-africa/260429-a-political-merger-kicks-off-israels-election-season.md` — Israel election-season merger
+- `raw/middle-east-and-africa/260429-could-china-help-make-africa-a-factory-for-the-world.md` — China and African industrialisation
+- `raw/middle-east-and-africa/260430-african-finance-goes-global.md` — African finance integration
+- `raw/middle-east-and-africa/260430-hizbullahs-air-of-invincibility-is-gone.md` — Hizbullah weakened but not gone
+- `raw/middle-east-and-africa/260430-the-lack-of-progress-in-gaza-suits-those-in-power.md` — Gaza stalemate incentives
+- `raw/middle-east-and-africa/260504-a-damaging-stalemate.md` — Hormuz reopening stalemate
+- `raw/middle-east-and-africa/260504-can-donald-trump-reopen-the-strait-of-hormuz.md` — Trump and Hormuz reopening mechanics
+- `raw/middle-east-and-africa/260506-despite-donald-trumps-talk-a-lasting-peace-is-some-way-off.md` — durable Middle East peace remains distant
+- `raw/middle-east-and-africa/260507-arab-rulers-have-little-sympathy-for-iran.md` — Arab ruler/public split on Iran
+- `raw/middle-east-and-africa/260507-some-in-iran-are-convinced-that-diplomacy-is-futile.md` — Iran hawks and Strait Authority escalation
+- `raw/science-and-technology/260429-a-glimpse-into-cyber-securitys-ai-driven-future.md` — AI-driven cyber-security future
+- `raw/science-and-technology/260429-genome-editing-can-be-risky-meet-the-epigenome-editors.md` — epigenome editing promise and risk
+- `raw/science-and-technology/260505-how-ai-tools-could-enable-bioterrorism.md` — AI biological uplift and release caution
+- `raw/united-states/260429-a-radical-idea-for-governing-california.md` — Matt Mahan and pragmatic California governance
+- `raw/united-states/260503-young-men-are-souring-on-donald-trump.md` — young men and affordability backlash
+- `raw/united-states/260506-the-kids-in-america.md` — wealthy urban parenting and city demography
+
+**New pages created (9)**:
+- `may-2026-news-batch-insights.md` — synthesis page for the full batch
+- `oil-shock-rationing-2026.md` — Hormuz shock as administrative rationing
+- `ai-supply-crunch-2026.md` — compute, power, hardware and safety bottlenecks
+- `europe-deregulation-drive-2026.md` — EU/national liberalisation challenge
+- `india-bjp-state-expansion-2026.md` — BJP West Bengal win and legitimacy/economic exposure
+- `taiwan-deterrence-window-2026.md` — Philippines exercises and Taiwan weather-window deterrence
+- `arab-public-opinion-after-iran-war-2026.md` — ruler/public split on Iran
+- `public-markets-private-giants-2026.md` — private giants already embedded in public markets
+- `official-statistics-and-market-trust-2026.md` — statistics, prediction markets and Basel trust erosion
+
+**Pages updated (2)**:
+- `index.md` — catalog and source count updated to 216
+- `log.md` — this entry
+
+**Central insight**: The batch is about **scarcity becoming governance**. Oil scarcity produces rationing, reserve politics and biofuel choices. Compute scarcity produces token throttling, cloud megadeals and hardware allocation power. Statistical scarcity produces prediction-market dependence and renewed questions about official numbers. European growth scarcity produces a deregulation push; Indian political scarcity produces state-level expansion paired with electoral-roll controversy; Gulf legitimacy scarcity produces a ruler/public split over Iran.
+
+**Cross-source connections**:
+1. **Rationing is back as a normal policy instrument**: fuel caps, token throttles, export bans and emergency energy laws all reappear in different domains.
+2. **Choke points now allocate rents and authority**: Hormuz, Nvidia/TSMC, Basel, official statistics and EU services markets are all governance bottlenecks.
+3. **Scarcity strengthens incumbents first, then exposes them**: Modi, Gulf rulers, hyperscalers and EU technocrats gain room to act, but also inherit blame for distributional pain.
+4. **Dollar erosion is not a petrodollar story**: the decisive issue is asset-freeze fear and alternative payment rails, not simply whether oil is invoiced in dollars.
+5. **The AI story has become industrial policy**: compute access, power permits, safety release decisions and chip supply are now as important as model benchmarks.
 
 ## [2026-04-27] ingest | 7 Economist articles (Apr 26 batch) — capacity, trust and platform control
 

@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-05 (May 5 batch: Ukraine operational-depth drone advantage + stranded seafarer human layer in Hormuz crisis)
+updated: 2026-05-07 (May 7 batch: oil rationing, AI compute scarcity, Europe deregulation, India state expansion, Arab opinion split)
 ---
 
 # Wiki Index
@@ -92,11 +92,20 @@ updated: 2026-05-05 (May 5 batch: Ukraine operational-depth drone advantage + st
 - [[us-congress-pragmatism-collapse]] — **NEW** Thom Tillis/Warsh/Fed episode as institutional case: both parties punish compromise exactly when checks matter
 - [[trump-crypto-conflicts]] — **NEW** Justin Sun vs World Liberty: Trump-family crypto proceeds, SEC leniency, stablecoin pressure and retaliation claims collide
 - [[us-farmers-trade-war-2026]] — **NEW** Tariffs + Iran-war diesel/fertiliser shock squeeze farmers who still back Trump; subsidies become political maintenance
+- [[oil-shock-rationing-2026]] — **NEW** Hormuz shock moves from Brent price to administrative rationing: fuel caps, export bans, WFH orders, strategic-reserve drawdown and biofuel substitution
+- [[ai-supply-crunch-2026]] — **NEW** Token demand outruns data centres, grid gear, GPUs, CPUs and memory; scarce compute shifts power to hyperscalers, Nvidia/TSMC and release-governance chokepoints
+- [[europe-deregulation-drive-2026]] — **NEW** EU accepts red tape as strategic liability; Brussels liberalisation now depends on national governments taking on domestic incumbents
+- [[india-bjp-state-expansion-2026]] — **NEW** BJP landslide in West Bengal extends Modi's map while voter-roll legitimacy, anti-incumbency and energy prices create new exposure
+- [[taiwan-deterrence-window-2026]] — **NEW** US and allies use April-May calm-sea window in Philippines to signal Taiwan deterrence despite Persian Gulf missile burn
+- [[arab-public-opinion-after-iran-war-2026]] — **NEW** Arab rulers repress sympathy for Iran, but publics read Iran through Gaza, Shia grievance and anger at dependent strongmen
+- [[public-markets-private-giants-2026]] — **NEW** SpaceX/OpenAI/Anthropic are private in governance but public through proxies, SPVs, ETFs and corporate balance sheets
+- [[official-statistics-and-market-trust-2026]] — **NEW** Kalshi/Fed, bad-statistics cost and Basel fraying show timely trusted numbers as a core governance constraint
 
 ## Synthesis
 
 - [[iran-war-as-system-accelerator-2026]] — **NEW** Central synthesis: Iran war is accelerating four parallel world-system re-architectures simultaneously (monetary / chokepoint / energy / alliance). Same catalyst, four editors, four sections, Apr 23 issue. Why Iran catalyst > Russia-Ukraine: multi-target sanctions, physical chokepoint, Asian-sovereign forcing, distrusted-dollar timing
 - [[capacity-without-trust-2026]] — **UPDATE** Capacity/trust frame now extends into domestic political economy: ageing labour, weak state capitalism, Congress pragmatism loss, farm subsidies
+- [[may-2026-news-batch-insights]] — **NEW** May 7 batch synthesis: scarcity becomes governance across oil, compute, institutions, Europe, India, Middle East opinion and concentrated finance
 
 ## Simulations
 
@@ -106,10 +115,65 @@ updated: 2026-05-05 (May 5 batch: Ukraine operational-depth drone advantage + st
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (160)
+## Sources Ingested (215)
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-07 | Arab rulers have little sympathy for Iran | Middle East & Africa |
+| 2026-05-07 | Some in Iran are convinced that diplomacy is futile | Middle East & Africa |
+| 2026-05-07 | The energy shock triggers an Asian dash for biofuels | Asia |
+| 2026-05-07 | The myth of the petrodollar | Finance & Economics |
+| 2026-05-07 | Europe is unshackling business, but not enough | Leaders |
+| 2026-05-07 | Narendra Modi's party is on a roll in India | Leaders |
+| 2026-05-06 | America masses troops near Taiwan | Asia |
+| 2026-05-06 | Friedrich Merz cannot go on like this | Europe |
+| 2026-05-06 | Despite Trump's talk, lasting Middle East peace is far off | Middle East & Africa |
+| 2026-05-06 | City parenting has become a financial flex | United States |
+| 2026-05-06 | Berkshire Hathaway vs SoftBank | Business |
+| 2026-05-05 | Antisemitism: first grasp where it comes from | Leaders |
+| 2026-05-05 | Can Bill Ackman save the closed-end fund? | Finance & Economics |
+| 2026-05-05 | How AI tools could enable bioterrorism | Science & Technology |
+| 2026-05-04 | Narendra Modi extends grip on India | Asia |
+| 2026-05-04 | China thinks America is declining but dangerous | China |
+| 2026-05-04 | Bad government statistics can cost billions | Finance & Economics |
+| 2026-05-04 | EU wants to unshackle its economy | Finance & Economics |
+| 2026-05-04 | Can Donald Trump reopen the Strait of Hormuz? | Middle East & Africa |
+| 2026-05-04 | A damaging stalemate at Hormuz | Middle East & Africa |
+| 2026-05-03 | Global carmakers want to be more Chinese | Business |
+| 2026-05-03 | Friedrich Merz's ill-timed tussle with Trump | Europe |
+| 2026-05-03 | Young men are souring on Donald Trump | United States |
+| 2026-04-30 | Vanuatu confronts climate-displacement future | Asia |
+| 2026-04-30 | Vietnam's high-speed railway ambition | Asia |
+| 2026-04-30 | Oil crisis will get bigger before it goes away | Briefing |
+| 2026-04-30 | AI and cognitive surrender | Business |
+| 2026-04-30 | Musk and Altman rivalry goes to court | Business |
+| 2026-04-30 | Cai Qi may be China's second-most powerful man | China |
+| 2026-04-30 | Hong Kong as conduit for looted Chinese antiquities | China |
+| 2026-04-30 | Can countries grow richer by exporting people? | Finance & Economics |
+| 2026-04-30 | India's weak currency reflects deeper problems | Finance & Economics |
+| 2026-04-30 | Capitalise on London's financial industry | Leaders |
+| 2026-04-30 | Samia Suluhu Hassan disappoints Tanzania | Leaders |
+| 2026-04-30 | Oil markets are still in La La land | Leaders |
+| 2026-04-30 | The AI supply crunch is here | Leaders |
+| 2026-04-30 | The UAE doubles down on Israel and America | Leaders |
+| 2026-04-30 | Time to edit biological metaphors | Leaders |
+| 2026-04-30 | Could China help make Africa a factory? | Middle East & Africa |
+| 2026-04-30 | African finance goes global | Middle East & Africa |
+| 2026-04-30 | Hizbullah's air of invincibility is gone | Middle East & Africa |
+| 2026-04-30 | Gaza stalemate suits those in power | Middle East & Africa |
+| 2026-04-29 | SpaceX, OpenAI and Anthropic are already public | Business |
+| 2026-04-29 | Oil-services firms prepare for boom | Business |
+| 2026-04-29 | Europe's unpopular leaders paralyse EU | Europe |
+| 2026-04-29 | How Kevin Warsh could save the Federal Reserve | Leaders |
+| 2026-04-29 | Political merger starts Israel election season | Middle East & Africa |
+| 2026-04-29 | AI-driven cyber-security future | Science & Technology |
+| 2026-04-29 | Epigenome editors | Science & Technology |
+| 2026-04-29 | Radical idea for governing California | United States |
+| 2026-04-28 | DeepSeek sequel fails to impress | Business |
+| 2026-04-28 | Protect France from an Orban-style takeover | Europe |
+| 2026-04-28 | Global fight over banking rules | Finance & Economics |
+| 2026-04-28 | UAE departure from OPEC may not break cartel | Middle East & Africa |
+| 2026-04-27 | AI rush hits a bottleneck | Business |
 | 2026-04-01 | How China hopes to win from the war | Leaders |
 | 2026-04-05 | Inflation or recession? Bond markets | Finance & Economics |
 | 2026-04-07 | Fertiliser crisis and food shock | Finance & Economics |
