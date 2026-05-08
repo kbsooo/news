@@ -31,7 +31,12 @@ sources:
   - raw/united-states/260423-lexington.md
   - raw/united-states/260424-cocaine-crypto-and-lawsuits.md
   - raw/united-states/260427-sow-bad.md
-updated: 2026-04-28
+  - raw/briefing/260507-trump-and-xi-will-struggle-to-strike-a-major-economic-deal.md
+  - raw/briefing/260507-china-is-pushing-donald-trump-for-concessions-on-taiwan.md
+  - raw/finance-and-economics/260507-trumpaid.md
+  - raw/united-states/260507-calais-consequences.md
+  - raw/europe/260507-trumps-threat-to-withdraw-troops-is-serious-for-europe.md
+updated: 2026-05-08
 tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer, political-violence, crypto, state-capitalism, agriculture]
 ---
 
@@ -299,6 +304,16 @@ Trump's grievance against European allies (refusing bases/airspace for Iran stri
 
 [[china|China]] views Trump as weakened by the war and plans to exploit this at the Xi-Trump summit in Beijing (**May 14, 2026**). China hopes for concessions on tariffs, export controls, and a statement opposing Taiwanese independence.
 
+See [[trump-xi-summit-2026]]. The summit has narrowed from a hoped-for grand bargain to damage control: hold tariffs steady, create a managed-trade channel and avoid renewed escalation. The danger is that Trump treats [[taiwan-deterrence-window-2026|Taiwan]] as a tradable variable, delaying arms sales or softening language in return for predictable trade optics.
+
+## Trumpaid and Institutional Substitution
+
+See [[dfc-trumpaid-geoeconomics]] and [[usaid-collapse-and-china-aid-gap]]. Trump is replacing USAID-style public goods with DFC-style strategic finance. The pattern is coherent: aid, development, shipping insurance, minerals and autocracy deals become instruments of leverage rather than liberal institution-building.
+
+## Democracy Rules After Callais
+
+See [[us-gerrymandering-callais-2026]]. The Supreme Court's Callais ruling strengthens the mid-decade redistricting race that Trump triggered through Texas. Even if Democrats still flip the House in 2026, the institutional effect is to make future elections less responsive to national swings.
+
 ## Pattern
 
 Trump is a recurring example of a specific dangerous archetype: a leader who combines **overconfidence** in easy victories, **inconsistency** in strategic messaging, and **personalised rule** that resists institutional checks. The Iran war is the definitive case study — treating a war as "a vanity project, in which America's strength absolved him of the responsibility for thinking through the consequences."
@@ -562,6 +577,16 @@ The Economist 4월 16일 사설의 논지:
 ## 중국 변수
 
 [[china|중국]]은 전쟁으로 약화된 트럼프를 보고, 베이징에서 열리는 시진핑-트럼프 정상회담(**2026년 5월 14일**)에서 이를 활용할 계획이다. 중국은 관세, 수출 통제에 대한 양보와 대만 독립 반대 성명을 기대하고 있다.
+
+[[trump-xi-summit-2026]] 참조. 정상회담은 기대됐던 거대한 타협에서 손실 통제로 축소됐다: 관세를 안정적으로 유지하고, 관리무역 채널을 만들며, 재확전을 피하는 것이다. 위험은 트럼프가 [[taiwan-deterrence-window-2026|대만]]을 거래 가능한 변수로 취급해, 예측 가능한 무역 장면을 얻는 대가로 무기 판매를 지연하거나 표현을 완화하는 것이다.
+
+## 트럼프식 원조와 제도 대체
+
+[[dfc-trumpaid-geoeconomics]]와 [[usaid-collapse-and-china-aid-gap]] 참조. 트럼프는 USAID식 공공재를 DFC식 전략 금융으로 대체하고 있다. 패턴은 일관적이다: 원조, 개발, 해운 보험, 광물, 권위주의 국가와의 거래가 자유주의 제도 구축이 아니라 레버리지의 도구가 된다.
+
+## Callais 이후 민주주의 규칙
+
+[[us-gerrymandering-callais-2026]] 참조. 연방대법원의 Callais 판결은 트럼프가 텍사스를 통해 촉발한 중간 선거구 재획정 경쟁을 강화한다. 2026년에 민주당이 여전히 하원을 탈환하더라도, 제도적 효과는 향후 선거가 전국적 여론 변화에 덜 반응하게 만드는 것이다.
 
 ## 패턴
 

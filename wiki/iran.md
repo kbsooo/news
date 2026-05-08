@@ -12,7 +12,9 @@ sources:
   - raw/briefing/260408-damage-report.md
   - raw/briefing/260409-with-a-whimper.md
   - raw/middle-east-and-africa/260419-a-jungle-of-power.md
-updated: 2026-04-21
+  - raw/middle-east-and-africa/260507-diplomacy-or-more-war-irans-leaders-are-split.md
+  - raw/europe/260507-deniable-optics.md
+updated: 2026-05-08
 tags: [middle-east, geopolitics, oil, military]
 ---
 
@@ -137,6 +139,14 @@ Not all of Iran's lifelines can be swapped onto land routes:
 ### Oil-exports timeline — the bull case against resilience
 Counter-view (Ernest Censier, Vortexa): given current crude-storage levels, a full effective blockade could force Iran to **curb production within 20 days — possibly within 10**. Robin Brooks (Brookings): collapse of export cash → hyperinflation → regime to the table "in good faith." Iran's regime believes it can outlast Trump again, as it did the first-term sanctions. Which read is right turns on how quickly storage fills, how long informal credit holds, and whether soyabean-driven food inflation becomes politically destabilising.
 
+## May 7 Update — Diplomacy vs More War
+
+The split has hardened into a direct contest between **Qalibaf's commercial-pragmatist camp** and **Ahmad Vahidi's IRGC hardliners**. Qalibaf wants to route around the blockade through Iraq, Turkey, Pakistan, the Caspian and China-facing land corridors while preserving the ceasefire. Vahidi's faction argues that America will only tighten the noose, that hardship may trigger unrest, and that war could keep people indoors while rallying some behind the regime.
+
+The new "Persian Gulf Strait Authority" and demand for rial-denominated safe-passage payments make Hormuz control more than a bargaining chip. They turn maritime sovereignty into a regime-revenue and legitimacy project, which is why even a nuclear compromise may not end the crisis.
+
+Russia adds a second escalation channel. A leaked GRU proposal reportedly offered Iran **5,000 fibre-optic drones**, longer-range satellite-guided drones and training for operators drawn from Iranian students in Russia and other Persian-speaking communities. The plan appears designed for deniable attacks on American landing forces or Gulf assets. See [[russia-iran-drone-axis-2026]].
+
 ## See Also
 - [[iran-war-damage-assessment]]
 - [[strait-of-hormuz]]
@@ -148,6 +158,7 @@ Counter-view (Ernest Censier, Vortexa): given current crude-storage levels, a fu
 - [[israel]]
 - [[china]]
 - [[great-power-rivalry]]
+- [[russia-iran-drone-axis-2026]]
 
 ---
 
@@ -271,3 +282,11 @@ Batmanghelidj에 따르면, 이란이 완전 봉쇄를 약 6개월 흡수할 수
 
 ### 원유 수출 타임라인 — 내구력에 반하는 낙관 시나리오
 반대 시각(Ernest Censier, Vortexa): 현 원유 저장 수준을 감안할 때, 완전한 봉쇄는 이란에게 **20일 내, 어쩌면 10일 내 생산 축소**를 강요할 수 있다. Robin Brooks(Brookings): 수출 현금 흐름 붕괴 → 하이퍼인플레이션 → 성직자 집단이 "성실히" 협상 테이블로. 이란 체제는 1기 제재 때처럼 이번에도 트럼프를 버텨낼 수 있다고 믿는다. 어느 쪽이 옳은지는 비축분이 얼마나 빨리 차는지, 비공식 신용이 얼마나 버티는지, 대두발(發) 식품 인플레이션이 정치적으로 불안정화 수준에 이르는지에 달려 있다.
+
+## 5월 7일 업데이트 — 외교냐 추가 전쟁이냐
+
+분열은 **갈리바프의 상업적 실용주의 진영**과 **아흐마드 바히디의 IRGC 강경파** 사이의 직접 대결로 굳어졌다. 갈리바프는 휴전을 유지하면서 이라크, 튀르키예, 파키스탄, 카스피해, 중국향 육상 회랑을 통해 봉쇄를 우회하려 한다. 바히디 진영은 미국이 목을 더 조일 뿐이며, 경제난은 시위를 촉발할 수 있고, 전쟁은 사람들을 집 안에 묶어두면서 일부를 정권 뒤로 결집시킬 수 있다고 본다.
+
+새 "페르시아만 해협 당국"과 리알화 안전통행료 요구는 호르무즈 통제를 단순한 협상카드 이상으로 만든다. 이는 해상 주권을 정권 수입과 정당성 프로젝트로 바꾸며, 그래서 핵 타협만으로 위기가 끝나지 않을 수 있다.
+
+러시아는 두 번째 확전 채널을 더한다. 유출된 GRU 제안서는 이란에 **광섬유 드론 5,000대**, 장거리 위성유도 드론, 러시아 내 이란 유학생과 페르시아어권 공동체 출신 운용자 훈련을 제공하는 내용을 담은 것으로 보도됐다. 이 계획은 미군 상륙부대나 걸프 자산에 대한 부인 가능한 공격을 겨냥한 것으로 보인다. [[russia-iran-drone-axis-2026]] 참조.

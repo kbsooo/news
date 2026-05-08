@@ -4,7 +4,9 @@ type: event
 sources:
   - raw/asia/260506-red-sky-in-the-morning.md
   - raw/china/260504-chaguan.md
-updated: 2026-05-07
+  - raw/asia/260506-america-is-massing-troops-near-taiwan-to-deter-troublemaking-by-china.md
+  - raw/briefing/260507-china-is-pushing-donald-trump-for-concessions-on-taiwan.md
+updated: 2026-05-08
 tags: [taiwan, china, united-states, philippines, deterrence]
 ---
 
@@ -24,11 +26,16 @@ The Philippines invited broader participation: Japanese ships were the largest f
 
 The deterrence architecture depends heavily on President Ferdinand Marcos Jr. The likely 2028 succession risk is Sara Duterte, daughter of the more China-friendly Rodrigo Duterte. If Manila changes course, America may need another way to stay close to Taiwan during the weather windows.
 
+## Shadow Deal Risk
+
+The May 14-15 [[trump-xi-summit-2026|Trump-Xi summit]] adds a political risk to the military calendar. Chinese officials are pushing for softer American language on Taiwan, smaller or delayed arms packages, and perhaps a statement that America does not oppose "peaceful reunification." Even without a written communique, delayed arms sales and rhetorical concessions could become a shadow deal that weakens Taiwanese morale and helps the KMT argue for accommodation with Beijing.
+
 ## See Also
 - [[china]]
 - [[great-power-rivalry]]
 - [[japan-defence-industry]]
 - [[nato-and-transatlantic-crisis]]
+- [[trump-xi-summit-2026]]
 
 ---
 
@@ -47,3 +54,7 @@ The deterrence architecture depends heavily on President Ferdinand Marcos Jr. Th
 ## 정치적 취약성
 
 억지 구조는 Ferdinand Marcos Jr 대통령에게 크게 의존한다. 2028년 승계 위험은 더 친중적이었던 Rodrigo Duterte의 딸 Sara Duterte다. 마닐라의 방향이 바뀌면 미국은 날씨 창 동안 대만 가까이에 머물 다른 방법을 찾아야 할 수 있다.
+
+## 그림자 거래 리스크
+
+5월 14-15일 [[trump-xi-summit-2026|트럼프-시 정상회담]]은 군사적 일정에 정치적 리스크를 더한다. 중국 관료들은 대만에 대한 미국의 표현 완화, 더 작거나 지연된 무기 판매, 그리고 어쩌면 미국이 "평화적 통일"에 반대하지 않는다는 발언을 요구하고 있다. 서면 공동성명이 없더라도 무기 판매 지연과 수사적 양보가 반복되면, 대만의 사기를 약화시키고 KMT가 베이징과의 타협을 주장하는 데 유리한 그림자 거래가 될 수 있다.

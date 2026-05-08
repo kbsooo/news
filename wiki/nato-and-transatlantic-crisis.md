@@ -7,7 +7,8 @@ sources:
   - raw/europe/260412-peter-magyar-defeats-orban.md
   - raw/europe/260422-can-the-bundeswehr-fight.md
   - raw/leaders/260423-pomp-and-pageantry-wont-save-britains-alliance-with-america.md
-updated: 2026-04-25
+  - raw/europe/260507-trumps-threat-to-withdraw-troops-is-serious-for-europe.md
+updated: 2026-05-08
 tags: [nato, europe, united-states, defence, alliance, britain]
 ---
 
@@ -45,6 +46,10 @@ This leaves Britain and France behind in absolute terms. Germany's General Breue
 **The conscription flashpoint**: Germany needs 260k troops (from 185k) + 200k reserve. Conscription was suspended in 2011 and is likely to return. Majority of Germans support; majority of young adults oppose. This is where the first serious public resistance to rearmament will concentrate.
 
 **France's anxiety**: worried about European rearmament being shaped by a country still groping toward a strategic culture and wary of deploying troops. Most allies welcome; Pentagon "delighted".
+
+## MDTF Shock
+
+Trump's April 27 retaliation against Merz's criticism made the crisis operational. The threatened withdrawal of about **5,000 troops** from Germany matters less than the cancellation of the **2nd Multi-Domain Task Force** deployment. MDTF combines long-range missiles, hypersonic weapons, sensors and AI-enabled targeting; its commander said it could identify **1,500 targets every 24 hours**. Losing it exposes a specific European gap: long-range conventional strike backed by credible escalation management. Europe does not just need more soldiers; it needs missile stockpiles and command systems that can replace American theatre-level effects.
 
 ## Article 5: Not Dead, But Weakened
 
@@ -142,6 +147,10 @@ The NATO crisis is both a symptom and accelerant of [[great-power-rivalry]]:
 - **이보 달더** (전 주NATO 미국 대사): "지난 3개월이 NATO 역사상 그 어떤 3개월보다 더 큰 피해를 입혔다"
 
 마르크 뤼터 NATO 사무총장은 4월 8일 트럼프를 방문해 NATO 잔류가 미국의 국익에 부합한다고 설득을 시도했으나, 별다른 성과를 거두지 못한 것으로 보인다. **NATO 정상회담은 2026년 7월 앙카라에서 개최 예정.**
+
+## MDTF 충격
+
+메르츠의 비판에 대한 트럼프의 4월 27일 보복은 위기를 작전 차원으로 끌어내렸다. 독일 주둔 미군 약 **5,000명** 철수 위협보다 더 중요한 것은 **제2 다영역태스크포스(MDTF)** 배치 취소다. MDTF는 장거리 미사일, 극초음속 무기, 센서, AI 기반 표적화를 결합하며, 지휘관은 24시간마다 **1,500개 표적**을 식별할 수 있다고 말했다. 이를 잃는 것은 유럽의 구체적 공백을 드러낸다: 신뢰 가능한 확전관리로 뒷받침되는 장거리 재래식 타격이다. 유럽에는 병력만 더 필요한 것이 아니라, 미국의 전구급 효과를 대체할 미사일 비축과 지휘 체계가 필요하다.
 
 ## 제5조: 사라지지는 않았지만 약화되었다
 

@@ -1,0 +1,21 @@
+# A Ukrainian strike on a Russian oil hub causes catastrophe
+
+Toxic smoke billowed and molten fuel flowed like lava
+
+In usual times Tuapse, a Russian port city on the Black Sea, and its surrounding villages are a popular summer destination, luring people from across the country to a short stretch of the coastline. Just 70 miles (113km) away is Sochi, the site of the 2014 Winter Olympics and one of the favourite residences of Vladimir Putin, Russia's president.
+
+On a recent afternoon, loudspeakers near the port were inviting visitors to take boat tours in order to "enjoy fresh air and natural views" of the surrounding coast. Rarely has the mismatch between advertising and reality been so stark. The air was thick with toxic black clouds that billowed from a burning oil refinery and from flaming storage tanks belonging to Rosneft, a gigantic Russian oil firm.
+
+The first flames appeared in the town on April 16th when Ukrainian drones struck the marine terminal of an important oil-export hub. Two people were killed and seven injured. Four days later, just as the fires had been put out, Ukraine struck again, causing an oil spill that subsequently surged past boom barriers and entered the Black Sea, where it spread out and contaminated some 50km of coastline.
+
+Two more attacks hit the oil facilities over the following days, including one that damaged the main refinery itself on April 28th. The strikes are part of a wider strategy by Ukraine to concentrate its attacks on Russia's energy infrastructure and to hit the same oil- and gas-export facilities and refineries repeatedly, over several days. The industrial fires raging in the residential areas and the oil spills on the coast all amounted to an environmental disaster.
+
+Rain stained with oily droplets and soot—similar to that seen in Iran after oil storage tanks were bombed there—has contaminated water and soil around the city. Black fumes rising from Tuapse stretched all the way to Sochi and could be seen by air passengers flying over the area. Social-media has been saturated with videos of the oil spills. One short video showed burning fuel flowing down a street, like molten lava.
+
+Loudspeakers mounted on police cars warned residents that people taking photos of the destruction could be fined 500,000 roubles ($7,000). Traffic police randomly searched cars and even checked the contents of cosmetic bags and first-aid kits, according to eyewitnesses. Journalists visiting the area were met with suspicion, with some locals reporting their presence to the police.
+
+The main concern of the authorities, it seems, is to limit the political fallout of Ukraine's drone attacks by keeping a lid on the news, demonstrating their prowess in fighting fires and downplaying the environmental damage, so that people don't change their holiday plans. Initially officials simply advised residents to keep windows shut, limit their time outdoors and refrain from smoking. On April 28th, after the attack on the oil refinery itself, people living close to it started to get evacuated. Later that day Mr Putin spoke for the first time, citing upbeat reports from the regional governor asserting that the situation was under control. "There are no serious threats," he said. "People are coping on the ground with the challenges they face."
+
+"We thought that after these events people would reflect more seriously on the reasons for Ukrainian drone attacks, but that did not happen," said a volunteer who came to help rescue animals. "Everything stopped at the rhetoric of 'we are victims'." This message was repeated by citizens and pushed by Rosneft and state propaganda, which described Ukraine's actions as a form of "environmental terrorism" and portrayed the Russian state as the principal defender of peace in the region.
+
+On May 2nd Sergei Boiko, Tuapse's mayor, promised that the oil-soaked beaches would be clean by June 1st, in time for the busy summer tourist season. But as one resident told your correspondent: "I don't care about vacationers. My heart aches for my hometown." On the beach near the port, a man unfolded a camping chair and prepared his fishing gear. Just beside him, a rainbow film and oil stains floated by on the water's surface. ■

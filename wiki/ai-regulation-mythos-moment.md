@@ -9,7 +9,9 @@ sources:
   - raw/science-and-technology/260415-examining-the-mythos.md
   - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
   - raw/science-and-technology/260415-how-ai-hackers-will-shake-up-cyber-security.md
-updated: 2026-04-23
+  - raw/china/260507-artificial-intelligence-revives-a-cold-war-style-dilemma.md
+  - raw/leaders/260507-the-world-must-stop-ai-from-empowering-bioterrorists.md
+updated: 2026-05-08
 tags: [ai, regulation, policy, united-states, anthropic, election-2028]
 ---
 
@@ -64,6 +66,12 @@ The Mythos approach is "only half the solution." Three huge gaps remain:
 
 [[china|Beijing's government]] is grappling with the same dilemma from the opposite direction — see the April 16 OpenClaw incident (Tencent's AI agent that unexpectedly had to be curtailed, banned in banks) and Xi's January speech raising "security problems" including a potential **technical loss of control** over frontier AI for the first time. Both superpowers are discovering that frontier AI creates **political risk** at home that competes with the strategic imperative to win the race.
 
+The May 7 batch sharpens the Cold War analogy. America and China together hold roughly **90% of frontier computing power**, making bilateral testing standards more plausible than a broad UN process. Three cooperation levels are visible: strategic reassurance, common safety tests without shared results, and a far harder "trust but verify" regime involving inspections or data-centre monitoring. The obstacle is not lack of mutual risk; it is fear that safety cooperation becomes industrial espionage or technological containment.
+
+## Biosecurity Is the Hardest Case
+
+The bioterrorism article makes the Mythos moment more severe. Cybersecurity has a defender's dividend: software can be patched. Biology does not. If a model can guide novices through pathogen design, public release becomes closer to nuclear proliferation than normal software diffusion. Refusal training, dataset deletion and know-your-customer rules for DNA synthesis all help, but none solves the core problem. The missing technology is model interpretability strong enough to disable dangerous biological capability without crippling legitimate science.
+
 ## Political Trajectory
 
 - **2023 (Biden era)**: regulation debates centered on **potential** risks
@@ -77,6 +85,7 @@ The Mythos approach is "only half the solution." Three huge gaps remain:
 - [[ai-labs-and-industry]] — the commercial "model lock-up" trend that converges with safety rationale
 - [[china]] — parallel regulatory anxieties (OpenClaw, December 2025 no-AI-firings ruling, 16% youth unemployment stress)
 - [[great-power-rivalry]] — the China-race framing that could produce regulatory **underkill**; voter backlash that could produce regulatory **overkill**
+- [[trump-xi-summit-2026]] — AI safety as one of the few plausible cooperation areas
 
 ## See Also
 - [[anthropic-mythos]]
@@ -136,6 +145,12 @@ Mythos 접근은 "해결책의 절반에 불과하다." 세 큰 공백:
 ## 중국과의 평행선
 
 [[china|베이징 정부]]는 정반대 방향에서 같은 딜레마와 씨름 중 — 4월 16일 OpenClaw 사건(Tencent AI 에이전트가 예상치 못한 문제로 축소·은행권 금지)과 시진핑의 1월 연설에서 최초로 프론티어 AI에 대한 **기술적 통제 상실** 가능성을 포함한 "안보 문제"를 제기한 것. 두 초강대국 모두 **프론티어 AI가 국내에서 정치적 위험을 만들어내며 경쟁 승리라는 전략적 명령과 충돌**하기 시작했음을 발견하고 있다.
+
+5월 7일 묶음은 냉전 비유를 더 선명하게 만든다. 미국과 중국은 합쳐서 프론티어 컴퓨팅 파워의 약 **90%**를 보유하므로, 광범위한 UN 절차보다 양자 테스트 기준이 더 현실적일 수 있다. 세 단계의 협력이 보인다: 전략적 안심 조치, 결과를 공유하지 않는 공통 안전 테스트, 그리고 사찰이나 데이터센터 모니터링을 포함하는 훨씬 어려운 "신뢰하되 검증" 체계다. 장애물은 상호 위험의 부재가 아니라, 안전 협력이 산업 스파이 활동이나 기술 봉쇄로 변질될 수 있다는 공포다.
+
+## 생물안보가 가장 어려운 사례
+
+바이오테러 기사는 Mythos 모먼트를 더 심각하게 만든다. 사이버보안에는 방어자 이점이 있다: 소프트웨어는 패치할 수 있다. 생물학은 그렇지 않다. 모델이 초보자에게 병원체 설계를 안내할 수 있다면, 공개 배포는 일반 소프트웨어 확산보다 핵확산에 가까워진다. 거부 학습, 데이터셋 삭제, DNA 합성 업체의 고객확인 규정은 모두 도움이 되지만 핵심 문제를 해결하지 못한다. 빠진 기술은 합법적 과학을 마비시키지 않으면서 위험한 생물학 역량을 비활성화할 만큼 강력한 모델 해석 가능성이다.
 
 ## 정치적 궤적
 

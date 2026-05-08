@@ -3,7 +3,9 @@ title: Drone War and Operational Depth (2026)
 type: concept
 sources:
   - raw/europe/260505-the-war-room-newsletter-is-russia-being-out-droned.md
-updated: 2026-05-05
+  - raw/europe/260507-apocalypse-on-the-black-sea.md
+  - raw/europe/260507-deniable-optics.md
+updated: 2026-05-08
 tags: [ukraine, russia, drones, warfare, defence, operational-depth]
 ---
 
@@ -71,6 +73,14 @@ The important exchange is not only "$5,000 drone versus expensive equipment." It
 ### 2026 becomes a test year
 
 Putiata expects Russia's own drone-interceptor system may mature by year-end, while Ukraine may conduct several localised offensive operations before then. That creates a window: if Ukraine can exploit its current advantage before Russia closes the gap, the war may shift from positional attrition back toward bounded manoeuvre.
+
+## Tuapse and the Environmental Cost
+
+Ukraine's repeated strikes on Tuapse show the strategy's darker edge. Hitting the same Russian oil-export hub and refinery over several days caused industrial fires, an oil spill across roughly **50km of Black Sea coast**, evacuations and censorship. Militarily, the strikes fit the operational-depth logic: degrade fuel, exports and logistics rather than only front-line troops. Politically, Russia framed the disaster as Ukrainian "environmental terrorism" while trying to protect the summer tourism narrative. The episode shows that drone-enabled operational depth can impose real economic constraints but also creates environmental and legitimacy costs that will become part of the war narrative.
+
+## Exported Drone Lessons
+
+The reported GRU plan to help [[iran|Iran]] with fibre-optic and satellite-guided drones shows battlefield innovation moving outward. Russia is no longer only learning from Ukraine; it is trying to export Ukraine-war tactics into the Gulf. See [[russia-iran-drone-axis-2026]].
 
 ## See Also
 - [[ukraine]]
@@ -146,3 +156,11 @@ Putiata expects Russia's own drone-interceptor system may mature by year-end, wh
 ### 2026년은 시험대다
 
 푸티아타는 러시아의 자체 드론 요격 체계가 연말이면 성숙할 수 있다고 보는 한편, 우크라이나가 그 전 몇 차례 국지 공세를 펼칠 수 있다고 본다. 이는 창을 만든다: 러시아가 격차를 좁히기 전에 우크라이나가 현재 우위를 활용한다면, 전쟁은 위치전 소모전에서 제한적 기동으로 일부 되돌아갈 수 있다.
+
+## 투압세와 환경 비용
+
+우크라이나의 투압세 반복 타격은 이 전략의 어두운 면을 보여준다. 러시아 석유 수출 허브와 정유시설을 여러 날에 걸쳐 반복 타격하면서 산업 화재, 흑해 연안 약 **50km**에 걸친 기름 유출, 주민 대피, 검열이 발생했다. 군사적으로 이 공격은 작전종심 논리에 맞다: 전선 병력만이 아니라 연료, 수출, 물류를 약화시키는 것이다. 정치적으로 러시아는 이 재난을 우크라이나의 "환경 테러"로 규정하면서도 여름 관광 서사를 보호하려 했다. 이 사건은 드론 기반 작전종심 타격이 실제 경제 제약을 줄 수 있지만, 환경 및 정당성 비용도 전쟁 서사의 일부가 됨을 보여준다.
+
+## 수출되는 드론 교훈
+
+[[iran|이란]]에 광섬유 및 위성유도 드론을 지원하려 했다는 GRU 계획은 전장 혁신이 외부로 이동하고 있음을 보여준다. 러시아는 더 이상 우크라이나에서 배우기만 하는 것이 아니라, 우크라이나 전쟁 전술을 걸프로 수출하려 한다. [[russia-iran-drone-axis-2026]] 참조.

@@ -1,15 +1,15 @@
 ---
 title: Index
-updated: 2026-05-07 (May 7 batch: oil rationing, AI compute scarcity, Europe deregulation, India state expansion, Arab opinion split)
+updated: 2026-05-08 (May 8 batch: Trump-Xi summit, Taiwan shadow-deal risk, jet fuel shortage, DFC Trumpaid, Russia-Iran drones, Callais gerrymandering)
 ---
 
 # Wiki Index
 
 ## Entities
 
-- [[iran]] — Khamenei killed day 1, Qalibaf/pragmatists in control, Mojtaba injured, 400kg HEU, 3 factions, Islamabad talks collapsed (21hr)
-- [[china]] — "Never interrupt your enemy": self-reliance, May summit, Q1 exports +14.7%, yuan comfort currency, Chinamaxxing soft-power tailwind
-- [[donald-trump]] — War's biggest loser: blockade/ceasefire whiplash, deportation machine, Fed trap, state-capitalism limits, crypto conflicts, farm pain
+- [[iran]] — Khamenei killed day 1, Qalibaf vs Vahidi split, new Persian Gulf Strait Authority, Russian fibre-optic drone channel, 400kg HEU
+- [[china]] — "Never interrupt your enemy": self-reliance, May summit, Taiwan pressure, AI safety dilemma, Q1 exports +14.7%, yuan comfort currency
+- [[donald-trump]] — War's biggest loser: Xi summit damage-control, Taiwan tradability risk, DFC Trumpaid, Callais redistricting, blockade/ceasefire whiplash
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: UAE as hidden throughline (Iran/Sudan/China), pipeline alternatives needed
 - [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21, stranded Asian seafarer layer noted May 5
@@ -97,15 +97,24 @@ updated: 2026-05-07 (May 7 batch: oil rationing, AI compute scarcity, Europe der
 - [[europe-deregulation-drive-2026]] — **NEW** EU accepts red tape as strategic liability; Brussels liberalisation now depends on national governments taking on domestic incumbents
 - [[india-bjp-state-expansion-2026]] — **NEW** BJP landslide in West Bengal extends Modi's map while voter-roll legitimacy, anti-incumbency and energy prices create new exposure
 - [[taiwan-deterrence-window-2026]] — **NEW** US and allies use April-May calm-sea window in Philippines to signal Taiwan deterrence despite Persian Gulf missile burn
+- [[trump-xi-summit-2026]] — **NEW** May 14-15 Beijing summit: managed-trade truce, Taiwan shadow-deal risk, AI safety as the only serious cooperation lane
+- [[jet-fuel-shortage-2026]] — **NEW** Hormuz closure creates aviation fuel shortfall; ~15% global-demand gap risk, UK/Portugal stocks near rationing thresholds
+- [[russia-iran-drone-axis-2026]] — **NEW** Leaked GRU proposal links Ukraine-war fibre-optic drones to Iran's Gulf escalation options
+- [[us-gerrymandering-callais-2026]] — **NEW** Supreme Court's Callais ruling unleashes mid-decade redistricting and weakens electoral responsiveness
 - [[arab-public-opinion-after-iran-war-2026]] — **NEW** Arab rulers repress sympathy for Iran, but publics read Iran through Gaza, Shia grievance and anger at dependent strongmen
 - [[public-markets-private-giants-2026]] — **NEW** SpaceX/OpenAI/Anthropic are private in governance but public through proxies, SPVs, ETFs and corporate balance sheets
 - [[official-statistics-and-market-trust-2026]] — **NEW** Kalshi/Fed, bad-statistics cost and Basel fraying show timely trusted numbers as a core governance constraint
+- [[usaid-collapse-and-china-aid-gap]] — **NEW** USAID's collapse leaves civil-society/health/journalism gaps China cannot replace because it lends rather than donates
+- [[dfc-trumpaid-geoeconomics]] — **NEW** DFC becomes Trump's strategic finance arm: critical minerals, Hormuz insurance, 205bn loan ceiling and cronyism risk
+- [[sahel-jihadism-2026]] — **NEW** Mali/JNIM attacks show Western withdrawal and Russian-backed junta strategy both failing in the Sahel
+- [[oil-majors-iran-war-2026]] — **NEW** Iran war rewards European oil majors' trading desks more than Exxon/Chevron hedged, Middle-East-exposed balance sheets
 
 ## Synthesis
 
 - [[iran-war-as-system-accelerator-2026]] — **NEW** Central synthesis: Iran war is accelerating four parallel world-system re-architectures simultaneously (monetary / chokepoint / energy / alliance). Same catalyst, four editors, four sections, Apr 23 issue. Why Iran catalyst > Russia-Ukraine: multi-target sanctions, physical chokepoint, Asian-sovereign forcing, distrusted-dollar timing
 - [[capacity-without-trust-2026]] — **UPDATE** Capacity/trust frame now extends into domestic political economy: ageing labour, weak state capitalism, Congress pragmatism loss, farm subsidies
 - [[may-2026-news-batch-insights]] — **NEW** May 7 batch synthesis: scarcity becomes governance across oil, compute, institutions, Europe, India, Middle East opinion and concentrated finance
+- [[may-8-2026-news-batch-insights]] — **NEW** Capacity bargaining synthesis: chokepoints, compute, drones, finance, maps, insurance and fuel become governance levers
 
 ## Simulations
 
@@ -115,10 +124,25 @@ updated: 2026-05-07 (May 7 batch: oil rationing, AI compute scarcity, Europe der
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (215)
+## Sources Ingested (230)
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-07 | Trump and Xi will struggle to strike a major economic deal | Briefing |
+| 2026-05-07 | China pushes Trump for concessions on Taiwan | Briefing |
+| 2026-05-07 | The Trump-Xi summit will expose a dysfunctional duo | Leaders |
+| 2026-05-07 | AI revives a Cold War-style dilemma | China |
+| 2026-05-07 | The world must stop AI from empowering bioterrorists | Leaders |
+| 2026-05-07 | Diplomacy or more war? Iran's leaders are split | Middle East & Africa |
+| 2026-05-07 | Secret document reveals Russia's plans to aid Iran | Europe |
+| 2026-05-07 | Ukrainian strike on Russian oil hub causes catastrophe | Europe |
+| 2026-05-07 | Trump's troop-withdrawal threat is serious for Europe | Europe |
+| 2026-05-07 | Airlines grapple with dwindling jet-fuel supplies | Business |
+| 2026-05-06 | Not all oil giants prosper from the Iran war | Business |
+| 2026-05-07 | Donald Trump's foreign policy gets a muscular finance arm | Finance & Economics |
+| 2026-05-07 | The gutting of USAID has left a void China will not fill | Asia |
+| 2026-05-07 | Mali shows the growing strength of jihadism in the Sahel | Middle East & Africa |
+| 2026-05-07 | Supreme Court unleashes the gerrymanderers | United States |
 | 2026-05-07 | Arab rulers have little sympathy for Iran | Middle East & Africa |
 | 2026-05-07 | Some in Iran are convinced that diplomacy is futile | Middle East & Africa |
 | 2026-05-07 | The energy shock triggers an Asian dash for biofuels | Asia |

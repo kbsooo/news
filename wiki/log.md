@@ -741,3 +741,27 @@ Key insight: Ukraine's drone advantage is no longer just a defensive/export capa
 - **Russia stress appears in routines before maps**: Depot relocation, fuel limits and two-truck convoys rhyme with Nikolsk's school-budget conflict: capacity erosion shows up first in mundane administrative/logistical constraints.
 - **European defence's real bottleneck is tempo**: The article reinforces that Europe must learn Ukraine's iteration cycle, not merely fund more legacy procurement.
 - **Hormuz has a human layer**: The stranded-seafarer headline links the legal/energy chokepoint story to mariners trapped inside the backlog; the source is limited, so this remains a flagged angle rather than a full page.
+
+## [2026-05-08] ingest | May 8 batch — capacity bargaining and institutional substitution
+Sources:
+- `raw/asia/260507-no-saviours.md`
+- `raw/briefing/260507-trump-and-xi-will-struggle-to-strike-a-major-economic-deal.md`
+- `raw/briefing/260507-china-is-pushing-donald-trump-for-concessions-on-taiwan.md`
+- `raw/business/260506-bunged-up.md`
+- `raw/business/260507-fuming.md`
+- `raw/china/260507-artificial-intelligence-revives-a-cold-war-style-dilemma.md`
+- `raw/europe/260507-apocalypse-on-the-black-sea.md`
+- `raw/europe/260507-deniable-optics.md`
+- `raw/europe/260507-trumps-threat-to-withdraw-troops-is-serious-for-europe.md`
+- `raw/finance-and-economics/260507-trumpaid.md`
+- `raw/leaders/260507-the-trump-xi-summit-will-expose-a-dysfunctional-duo.md`
+- `raw/leaders/260507-the-world-must-stop-ai-from-empowering-bioterrorists.md`
+- `raw/middle-east-and-africa/260507-desert-doldrums.md`
+- `raw/middle-east-and-africa/260507-diplomacy-or-more-war-irans-leaders-are-split.md`
+- `raw/united-states/260507-calais-consequences.md`
+
+Created: [[trump-xi-summit-2026]], [[usaid-collapse-and-china-aid-gap]], [[dfc-trumpaid-geoeconomics]], [[jet-fuel-shortage-2026]], [[russia-iran-drone-axis-2026]], [[sahel-jihadism-2026]], [[us-gerrymandering-callais-2026]], [[oil-majors-iran-war-2026]], [[may-8-2026-news-batch-insights]]
+
+Updated: [[taiwan-deterrence-window-2026]], [[iran]], [[ai-regulation-mythos-moment]], [[nato-and-transatlantic-crisis]], [[drone-war-operational-depth-2026]], [[donald-trump]], `wiki/index.md`
+
+Key insight: This batch reframes world politics as capacity bargaining. The scarce assets are not only oil or troops but also compute, safe model access, tanker insurance, long-range missiles, fuel logistics, civil-society visibility and electoral maps. Trump-era institutions are being repurposed from liberal public goods toward leverage: DFC replaces USAID, tariff predictability replaces trade reform, and redistricting rules replace voter responsiveness.
