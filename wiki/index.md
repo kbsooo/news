@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-10 (May 9 batch: undersea capacity, China AI offices, EU banking, education-tech backlash, Supreme Court legitimacy)
+updated: 2026-05-10 (May 10 batch: Chinese hegemonic anxiety, Brussels eurocracy, Merz-Trump deterrence, SelectUSA reshoring)
 ---
 
 # Wiki Index
@@ -29,7 +29,7 @@ updated: 2026-05-10 (May 9 batch: undersea capacity, China AI offices, EU bankin
 - [[united-arab-emirates]] — **NEW** Hidden superpower: RSF patron (gold→Dubai, Ethiopia training camp, Colombian mercenaries) + Iran war victim (50+ missiles) + $5trn SWF anchor; Iran war strengthens its Sudan posture
 - [[rapid-support-forces]] — **NEW** Transnational paramilitary empire; UAE-backed; Darfur + Kordofan + Blue Nile; el-Fasher + Kurmuk captures; 20+ Dubai properties
 - [[sudan]] — **NEW** 4yr civil war; 33m need aid; RSF vs SAF; SAF reclaimed Khartoum; RSF holds ~half; US sanctions shells but not principals
-- [[germany]] — **NEW** Merz chancellor; first-ever military strategy Apr 2026; 3.5% GDP by 2029; 260k troops; pivot from Merkel platitudes to continental leadership
+- [[germany]] — Merz chancellor; first-ever military strategy Apr 2026; 3.5% GDP by 2029; pivot to continental leadership now strained by Trump troop/missile whiplash
 - [[asim-munir]] — **NEW** Pakistan's army chief as Iran-war broker; diplomatic leverage strengthens military-rule trap
 - [[ethiopia]] — **NEW** Abiy's reformist opening reverses into sham-election repression; Million Beyene disappearance
 - [[apple]] — **NEW** Cook→Ternus succession; hardware/device-stack bet for AI era; Gemini/Siri dependency vs post-iPhone form-factor risk
@@ -117,6 +117,11 @@ updated: 2026-05-10 (May 9 batch: undersea capacity, China AI offices, EU bankin
 - [[education-tech-backlash]] — **NEW** Sweden's return to books and phone bans marks evidence-led selectivity about digital tools in schools
 - [[supreme-court-institutional-legitimacy]] — **NEW** The Supreme Court's legitimacy problem includes personal branding and weaker institutional voice
 - [[peptideins-dark-proteome]] — **NEW** New microprotein category may open cancer/immunotherapy targets, but false positives remain a risk
+- [[china-hegemonic-anxiety-2026]] — **NEW** Beijing sees America as declining yet dangerous, producing caution as well as confidence
+- [[brussels-eurocracy-power-shift]] — **NEW** Commission civil servants have bigger responsibilities but less autonomy under member-state and presidential control
+- [[merz-trump-deterrence-crisis-2026]] — **NEW** Merz's Trump clash shows European deterrence depends on political credibility as much as troops and missiles
+- [[selectusa-reshoring-theatre-2026]] — **NEW** US investment wooing is national theatre plus practical state-by-state brokerage for smaller onshoring firms
+- [[china-overseas-state-firms-scrutiny]] — **NEW** Ferretti yacht fight shows Chinese state-linked overseas assets facing security and technology-transfer filters
 
 ## Synthesis
 
@@ -125,6 +130,7 @@ updated: 2026-05-10 (May 9 batch: undersea capacity, China AI offices, EU bankin
 - [[may-2026-news-batch-insights]] — **NEW** May 7 batch synthesis: scarcity becomes governance across oil, compute, institutions, Europe, India, Middle East opinion and concentrated finance
 - [[may-8-2026-news-batch-insights]] — **NEW** Capacity bargaining synthesis: chokepoints, compute, drones, finance, maps, insurance and fuel become governance levers
 - [[may-9-2026-news-batch-insights]] — **NEW** Operational-depth synthesis: submarines, AI offices, courts, schools, banks and NGOs expose positional capacity limits
+- [[may-10-2026-news-batch-insights]] — **NEW** Constraint-polar synthesis: China, Europe, Germany and America all see opportunity through institutional bottlenecks
 
 ## Simulations
 
@@ -134,10 +140,16 @@ updated: 2026-05-10 (May 9 batch: undersea capacity, China AI offices, EU bankin
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (230)
+## Sources Ingested (257)
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-07 | China thinks America is declining but still uniquely dangerous | China |
+| 2026-05-07 | A Chinese high-seas misadventure in luxury yachts | China |
+| 2026-05-06 | Inside the Brussels deep state | Europe |
+| 2026-05-03 | Friedrich Merz's ill-timed tussle with Donald Trump | Europe |
+| 2026-05-07 | Foreign firms: have you considered America? | United States |
+| 2026-05-07 | The Supreme Court has unleashed the gerrymanderers | United States |
 | 2026-05-08 | Nigel Farage's triumph is not quite what it seems | Britain |
 | 2026-05-07 | DeepSeek and Alibaba rescue China's office landlords | Finance & Economics |
 | 2026-05-07 | UniCredit's lowball bid for Commerzbank causes consternation | Finance & Economics |

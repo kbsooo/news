@@ -1,9 +1,24 @@
 ---
 title: Log
-updated: 2026-05-07 (May 7 batch: scarcity becomes governance)
+updated: 2026-05-10 (May 10 batch: constraint-polar institutions)
 ---
 
 # Wiki Log
+
+## [2026-05-10] ingest | May 10 batch — constraint-polar institutions
+Sources:
+- `raw/china/260504-china-thinks-america-is-declining-but-still-uniquely-dangerous.md`
+- `raw/china/260507-a-chinese-high-seas-misadventure-in-luxury-yachts.md`
+- `raw/europe/260503-friedrich-merzs-ill-timed-tussle-with-donald-trump.md`
+- `raw/europe/260506-inside-the-brussels-deep-state.md`
+- `raw/united-states/260507-foreign-firms-have-you-considered-america.md`
+- `raw/united-states/260507-the-supreme-court-has-unleashed-the-gerrymanderers.md`
+
+Created: [[may-10-2026-news-batch-insights]], [[china-hegemonic-anxiety-2026]], [[brussels-eurocracy-power-shift]], [[merz-trump-deterrence-crisis-2026]], [[selectusa-reshoring-theatre-2026]], [[china-overseas-state-firms-scrutiny]]
+
+Updated: `wiki/index.md`
+
+Key insight: The batch is not simple multipolarity but constraint-polarity. China sees US decline but fears hegemonic lashing-out; Europe needs Brussels capacity while member states limit the eurocracy; Germany rearms but still lacks immediate US missile substitutes; America remains an investment magnet but turns elections and onshoring into procedural contests.
 
 ## [2026-05-07] ingest | 56 Economist articles (Apr 27-May 7 batch) — scarcity becomes governance
 
