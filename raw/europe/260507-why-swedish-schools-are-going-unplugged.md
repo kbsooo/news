@@ -1,0 +1,21 @@
+# Why Swedish schools are going unplugged
+
+Nordic pupils are returning to books and pens
+
+Your browser does not support the <audio> element.
+
+W hen cecilia rosenbaum saw a book-spine staircase where the vertical part of each step was adorned with colourful stickers showing “Peter Pan”, “Charlie and the Chocolate Factory” and other titles of beloved children’s books, she decided to copy it for her school. The principal of Montessori Mondial Kungsholmen, a grundskola (mandatory nine-year comprehensive school), is on a mission to get her charges to read more. During break, books are brought out to the park in front of the school. Each day starts with 15 minutes of reading in class. One day a week the teacher reads aloud for everyone.
+
+Once the country with the world’s highest literacy rate, Sweden’s reading standards have declined of late. In 2022 (the latest available data) Sweden’s reading score in pisa, a worldwide study of 15-year-olds’ literacy and other skills, had fallen by 19 points over four years to 487. That compared with 516 for Ireland and 543 for Singapore, the top performer. “Around 25% of Swedish pupils struggle to read properly,” says Lotta Edholm, the higher-education minister. In her view this is “linked to an overreliance on digital tools without sufficient evidence of their effectiveness”.
+
+Ms Edholm is determined to dial down digital education. “Från skärm till pärm” (from screen to binder) is her centre-right government’s slogan for its “back to basics” policy to reduce the use of computers and tablets in favour of handwriting and old-school textbooks. In August this year mobile phones will be banned at all grundskolor. In 2023 the government launched an ambitious investment programme to reach its goal of providing one textbook per pupil per subject. So far it has spent over SKr2bn ($216m) to bring back books and it will continue to invest in offline reading, handwriting and numeracy.
+
+Others in Europe and America are engaged in a return to books and pens in schools, but none as quickly as Denmark, Sweden and Finland, countries that are otherwise enthusiastic adopters of digital technologies. Last year Finland, home of Nokia, one of the world’s mobile-phone pioneers, introduced strict restrictions for the use of mobile phones during school lessons for children aged 7-16. Denmark will follow this year with a law mandating a ban on phones and private tablets for folkeskole, primary and lower-secondary schools, up to the age of 16.
+
+“It’s expensive to go back to books,” says Merete Riisager, a former Danish education minister. Denmark pioneered tablets at school from 2011, but provided teachers with little training. “Our teachers were at sea,” says Kara Barker-Astrom, the principal of Stockholm’s vrg Campus Viktor Rydberg, an upper-secondary school. The country has since come to regret its digital drive. Ms Riisager reckons that tablets played a role in the deterioration of reading and maths skills of Danish pupils.
+
+The scientific evidence for the benefits of phone bans is still thin, but it is growing. “Overall everyone agrees that restricting the use of phones is good for the attention of kids,” says Lucia Magis-Weinberg of the University of Washington.
+
+A study published in October showed that a “bell to bell” phone ban in a large school district in Florida initially led to an increase in student suspensions. Yet it found big improvements in test scores in the second year of the ban. And it found that the phone bans considerably reduced truancy as students adjusted and began to enjoy the experience of not being constantly attached to their screens. Better attendance might explain some of the improvement in test scores. Even so, Ms Magis-Weinberg cautions that there is no one-size-fits-all policy.
+
+Ms Barker-Astrom welcomes many of Ms Edholm’s policies but warns against the pendulum swinging too far. Kids older than 16 need to be able to use phones and laptops as the material they are studying becomes more complex and to prepare them with the digital skills that are required in university and the workplace. Even so, her school still switches off the internet during exams: the temptation to cheat, or scroll, is just too strong. ■

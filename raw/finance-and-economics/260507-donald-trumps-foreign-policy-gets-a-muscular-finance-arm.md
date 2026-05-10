@@ -1,0 +1,27 @@
+# Donald Trump’s foreign policy gets a muscular finance arm
+
+The Development Finance Corporation’s loan book may soon rival the World Bank’s
+
+Ben black is no marine or sailor like those sent by Donald Trump to reopen the Strait of Hormuz. But the American financier may be no less instrumental in helping ships pass through the war-torn waterway. As boss of the International Development Finance Corporation (DFC), Mr Black has been tasked with insuring the oil tankers stuck in the Gulf against damage they may sustain if they attempt passage.
+
+It is not the DFC’s only high-priority mission. Administration officials talk excitedly of its potential role in everything from mining Greenland for critical minerals to rebuilding Cuba. To that end, the DFC is being beefed up from a scrawny federal agency making loans to companies in poor places into the muscular new finance arm of Mr Trump’s foreign policy. Mr Black’s vision is of an “America First” institution, several insiders confirm.
+
+The DFC is a product of Mr Trump’s first term. The idea then was to fuel growth in the world’s poorest countries by lending to companies there at market rates. The bank also offered insurance to intrepid foreign investors that paid out if money was lost to corruption or war. Unlike usaid, an agency Mr Trump gutted, it picked projects likely to turn a profit, favouring industries like mining where America lags behind China. It was staffed with corporate lawyers and financial analysts rather than aid bureaucrats and development economists. Profits were returned to the government. Annual lending grew during Joe Biden’s presidency, from $5bn in 2020 to $12bn in 2024. But most still went to firms working on worthy causes such as poverty alleviation or fighting climate change.
+
+No longer. Now money will go wherever America competes with China, and to projects with Mr Trump’s other foreign-policy goals. Do-goodery is out; hard-nosed geopolitics is in. The board, which approves new investments, includes Marco Rubio and Howard Lutnick, secretaries of state and commerce, respectively. Mr Lutnick in particular has been puritanical about blocking proposals he considers insufficiently in line with Trumpian priorities, say two officials at his department.
+
+In December, at the president’s behest, Congress extended the DFC’s life to 2031, lifted a ban on investing in rich countries, including America, and set aside $5bn for equity takes in companies worth up to 40% of their value. Lawmakers also lifted its ceiling for total lending from $60bn to $205bn, not that far off the World Bank’s loan book of $285bn. New loans declined to $4bn in 2025, amid the latest reorganisation after Mr Trump’s return to office. But Conor Coleman, the DFC’s investment chief, insists that the plan is very much to reach that ceiling.
+
+In order to do so, the DFC will operate like a Wall Street investment firm, insiders say. In February Mr Black opened an office in New York. This makes it easier to work with hedge funds, which the DFC favours as partners over development institutions. Mr Coleman says the DFC plans to make 60-80 investments a year, focusing on infrastructure and covering every industry from fossil fuels to pharmaceuticals.
+
+So far most new investments have assisted America’s scramble for critical minerals. This includes, among other ventures, lending $570m to a rare-earths mine in Brazil and creating a mining joint venture with the Uzbek government. Mr Black is using the DFC’s new ability to invest in the rich world to start snapping up shares in an Australian graphite miner with assets in Louisiana. He has also signed a $1bn deal with Gecamines, a state mining conglomerate in the Democratic Republic of Congo (drc), and Mercuria, a Swiss commodity trader, to export Congolese copper.
+
+In contrast to Mr Biden’s preferred approach of helping individual firms, many of the new transactions are interconnected. Finance for two infrastructure projects, a railway in Angola (worth $550m) and another in the drc (up to $1bn), should eventually help transport minerals including copper back to America. Other deals in Africa are under way but details are for now too sensitive to release, in officials’ telling.
+
+The DFC’s activity in areas other than critical minerals has been less frenzied. Most ideas remain speculative. Insiders at the DFC and the State Department say that these have included deploying the DFC’s capital to encourage American oil firms to invest in Venezuela, whose dictator Mr Trump snatched in January, and using it to finance projects in Cuba, which may be next on the president’s hit list.
+
+One exception is a fund which the DFC runs with the Ukrainian government, created by Mr Trump as a consolation prize for the withdrawal of American military aid, whose first investment backed a maker of drone-navigation technology. Another is the Hormuz insurance scheme. The DFC recruited Chubb, an American underwriter, to organise private-sector policies worth $20bn and threw in $20bn for reinsurance to pull premiums down.
+
+The shipping venture illustrates one pitfall of being at Mr Trump’s beck and call. Although the DFC has insured firms before, it has no experience with shipping, which relies on specialist underwriters. And the problem in the Gulf is less a lack of policies or their prohibitive cost than shipowners’ and captains’ reluctance to risk their vessels being blown up.
+
+A related problem to lack of expertise is the DFC’s skeletal staff. According to the latest available data ■

@@ -689,6 +689,31 @@ Source: `raw/finance-and-economics/260409-free-exchange.md`
 Created: [[global-poverty-reduction]]
 Key insight: ML-targeted transfers could cut poverty to 1% for $318bn/yr (0.3% GDP). But fertiliser/food crisis threatens to reverse gains.
 
+## [2026-05-10] ingest | May 9 batch — operational depth and institutional bottlenecks
+Sources:
+- `raw/asia/260507-the-gutting-of-usaid-has-left-a-void-china-will-not-fill.md`
+- `raw/britain/260508-nigel-farages-triumph-is-not-quite-what-it-seems.md`
+- `raw/business/260506-not-all-oil-giants-are-prospering-from-the-iran-war.md`
+- `raw/business/260507-airlines-are-grappling-with-dwindling-supplies-of-jet-fuel.md`
+- `raw/business/260507-can-a-beauty-mega-deal-save-estee-lauder.md`
+- `raw/business/260507-the-pros-and-cons-of-commuting.md`
+- `raw/europe/260507-secret-document-reveals-russias-plans-to-aid-iran.md`
+- `raw/europe/260507-why-swedish-schools-are-going-unplugged.md`
+- `raw/finance-and-economics/260507-deepseek-and-alibaba-rescue-chinas-office-landlords.md`
+- `raw/finance-and-economics/260507-donald-trumps-foreign-policy-gets-a-muscular-finance-arm.md`
+- `raw/finance-and-economics/260507-unicredits-lowball-bid-for-commerzbank-causes-consternation.md`
+- `raw/international/260507-americas-submarine-dominance-is-under-threat.md`
+- `raw/middle-east-and-africa/260507-mali-shows-the-growing-strength-of-jihadism-in-the-sahel.md`
+- `raw/science-and-technology/260506-the-human-genome-encodes-for-a-new-category-of-molecule.md`
+- `raw/united-states/260507-the-democratic-approach-to-ai-is-not-all-about-bans.md`
+- `raw/united-states/260507-the-supreme-court-has-become-a-great-place-to-build-your-brand.md`
+
+Created: [[may-9-2026-news-batch-insights]], [[china-ai-office-property-2026]], [[european-banking-consolidation-2026]], [[undersea-warfare-2026]], [[beauty-industry-china-dependence]], [[commute-work-design]], [[education-tech-backlash]], [[supreme-court-institutional-legitimacy]], [[peptideins-dark-proteome]], [[uk-party-system-fragmentation-2026]]
+
+Updated: `wiki/index.md`
+
+Key insight: This batch shifts scarcity analysis from obvious commodities into operational depth. Submarines, office tenants, school attention, legal legitimacy, public-health NGOs and bank scale all become positional capacity: the asset matters because it decides who can keep functioning under stress.
+
 ## [2026-04-11] note | Cross-source connections (batch 3)
 - **Full causal chain now visible**: Iran war → strait blockade → oil/gas/fertiliser stuck → energy prices +70% → fertiliser production collapses globally → planting season disrupted → food prices surge → poverty deepens → 45m more hungry
 - **South Korea as microcosm**: The most ambitious chip plan in history collides with Gulf dependency for gas, helium, bromine — shows how energy security is now prerequisite for tech sovereignty

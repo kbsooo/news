@@ -1,0 +1,17 @@
+# Nigel Farage’s triumph is not quite what it seems
+
+Even if Labour’s local-election defeat is devastating
+
+Your browser does not support the <audio> element.
+
+S ir stephen houghton has led Barnsley council since 1996, outlasting eight prime ministers. On May 7th his reign came to an end. The Labour Party, which has run the council since its creation in 1973, was swept away by Reform uk. Sir Stephen was left to make despairing promises: “I’ll move out of the leader’s office, pick up the pieces and represent my residents the best way I can.”
+
+Barnsley is just one of the northern towns in which Reform gave Sir Keir Starmer’s party a kicking. Labour supporters watched in horror as councillor after councillor in the party’s heartlands fell to Nigel Farage’s populist-right outfit. Eluned Morgan, first minister of Wales, was one of 35 Labour members to lose their seats in the Senedd, Wales’s devolved parliament—breaking a century-long winning streak. The trauma could cost Sir Keir his job.
+
+Since taking office in July 2024, Labour has shed support. For each voter who switched to Reform this time round, there are more who switched to the left-leaning alternatives. Many others will not have voted. Labour lost dozens of councillors to the Greens, particularly in young, urban areas. In Hackney—a thoroughly gentrified London neighbourhood—the eco-socialist party defeated Labour to gain its first elected mayor. Labour’s losses are so broad that no wing of the party seems to have a credible route to power, ironically making it harder to remove Sir Keir.
+
+The other half of Britain’s crumbling duopoly also suffered substantial losses. Six Conservative county councils in the south of England changed hands. These covered large parts of the party’s traditional, rural power centres. In Essex, home of Kemi Badenoch, the party’s leader, the Tories lost 39 of their 52 councillors—mostly to Reform, which won 53 seats.
+
+But Mr Farage fell short of his hopes to destroy the Conservatives entirely. The party remains the largest in Hampshire, a county in the south of England, and has so far won six boroughs in London, including Westminster, which it lost to Labour in 2022. Moreover, Reform’s victories are not quite the outright triumph they appear at first glance. The “National Equivalent Vote” is a measure produced by academics to estimate how Britons would have voted if local elections were held across the country. Early projections suggest Reform would have won 31% of the vote this time round. That is lower than the 32% it scored in elections last year. Indeed, it is lower than the 33% won by the Conservative Party in 2022, shortly before the party deposed Boris Johnson as prime minister. Reform may be the preferred party of a plurality of voters, but that is because the system as a whole is fragmenting.
+
+Results in Wales show that Reform’s path to power is far from assured. In the country that Mr Farage once called his main priority, Plaid Cymru, a nationalist party, consolidated the centre-left vote and won 43 seats to Reform’s 34. “Stopping Reform uk” was the second most commonly cited reason for supporting Plaid, after a belief that the party is “standing up for Wales”. If centre-left voters across Britain can similarly be persuaded to co-ordinate to stop Reform, Mr Farage’s current support would be insufficient to form a government—a dash of hope for Labour on a bleak day. ■

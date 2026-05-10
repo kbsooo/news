@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-08 (May 8 batch: Trump-Xi summit, Taiwan shadow-deal risk, jet fuel shortage, DFC Trumpaid, Russia-Iran drones, Callais gerrymandering)
+updated: 2026-05-10 (May 9 batch: undersea capacity, China AI offices, EU banking, education-tech backlash, Supreme Court legitimacy)
 ---
 
 # Wiki Index
@@ -101,6 +101,7 @@ updated: 2026-05-08 (May 8 batch: Trump-Xi summit, Taiwan shadow-deal risk, jet 
 - [[jet-fuel-shortage-2026]] — **NEW** Hormuz closure creates aviation fuel shortfall; ~15% global-demand gap risk, UK/Portugal stocks near rationing thresholds
 - [[russia-iran-drone-axis-2026]] — **NEW** Leaked GRU proposal links Ukraine-war fibre-optic drones to Iran's Gulf escalation options
 - [[us-gerrymandering-callais-2026]] — **NEW** Supreme Court's Callais ruling unleashes mid-decade redistricting and weakens electoral responsiveness
+- [[uk-party-system-fragmentation-2026]] — **NEW** Reform UK's local-election breakthrough is less a majority surge than a sign of two-party fragmentation
 - [[arab-public-opinion-after-iran-war-2026]] — **NEW** Arab rulers repress sympathy for Iran, but publics read Iran through Gaza, Shia grievance and anger at dependent strongmen
 - [[public-markets-private-giants-2026]] — **NEW** SpaceX/OpenAI/Anthropic are private in governance but public through proxies, SPVs, ETFs and corporate balance sheets
 - [[official-statistics-and-market-trust-2026]] — **NEW** Kalshi/Fed, bad-statistics cost and Basel fraying show timely trusted numbers as a core governance constraint
@@ -108,6 +109,14 @@ updated: 2026-05-08 (May 8 batch: Trump-Xi summit, Taiwan shadow-deal risk, jet 
 - [[dfc-trumpaid-geoeconomics]] — **NEW** DFC becomes Trump's strategic finance arm: critical minerals, Hormuz insurance, 205bn loan ceiling and cronyism risk
 - [[sahel-jihadism-2026]] — **NEW** Mali/JNIM attacks show Western withdrawal and Russian-backed junta strategy both failing in the Sahel
 - [[oil-majors-iran-war-2026]] — **NEW** Iran war rewards European oil majors' trading desks more than Exxon/Chevron hedged, Middle-East-exposed balance sheets
+- [[china-ai-office-property-2026]] — **NEW** AI firms revive offices in Hangzhou/Shenzhen, but the recovery depends on jobs AI may later replace
+- [[european-banking-consolidation-2026]] — **NEW** UniCredit-Commerzbank fight shows EU banking scale colliding with national sovereignty
+- [[undersea-warfare-2026]] — **NEW** America's submarine edge remains decisive but is squeezed by Chinese progress and US shipyard bottlenecks
+- [[beauty-industry-china-dependence]] — **NEW** Estée Lauder's slump shows luxury beauty's dependence on China's high-end consumption cycle
+- [[commute-work-design]] — **NEW** Commuting is a labour-retention and gendered life-cycle constraint, not just lost time
+- [[education-tech-backlash]] — **NEW** Sweden's return to books and phone bans marks evidence-led selectivity about digital tools in schools
+- [[supreme-court-institutional-legitimacy]] — **NEW** The Supreme Court's legitimacy problem includes personal branding and weaker institutional voice
+- [[peptideins-dark-proteome]] — **NEW** New microprotein category may open cancer/immunotherapy targets, but false positives remain a risk
 
 ## Synthesis
 
@@ -115,6 +124,7 @@ updated: 2026-05-08 (May 8 batch: Trump-Xi summit, Taiwan shadow-deal risk, jet 
 - [[capacity-without-trust-2026]] — **UPDATE** Capacity/trust frame now extends into domestic political economy: ageing labour, weak state capitalism, Congress pragmatism loss, farm subsidies
 - [[may-2026-news-batch-insights]] — **NEW** May 7 batch synthesis: scarcity becomes governance across oil, compute, institutions, Europe, India, Middle East opinion and concentrated finance
 - [[may-8-2026-news-batch-insights]] — **NEW** Capacity bargaining synthesis: chokepoints, compute, drones, finance, maps, insurance and fuel become governance levers
+- [[may-9-2026-news-batch-insights]] — **NEW** Operational-depth synthesis: submarines, AI offices, courts, schools, banks and NGOs expose positional capacity limits
 
 ## Simulations
 
@@ -128,6 +138,15 @@ updated: 2026-05-08 (May 8 batch: Trump-Xi summit, Taiwan shadow-deal risk, jet 
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-08 | Nigel Farage's triumph is not quite what it seems | Britain |
+| 2026-05-07 | DeepSeek and Alibaba rescue China's office landlords | Finance & Economics |
+| 2026-05-07 | UniCredit's lowball bid for Commerzbank causes consternation | Finance & Economics |
+| 2026-05-07 | America's submarine dominance is under threat | International |
+| 2026-05-07 | Can a beauty mega-deal save Estée Lauder? | Business |
+| 2026-05-07 | The pros and cons of commuting | Business |
+| 2026-05-07 | Why Swedish schools are going unplugged | Europe |
+| 2026-05-07 | Supreme Court has become a great place to build your brand | United States |
+| 2026-05-06 | Human genome encodes new category of molecule | Science & Technology |
 | 2026-05-07 | Trump and Xi will struggle to strike a major economic deal | Briefing |
 | 2026-05-07 | China pushes Trump for concessions on Taiwan | Briefing |
 | 2026-05-07 | The Trump-Xi summit will expose a dysfunctional duo | Leaders |
