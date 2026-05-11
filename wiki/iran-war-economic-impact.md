@@ -13,7 +13,8 @@ sources:
   - raw/finance-and-economics/260417-a-narrow-opening.md
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
   - raw/united-states/260427-sow-bad.md
-updated: 2026-04-28
+  - raw/business/260510-america-faces-another-grocery-price-shock.md
+updated: 2026-05-11
 tags: [economics, energy, oil, supply-chain, inflation, agriculture]
 ---
 
@@ -108,6 +109,12 @@ See [[us-farmers-trade-war-2026]]. The Iran war is now visible inside American f
 
 The political economy is important: the same rural voters who strongly back [[donald-trump|Trump]] are absorbing the combined cost of his trade war and real war, then asking for subsidy relief. That converts a geopolitical supply shock into fiscal pressure.
 
+### American Grocery Transmission Channel
+
+See [[us-grocery-price-shock-2026]]. The May 10 grocery article shows the next stage: the energy shock is spreading beyond farms into packaging, trucking and retail shelves. Tomatoes are already almost **25%** dearer than a year earlier, partly because Trump imposed a **17% levy** on Mexican tomatoes. Petrochemical feedstocks for plastic packaging are about **40%** more expensive, and **80-90%** of US produce moves by lorry, making diesel a direct food-price input.
+
+This matters because grocery inflation is slower than oil-price headlines but more politically potent. The war's economic cost will be felt in repeated supermarket trips, not only petrol prices.
+
 ## Macro Consequences
 
 - Global growth dented, inflation materially higher
@@ -138,6 +145,7 @@ The war has made a powerful case for reducing dependence on the Gulf:
 - [[china]]
 - [[global-poverty-reduction]]
 - [[maritime-law-and-chokepoints]]
+- [[us-grocery-price-shock-2026]]
 
 ---
 
@@ -212,6 +220,12 @@ The war has made a powerful case for reducing dependence on the Gulf:
 [[us-farmers-trade-war-2026]] 참조. 이란 전쟁은 이제 미국 농가 예산 내부에서 보인다. 디젤 가격은 2월 말 이후 약 **40%** 상승해 갤런당 약 **5.40달러**가 되었고, 전 세계 비료 공급의 약 3분의 1이 [[strait-of-hormuz|호르무즈]]를 통과하기 때문에 비료 가격도 급등하고 있다. 다른 산업과 달리 농민들은 파종기에 디젤을 쉽게 대체할 수 없고, 비료를 줄이면 곧바로 수확량 위험이 생긴다.
 
 정치경제가 중요하다: [[donald-trump|트럼프]]를 강하게 지지하는 바로 그 농촌 유권자들이 그의 무역전쟁과 실제 전쟁의 결합 비용을 흡수한 뒤 보조금 구제를 요구하고 있다. 이는 지정학적 공급 충격을 재정 압력으로 전환한다.
+
+### 미국 식료품 전달 경로
+
+[[us-grocery-price-shock-2026]] 참조. 5월 10일 식료품 기사는 다음 단계를 보여준다. 에너지 충격은 농장을 넘어 포장재, 트럭 운송, 소매 매대로 퍼지고 있다. 토마토 가격은 이미 전년 대비 거의 **25%** 비싸졌고, 이는 트럼프가 멕시코산 토마토에 **17% 관세**를 부과한 영향도 있다. 플라스틱 포장재의 석유화학 원료는 약 **40%** 비싸졌으며, 미국 농산물의 **80-90%**가 트럭으로 이동하므로 디젤은 직접적인 식품 가격 투입재가 된다.
+
+이는 식료품 인플레가 유가 헤드라인보다 느리지만 정치적으로 더 강하기 때문에 중요하다. 전쟁의 경제 비용은 주유 가격뿐 아니라 반복되는 슈퍼마켓 방문에서 체감될 것이다.
 
 ## 거시경제적 결과
 

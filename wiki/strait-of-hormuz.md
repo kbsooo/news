@@ -17,7 +17,8 @@ sources:
   - raw/asia/260423-indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait.md
   - raw/finance-and-economics/260423-xi-jinping-wants-a-powerful-currency.md
   - raw/asia/260505-choppy-waters.md
-updated: 2026-05-05
+  - raw/asia/260505-asias-stranded-seafarers-suffer-as-the-iran-war-drags-on.md
+updated: 2026-05-11
 tags: [geography, shipping, oil, chokepoint]
 ---
 
@@ -165,9 +166,13 @@ Backlog could theoretically clear in a week, but captains won't risk it until sa
 
 Even after departure, Asia-bound vessels take **3+ weeks**; Europe faces **4-6 week** wait for diesel/jet fuel.
 
-### May 5 limited-capture note: stranded Asian seafarers
+### May 5 full-text update: stranded Asian seafarers
 
-The May 5 Asia item was captured only as a header/RSS entry, not full article text, so this wiki should not infer details beyond the preserved metadata. Its headline still matters: *Asia's stranded seafarers suffer as the Iran war drags on*. It reinforces that the Hormuz crisis is not only an energy-price and legal-order story. The 715-vessel backlog also has a human layer: mariners are trapped in a more dangerous maritime environment while states bargain over tolls, mines, convoy routes and blockade legitimacy.
+The full article confirms the human layer of the backlog. Around **20,000 seafarers** remain stuck in the Gulf, many from the Philippines, Indonesia and India. Legal rights to refuse unsafe deployment do not free those already aboard: crews cannot abandon ships until replacements are found, few replacements want to enter the Gulf, flights are scarce and expensive, and Gulf visas are hard to obtain.
+
+This means reopening the strait is not the same as normalising shipping. Industry representatives estimate crew rotation could take **at least six months** even after a safer route appears. Some seafarers receive double pay in war zones, but less than half of commercial ships are covered by such agreements. Others face water rationing, food shortages and direct danger; at least ten seafarers, including Indians and Thais, have been killed during the war.
+
+See [[maritime-labour-and-chokepoints]] for the broader labour/remittance layer.
 
 ## The Malacca Precedent Debate — Singapore vs Malaysia
 
@@ -199,6 +204,7 @@ The strait is the world's most important oil chokepoint. Iran's ability to hold 
 - [[iran-war-economic-impact]]
 - [[fertiliser-and-food-crisis-2026]]
 - [[maritime-law-and-chokepoints]]
+- [[maritime-labour-and-chokepoints]]
 - [[south-korea]]
 - [[donald-trump]]
 
@@ -321,9 +327,13 @@ The strait is the world's most important oil chokepoint. Iran's ability to hold 
 
 출항 이후에도 아시아행 선박은 **3주 이상**, 유럽은 디젤/항공유 도착까지 **4~6주**가 소요된다.
 
-### 5월 5일 제한 캡처 메모: 발 묶인 아시아 선원들
+### 5월 5일 전문 업데이트: 발 묶인 아시아 선원들
 
-5월 5일 아시아 기사는 전문이 아니라 제목/RSS 항목만 캡처되었으므로, 이 위키는 보존된 메타데이터 이상의 세부사항을 추론하지 않는다. 그래도 제목은 중요하다: *이란 전쟁이 길어지며 아시아의 발 묶인 선원들이 고통받고 있다*. 이는 호르무즈 위기가 에너지 가격과 법질서 문제에 그치지 않음을 강화한다. 715척 선박 적체에는 인간적 층위도 있다: 국가들이 통행료, 기뢰, 호송 경로, 봉쇄 정당성을 두고 협상하는 동안 선원들은 더 위험해진 해양 환경에 갇힌다.
+전문은 적체의 인간적 층위를 확인한다. 약 **2만 명의 선원**이 여전히 걸프만에 갇혀 있고, 다수는 필리핀, 인도네시아, 인도 출신이다. 위험한 배치를 거부할 법적 권리가 있어도 이미 승선한 사람들은 자유롭지 않다. 대체 인력을 찾기 전에는 배를 떠날 수 없고, 걸프에 들어가려는 대체 인력은 드물며, 항공편은 부족하고 비싸고, 걸프 비자는 얻기 어렵다.
+
+따라서 해협 재개방은 해운 정상화와 같지 않다. 업계 관계자들은 더 안전한 항로가 생겨도 선원 교대가 정상화되기까지 **최소 6개월**이 걸릴 수 있다고 본다. 일부 선원은 전쟁 수역에서 두 배 임금을 받지만, 이런 협약은 상선의 절반 미만에만 적용된다. 다른 선원들은 담수 배급, 식량 부족, 직접적 위험에 직면한다. 전쟁 중 인도인과 태국인을 포함한 선원 최소 10명이 사망했다.
+
+더 넓은 노동·송금 층위는 [[maritime-labour-and-chokepoints|해운 노동과 병목 해협]] 참조.
 
 ## 말라카 선례 논쟁 — 싱가포르 vs 말레이시아
 

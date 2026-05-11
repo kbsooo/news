@@ -3,7 +3,8 @@ title: Renewables Acceleration 2026 — Solar Overtakes Coal
 type: concept
 sources:
   - raw/finance-and-economics/260423-renewables-are-shining.md
-updated: 2026-04-24
+  - raw/business/260510-can-mukesh-ambani-pull-off-his-biggest-gamble-yet.md
+updated: 2026-05-11
 tags: [energy, renewables, solar, iran-war, climate, iea, ember]
 ---
 
@@ -102,6 +103,11 @@ These are solvable — but they mean the renewables acceleration is uneven geogr
 - [[china-export-boom-2026|China export boom]]: Q1 2026 memory chips +174% partly reflects AI; solar/battery modules also surging
 - A major Asian solar procurement wave **further strengthens Chinese industrial policy**, which is already the topic of global imbalance debate ([[global-imbalances-2026]])
 
+### On Indian national champions
+- [[reliance-industries]] is building solar, battery and green-hydrogen "gigafactories" in Jamnagar while also planning enormous AI data-centre investments.
+- This links renewables to AI sovereignty: India will need cheap domestic power not only to reduce Gulf exposure but also to run compute infrastructure.
+- The same capital-intensive logic that built Jio may help build clean-energy and AI infrastructure, but software capability remains a separate constraint.
+
 ### On Russian gas leverage
 - Russian gas to Europe already mostly cut
 - Remaining leverage (to Turkey, Central Asia, some EU) compressed further by renewables growth
@@ -130,12 +136,14 @@ The energy-security frame **unlocks renewables procurement from political consti
 - [[european-energy-response-2026]] — European-specific response
 - [[south-korea]] — chip industry energy exposure
 - [[china-export-boom-2026]] — Chinese manufacturing beneficiary
+- [[reliance-industries]] — Indian national-champion energy/AI bet
 
 ## See Also
 - [[great-power-rivalry]]
 - [[gulf-states]]
 - [[india]]
 - [[japanese-auto-industry]]
+- [[reliance-industries]]
 
 ---
 
@@ -234,6 +242,11 @@ The energy-security frame **unlocks renewables procurement from political consti
 - [[china-export-boom-2026|중국 수출 붐]]: 2026 Q1 메모리 칩 +174% 부분적으로 AI 반영; 태양광/배터리 모듈도 급증
 - 주요 아시아 태양광 조달 파동이 **중국 산업 정책을 더욱 강화**, 이미 세계 불균형 논쟁 주제 ([[global-imbalances-2026]])
 
+### 인도 국가 챔피언에 대해
+- [[reliance-industries]]는 Jamnagar에서 태양광, 배터리, 그린수소 "기가팩토리"를 짓는 동시에 거대한 AI 데이터센터 투자를 계획하고 있다.
+- 이는 재생에너지를 AI 주권과 연결한다. 인도는 걸프 노출을 줄이기 위해서뿐 아니라 컴퓨트 인프라를 운영하기 위해서도 싼 국내 전력이 필요하다.
+- Jio를 만든 자본집약적 논리는 청정에너지와 AI 인프라 구축에도 도움이 될 수 있지만, 소프트웨어 역량은 별도의 제약으로 남는다.
+
 ### 러시아 가스 레버리지에 대해
 - 러시아 대유럽 가스는 이미 대부분 차단
 - 잔여 레버리지(터키, 중앙아시아, 일부 EU)가 재생에너지 성장으로 추가 압축
@@ -262,6 +275,7 @@ The energy-security frame **unlocks renewables procurement from political consti
 - [[european-energy-response-2026]] — 유럽 특정 대응
 - [[south-korea]] — 칩 산업 에너지 노출
 - [[china-export-boom-2026]] — 중국 제조 수혜자
+- [[reliance-industries]] — 인도 국가 챔피언의 에너지/AI 베팅
 
 ## See Also
 - [[great-power-rivalry]]

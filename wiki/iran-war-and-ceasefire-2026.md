@@ -25,7 +25,8 @@ sources:
   - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
   - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
-updated: 2026-04-23
+  - raw/asia/260505-asias-stranded-seafarers-suffer-as-the-iran-war-drags-on.md
+updated: 2026-05-11
 tags: [war, middle-east, united-states, iran, ceasefire]
 ---
 
@@ -68,7 +69,7 @@ tags: [war, middle-east, united-states, iran, ceasefire]
 
 INTERTANKO (tanker owners association) warns the situation is a "cessation of violence, rather than a complete ceasefire agreement" and that "conflict could break out at very short notice." Significant disagreement remains between Iran, America, and Israel over terms.
 
-Hundreds of ships and thousands of mariners remain stranded in the Gulf. The [[strait-of-hormuz]] remains effectively under Iranian control with minimal transit (7-14 ships/day vs. pre-war 125/day).
+Hundreds of ships and around **20,000 mariners** remain stranded in the Gulf. The [[strait-of-hormuz]] remains effectively under Iranian control with minimal transit (7-14 ships/day vs. pre-war 125/day). The seafarer problem means even a diplomatic reopening would leave a labour bottleneck: crew changes, replacement crews, visas, flights and confidence could take months to restore.
 
 ## Assessment: A Misjudgment?
 
@@ -81,6 +82,8 @@ Key question: Can Trump "really declare victory over Iran if it can now act as t
 ## Humanitarian Dimensions
 
 - IMO negotiating "humanitarian corridor" for stranded seafarers
+- Around **20,000 seafarers** remain stuck in the Gulf; at least ten, including Indians and Thais, have been killed during the war
+- Crew-replacement dynamics could delay normalisation by **at least six months** even after safe passage appears
 - UN bodies working to unblock essential goods (fertilizer, etc.)
 - Iran's foreign minister says passage "will be possible via co-ordination with Iran's armed forces"
 
@@ -284,6 +287,7 @@ This conflict is the defining case study of [[great-power-rivalry]] dynamics in 
 - [[european-defence-industry]]
 - [[great-power-rivalry]]
 - [[maritime-law-and-chokepoints]]
+- [[maritime-labour-and-chokepoints]]
 - [[laws-of-war-and-civilian-infrastructure]]
 - [[fertiliser-and-food-crisis-2026]]
 - [[asian-remittance-shock-2026]]
@@ -320,7 +324,7 @@ This conflict is the defining case study of [[great-power-rivalry]] dynamics in 
 
 INTERTANKO(유조선 선주 협회)는 현 상황이 "완전한 휴전 합의가 아닌 폭력의 중단"이며, "매우 짧은 시간 내에 분쟁이 재개될 수 있다"고 경고했다. 이란, 미국, 이스라엘 간 조건에 대한 상당한 의견 차이가 남아 있다.
 
-수백 척의 선박과 수천 명의 선원이 페르시아만에 발이 묶여 있다. [[strait-of-hormuz]]는 사실상 이란의 통제하에 있으며 통행량은 최소 수준이다(하루 7~14척 vs. 전쟁 전 125척).
+수백 척의 선박과 약 **2만 명의 선원**이 페르시아만에 발이 묶여 있다. [[strait-of-hormuz]]는 사실상 이란의 통제하에 있으며 통행량은 최소 수준이다(하루 7~14척 vs. 전쟁 전 125척). 선원 문제는 외교적 재개방 이후에도 노동 병목이 남는다는 뜻이다. 선원 교대, 대체 인력, 비자, 항공편, 신뢰 회복에는 수개월이 걸릴 수 있다.
 
 ## 평가: 오판이었나?
 
@@ -333,6 +337,8 @@ INTERTANKO(유조선 선주 협회)는 현 상황이 "완전한 휴전 합의가
 ## 인도적 차원
 
 - IMO(국제해사기구), 발이 묶인 선원들을 위한 "인도적 통로" 협상 중
+- 약 **2만 명의 선원**이 걸프만에 갇혀 있으며, 전쟁 중 인도인과 태국인을 포함한 최소 10명이 사망
+- 안전 통로가 생겨도 선원 교대 구조 때문에 정상화가 **최소 6개월** 지연될 수 있음
 - 유엔 기구들, 필수 물자(비료 등) 통과 해제를 위해 노력 중
 - 이란 외무장관, 통행은 "이란 군과의 조율을 통해 가능할 것"이라고 발언
 

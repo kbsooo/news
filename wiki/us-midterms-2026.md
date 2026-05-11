@@ -7,7 +7,8 @@ sources:
   - raw/leaders/260423-america-is-vulnerable-to-electoral-vandalism.md
   - raw/united-states/260423-lexington.md
   - raw/united-states/260427-sow-bad.md
-updated: 2026-04-28
+  - raw/business/260510-america-faces-another-grocery-price-shock.md
+updated: 2026-05-11
 tags: [united-states, elections, donald-trump, democrats, congress, election-integrity, ice, legitimacy, agriculture]
 ---
 
@@ -71,6 +72,10 @@ Conversely, the Dem-held House would create a **hard floor** against further exe
 [[us-farmers-trade-war-2026]] adds a rural-economy channel to the forecast. Farmers are being hit by retaliatory tariffs, zeroed-out China soybean demand, 40% higher diesel prices and soaring fertiliser costs. Yet rural voters remain Trump's strongest constituency and are asking for relief rather than defecting en masse. The Farm Bill's possible subsidy increase to **$41bn** by 2027 is therefore both economic support and political maintenance.
 
 [[us-congress-pragmatism-collapse]] adds a candidate-quality channel. Thom Tillis's retirement makes North Carolina harder for Republicans to hold, even though he was one of the few Republican senators capable of pragmatic cross-pressure politics in a purple state. The broader pattern is that both parties are purging the very legislators who can win marginal states and make institutions work.
+
+## Grocery Inflation Channel
+
+[[us-grocery-price-shock-2026]] adds a kitchen-table channel. Tomatoes are already almost **25%** dearer than a year earlier, and the Iran-war energy shock is moving into fertiliser, plastic packaging and refrigerated trucking. Grocery anxiety is one of the clearest ways ordinary voters experience incumbent failure, so it may matter more to the House forecast than abstract crude-price charts.
 
 ## Prediction-Market vs Model Gap
 
@@ -171,6 +176,7 @@ The evidence is already visible: only **25%** of voters say they are confident t
 - [[ai-in-lawmaking]]
 - [[us-congress-pragmatism-collapse]]
 - [[us-farmers-trade-war-2026]]
+- [[us-grocery-price-shock-2026]]
 
 ---
 
@@ -234,6 +240,10 @@ The Economist의 통계 예측 모델(2026년 4월 21일 발표)은 민주당이
 [[us-farmers-trade-war-2026]]는 전망에 농촌경제 경로를 추가한다. 농민들은 보복 관세, 중국 대두 수요의 소멸, 40% 오른 디젤 가격, 급등한 비료 비용에 맞고 있다. 그러나 농촌 유권자는 여전히 트럼프의 가장 강한 지지층이며, 대규모 이탈보다 구제를 요구하고 있다. 따라서 Farm Bill이 2027년까지 보조금을 **410억 달러**로 늘릴 가능성은 경제 지원이자 정치적 유지 비용이다.
 
 [[us-congress-pragmatism-collapse]]는 후보 질 경로를 추가한다. Thom Tillis의 은퇴는 그가 보라색 주에서 실용적 압력 정치를 할 수 있는 몇 안 되는 공화당 상원의원이었음에도, 노스캐롤라이나를 공화당이 지키기 더 어렵게 만든다. 더 넓은 패턴은 양당이 경합주에서 이기고 제도를 작동시킬 수 있는 의원들을 몰아내고 있다는 것이다.
+
+## 식료품 인플레 채널
+
+[[us-grocery-price-shock-2026]]는 장바구니 채널을 추가한다. 토마토 가격은 이미 전년 대비 거의 **25%** 비싸졌고, 이란 전쟁의 에너지 충격은 비료, 플라스틱 포장, 냉장 트럭 운송으로 이동하고 있다. 식료품 불안은 일반 유권자가 집권 세력의 실패를 체감하는 가장 분명한 방식 중 하나이므로, 추상적인 원유 가격 차트보다 하원 전망에 더 중요할 수 있다.
 
 ## 예측 시장 vs 모델 갭
 

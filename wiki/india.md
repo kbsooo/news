@@ -8,7 +8,8 @@ sources:
   - raw/asia/260412-indias-most-liveable-megacity.md
   - raw/asia/260414-girls-aloud.md
   - raw/asia/260426-making-indias-numbers-count-again.md
-updated: 2026-04-27
+  - raw/business/260510-can-mukesh-ambani-pull-off-his-biggest-gamble-yet.md
+updated: 2026-05-11
 tags: [asia, geopolitics, economics, energy, governance, statistics]
 ---
 
@@ -99,6 +100,12 @@ India finds itself pulled in multiple directions by the Iran war and Trump-era d
 - **May 2025 war with [[pakistan|Pakistan]]** — a four-day air conflict that Pakistan credited Trump with resolving (to India's irritation)
 - India's manufacturing still relies heavily on Chinese inputs and know-how, creating structural dependence even as national-security hawks push for decoupling
 
+## Reliance as National Champion
+
+See [[reliance-industries]]. Mukesh Ambani's next bet matters for India's state-capacity and AI story. Reliance helped make mobile data cheap through Jio, which is now expected to float at a **$130bn-150bn** valuation. It is trying to repeat that infrastructure-first model in AI with **$110bn** of data-centre spending over seven years.
+
+The opportunity is mass-market AI in Indian languages and businesses. The risk is that infrastructure dominance does not automatically create software culture. India may get cheap AI capacity, but the highest-value model and product layers could still belong to American firms unless Reliance can attract and organise scarce developer talent.
+
 ## Statistical Capacity and State Capacity
 
 India is repairing its damaged official data system under **Saurabh Garg**, who took over the statistics ministry in 2024. See [[indian-statistical-system]] for the full page.
@@ -152,6 +159,7 @@ A historic shift is underway: women are becoming India's decisive voting bloc, a
 - [[fertiliser-and-food-crisis-2026]]
 - [[kolkata]]
 - [[indian-statistical-system]]
+- [[reliance-industries]]
 
 ---
 
@@ -241,6 +249,12 @@ A historic shift is underway: women are becoming India's decisive voting bloc, a
 - **이란 전쟁**은 미국이 신뢰할 수 있는 파트너라는 확신을 약화
 - **2025년 5월 [[pakistan|파키스탄]]과의 전쟁** — 4일간의 공중전으로, 파키스탄이 트럼프의 중재 공로를 돌렸다 (인도에게는 큰 불만)
 - 인도 제조업은 여전히 중국 부품과 기술에 크게 의존하며, 안보 강경파가 디커플링을 밀어붙여도 구조적 의존이 지속
+
+## 국가 챔피언으로서의 Reliance
+
+[[reliance-industries]] 참조. 무케시 암바니의 다음 베팅은 인도의 국가역량과 AI 이야기에서 중요하다. Reliance는 Jio를 통해 모바일 데이터를 싸게 만들었고, Jio는 이제 **1,300억-1,500억 달러** 가치로 상장될 전망이다. Reliance는 7년간 **1,100억 달러**의 데이터센터 투자로 이 인프라 우선 모델을 AI에서 반복하려 한다.
+
+기회는 인도 언어와 기업을 위한 대중 AI다. 위험은 인프라 지배력이 자동으로 소프트웨어 문화를 만들지는 않는다는 점이다. 인도는 싼 AI 역량을 얻을 수 있지만, Reliance가 희소한 개발자 인재를 끌어들이고 조직하지 못하면 가장 가치 높은 모델과 제품 층위는 여전히 미국 기업의 몫일 수 있다.
 
 ## 통계 역량과 국가역량
 

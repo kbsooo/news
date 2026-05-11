@@ -6,7 +6,8 @@ sources:
   - raw/leaders/260416-the-caracas-condition.md
   - raw/middle-east-and-africa/260422-how-a-sudanese-militia-built-a-military-and-economic-empire.md
   - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
-updated: 2026-04-23
+  - raw/middle-east-and-africa/260510-a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump.md
+updated: 2026-05-11
 tags: [trump, foreign-policy, autocracy, transactionalism, immigration, sudan, iran]
 ---
 
@@ -41,6 +42,9 @@ See [[venezuela]], [[donald-trump#The Caracas Condition]]. After US special forc
 ### 4. Iran blockade brinkmanship
 See [[iran-war-and-ceasefire-2026]]. Trump extended the ceasefire **April 21** rather than strike — even as Iran refused to attend Islamabad talks. He cannot afford another escalation before the midterms; Iran cannot afford sustained economic strangulation. Both sides think they're winning, so the brinkmanship persists without resolution. This is **transactionalism without terms** — pure leverage management.
 
+### 5. M23 mineral pitch
+See [[m23-kivu-mineral-statelet-2026]]. M23's leaders are reading the same transactional signals from the other side. They control mining assets in the Kivus, including Rubaya's roughly **15%** share of current global tantalum supply, and are pitching America directly as a critical-minerals partner. Transactional diplomacy is therefore no longer only state-to-state; quasi-state armed actors are learning to sell control of assets as legitimacy.
+
 ## Unified Operating Logic
 
 | Dimension | How it works |
@@ -50,6 +54,7 @@ See [[iran-war-and-ceasefire-2026]]. Trump extended the ceasefire **April 21** r
 | **Treat autocratic regimes as partners** | Equatorial Guinea dictator welcomed; Libya's Haftar tolerated; Venezuela's new strongwoman anointed |
 | **Ignore human-rights frame** | Refoulement-adjacent deportations; RSF genocide accusations |
 | **Declare partial wins as total** | "Venezuela worked out"; Iran war "ended" despite no nuclear deal |
+| **Reward control over legitimacy** | Critical-minerals logic lets armed groups pitch asset access before political settlement |
 
 ## Why Neither Wins Nor Loses
 
@@ -86,6 +91,7 @@ Trump is not the first to try dumping unwanted immigrants abroad; he is the firs
 - [[venezuela]]
 - [[iran-war-and-ceasefire-2026]]
 - [[great-power-rivalry]]
+- [[m23-kivu-mineral-statelet-2026]]
 
 ---
 
@@ -120,6 +126,9 @@ Trump is not the first to try dumping unwanted immigrants abroad; he is the firs
 ### 4. 이란 봉쇄 벼랑끝 전술
 [[iran-war-and-ceasefire-2026]] 참조. 트럼프는 **4월 21일** 휴전을 연장 — 이란이 이슬라마바드 회담 참석을 거부했음에도 — 공격이 아닌. 중간선거 전 추가 확전 불가능; 이란도 지속적 경제 교살 감당 불가. 양측 모두 자신이 이긴다고 생각 → 벼랑끝 지속되지만 결론 없음. 이는 **조건 없는 거래주의** — 순수한 레버리지 관리.
 
+### 5. M23 광물 제안
+[[m23-kivu-mineral-statelet-2026]] 참조. M23 지도자들은 같은 거래주의 신호를 반대편에서 읽고 있다. 이들은 현재 세계 탄탈럼 공급의 약 **15%**에 해당하는 Rubaya를 포함해 키부의 광산 자산을 통제하며, 미국에 핵심광물 파트너로 직접 제안하고 있다. 따라서 거래주의 외교는 더 이상 국가 대 국가에 그치지 않는다. 준국가 무장 행위자도 자산 통제를 정당성처럼 판매하는 법을 배우고 있다.
+
 ## 통일된 운영 논리
 
 | 차원 | 작동 방식 |
@@ -129,6 +138,7 @@ Trump is not the first to try dumping unwanted immigrants abroad; he is the firs
 | **독재 체제를 파트너로 대우** | 적도기니 독재자 환영; 리비아 Haftar 용인; 베네수엘라 신 강자 인정 |
 | **인권 프레임 무시** | refoulement 인접 추방; RSF 학살 고발 |
 | **부분 승리를 완전 승리로 선포** | "베네수엘라 해결"; 이란 전쟁 "종결"에도 핵 합의 부재 |
+| **정당성보다 통제를 보상** | 핵심광물 논리는 무장집단이 정치적 합의보다 먼저 자산 접근을 제안하게 만든다 |
 
 ## 왜 승리도 패배도 아닌가
 

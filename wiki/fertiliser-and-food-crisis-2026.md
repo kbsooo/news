@@ -6,7 +6,8 @@ sources:
   - raw/finance-and-economics/260408-the-state-of-the-deal.md
   - raw/leaders/260409-the-hangover.md
   - raw/leaders/260416-the-impending-global-food-shock-is-preventable.md
-updated: 2026-04-16
+  - raw/business/260510-america-faces-another-grocery-price-shock.md
+updated: 2026-05-11
 tags: [food, agriculture, fertiliser, energy, poverty, supply-chain]
 ---
 
@@ -61,6 +62,12 @@ Diesel prices also up sharply — affecting mechanized farming (combines, water 
 
 The World Food Programme warns a prolonged war could add **45 million people** to acute hunger, reaching **363 million** total.
 
+## US Grocery Transmission (May 10 update)
+
+The American grocery-price article shows how the fertiliser shock reaches rich-country consumers even when harvest volumes do not immediately collapse. Fertiliser can be as much as **40%** of farm input costs, but many 2026 planting costs were already locked in before the war. That delays the supply response: this year's acreage may hold, while next season absorbs bankruptcies, reduced planting or lower fertiliser use.
+
+The immediate grocery effect comes through the adjacent energy channels: diesel-powered farm equipment, oil-derived plastic packaging and refrigerated trucking. This means the food crisis has two clocks: a humanitarian clock in fertiliser-dependent poor countries, and a political-inflation clock in rich countries' supermarkets.
+
 ## Comparison to 2022
 
 When Russia invaded Ukraine (two giant grain exporters), wheat surged 50%. The Iran war's wheat impact so far is only +4% — because the Gulf isn't a breadbasket and last year's harvest was good. **But problems will stack up** in H2 2026 when current harvests are affected.
@@ -113,6 +120,7 @@ See [[global-poverty-reduction]] — the food crisis directly threatens to rever
 - [[global-poverty-reduction]]
 - [[south-korea]]
 - [[asian-remittance-shock-2026]]
+- [[us-grocery-price-shock-2026]]
 
 ---
 
@@ -166,6 +174,12 @@ See [[global-poverty-reduction]] — the food crisis directly threatens to rever
 | 잠비아 | 최대 30% |
 
 세계식량계획(WFP)은 전쟁이 장기화될 경우 **4,500만 명**이 급성 기아 인구에 추가되어 총 **3억 6,300만 명**에 이를 수 있다고 경고했다.
+
+## 미국 식료품 전달 (5월 10일 업데이트)
+
+미국 식료품 가격 기사는 수확량이 즉시 무너지지 않아도 비료 충격이 부유국 소비자에게 어떻게 도달하는지 보여준다. 비료는 농장 투입비의 최대 **40%**일 수 있지만, 2026년 파종 비용 상당 부분은 전쟁 전에 이미 확정됐다. 따라서 공급 반응은 지연된다. 올해 재배 면적은 유지될 수 있지만, 다음 시즌에는 파산, 파종 축소, 비료 사용 감소가 반영될 수 있다.
+
+즉각적인 식료품 효과는 인접한 에너지 채널에서 온다. 디젤로 움직이는 농기계, 석유 기반 플라스틱 포장재, 냉장 트럭 운송이다. 그래서 식량 위기에는 두 개의 시계가 있다. 비료 의존도가 높은 빈국의 인도주의 시계와, 부유국 슈퍼마켓의 정치적 인플레 시계다.
 
 ## 2022년과의 비교
 

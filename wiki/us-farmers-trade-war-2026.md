@@ -3,7 +3,8 @@ title: US Farmers and the 2026 Trade-Energy Squeeze
 type: concept
 sources:
   - raw/united-states/260427-sow-bad.md
-updated: 2026-04-28
+  - raw/business/260510-america-faces-another-grocery-price-shock.md
+updated: 2026-05-11
 tags: [united-states, agriculture, trade-war, iran-war, rural-politics, trump]
 ---
 
@@ -38,6 +39,12 @@ The Iran war compounds the trade shock:
 - Farm bankruptcies rose **46%** in 2025.
 - The Farm Bill could nearly double cash subsidies to farmers by 2027, to **$41bn**.
 
+## From Farm Costs to Grocery Prices
+
+The May 10 grocery-price article clarifies timing. Many farmers had already bought seeds, rented land and committed to 2026 planting before the Iran-war shock fully arrived, so immediate crop supply may not fall sharply. The larger farm response may come next season, when losses, bankruptcies and reduced fertiliser use feed into acreage and yields.
+
+For consumers, the quicker channel is logistics: plastic packaging and diesel trucking. That means farmers may suffer before supermarket shelves fully reflect the shock, creating a lag between rural distress and urban grocery anger.
+
 ## Political Paradox
 
 Rural voters remain Trump's strongest constituency despite bearing direct costs from his trade and war policies. Farmers often blame the situation abstractly on geopolitics while still trusting the administration and asking for relief.
@@ -50,6 +57,7 @@ This creates a fiscal-political loop: policy shocks damage a loyal constituency,
 - [[fertiliser-and-food-crisis-2026]]
 - [[financial-markets-2026]]
 - [[us-midterms-2026]]
+- [[us-grocery-price-shock-2026]]
 
 ---
 
@@ -83,6 +91,12 @@ The Economist 분석에서 보복 관세는 어떤 미국 산업보다 농업을
 - 농민들은 수확량 위험에도 비료 사용을 줄이고 있다.
 - 2025년 농가 파산은 **46%** 증가했다.
 - Farm Bill은 2027년까지 농민 현금 보조금을 거의 두 배인 **410억 달러**로 늘릴 수 있다.
+
+## 농장 비용에서 식료품 가격으로
+
+5월 10일 식료품 가격 기사는 시차를 명확히 한다. 많은 농민은 이란 전쟁 충격이 완전히 도달하기 전에 이미 종자를 사고, 토지를 임차하고, 2026년 파종을 결정했다. 따라서 즉각적인 작물 공급은 크게 줄지 않을 수 있다. 더 큰 농업 반응은 다음 시즌에 나타날 수 있다. 손실, 파산, 비료 사용 감소가 재배 면적과 수확량에 반영되기 때문이다.
+
+소비자에게 더 빠른 경로는 물류다. 플라스틱 포장과 디젤 트럭 운송이다. 이는 농민들이 슈퍼마켓 매대가 충격을 완전히 반영하기 전에 먼저 고통받을 수 있음을 뜻한다. 농촌 고통과 도시 식료품 분노 사이에 시차가 생긴다.
 
 ## 정치적 역설
 

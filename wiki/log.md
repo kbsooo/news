@@ -805,3 +805,18 @@ Created: [[trump-xi-summit-2026]], [[usaid-collapse-and-china-aid-gap]], [[dfc-t
 Updated: [[taiwan-deterrence-window-2026]], [[iran]], [[ai-regulation-mythos-moment]], [[nato-and-transatlantic-crisis]], [[drone-war-operational-depth-2026]], [[donald-trump]], `wiki/index.md`
 
 Key insight: This batch reframes world politics as capacity bargaining. The scarce assets are not only oil or troops but also compute, safe model access, tanker insurance, long-range missiles, fuel logistics, civil-society visibility and electoral maps. Trump-era institutions are being repurposed from liberal public goods toward leverage: DFC replaces USAID, tariff predictability replaces trade reform, and redistricting rules replace voter responsiveness.
+
+## [2026-05-11] ingest | May 11 batch — hidden operating layers become political
+Sources:
+- `raw/asia/260505-asias-stranded-seafarers-suffer-as-the-iran-war-drags-on.md` (full-text follow-up to prior limited capture)
+- `raw/business/260510-america-faces-another-grocery-price-shock.md`
+- `raw/business/260510-can-mukesh-ambani-pull-off-his-biggest-gamble-yet.md`
+- `raw/finance-and-economics/260504-the-eu-wants-to-unshackle-its-economy-for-real-this-time.md` (full-text follow-up to prior limited capture)
+- `raw/middle-east-and-africa/260510-a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump.md`
+- `raw/science-and-technology/260506-how-worried-should-you-be-about-hantavirus.md`
+
+Created: [[maritime-labour-and-chokepoints]], [[us-grocery-price-shock-2026]], [[reliance-industries]], [[m23-kivu-mineral-statelet-2026]], [[hantavirus-cruise-outbreak-2026]], [[may-11-2026-news-batch-insights]]
+
+Updated: [[strait-of-hormuz]], [[iran-war-and-ceasefire-2026]], [[iran-war-economic-impact]], [[fertiliser-and-food-crisis-2026]], [[us-farmers-trade-war-2026]], [[us-midterms-2026]], [[europe-deregulation-drive-2026]], [[european-economic-sovereignty]], [[india]], [[ai-labs-and-industry]], [[renewables-acceleration-2026]], [[dfc-trumpaid-geoeconomics]], [[transactional-autocracy-diplomacy-2026]], `wiki/index.md`
+
+Key insight: The batch turns invisible operating layers into first-order political variables. Hormuz is not only ships and tolls but 20,000 trapped seafarers and a six-month crew-rotation lag; US inflation is not only oil but packaging and refrigerated trucks; India's AI future is not only data centres but software culture; European sovereignty is paperwork and single-market plumbing; critical-minerals diplomacy can reward quasi-state asset control; and public health still hinges on coordination inside enclosed mobility systems.

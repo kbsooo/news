@@ -12,7 +12,8 @@ sources:
   - raw/business/260423-apples-new-boss-needs-to-restore-its-magic-for-the-ai-era.md
   - raw/leaders/260423-tim-cook-wrote-a-winning-recipe-for-apple.md
   - raw/united-states/260423-artificial-intelligence-is-creeping-into-american-lawmaking.md
-updated: 2026-04-27
+  - raw/business/260510-can-mukesh-ambani-pull-off-his-biggest-gamble-yet.md
+updated: 2026-05-11
 tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment, tycoons, historical-comparison, governance]
 ---
 
@@ -136,6 +137,12 @@ Both Hassabis (Isomorphic) and Amodei ([[anthropic-mythos|Anthropic/Mythos]]) ar
 
 This is a new pattern: private companies becoming **gatekeepers of dual-use AI capabilities**, with no democratic oversight.
 
+## India Infrastructure Countermodel
+
+[[reliance-industries]] adds a non-American national-champion variant to the AI industry map. Reliance is not trying to be OpenAI or Anthropic first; it is trying to make AI cheap and ubiquitous through distribution, data centres, telecom customers and Indian-language reach. Its planned **$110bn** data-centre spend over seven years is a scale play.
+
+The strategic question is whether AI value sits with infrastructure and distribution or with models, products and developer culture. Reliance proved the first model in telecoms. AI may require the second.
+
 ## Business Context
 
 - **Anthropic**: $30bn annualized revenue (up from $9bn end of 2025)
@@ -235,6 +242,7 @@ See [[ai-in-lawmaking]]. AI is no longer only an industry to be regulated; it is
 - [[ai-in-mathematics]]
 - [[great-power-rivalry]]
 - [[china]] (AI micro-dramas, competing AI ecosystem)
+- [[reliance-industries]]
 
 ---
 
@@ -316,6 +324,12 @@ AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질
 - **허사비스의 정당화**: "사람들은 연구소 리더들에 대해 스스로 판단해야 합니다...동기도 생각해야 합니다."
 
 이것은 새로운 패턴이다: 민간 기업이 민주적 감독 없이 **이중용도 AI 능력의 게이트키퍼**가 되는 것.
+
+## 인도 인프라 반대모델
+
+[[reliance-industries]]는 AI 산업 지도에 미국 밖 국가 챔피언 변형을 추가한다. Reliance는 우선 OpenAI나 Anthropic이 되려는 것이 아니다. 유통망, 데이터센터, 통신 고객, 인도 언어 접근성을 통해 AI를 싸고 보편적으로 만들려 한다. 7년간 **1,100억 달러**의 데이터센터 투자는 규모 베팅이다.
+
+전략적 질문은 AI 가치가 인프라와 유통에 있는지, 아니면 모델, 제품, 개발자 문화에 있는지다. Reliance는 통신에서 첫 번째 모델을 입증했다. AI는 두 번째를 요구할 수 있다.
 
 ## 비즈니스 현황
 
