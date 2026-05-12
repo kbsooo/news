@@ -1,9 +1,26 @@
 ---
 title: Log
-updated: 2026-05-10 (May 10 batch: constraint-polar institutions)
+updated: 2026-05-12 (May 12 batch: operational capacity and political tolerance)
 ---
 
 # Wiki Log
+
+## [2026-05-12] ingest | May 12 batch — operational capacity and political tolerance
+
+Sources:
+- `raw/asia/260504-narendra-modi-has-extended-his-grip-on-india.md`
+- `raw/china/260511-china-knows-that-governing-new-tech-can-be-harder-than-inventing-it.md`
+- `raw/europe/260506-friedrich-merz-cant-go-on-like-this.md`
+- `raw/europe/260507-how-a-ukrainian-strike-on-a-russian-oil-hub-caused-catastrophe.md`
+- `raw/europe/260510-russia-is-stumbling-on-the-battlefield.md`
+- `raw/finance-and-economics/260511-america-is-experiencing-a-productivity-miracle.md`
+- `raw/finance-and-economics/260511-china-wants-more-robots-but-not-fewer-workers.md`
+
+Created: [[may-12-2026-news-batch-insights]], [[american-productivity-miracle-2026]], [[china-human-first-automation-2026]], [[russian-battlefield-inflection-2026]], [[germany-governance-crisis-2026]]
+
+Updated: [[china]], [[drone-war-operational-depth-2026]], [[germany]], [[merz-trump-deterrence-crisis-2026]], [[india-bjp-state-expansion-2026]], [[financial-markets-2026]], `wiki/index.md`
+
+Key insight: The batch is about operational capacity meeting political tolerance. America still converts old technology, cheap energy and labour reallocation into productivity; China can deploy robots quickly but must pace job displacement; Ukraine turns drones into Russian operational-depth pressure but inherits environmental and narrative costs; Germany has strategic ambition but weak machinery for distributing budget and pension pain; India's BJP map expands while voter-roll trust and energy prices create exposure.
 
 ## [2026-05-10] ingest | May 10 batch — constraint-polar institutions
 Sources:

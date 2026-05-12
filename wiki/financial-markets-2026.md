@@ -13,7 +13,8 @@ sources:
   - raw/finance-and-economics/260421-buttonwood.md
   - raw/business/260422-paper-leviathan.md
   - raw/united-states/260427-sow-bad.md
-updated: 2026-04-28
+  - raw/finance-and-economics/260511-america-is-experiencing-a-productivity-miracle.md
+updated: 2026-05-12
 tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury, truss-moment, fiscal-politics, crypto, agriculture]
 ---
 
@@ -47,6 +48,12 @@ By April 10 CPI release, **headline inflation hit 3.3%** (up from 2.4% February)
 
 ### Powell May Stay
 Powell confirmed he won't leave the Fed board at chair term expiry (May 2026), at least until DOJ concludes its spurious probe on Fed HQ renovation. If GOP senators refuse to confirm any Fed appointees during that probe, Powell could remain chair past May. Terms of Jefferson and Barr extend into the 2030s — Warsh faces years of internal disagreement.
+
+### Productivity Miracle Complicates the Rates Story
+
+See [[american-productivity-miracle-2026]]. American productivity has been growing around **2% a year** for roughly five years, the fastest pace in about two decades. The cause is not yet mostly AI; it is delayed adoption of cloud, smartphones and videoconferencing across ordinary firms, plus cheap energy and flexible labour reallocation.
+
+For markets, this cuts both ways. Strong productivity supports earnings and long-run growth, but it does not automatically justify near-term rate cuts. If productivity lifts potential growth, it can also lift the neutral interest rate. The Warsh argument that AI productivity should make money cheaper is therefore incomplete.
 
 ### IMF Spring Meetings: "Liz Truss Moment" Watch (mid-April)
 At the IMF spring meetings in Washington, economists were "beginning to wonder **when, rather than if**, America will suffer a **bond-market reckoning worthy of Liz Truss**." (The Economist, April 16 leader.)
@@ -248,6 +255,12 @@ The **60/40 breakdown** is the same energy shock refracted through portfolio con
 
 ### Powell 잔류 가능성
 Powell은 5월 의장 임기 만료 후에도 이사직을 떠나지 않음을 확인 — DOJ의 허위성 연준 본부 조사 종료 전까지. 조사 기간 중 공화당 상원의원들이 신규 연준 지명자 확정을 거부하면 Powell이 5월 이후에도 의장직 유지 가능. Jefferson과 Barr의 임기는 2030년대까지 — Warsh는 수년간 내부 반대에 직면할 것.
+
+### 생산성 기적은 금리 서사를 복잡하게 만든다
+
+[[american-productivity-miracle-2026]] 참조. 미국 생산성은 약 5년 동안 연 **2%** 안팎으로 성장해 왔고, 이는 약 20년 만의 가장 빠른 속도다. 원인은 아직 주로 AI가 아니다. 일반 기업 전반에 걸친 클라우드, 스마트폰, 화상회의의 지연된 채택, 그리고 저렴한 에너지와 유연한 노동 재배치다.
+
+시장에는 양면적이다. 강한 생산성은 이익과 장기 성장률을 떠받치지만, 단기 금리 인하를 자동으로 정당화하지는 않는다. 생산성이 잠재성장률을 높이면 중립금리도 높일 수 있다. 따라서 AI 생산성이 돈을 더 싸게 만들어야 한다는 Warsh의 주장은 불완전하다.
 
 ## 미국 주식: "전쟁? 무슨 전쟁?" — 2026 Q1 실적 대풍년
 

@@ -4,7 +4,8 @@ type: entity
 sources:
   - raw/europe/260422-can-the-bundeswehr-fight.md
   - raw/europe/260409-syrians-in-germany-are-there-to-stay.md
-updated: 2026-04-23
+  - raw/europe/260506-friedrich-merz-cant-go-on-like-this.md
+updated: 2026-05-12
 tags: [europe, nato, defence, bundeswehr, eu]
 ---
 
@@ -68,6 +69,12 @@ For decades Germany ran down its military while "muttering platitudes about Euro
 - A public thanking soldiers in airports ("a scene he might once have imagined only in America")
 
 This is the **deepest change in German strategic culture** since unification.
+
+## Merz Governance Crisis
+
+See [[germany-governance-crisis-2026]]. Germany's strategic turn is now colliding with domestic governability. Merz's government has enabled defence and infrastructure spending and passed reforms, but only **13%** of Germans say they are satisfied with his work and only **11%** think the government is doing a good job.
+
+The binding constraint is pain distribution: the 2026 growth forecast has been cut to **0.5%**, pensions consume about a quarter of the federal budget, nearly every non-defence ministry faces cuts, and the coalition majority is only **12** seats. Germany has acquired strategic ambition faster than it has rebuilt political machinery capable of sustaining reform.
 
 ## Connection to the 2026 System
 
@@ -146,6 +153,12 @@ Breuer: "**내가 나눈 모든 대화에서 '독일이 하고 있는 일에 의
 - 공항에서 군인에게 감사하는 대중 ("**과거엔 미국에서나 상상할 수 있는 장면**")
 
 **통일 이래 독일 전략문화의 가장 깊은 변화**.
+
+## Merz 거버넌스 위기
+
+[[germany-governance-crisis-2026]] 참조. 독일의 전략적 전환은 이제 국내 통치 가능성과 충돌하고 있다. Merz 정부는 방위 및 인프라 지출을 가능하게 했고 개혁도 통과시켰지만, 독일인 중 그의 업무에 만족한다고 답한 비율은 **13%**, 정부가 일을 잘한다고 본 비율은 **11%**뿐이다.
+
+구속 제약은 고통 배분이다. 2026년 성장률 전망은 **0.5%**로 낮아졌고, 연금은 연방예산의 약 4분의 1을 차지하며, 국방을 제외한 거의 모든 부처가 삭감을 앞두고 있고, 연정 과반은 **12석**에 불과하다. 독일은 개혁을 지속할 정치 기계를 재건한 속도보다 더 빠르게 전략적 야심을 획득했다.
 
 ## 2026년 시스템과의 연결
 

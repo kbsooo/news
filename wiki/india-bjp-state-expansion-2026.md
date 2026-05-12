@@ -3,9 +3,10 @@ title: India BJP State Expansion 2026
 type: event
 sources:
   - raw/asia/260504-saffron-march.md
+  - raw/asia/260504-narendra-modi-has-extended-his-grip-on-india.md
   - raw/leaders/260507-narendra-modis-party-is-on-a-roll-in-india.md
   - raw/finance-and-economics/260430-indias-weak-currency-reflects-deeper-problems-than-the-iran-war.md
-updated: 2026-05-07
+updated: 2026-05-12
 tags: [india, politics, bjp, elections, hindu-nationalism]
 ---
 

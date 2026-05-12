@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU deregulation, M23 minerals, hantavirus)
+updated: 2026-05-12 (May 12 batch: productivity, human-first automation, Russian battlefield inflection, Germany governability)
 ---
 
 # Wiki Index
@@ -34,6 +34,7 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 - [[ethiopia]] — **NEW** Abiy's reformist opening reverses into sham-election repression; Million Beyene disappearance
 - [[apple]] — **NEW** Cook→Ternus succession; hardware/device-stack bet for AI era; Gemini/Siri dependency vs post-iPhone form-factor risk
 - [[reliance-industries]] — **NEW** Ambani's infrastructure-first empire: Jio IPO $130-150bn, $110bn AI data-centre bet, Jamnagar renewables, succession risk
+- [[germany]] — **UPDATE** Strategic rearmament now collides with Merz governability crisis: 13% satisfaction, 12-seat majority, pension/budget pain
 
 ## Events
 
@@ -46,6 +47,8 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 - [[indonesia-malacca-toll-proposal-2026]] — **NEW** Apr 8 Prabowo + Apr 22 Purbaya float Malacca toll citing Iran precedent; Singapore + Malaysia reject within 24hr; Sugiono walks back Apr 23; first public test of Hormuz precedent contagion
 - [[m23-kivu-mineral-statelet-2026]] — **NEW** M23 controls Kivu territory/mines, pitches US on rare earths/3T metals; Rubaya ~15% current tantalum supply; critical-minerals logic meets quasi-state bargaining
 - [[hantavirus-cruise-outbreak-2026]] — **NEW** MV Hondius Andes-strain outbreak: 3 confirmed, 5 suspected, 3 deaths by May 6; low global risk but high coordination signal
+- [[russian-battlefield-inflection-2026]] — **NEW** Ukraine's drone advantage turns into Russian logistical, oil-infrastructure and Victory Day symbolism pressure
+- [[germany-governance-crisis-2026]] — **NEW** Merz has strategic achievements but weak political machinery for distributing reform, pension and budget pain
 
 ## Concepts
 
@@ -127,6 +130,8 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 - [[china-overseas-state-firms-scrutiny]] — **NEW** Ferretti yacht fight shows Chinese state-linked overseas assets facing security and technology-transfer filters
 - [[maritime-labour-and-chokepoints]] — **NEW** Hormuz backlog as labour trap: 20,000 seafarers stuck, Philippine remittances, refusal rights vs replacement scarcity, six-month crew-rotation lag
 - [[us-grocery-price-shock-2026]] — **NEW** Iran-war energy shock moves into US groceries via fertiliser, diesel, petrochemical packaging and refrigerated trucking
+- [[american-productivity-miracle-2026]] — **NEW** US productivity +2%/yr from delayed tech diffusion, cheap energy and labour reallocation, not yet mainly AI
+- [[china-human-first-automation-2026]] — **NEW** Beijing wants drones, robotaxis and AI agents, but paces automation around traffic, security and job-displacement tolerance
 
 ## Synthesis
 
@@ -137,6 +142,7 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 - [[may-9-2026-news-batch-insights]] — **NEW** Operational-depth synthesis: submarines, AI offices, courts, schools, banks and NGOs expose positional capacity limits
 - [[may-10-2026-news-batch-insights]] — **NEW** Constraint-polar synthesis: China, Europe, Germany and America all see opportunity through institutional bottlenecks
 - [[may-11-2026-news-batch-insights]] — **NEW** Hidden operating layers synthesis: crews, packaging, coders, paperwork, rebel taxation and quarantine protocols become political capacity
+- [[may-12-2026-news-batch-insights]] — **NEW** Operational capacity meets political tolerance: productivity, automation, drones, elections and reform all hit absorption ceilings
 
 ## Simulations
 
@@ -146,10 +152,17 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (261)
+## Sources Ingested (253)
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-11 | China knows that governing new tech can be harder than inventing it | China |
+| 2026-05-11 | America is experiencing a productivity miracle | Finance & Economics |
+| 2026-05-11 | China wants more robots but not fewer workers | Finance & Economics |
+| 2026-05-10 | Russia is stumbling on the battlefield | Europe |
+| 2026-05-07 | How a Ukrainian strike on a Russian oil hub caused catastrophe | Europe |
+| 2026-05-06 | Friedrich Merz cannot go on like this | Europe |
+| 2026-05-04 | Narendra Modi has extended his grip on India | Asia |
 | 2026-05-10 | America faces another grocery-price shock | Business |
 | 2026-05-10 | Can Mukesh Ambani pull off his biggest gamble yet? | Business |
 | 2026-05-10 | Congolese militia wants to sell critical minerals to Trump | Middle East & Africa |
@@ -176,7 +189,6 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 | 2026-05-07 | The world must stop AI from empowering bioterrorists | Leaders |
 | 2026-05-07 | Diplomacy or more war? Iran's leaders are split | Middle East & Africa |
 | 2026-05-07 | Secret document reveals Russia's plans to aid Iran | Europe |
-| 2026-05-07 | Ukrainian strike on Russian oil hub causes catastrophe | Europe |
 | 2026-05-07 | Trump's troop-withdrawal threat is serious for Europe | Europe |
 | 2026-05-07 | Airlines grapple with dwindling jet-fuel supplies | Business |
 | 2026-05-06 | Not all oil giants prosper from the Iran war | Business |
@@ -191,14 +203,12 @@ updated: 2026-05-11 (May 11 batch: seafarers, grocery inflation, Reliance AI, EU
 | 2026-05-07 | Europe is unshackling business, but not enough | Leaders |
 | 2026-05-07 | Narendra Modi's party is on a roll in India | Leaders |
 | 2026-05-06 | America masses troops near Taiwan | Asia |
-| 2026-05-06 | Friedrich Merz cannot go on like this | Europe |
 | 2026-05-06 | Despite Trump's talk, lasting Middle East peace is far off | Middle East & Africa |
 | 2026-05-06 | City parenting has become a financial flex | United States |
 | 2026-05-06 | Berkshire Hathaway vs SoftBank | Business |
 | 2026-05-05 | Antisemitism: first grasp where it comes from | Leaders |
 | 2026-05-05 | Can Bill Ackman save the closed-end fund? | Finance & Economics |
 | 2026-05-05 | How AI tools could enable bioterrorism | Science & Technology |
-| 2026-05-04 | Narendra Modi extends grip on India | Asia |
 | 2026-05-04 | China thinks America is declining but dangerous | China |
 | 2026-05-04 | Bad government statistics can cost billions | Finance & Economics |
 | 2026-05-04 | EU wants to unshackle its economy | Finance & Economics |

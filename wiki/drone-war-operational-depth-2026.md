@@ -5,7 +5,8 @@ sources:
   - raw/europe/260505-the-war-room-newsletter-is-russia-being-out-droned.md
   - raw/europe/260507-apocalypse-on-the-black-sea.md
   - raw/europe/260507-deniable-optics.md
-updated: 2026-05-08
+  - raw/europe/260510-russia-is-stumbling-on-the-battlefield.md
+updated: 2026-05-12
 tags: [ukraine, russia, drones, warfare, defence, operational-depth]
 ---
 
@@ -73,6 +74,8 @@ The important exchange is not only "$5,000 drone versus expensive equipment." It
 ### 2026 becomes a test year
 
 Putiata expects Russia's own drone-interceptor system may mature by year-end, while Ukraine may conduct several localised offensive operations before then. That creates a window: if Ukraine can exploit its current advantage before Russia closes the gap, the war may shift from positional attrition back toward bounded manoeuvre.
+
+The May 10 battlefield update reinforces that window. Russia's Victory Day parade omitted tanks and heavy vehicles for the first time in two decades because they were vulnerable drone targets. Russia reportedly lost control of **113 square kilometres** in the previous 30 days, suffered losses around **35,000 soldiers a month**, and saw Ukraine overtake it in long-range drone attacks in March. See [[russian-battlefield-inflection-2026]].
 
 ## Tuapse and the Environmental Cost
 
@@ -156,6 +159,8 @@ The reported GRU plan to help [[iran|Iran]] with fibre-optic and satellite-guide
 ### 2026년은 시험대다
 
 푸티아타는 러시아의 자체 드론 요격 체계가 연말이면 성숙할 수 있다고 보는 한편, 우크라이나가 그 전 몇 차례 국지 공세를 펼칠 수 있다고 본다. 이는 창을 만든다: 러시아가 격차를 좁히기 전에 우크라이나가 현재 우위를 활용한다면, 전쟁은 위치전 소모전에서 제한적 기동으로 일부 되돌아갈 수 있다.
+
+5월 10일 전장 업데이트는 이 창을 강화한다. 러시아 전승절 열병식은 20년 만에 처음으로 전차와 중장비를 생략했다. 드론 표적으로 취약했기 때문이다. 러시아는 지난 30일 동안 **113㎢**의 통제 지역을 잃었고, 매달 약 **35,000명**의 손실을 보고 있으며, 3월에는 우크라이나가 장거리 드론 공격 수에서 러시아를 앞선 것으로 전해진다. [[russian-battlefield-inflection-2026]] 참조.
 
 ## 투압세와 환경 비용
 
