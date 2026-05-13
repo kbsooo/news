@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-12 (May 12 batch: productivity, human-first automation, Russian battlefield inflection, Germany governability)
+updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, rule-of-law chokepoints, passive-capital flows)
 ---
 
 # Wiki Index
@@ -49,6 +49,9 @@ updated: 2026-05-12 (May 12 batch: productivity, human-first automation, Russian
 - [[hantavirus-cruise-outbreak-2026]] — **NEW** MV Hondius Andes-strain outbreak: 3 confirmed, 5 suspected, 3 deaths by May 6; low global risk but high coordination signal
 - [[russian-battlefield-inflection-2026]] — **NEW** Ukraine's drone advantage turns into Russian logistical, oil-infrastructure and Victory Day symbolism pressure
 - [[germany-governance-crisis-2026]] — **NEW** Merz has strategic achievements but weak political machinery for distributing reform, pension and budget pain
+- [[philippine-succession-crisis-2026]] — **NEW** Sara Duterte impeachment turns 2028 succession into Senate trial over dynastic violence, corruption and rule-of-law direction
+- [[eu-china-trade-war-2026]] — **NEW** EU-China trade risk: €1bn/day imbalance, Chinese overcapacity, Brussels safeguards/local-content turn from welfare to industrial security
+- [[syrian-transitional-justice-2026]] — **NEW** Atef Najib trial tests post-Assad justice: swift accountability vs rushed/selective victor's justice
 
 ## Concepts
 
@@ -132,6 +135,9 @@ updated: 2026-05-12 (May 12 batch: productivity, human-first automation, Russian
 - [[us-grocery-price-shock-2026]] — **NEW** Iran-war energy shock moves into US groceries via fertiliser, diesel, petrochemical packaging and refrigerated trucking
 - [[american-productivity-miracle-2026]] — **NEW** US productivity +2%/yr from delayed tech diffusion, cheap energy and labour reallocation, not yet mainly AI
 - [[china-human-first-automation-2026]] — **NEW** Beijing wants drones, robotaxis and AI agents, but paces automation around traffic, security and job-displacement tolerance
+- [[indian-private-universities]] — **NEW** Billionaire-funded elite universities may reverse brain drain, but research quality depends on political autonomy
+- [[index-rebalancing-and-passive-capital]] — **NEW** $36trn passive funds make index committees shadow capital allocators; South Korean bonds may draw $60bn
+- [[us-asylum-collapse-2026]] — **NEW** US asylum disabled through metering, invasion proclamation, detention, DOJ courts and capped processing capacity
 
 ## Synthesis
 
@@ -143,6 +149,7 @@ updated: 2026-05-12 (May 12 batch: productivity, human-first automation, Russian
 - [[may-10-2026-news-batch-insights]] — **NEW** Constraint-polar synthesis: China, Europe, Germany and America all see opportunity through institutional bottlenecks
 - [[may-11-2026-news-batch-insights]] — **NEW** Hidden operating layers synthesis: crews, packaging, coders, paperwork, rebel taxation and quarantine protocols become political capacity
 - [[may-12-2026-news-batch-insights]] — **NEW** Operational capacity meets political tolerance: productivity, automation, drones, elections and reform all hit absorption ceilings
+- [[may-13-2026-news-batch-insights]] — **NEW** Buffer consumption synthesis: oil inventories, Gulf fiscal capacity, legal ambiguity, index liquidity and elite philanthropy hide instability
 
 ## Simulations
 
@@ -152,10 +159,18 @@ updated: 2026-05-12 (May 12 batch: productivity, human-first automation, Russian
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (253)
+## Sources Ingested (261)
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-12 | Asylum in America is all but over. It may never come back | United States |
+| 2026-05-12 | Bashar al-Assad's henchmen start to go on trial in Syria | Middle East & Africa |
+| 2026-05-12 | Index rebalancing is now the biggest event in markets | Finance & Economics |
+| 2026-05-12 | America and China are shielding the world from an oil catastrophe | Finance & Economics |
+| 2026-05-12 | The EU and China are stumbling into a trade war | Europe |
+| 2026-05-12 | The Philippines impeaches its vice-president | Asia |
+| 2026-05-11 | A prolonged Iran crisis could irreversibly damage Gulf states | Middle East & Africa |
+| 2026-05-11 | India's pricey private universities want to take on the Ivy League | Asia |
 | 2026-05-11 | China knows that governing new tech can be harder than inventing it | China |
 | 2026-05-11 | America is experiencing a productivity miracle | Finance & Economics |
 | 2026-05-11 | China wants more robots but not fewer workers | Finance & Economics |

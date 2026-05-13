@@ -837,3 +837,21 @@ Created: [[maritime-labour-and-chokepoints]], [[us-grocery-price-shock-2026]], [
 Updated: [[strait-of-hormuz]], [[iran-war-and-ceasefire-2026]], [[iran-war-economic-impact]], [[fertiliser-and-food-crisis-2026]], [[us-farmers-trade-war-2026]], [[us-midterms-2026]], [[europe-deregulation-drive-2026]], [[european-economic-sovereignty]], [[india]], [[ai-labs-and-industry]], [[renewables-acceleration-2026]], [[dfc-trumpaid-geoeconomics]], [[transactional-autocracy-diplomacy-2026]], `wiki/index.md`
 
 Key insight: The batch turns invisible operating layers into first-order political variables. Hormuz is not only ships and tolls but 20,000 trapped seafarers and a six-month crew-rotation lag; US inflation is not only oil but packaging and refrigerated trucks; India's AI future is not only data centres but software culture; European sovereignty is paperwork and single-market plumbing; critical-minerals diplomacy can reward quasi-state asset control; and public health still hinges on coordination inside enclosed mobility systems.
+
+## [2026-05-13] ingest | May 13 batch — buffer consumption and institutional chokepoints
+
+Sources:
+- `raw/asia/260511-indias-pricey-private-universities-want-to-take-on-the-ivy-league.md`
+- `raw/asia/260512-the-philippines-impeaches-its-vice-president.md`
+- `raw/europe/260512-the-eu-and-china-are-stumbling-into-a-trade-war.md`
+- `raw/finance-and-economics/260512-america-and-china-are-shielding-the-world-from-an-oil-catastrophe.md`
+- `raw/finance-and-economics/260512-index-rebalancing-is-now-the-biggest-event-in-markets.md`
+- `raw/middle-east-and-africa/260511-a-prolonged-iran-crisis-could-irreversibly-damage-gulf-states.md`
+- `raw/middle-east-and-africa/260512-bashar-al-assads-henchmen-start-to-go-on-trial-in-syria.md`
+- `raw/united-states/260512-asylum-in-america-is-all-but-over-it-may-never-come-back.md`
+
+Created: [[indian-private-universities]], [[philippine-succession-crisis-2026]], [[eu-china-trade-war-2026]], [[index-rebalancing-and-passive-capital]], [[syrian-transitional-justice-2026]], [[us-asylum-collapse-2026]], [[may-13-2026-news-batch-insights]]
+
+Updated: [[india]], [[donald-trump]], [[gulf-states]], [[iran-war-economic-impact]], [[european-economic-sovereignty]], [[financial-markets-2026]], `wiki/index.md`
+
+Key insight: The batch is about systems that look stable because buffers are being consumed. America and China are suppressing the oil panic through exports, import cuts and hidden inventories; Gulf governments are spending heavily to preserve the hub illusion; US asylum is being disabled through administrative bottlenecks; index committees quietly move capital; and elite institutions in India, Syria and the Philippines test whether formal capacity can survive political pressure.

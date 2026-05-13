@@ -36,7 +36,8 @@ sources:
   - raw/finance-and-economics/260507-trumpaid.md
   - raw/united-states/260507-calais-consequences.md
   - raw/europe/260507-trumps-threat-to-withdraw-troops-is-serious-for-europe.md
-updated: 2026-05-08
+  - raw/united-states/260512-asylum-in-america-is-all-but-over-it-may-never-come-back.md
+updated: 2026-05-13
 tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer, political-violence, crypto, state-capitalism, agriculture]
 ---
 
@@ -314,6 +315,12 @@ See [[dfc-trumpaid-geoeconomics]] and [[usaid-collapse-and-china-aid-gap]]. Trum
 
 See [[us-gerrymandering-callais-2026]]. The Supreme Court's Callais ruling strengthens the mid-decade redistricting race that Trump triggered through Texas. Even if Democrats still flip the House in 2026, the institutional effect is to make future elections less responsive to national swings.
 
+## Asylum Blockade
+
+See [[us-asylum-collapse-2026]]. The core of Trump's second-term border policy is not only wall-building but the administrative disabling of asylum. Metering, the "invasion" proclamation, detention, low approval rates and control of immigration courts under the Justice Department have pushed asylum approvals from **31%** when Trump took office to **5%** in March 2026.
+
+The pattern matches [[trump-third-country-deportations]]. Rights are not formally repealed; their entry points and processing capacity are captured until they become nearly unusable.
+
 ## Pattern
 
 Trump is a recurring example of a specific dangerous archetype: a leader who combines **overconfidence** in easy victories, **inconsistency** in strategic messaging, and **personalised rule** that resists institutional checks. The Iran war is the definitive case study — treating a war as "a vanity project, in which America's strength absolved him of the responsibility for thinking through the consequences."
@@ -583,6 +590,12 @@ The Economist 4월 16일 사설의 논지:
 ## 트럼프식 원조와 제도 대체
 
 [[dfc-trumpaid-geoeconomics]]와 [[usaid-collapse-and-china-aid-gap]] 참조. 트럼프는 USAID식 공공재를 DFC식 전략 금융으로 대체하고 있다. 패턴은 일관적이다: 원조, 개발, 해운 보험, 광물, 권위주의 국가와의 거래가 자유주의 제도 구축이 아니라 레버리지의 도구가 된다.
+
+## 망명 봉쇄
+
+[[us-asylum-collapse-2026]] 참조. 트럼프 2기의 국경 정책에서 핵심은 장벽 자체보다 망명 제도를 행정적으로 무력화하는 것이다. metering, "침공" 선언, 구금, 낮은 승인율, 법무부 산하 이민법원 통제가 결합되면서 망명 승인율은 취임 당시 **31%**에서 2026년 3월 **5%**로 떨어졌다.
+
+이 패턴은 [[trump-third-country-deportations]]와 같다. 법적 권리를 명시적으로 폐지하지 않고, 절차의 입구와 처리 능력을 장악해 권리를 거의 사용할 수 없게 만든다.
 
 ## Callais 이후 민주주의 규칙
 

@@ -14,7 +14,8 @@ sources:
   - raw/business/260422-paper-leviathan.md
   - raw/united-states/260427-sow-bad.md
   - raw/finance-and-economics/260511-america-is-experiencing-a-productivity-miracle.md
-updated: 2026-05-12
+  - raw/finance-and-economics/260512-index-rebalancing-is-now-the-biggest-event-in-markets.md
+updated: 2026-05-13
 tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury, truss-moment, fiscal-politics, crypto, agriculture]
 ---
 
@@ -177,6 +178,12 @@ Either way, the era of unthinkingly parking money at 60/40 is over.
 See [[stablecoins-and-tokenised-finance]]. Stablecoins were expected to become a new Treasury-demand engine and a threat to bank deposits, but total assets have barely grown since late October 2025 after a 30% six-month surge. The problem is demand, not just regulation: research cited by The Economist finds nearly **half** of stablecoins function as crypto-trading assets and **less than 1%** are used for payments.
 
 This reinforces the 60/40 lesson above: crypto remains tied to risk appetite rather than acting as independent financial infrastructure. If tokenised assets grow beyond today's roughly **$30bn**, stablecoin demand may revive; until then, the market is still attached to its unstable crypto cousins.
+
+## Index Rebalancing as Market Event
+
+See [[index-rebalancing-and-passive-capital]]. Passive capital has become a market-moving force in its own right. About **$36trn** sat in passive funds by 2025, with many more trillions hugging benchmarks. Index changes now redirect flows at national and corporate scale: [[south-korea|South Korean]] government bonds' entry into the FTSE World Government Bond Index may attract up to **$60bn**, while an MSCI downgrade could pull **$7.8bn** from Indonesian stocks.
+
+The paradox is that passive investing creates active arbitrage around index rules. The strategy is more crowded and less profitable than before, but the underlying governance fact remains: index providers now allocate capital without looking like policymakers.
 
 ## Personalised State Capitalism and Farm Subsidy Pressure
 
@@ -371,6 +378,12 @@ AQR이 자체적으로 제시하는 대안 — **주식 시장 중립(equity-mar
 [[stablecoins-and-tokenised-finance]] 참조. 스테이블코인은 새로운 국채 수요 엔진이자 은행 예금에 대한 위협이 될 것으로 예상됐지만, 2025년 10월 말까지 6개월간 30% 급증한 뒤 전체 자산은 거의 늘지 않았다. 문제는 규제만이 아니라 수요다: The Economist가 인용한 연구에 따르면 스테이블코인의 거의 **절반**은 암호화폐 거래 자산으로 기능하고, 결제에 쓰이는 비중은 **1% 미만**이다.
 
 이는 위의 60/40 교훈을 강화한다: 암호화폐는 독립적 금융 인프라라기보다 위험 선호에 묶여 있다. 토큰화 자산이 현재 약 **300억 달러** 수준을 넘어 성장하면 스테이블코인 수요가 되살아날 수 있지만, 그 전까지 시장은 불안정한 암호화폐 친척들에 붙어 있다.
+
+## 시장 이벤트로서의 인덱스 리밸런싱
+
+[[index-rebalancing-and-passive-capital]] 참조. 패시브 자본은 그 자체로 시장을 움직이는 힘이 되었다. 2025년 기준 약 **36조 달러**가 패시브 펀드에 들어 있었고, 더 많은 수조 달러가 벤치마크를 거의 따라간다. 지수 변경은 이제 국가와 기업 규모의 자금 흐름을 재배치한다: [[south-korea|한국]] 국채의 FTSE 세계국채지수 편입은 최대 **600억 달러**를 끌어들일 수 있고, MSCI 강등은 인도네시아 주식에서 **78억 달러**를 빼낼 수 있다.
+
+역설은 패시브 투자가 지수 규칙 주변에서 적극적 차익거래를 만든다는 점이다. 이 전략은 과거보다 더 붐비고 수익성도 낮지만, 기저의 거버넌스 사실은 남는다: 지수 제공업체들은 정책 입안자처럼 보이지 않으면서 자본을 배분한다.
 
 ## 개인화된 국가자본주의와 농업 보조금 압력
 

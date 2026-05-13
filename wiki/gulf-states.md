@@ -8,7 +8,8 @@ sources:
   - raw/middle-east-and-africa/260413-double-trouble.md
   - raw/finance-and-economics/260415-treasure-chest.md
   - raw/middle-east-and-africa/260422-how-a-sudanese-militia-built-a-military-and-economic-empire.md
-updated: 2026-04-23
+  - raw/middle-east-and-africa/260511-a-prolonged-iran-crisis-could-irreversibly-damage-gulf-states.md
+updated: 2026-05-13
 tags: [middle-east, geopolitics, energy, security]
 ---
 
@@ -68,6 +69,20 @@ Combined with the blockade itself, this cluster could drive **Brent crude future
 - Dubai earmarked **$272m** for economic support
 - Qatar can afford repairs (having spent **$200bn on World Cup** infrastructure)
 - UAE **withdrew a $3.5bn loan rollover** to Pakistan, angered by Pakistan's engagement with Iran
+
+### May 2026: Limbo Becomes Structural Risk
+
+The May 11 article changes the timeline. Gulf officials no longer worry only about wartime damage; they worry that a "temporary" closure of [[strait-of-hormuz|Hormuz]] could last long enough to permanently damage business models.
+
+- Saudi oil exports are down roughly **one-third**; UAE exports by **half**
+- Bahrain, Kuwait and Qatar have exported almost nothing
+- Saudi Aramco warns that if trade remains curtailed for more than a few more weeks, market normalisation may slip into **2027**
+- Dubai hotel occupancy may be around **10%** this quarter, down from **80%** in February
+- Bahrain hotel card spending in March was **64%** lower than in February
+- UAE banks have deferred loans and waived fees in a relief package worth more than **$1.6bn**
+- Bahrain has already signed a **$5.4bn** currency swap with the UAE
+
+The political deadline is September. Summer is normally weak anyway, but if expatriates, conferences and tourists do not return after summer, a cyclical downturn becomes a credibility shock to the Gulf hub model.
 
 ## The Alliance Dilemma
 
@@ -210,6 +225,20 @@ The Gulf's post-oil transformation bet was financed by converting petrodollars i
 - 두바이, 경제 지원을 위해 **2억 7,200만 달러** 배정
 - 카타르는 보수 비용 감당 가능 (월드컵 인프라에 **2,000억 달러** 지출한 바 있음)
 - UAE가 파키스탄의 이란 관여에 분노하여 **35억 달러 차관 연장을 철회**
+
+### 2026년 5월: 교착이 구조적 위험이 되다
+
+5월 11일 기사는 시간표를 바꾼다. 걸프 관료들은 이제 전시 피해만 걱정하지 않는다. "일시적" [[strait-of-hormuz|호르무즈]] 폐쇄가 비즈니스 모델을 영구적으로 훼손할 만큼 길어질 수 있음을 걱정한다.
+
+- 사우디 석유 수출은 약 **3분의 1** 감소했고, UAE 수출은 **절반** 줄었다
+- 바레인, 쿠웨이트, 카타르는 거의 아무것도 수출하지 못했다
+- 사우디 아람코는 무역 차질이 몇 주 더 이어지면 시장 정상화가 **2027년**으로 밀릴 수 있다고 경고했다
+- 두바이 호텔 점유율은 이번 분기 약 **10%**로, 2월 **80%**에서 급락할 수 있다
+- 바레인의 3월 호텔 카드 지출은 2월보다 **64%** 낮았다
+- UAE 은행들은 **16억 달러** 이상의 구제 패키지로 대출 상환을 유예하고 수수료를 면제했다
+- 바레인은 이미 UAE와 **54억 달러** 통화스와프를 체결했다
+
+정치적 마감선은 9월이다. 여름은 원래 비수기지만, 여름 이후 주재원, 회의, 관광객이 돌아오지 않으면 경기순환적 침체가 걸프 허브 모델에 대한 신뢰 충격으로 바뀐다.
 
 ## 동맹 딜레마
 

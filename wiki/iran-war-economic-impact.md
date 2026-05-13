@@ -14,7 +14,8 @@ sources:
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
   - raw/united-states/260427-sow-bad.md
   - raw/business/260510-america-faces-another-grocery-price-shock.md
-updated: 2026-05-11
+  - raw/finance-and-economics/260512-america-and-china-are-shielding-the-world-from-an-oil-catastrophe.md
+updated: 2026-05-13
 tags: [economics, energy, oil, supply-chain, inflation, agriculture]
 ---
 
@@ -46,6 +47,18 @@ Three forces pushing to the cliff:
 - **Europe jet fuel**: ~50 days consumption; Kpler model says **precipitous fall if Hormuz not normal by June**
 
 Trafigura's **Saad Rahim**: a cumulative loss of **1.5bn Gulf barrels** (5% of annual global output) is **unavoidable even if the strait reopens now**. Double that if it stays closed.
+
+## May 12 Update: America and China Buy Time
+
+Ten weeks into the war, nearly **14m b/d** of oil remains blocked by the closed [[strait-of-hormuz|Strait of Hormuz]], yet Brent is around **$107**, far below the $150-200 many analysts expected. The reason is not normal supply; it is emergency adaptation.
+
+- America lifted net petroleum exports to nearly **9m b/d**, the highest on record, about **3.8m b/d** above the same period in 2025
+- Canada, Venezuela, Norway and Brazil added smaller non-Gulf barrels
+- China cut petroleum purchases by **6.6m b/d** and appears to be drawing on hidden or hard-to-observe inventory
+- Asian and European refiners have already cut throughput by nearly **4m b/d**
+- Gulf refined-product exports are down **4.4m b/d**, pushing diesel, gasoline and jet fuel up **60-120%** in large markets
+
+This is a crucial distinction: crude looks calmer because China and America are absorbing the shock, but refined products and inventories show the underlying stress. If US refiners redirect more crude to domestic runs or Trump bans refined-product exports to contain petrol prices, the global market could tighten abruptly.
 
 ## April 17–20: Hormuz Reopen Whiplash & The Sequencing Problem
 
@@ -226,6 +239,18 @@ The war has made a powerful case for reducing dependence on the Gulf:
 [[us-grocery-price-shock-2026]] 참조. 5월 10일 식료품 기사는 다음 단계를 보여준다. 에너지 충격은 농장을 넘어 포장재, 트럭 운송, 소매 매대로 퍼지고 있다. 토마토 가격은 이미 전년 대비 거의 **25%** 비싸졌고, 이는 트럼프가 멕시코산 토마토에 **17% 관세**를 부과한 영향도 있다. 플라스틱 포장재의 석유화학 원료는 약 **40%** 비싸졌으며, 미국 농산물의 **80-90%**가 트럭으로 이동하므로 디젤은 직접적인 식품 가격 투입재가 된다.
 
 이는 식료품 인플레가 유가 헤드라인보다 느리지만 정치적으로 더 강하기 때문에 중요하다. 전쟁의 경제 비용은 주유 가격뿐 아니라 반복되는 슈퍼마켓 방문에서 체감될 것이다.
+
+## 5월 12일 업데이트: 미국과 중국이 시간을 벌고 있다
+
+전쟁 10주째, 닫힌 [[strait-of-hormuz|호르무즈 해협]] 때문에 거의 **1,400만 b/d**의 석유가 막혀 있지만 브렌트유는 약 **107달러**다. 많은 분석가가 예상했던 150-200달러보다 훨씬 낮다. 이유는 정상 공급이 아니라 비상 적응이다.
+
+- 미국 순석유 수출은 거의 **900만 b/d**로 사상 최고치를 기록했고, 2025년 같은 기간보다 약 **380만 b/d** 많다
+- 캐나다, 베네수엘라, 노르웨이, 브라질도 소규모 비걸프 원유를 보탰다
+- 중국은 석유 구매를 **660만 b/d** 줄였고, 관측하기 어렵거나 숨은 재고를 끌어오는 것으로 보인다
+- 아시아와 유럽 정유사들은 이미 처리량을 거의 **400만 b/d** 줄였다
+- 걸프 정제제품 수출은 **440만 b/d** 감소해 대형 시장의 디젤, 휘발유, 제트유 가격을 **60-120%** 끌어올렸다
+
+구분이 중요하다: 원유가 차분해 보이는 이유는 중국과 미국이 충격을 흡수하고 있기 때문이다. 그러나 정제제품과 재고는 기저 스트레스를 보여준다. 미국 정유사들이 더 많은 원유를 국내 처리로 돌리거나 트럼프가 휘발유 가격 억제를 위해 정제제품 수출을 금지하면, 세계 시장은 갑자기 조여질 수 있다.
 
 ## 거시경제적 결과
 
