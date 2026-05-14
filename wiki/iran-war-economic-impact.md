@@ -15,7 +15,9 @@ sources:
   - raw/united-states/260427-sow-bad.md
   - raw/business/260510-america-faces-another-grocery-price-shock.md
   - raw/finance-and-economics/260512-america-and-china-are-shielding-the-world-from-an-oil-catastrophe.md
-updated: 2026-05-13
+  - raw/leaders/260514-oil-markets-have-won-a-surprise-reprieve.md
+  - raw/asia/260514-the-gulf-war-will-change-asia-for-good.md
+updated: 2026-05-14
 tags: [economics, energy, oil, supply-chain, inflation, agriculture]
 ---
 
@@ -59,6 +61,12 @@ Ten weeks into the war, nearly **14m b/d** of oil remains blocked by the closed 
 - Gulf refined-product exports are down **4.4m b/d**, pushing diesel, gasoline and jet fuel up **60-120%** in large markets
 
 This is a crucial distinction: crude looks calmer because China and America are absorbing the shock, but refined products and inventories show the underlying stress. If US refiners redirect more crude to domestic runs or Trump bans refined-product exports to contain petrol prices, the global market could tighten abruptly.
+
+## May 14 Update: Reprieve and Asian Political Transmission
+
+The reprieve is still visible with Brent near **$105**, even though cumulative oil loss has reached **2bn barrels** and the daily deficit remains **14m barrels**. America and China are not solving the shortage; they are spending buffers. China has nearly **1.2bn barrels** in reserve, but may return to the market to preserve that cushion.
+
+Asia shows the political transmission. India's fuel-price defence costs roughly **$150m/day** and fertiliser support may add **$4.3bn**; Indonesia's energy subsidies cost about **$60m/day** and its fiscal cap is under pressure. The war is therefore no longer only a global oil shock. It is a fiscal-legitimacy shock for energy-importing Asian democracies.
 
 ## April 17–20: Hormuz Reopen Whiplash & The Sequencing Problem
 
@@ -251,6 +259,12 @@ The war has made a powerful case for reducing dependence on the Gulf:
 - 걸프 정제제품 수출은 **440만 b/d** 감소해 대형 시장의 디젤, 휘발유, 제트유 가격을 **60-120%** 끌어올렸다
 
 구분이 중요하다: 원유가 차분해 보이는 이유는 중국과 미국이 충격을 흡수하고 있기 때문이다. 그러나 정제제품과 재고는 기저 스트레스를 보여준다. 미국 정유사들이 더 많은 원유를 국내 처리로 돌리거나 트럼프가 휘발유 가격 억제를 위해 정제제품 수출을 금지하면, 세계 시장은 갑자기 조여질 수 있다.
+
+## 5월 14일 업데이트: 유예와 아시아 정치 전달
+
+브렌트유가 약 **105달러**인 유예는 아직 보인다. 그러나 누적 석유 손실은 **20억 배럴**에 이르렀고 일일 부족분은 여전히 **1,400만 배럴**이다. 미국과 중국은 부족을 해결하는 것이 아니라 완충재를 쓰고 있다. 중국은 거의 **12억 배럴**의 비축을 갖고 있지만, 그 완충재를 보존하기 위해 시장으로 돌아올 수 있다.
+
+아시아는 정치적 전달을 보여준다. 인도의 연료 가격 방어는 하루 약 **1억5,000만 달러**가 들고, 비료 지원은 **43억 달러**를 더할 수 있다. 인도네시아의 에너지 보조금은 하루 약 **6,000만 달러**이고 재정 상한은 압박받고 있다. 따라서 전쟁은 더 이상 세계 석유 충격만이 아니다. 에너지 수입 아시아 민주주의의 재정-정당성 충격이다.
 
 ## 거시경제적 결과
 

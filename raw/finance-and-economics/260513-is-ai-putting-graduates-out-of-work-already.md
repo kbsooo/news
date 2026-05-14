@@ -1,0 +1,21 @@
+# Is AI putting graduates out of work already?
+
+If you are studying coding, we might have some bad news
+
+"There's no sign in the data that AI is costing anybody their job right now," Kevin Hassett, a White House adviser, said on May 11th. Someone should tell America's class of 2026. "It's grim," one professor says of the market for graduate jobs. Artificial intelligence is the popular villain. At a recent commencement ceremony in Florida a speaker was booed for mentioning it. And not without reason: our analysis suggests AI may indeed be harming some graduates' job prospects.
+
+A university degree no longer seems to offer much protection from joblessness: recent graduates are more likely to be unemployed than the average American worker. The current cohort feels particularly gloomy. Less than a fifth of them think this is a good time to find a good job—the lowest proportion since 2013, and well below the figure for Americans overall, at over a quarter. It does not help that on-campus recruiting has slumped. Job postings on Handshake, a search platform for university students, are 50% below their peak of 2022.
+
+Many suspect AI is to blame. More than half of employers say they have considered replacing entry-level workers with the technology. A recent poll by the Institute of Politics at Harvard University's Kennedy School found that, similarly, more than half of young Americans see AI as a threat to their job prospects.
+
+Economists are more divided. A paper by Erik Brynjolfsson of Stanford University and colleagues, published in 2025, examined employment among young workers in AI-exposed jobs, such as software development. The authors found it had fallen by 16% more than in less-exposed fields. But a paper published this year by Zanna Iscenko and Fabien Curto Millet, two economists at Google, casts doubt on the idea that young workers in particular are being displaced by AI. They found that job postings in AI-exposed occupations have fallen just as sharply for senior workers as for juniors, and that this trend predated the launch of ChatGPT. Another study, by Morgan Frank of the University of Pittsburgh and colleagues, showed that labour-market outcomes have deteriorated for AI-exposed workers, but that this trend also began before ChatGPT was released.
+
+The Economist has conducted its own analysis, using a largely overlooked source of data: ten years' worth of surveys of recent college graduates from the National Association of Colleges and Employers. Each year American universities ask new alumni whether they are working, unemployed or in graduate school. Using their responses, we compared labour-market outcomes in fields with differing levels of exposure to AI before and after the arrival of large language models.
+
+We found that graduates in fields more exposed to AI have suffered markedly worse outcomes. Between 2022 and 2024 graduates in the least-exposed quintile—studying subjects such as education, philosophy and civil engineering—saw their average full-time employment rate fall by just 1.5 percentage points. Those in the most exposed quintile—including computer science, computer engineering and information science—suffered a 6.6 percentage-point drop.
+
+We updated these figures for the most exposed fields, using data from 13 universities, and found that the trend continued for the class of 2025. The rate of full-time employment fell from nearly 70% to 55% in three years—notably, the three years following ChatGPT's release in 2022. Prior to that, it had been stable.
+
+Students are already changing course. Data from the National Student Clearinghouse, a research group, show that undergraduate enrolment in computer science fell by 11% in 2025. Enrolment in computer programming, which focuses on coding skills rather than theory, dropped by 26%.
+
+The work done by computer-science graduates is changing, too. Less time is spent writing code; more is devoted to designing and organising software systems at a higher level. Lana Yarosh, director of undergraduate studies in computer science at the University of Minnesota, says she understands students' anxieties. "It's always hard when things change. But computer science is a field where everything changes all the time." ■

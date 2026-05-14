@@ -37,7 +37,9 @@ sources:
   - raw/united-states/260507-calais-consequences.md
   - raw/europe/260507-trumps-threat-to-withdraw-troops-is-serious-for-europe.md
   - raw/united-states/260512-asylum-in-america-is-all-but-over-it-may-never-come-back.md
-updated: 2026-05-13
+  - raw/china/260514-trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms.md
+  - raw/leaders/260514-not-all-donald-trumps-peacemaking-boasts-are-empty.md
+updated: 2026-05-14
 tags: [united-states, leadership, geopolitics, domestic-politics, fraud, midterms, taxes, corporate-governance, military, ceasefire-imposer, political-violence, crypto, state-capitalism, agriculture]
 ---
 
@@ -311,6 +313,10 @@ See [[trump-xi-summit-2026]]. The summit has narrowed from a hoped-for grand bar
 
 See [[dfc-trumpaid-geoeconomics]] and [[usaid-collapse-and-china-aid-gap]]. Trump is replacing USAID-style public goods with DFC-style strategic finance. The pattern is coherent: aid, development, shipping insurance, minerals and autocracy deals become instruments of leverage rather than liberal institution-building.
 
+### Washington Accords Neutrality Test
+
+[[washington-accords-congo-rwanda-2026]] is one of Trump's more substantive peace claims. The administration has pressured Rwanda by sanctioning its armed forces, but the parallel strategic partnership with Congo gives America preferential minerals access. That creates the same risk as Trumpaid elsewhere: leverage can start a negotiation, then destroy the neutrality needed to finish it.
+
 ## Democracy Rules After Callais
 
 See [[us-gerrymandering-callais-2026]]. The Supreme Court's Callais ruling strengthens the mid-decade redistricting race that Trump triggered through Texas. Even if Democrats still flip the House in 2026, the institutional effect is to make future elections less responsive to national swings.
@@ -334,6 +340,7 @@ Trump is a recurring example of a specific dangerous archetype: a leader who com
 - [[china]]
 - [[israel]]
 - [[iran]]
+- [[washington-accords-congo-rwanda-2026]]
 
 ---
 
@@ -590,6 +597,10 @@ The Economist 4월 16일 사설의 논지:
 ## 트럼프식 원조와 제도 대체
 
 [[dfc-trumpaid-geoeconomics]]와 [[usaid-collapse-and-china-aid-gap]] 참조. 트럼프는 USAID식 공공재를 DFC식 전략 금융으로 대체하고 있다. 패턴은 일관적이다: 원조, 개발, 해운 보험, 광물, 권위주의 국가와의 거래가 자유주의 제도 구축이 아니라 레버리지의 도구가 된다.
+
+### 워싱턴 협정과 중립성 시험
+
+[[washington-accords-congo-rwanda-2026|콩고-르완다 워싱턴 협정]]은 트럼프의 더 실질적인 평화 주장 중 하나다. 행정부는 르완다군을 제재하며 르완다를 압박했지만, 콩고와의 병행 전략적 파트너십은 미국에 우선적 광물 접근권을 준다. 이는 다른 Trumpaid 사례와 같은 위험을 만든다. 레버리지는 협상을 시작하게 만들 수 있지만, 합의를 끝내는 데 필요한 중립성을 파괴할 수 있다.
 
 ## 망명 봉쇄
 

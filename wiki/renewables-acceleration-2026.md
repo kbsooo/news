@@ -4,7 +4,8 @@ type: concept
 sources:
   - raw/finance-and-economics/260423-renewables-are-shining.md
   - raw/business/260510-can-mukesh-ambani-pull-off-his-biggest-gamble-yet.md
-updated: 2026-05-11
+  - raw/asia/260514-the-gulf-war-will-change-asia-for-good.md
+updated: 2026-05-14
 tags: [energy, renewables, solar, iran-war, climate, iea, ember]
 ---
 
@@ -102,6 +103,11 @@ These are solvable — but they mean the renewables acceleration is uneven geogr
 - China dominates solar-module manufacturing (~80% globally)
 - [[china-export-boom-2026|China export boom]]: Q1 2026 memory chips +174% partly reflects AI; solar/battery modules also surging
 - A major Asian solar procurement wave **further strengthens Chinese industrial policy**, which is already the topic of global imbalance debate ([[global-imbalances-2026]])
+
+### On Asian grid integration
+- South-East Asian leaders are discussing a shared fuel stockpile.
+- The Asian Development Bank pledged to mobilise **$50bn by 2035** to integrate Asian power grids.
+- The strategic frame is changing: cross-border power sharing used to look like neighbourly dependence; after Hormuz it looks like insurance against distant chokepoints.
 
 ### On Indian national champions
 - [[reliance-industries]] is building solar, battery and green-hydrogen "gigafactories" in Jamnagar while also planning enormous AI data-centre investments.
@@ -241,6 +247,11 @@ The energy-security frame **unlocks renewables procurement from political consti
 - 중국이 태양광 모듈 제조 지배(세계 ~80%)
 - [[china-export-boom-2026|중국 수출 붐]]: 2026 Q1 메모리 칩 +174% 부분적으로 AI 반영; 태양광/배터리 모듈도 급증
 - 주요 아시아 태양광 조달 파동이 **중국 산업 정책을 더욱 강화**, 이미 세계 불균형 논쟁 주제 ([[global-imbalances-2026]])
+
+### 아시아 전력망 통합에 대해
+- 동남아 지도자들은 공동 연료 비축을 논의하고 있다.
+- 아시아개발은행은 아시아 전력망 통합을 위해 2035년까지 **500억 달러**를 동원하겠다고 약속했다.
+- 전략적 프레임이 바뀌고 있다. 국경 간 전력 공유는 과거에는 이웃에 대한 의존처럼 보였지만, 호르무즈 이후에는 먼 요충지에 대한 보험처럼 보인다.
 
 ### 인도 국가 챔피언에 대해
 - [[reliance-industries]]는 Jamnagar에서 태양광, 배터리, 그린수소 "기가팩토리"를 짓는 동시에 거대한 AI 데이터센터 투자를 계획하고 있다.

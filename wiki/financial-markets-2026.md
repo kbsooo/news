@@ -15,7 +15,8 @@ sources:
   - raw/united-states/260427-sow-bad.md
   - raw/finance-and-economics/260511-america-is-experiencing-a-productivity-miracle.md
   - raw/finance-and-economics/260512-index-rebalancing-is-now-the-biggest-event-in-markets.md
-updated: 2026-05-13
+  - raw/business/260513-big-techs-fat-profits-conceal-unsettling-cashflows.md
+updated: 2026-05-14
 tags: [finance, bonds, markets, private-credit, trump, fed, portfolio-construction, luxury, truss-moment, fiscal-politics, crypto, agriculture]
 ---
 
@@ -185,6 +186,12 @@ See [[index-rebalancing-and-passive-capital]]. Passive capital has become a mark
 
 The paradox is that passive investing creates active arbitrage around index rules. The strategy is more crowded and less profitable than before, but the underlying governance fact remains: index providers now allocate capital without looking like policymakers.
 
+## AI Capex as Market Structure
+
+See [[ai-infrastructure-finance-2026]]. The AI boom is no longer just an earnings-growth story. Five cloud giants are expected to spend about **$800bn** this year on AI data centres and hardware, while future revenue agreements have risen to **$2trn** and future data-centre lease obligations to **$820bn**.
+
+That shifts the market question from "are AI profits large?" to "who is financing the physical substrate, and on what balance sheet?" If enterprise AI demand disappoints, the unwind would run through bonds, leases, SPVs, suppliers and the public-market proxies described in [[public-markets-private-giants-2026]].
+
 ## Personalised State Capitalism and Farm Subsidy Pressure
 
 [[us-state-capitalism-2026]] adds a governance angle to the market story. Trump's administration can bully firms, take stakes and move small stocks, but it has failed to command mortgage rates, petrol prices, credit-card rates or defence-company payouts. Markets still have the whip hand.
@@ -229,6 +236,8 @@ The **60/40 breakdown** is the same energy shock refracted through portfolio con
 - [[donald-trump]]
 - [[iran-war-and-ceasefire-2026]]
 - [[south-korea]] (energy shock impact on industrial policy)
+- [[ai-infrastructure-finance-2026]]
+- [[public-markets-private-giants-2026]]
 
 ---
 
@@ -384,6 +393,12 @@ AQR이 자체적으로 제시하는 대안 — **주식 시장 중립(equity-mar
 [[index-rebalancing-and-passive-capital]] 참조. 패시브 자본은 그 자체로 시장을 움직이는 힘이 되었다. 2025년 기준 약 **36조 달러**가 패시브 펀드에 들어 있었고, 더 많은 수조 달러가 벤치마크를 거의 따라간다. 지수 변경은 이제 국가와 기업 규모의 자금 흐름을 재배치한다: [[south-korea|한국]] 국채의 FTSE 세계국채지수 편입은 최대 **600억 달러**를 끌어들일 수 있고, MSCI 강등은 인도네시아 주식에서 **78억 달러**를 빼낼 수 있다.
 
 역설은 패시브 투자가 지수 규칙 주변에서 적극적 차익거래를 만든다는 점이다. 이 전략은 과거보다 더 붐비고 수익성도 낮지만, 기저의 거버넌스 사실은 남는다: 지수 제공업체들은 정책 입안자처럼 보이지 않으면서 자본을 배분한다.
+
+## 시장 구조가 된 AI 설비투자
+
+[[ai-infrastructure-finance-2026|AI 인프라 금융]] 참조. AI 붐은 더 이상 단순한 이익 성장 이야기가 아니다. 다섯 클라우드 거인은 올해 AI 데이터센터와 하드웨어에 약 **8,000억 달러**를 쓸 것으로 예상되고, 미래 매출 계약은 **2조 달러**, 미래 데이터센터 임대 의무는 **8,200억 달러**로 늘었다.
+
+따라서 시장의 질문은 "AI 이익이 큰가?"에서 "누가 물리적 기반을 금융화하고, 어느 대차대조표에 올리는가?"로 이동한다. 기업 AI 수요가 실망스럽다면 되감기는 채권, 임대, SPV, 공급업체, 그리고 [[public-markets-private-giants-2026|공개시장과 비공개 거인]]에 설명된 공개시장 프록시를 통과할 것이다.
 
 ## 개인화된 국가자본주의와 농업 보조금 압력
 

@@ -6,7 +6,8 @@ sources:
   - raw/china/260504-chaguan.md
   - raw/asia/260506-america-is-massing-troops-near-taiwan-to-deter-troublemaking-by-china.md
   - raw/briefing/260507-china-is-pushing-donald-trump-for-concessions-on-taiwan.md
-updated: 2026-05-08
+  - raw/china/260514-trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms.md
+updated: 2026-05-14
 tags: [taiwan, china, united-states, philippines, deterrence]
 ---
 
@@ -29,6 +30,8 @@ The deterrence architecture depends heavily on President Ferdinand Marcos Jr. Th
 ## Shadow Deal Risk
 
 The May 14-15 [[trump-xi-summit-2026|Trump-Xi summit]] adds a political risk to the military calendar. Chinese officials are pushing for softer American language on Taiwan, smaller or delayed arms packages, and perhaps a statement that America does not oppose "peaceful reunification." Even without a written communique, delayed arms sales and rhetorical concessions could become a shadow deal that weakens Taiwanese morale and helps the KMT argue for accommodation with Beijing.
+
+Xi sharpened this in the May 14 meeting by warning Trump that mishandling Taiwan could bring China and America into conflict. White House officials still played down formal change, but Trump again said he planned to discuss arms sales with Xi. The risk is cumulative: three more expected Trump-Xi meetings this year give Beijing repeated chances to turn delay into policy.
 
 ## See Also
 - [[china]]
@@ -58,3 +61,5 @@ The May 14-15 [[trump-xi-summit-2026|Trump-Xi summit]] adds a political risk to 
 ## 그림자 거래 리스크
 
 5월 14-15일 [[trump-xi-summit-2026|트럼프-시 정상회담]]은 군사적 일정에 정치적 리스크를 더한다. 중국 관료들은 대만에 대한 미국의 표현 완화, 더 작거나 지연된 무기 판매, 그리고 어쩌면 미국이 "평화적 통일"에 반대하지 않는다는 발언을 요구하고 있다. 서면 공동성명이 없더라도 무기 판매 지연과 수사적 양보가 반복되면, 대만의 사기를 약화시키고 KMT가 베이징과의 타협을 주장하는 데 유리한 그림자 거래가 될 수 있다.
+
+시진핑은 5월 14일 회담에서 대만 문제를 잘못 다루면 중국과 미국이 충돌할 수 있다고 트럼프에게 경고하며 이를 더 선명하게 했다. 백악관 관료들은 공식 변화 가능성을 낮게 말했지만, 트럼프는 다시 시진핑과 무기 판매를 논의할 계획이라고 말했다. 위험은 누적된다. 올해 세 차례 더 예상되는 트럼프-시 회담은 베이징이 지연을 정책으로 바꿀 반복 기회를 준다.

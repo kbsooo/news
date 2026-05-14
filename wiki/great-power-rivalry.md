@@ -9,7 +9,9 @@ sources:
   - raw/leaders/260409-our-cover.md
   - raw/china/260419-how-chinese-satellites-have-boosted-irans-war-effort.md
   - raw/culture/260417-in-the-ai-propaganda-war-iran-is-winning.md
-updated: 2026-04-22
+  - raw/science-and-technology/260513-ai-models-are-being-used-to-predict-conflict.md
+  - raw/china/260514-trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms.md
+updated: 2026-05-14
 tags: [geopolitics, war, nationalism, history]
 ---
 
@@ -88,6 +90,12 @@ AI appears in three roles:
 
 The question: will AI primarily enable better decisions, or compress decision time below the threshold of human judgment?
 
+## AI Forecasts as Statecraft
+
+[[ai-conflict-forecasting]] adds a fourth AI role: prediction as statecraft. RAND, ACLED, PRIO and defence-ministry forecasting systems try to anticipate unrest, war and displacement from violence data, satellite imagery, labour strikes, weather, health and political signals.
+
+This can improve early warning, but it also changes incentives. A regime handed a forecast of unrest may use it to prevent violence, or to justify pre-emptive repression. In great-power politics, the question is not only whether AI forecasts are accurate; it is who gets to see them, who trusts them and who can act on them first.
+
 ## US Information-Domain Forfeit (April 2026)
 
 Two parallel self-inflicted wounds during the [[iran-war-and-ceasefire-2026|Iran war]] showed the US **voluntarily ceding the two most powerful information channels of open-society dominance**:
@@ -107,8 +115,10 @@ The structural lesson: great-power competition now includes **AI-enabled informa
 - [[iran]]
 - [[israel]]
 - [[ai-in-mathematics]]
+- [[ai-conflict-forecasting]]
 - [[chinese-earth-observation-rise]]
 - [[ai-propaganda-war-2026]]
+- [[trump-xi-summit-2026]]
 
 ---
 
@@ -186,6 +196,12 @@ AI는 세 가지 역할로 등장한다:
 - **지적 영역**: [[ai-in-mathematics|수학 분야의 AI]]가 증명 검증을 가속화 — 동일한 패턴 처리 역량이 평화적 목적에 적용된 사례
 
 핵심 질문: AI가 주로 더 나은 의사결정을 가능하게 할 것인가, 아니면 인간의 판단력이 미치는 문턱 이하로 의사결정 시간을 압축할 것인가?
+
+## 국가술로서의 AI 예측
+
+[[ai-conflict-forecasting|AI 분쟁 예측]]은 AI의 네 번째 역할을 추가한다: 국가술로서의 예측이다. RAND, ACLED, PRIO, 국방부 예측 시스템들은 폭력 데이터, 위성 이미지, 노동 파업, 날씨, 보건, 정치 신호를 바탕으로 불안, 전쟁, 이주를 예측하려 한다.
+
+이는 조기경보를 개선할 수 있지만 유인도 바꾼다. 불안 예측을 받은 정권은 폭력을 예방하는 데 쓸 수도 있고, 선제 탄압을 정당화하는 데 쓸 수도 있다. 강대국 정치에서 질문은 AI 예측이 정확한지만이 아니다. 누가 그것을 보고, 누가 신뢰하며, 누가 가장 먼저 행동할 수 있는가도 중요하다.
 
 ## 미국의 정보 도메인 포기 (2026년 4월)
 

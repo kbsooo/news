@@ -7,7 +7,8 @@ sources:
   - raw/leaders/260409-the-hangover.md
   - raw/leaders/260416-the-impending-global-food-shock-is-preventable.md
   - raw/business/260510-america-faces-another-grocery-price-shock.md
-updated: 2026-05-11
+  - raw/asia/260514-the-gulf-war-will-change-asia-for-good.md
+updated: 2026-05-14
 tags: [food, agriculture, fertiliser, energy, poverty, supply-chain]
 ---
 
@@ -61,6 +62,12 @@ Diesel prices also up sharply — affecting mechanized farming (combines, water 
 | Zambia | up to 30% |
 
 The World Food Programme warns a prolonged war could add **45 million people** to acute hunger, reaching **363 million** total.
+
+## Asia Rice Stress (May 14)
+
+The Asia follow-up makes the food channel more concrete. Urea is up **50%** in this source, and millions of rice farmers are reducing paddy planting plans because diesel and fertiliser are too expensive. India may spend **$4.3bn** on fertiliser subsidies during planting season, while the UN estimates a prolonged war could shave up to **3.6%** from South Asian GDP.
+
+This is the shift from a global fertiliser bottleneck to a regional rice-security problem.
 
 ## US Grocery Transmission (May 10 update)
 
@@ -174,6 +181,12 @@ See [[global-poverty-reduction]] — the food crisis directly threatens to rever
 | 잠비아 | 최대 30% |
 
 세계식량계획(WFP)은 전쟁이 장기화될 경우 **4,500만 명**이 급성 기아 인구에 추가되어 총 **3억 6,300만 명**에 이를 수 있다고 경고했다.
+
+## 아시아 쌀 스트레스 (5월 14일)
+
+아시아 후속 기사는 식량 채널을 더 구체화한다. 이 소스에서 요소는 **50%** 올랐고, 수백만 명의 쌀 농민이 디젤과 비료가 너무 비싸 논벼 재배 계획을 줄이고 있다. 인도는 파종기 비료 보조금에 **43억 달러**를 쓸 수 있으며, 유엔은 전쟁이 장기화될 경우 남아시아 GDP가 최대 **3.6%** 깎일 수 있다고 본다.
+
+이는 세계 비료 병목에서 지역 쌀 안보 문제로의 이동이다.
 
 ## 미국 식료품 전달 (5월 10일 업데이트)
 

@@ -6,13 +6,20 @@ sources:
   - raw/briefing/260507-china-is-pushing-donald-trump-for-concessions-on-taiwan.md
   - raw/leaders/260507-the-trump-xi-summit-will-expose-a-dysfunctional-duo.md
   - raw/china/260507-artificial-intelligence-revives-a-cold-war-style-dilemma.md
-updated: 2026-05-08
+  - raw/china/260514-trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms.md
+updated: 2026-05-14
 tags: [china, united-states, trade, taiwan, ai, great-power-rivalry]
 ---
 
 # Trump-Xi Summit 2026
 
 The May 14-15 Beijing summit is not a grand-bargain moment. It is a stress test of whether [[donald-trump|Donald Trump]] and [[china|Xi Jinping]] can keep a fragile truce from turning back into full economic conflict while Taiwan, AI and Iran sit just offstage.
+
+## Summit-Day Choreography
+
+On May 14th Xi greeted Trump at Tiananmen Square, held talks in the Great Hall of the People and then escorted him to the Temple of Heaven, the first such visit by an American president since **1975**. The symbolism served both leaders: Trump could sell respect and grandeur at home, while Xi projected civilisational authority during America's Iran-war distraction.
+
+The likely deliverables remain managed-trade mechanisms, including proposed "Board of Trade" and "Board of Investment" structures, plus purchases of American beef, soyabeans and Boeing aircraft. The structural conflicts remain unchanged.
 
 ## Managed Trade, Not Reform
 
@@ -46,6 +53,12 @@ The Economist's leader frames the summit as a dysfunctional G2: not global leade
 # 2026년 트럼프-시 정상회담
 
 5월 14-15일 베이징 정상회담은 거대한 타협의 순간이 아니다. [[donald-trump|도널드 트럼프]]와 [[china|시진핑]]이 취약한 휴전을 다시 전면 경제충돌로 되돌리지 않을 수 있는지를 시험하는 장이다. 대만, AI, 이란은 무대 바로 옆에 놓여 있다.
+
+## 정상회담 당일 의전
+
+5월 14일 시진핑은 트럼프를 톈안먼 광장에서 맞이하고 인민대회당에서 회담한 뒤 천단으로 직접 안내했다. 미국 대통령의 천단 방문은 **1975년** 이후 처음이다. 상징은 두 지도자 모두에게 유리했다. 트럼프는 국내에 존중과 장엄함을 팔 수 있고, 시진핑은 미국이 이란 전쟁에 묶인 동안 문명적 권위를 투사했다.
+
+예상 성과는 여전히 "무역위원회"와 "투자위원회" 같은 관리무역 장치, 그리고 미국산 쇠고기, 대두, 보잉 항공기 구매다. 구조적 갈등은 변하지 않았다.
 
 ## 개혁이 아니라 관리무역
 

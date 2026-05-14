@@ -3,7 +3,7 @@ title: Viktor Orbán
 type: entity
 sources:
   - raw/europe/260412-peter-magyar-defeats-orban.md
-  - raw/europe/260409-orban-ukraine-votes.md
+  - raw/europe/260409-orban-ukraine.md
   - raw/leaders/260413-viktor-and-the-victor.md
 updated: 2026-04-13
 tags: [europe, hungary, populism, russia]

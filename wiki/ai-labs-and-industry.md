@@ -13,7 +13,12 @@ sources:
   - raw/leaders/260423-tim-cook-wrote-a-winning-recipe-for-apple.md
   - raw/united-states/260423-artificial-intelligence-is-creeping-into-american-lawmaking.md
   - raw/business/260510-can-mukesh-ambani-pull-off-his-biggest-gamble-yet.md
-updated: 2026-05-11
+  - raw/business/260513-big-techs-fat-profits-conceal-unsettling-cashflows.md
+  - raw/business/260513-the-war-between-businesses-and-hackers-enters-a-perilous-new-era.md
+  - raw/finance-and-economics/260513-is-ai-putting-graduates-out-of-work-already.md
+  - raw/finance-and-economics/260514-how-to-share-the-ai-windfall.md
+  - raw/leaders/260514-prepare-for-an-ai-jobs-apocalypse.md
+updated: 2026-05-14
 tags: [ai, technology, business, drug-discovery, deepmind, labor-market, employment, tycoons, historical-comparison, governance]
 ---
 
@@ -143,6 +148,12 @@ This is a new pattern: private companies becoming **gatekeepers of dual-use AI c
 
 The strategic question is whether AI value sits with infrastructure and distribution or with models, products and developer culture. Reliance proved the first model in telecoms. AI may require the second.
 
+## Infrastructure and Labour Turn
+
+The May 14 batch shifts the AI industry map from model benchmarks to political economy. [[ai-infrastructure-finance-2026]] shows that hyperscalers are financing the AI boom through capex, bonds, data-centre leases and long-dated compute contracts. [[ai-cyber-arms-race-2026]] shows that frontier capability is also becoming restricted security infrastructure.
+
+[[ai-jobs-and-windfall-2026]] adds the labour side. Aggregate employment has not broken, but graduates in AI-exposed fields are already deteriorating and governments are debating how to share an AI windfall if income shifts from labour to capital. The industry is therefore being judged not only by capability, but by who funds it, who accesses it and who captures its rents.
+
 ## Business Context
 
 - **Anthropic**: $30bn annualized revenue (up from $9bn end of 2025)
@@ -243,6 +254,9 @@ See [[ai-in-lawmaking]]. AI is no longer only an industry to be regulated; it is
 - [[great-power-rivalry]]
 - [[china]] (AI micro-dramas, competing AI ecosystem)
 - [[reliance-industries]]
+- [[ai-infrastructure-finance-2026]]
+- [[ai-cyber-arms-race-2026]]
+- [[ai-jobs-and-windfall-2026]]
 
 ---
 
@@ -330,6 +344,12 @@ AlphaFold: 첫 단백질 구조 **6년** → 알려진 전체 2억 개 단백질
 [[reliance-industries]]는 AI 산업 지도에 미국 밖 국가 챔피언 변형을 추가한다. Reliance는 우선 OpenAI나 Anthropic이 되려는 것이 아니다. 유통망, 데이터센터, 통신 고객, 인도 언어 접근성을 통해 AI를 싸고 보편적으로 만들려 한다. 7년간 **1,100억 달러**의 데이터센터 투자는 규모 베팅이다.
 
 전략적 질문은 AI 가치가 인프라와 유통에 있는지, 아니면 모델, 제품, 개발자 문화에 있는지다. Reliance는 통신에서 첫 번째 모델을 입증했다. AI는 두 번째를 요구할 수 있다.
+
+## 인프라와 노동으로의 전환
+
+5월 14일 배치는 AI 산업 지도를 모델 벤치마크에서 정치경제로 이동시킨다. [[ai-infrastructure-finance-2026|AI 인프라 금융]]은 하이퍼스케일러가 설비투자, 채권, 데이터센터 임대, 장기 컴퓨트 계약으로 AI 붐을 금융화하고 있음을 보여준다. [[ai-cyber-arms-race-2026|AI 사이버 군비경쟁]]은 프런티어 역량이 제한된 보안 인프라가 되고 있음을 보여준다.
+
+[[ai-jobs-and-windfall-2026|AI 일자리와 횡재 배분]]은 노동 쪽을 추가한다. 총고용은 아직 무너지지 않았지만 AI 노출 분야 졸업생 성과는 이미 악화되고 있고, 정부들은 소득이 노동에서 자본으로 이동할 경우 AI 횡재를 어떻게 나눌지 논의하고 있다. 따라서 산업은 역량뿐 아니라 누가 자금을 대고, 누가 접근하며, 누가 지대를 포착하는가로 평가받고 있다.
 
 ## 비즈니스 현황
 

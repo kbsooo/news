@@ -15,7 +15,9 @@ sources:
   - raw/finance-and-economics/260423-imported-enthusiasm.md
   - raw/china/260511-china-knows-that-governing-new-tech-can-be-harder-than-inventing-it.md
   - raw/finance-and-economics/260511-china-wants-more-robots-but-not-fewer-workers.md
-updated: 2026-05-12
+  - raw/asia/260514-the-gulf-war-will-change-asia-for-good.md
+  - raw/china/260514-trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms.md
+updated: 2026-05-14
 tags: [geopolitics, great-power, asia, trade, energy, inequality, pensions, yuan, monetary-policy, soft-power, tourism]
 ---
 
@@ -73,6 +75,12 @@ Xi Jinping's emphasis on self-reliance over economic growth (which remains "stub
 - Green technology exports (solar, wind, battery — all with overcapacity) to countries seeking energy diversification away from the [[strait-of-hormuz]]
 - Negotiations with a weakened [[donald-trump|Trump]]: Xi-Trump summit in Beijing, **May 2026**, aiming for curbs on tariffs/export controls and a framework for Chinese investment in America
 - **Taiwan angle**: China hopes Trump will state America opposes Taiwanese independence and supports "peaceful unification" — shifting from Kissinger's studied ambiguity
+
+### May 14 Update: Fuel Buffers and Summit Choreography
+
+The May 14 Beijing summit makes China's buffer strategy tangible. Oil markets have been spared worse panic partly because China is importing **4.5m b/d** less crude than a year ago, after banning product exports and drawing on stocks. That gives Beijing time while thinner Asian importers move into rationing politics; see [[asian-energy-security-after-hormuz-2026]].
+
+The summit itself looks like managed choreography rather than strategic settlement. Xi wants tariff and export-control relief plus softer Taiwan language; Trump wants ceremony and trade calm before the war costs more politically. China's energy buffer strengthens its hand, but its reluctance to protect Gulf sea lanes still leaves partners wondering whether Chinese economic weight can become security provision.
 
 ## Anxieties and Blind Spots
 
@@ -298,6 +306,8 @@ This contradiction — a country that built a subway to every village but leaves
 - [[iran-war-economic-impact]]
 - [[strait-of-hormuz]]
 - [[ai-labs-and-industry]]
+- [[asian-energy-security-after-hormuz-2026]]
+- [[trump-xi-summit-2026]]
 
 ---
 
@@ -324,6 +334,12 @@ This contradiction — a country that built a subway to every village but leaves
 - [[strait-of-hormuz|호르무즈 해협]] 의존에서 벗어나 에너지 다변화를 추구하는 국가들에 대한 친환경 기술 수출(태양광, 풍력, 배터리 — 모두 과잉 생산 상태)
 - 약해진 [[donald-trump|트럼프]]와의 협상: **2026년 5월** 베이징에서 시진핑-트럼프 정상회담 예정, 관세/수출 통제 완화와 중국의 대미 투자 프레임워크 합의를 목표로 함
 - **대만 변수**: 중국은 트럼프가 미국이 대만 독립에 반대하고 "평화적 통일"을 지지한다고 밝히기를 기대 — 키신저 시대의 전략적 모호성에서 벗어나는 전환
+
+### 5월 14일 업데이트: 연료 완충재와 정상회담 연출
+
+5월 14일 베이징 정상회담은 중국의 완충재 전략을 구체화한다. 중국이 석유제품 수출을 금지하고 비축분을 끌어쓰면서 1년 전보다 원유 수입을 하루 **450만 배럴** 줄인 것이 유가 공황을 일부 막았다. 이는 얇은 아시아 수입국들이 배급 정치로 들어가는 동안 베이징에 시간을 준다. [[asian-energy-security-after-hormuz-2026|호르무즈 이후 아시아 에너지 안보]] 참조.
+
+정상회담 자체는 전략적 타결보다 관리된 연출에 가깝다. 시진핑은 관세와 수출통제 완화, 더 부드러운 대만 표현을 원하고, 트럼프는 전쟁 비용이 더 정치적으로 커지기 전에 의전과 무역 안정 장면을 원한다. 중국의 에너지 완충재는 협상력을 키우지만, 걸프 해상로 보호를 꺼리는 태도는 중국의 경제적 무게가 안보 제공으로 바뀔 수 있는지에 대한 의문을 남긴다.
 
 ## 불안 요소와 사각지대
 

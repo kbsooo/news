@@ -3,7 +3,7 @@ title: Germany
 type: entity
 sources:
   - raw/europe/260422-can-the-bundeswehr-fight.md
-  - raw/europe/260409-syrians-in-germany-are-there-to-stay.md
+  - raw/europe/260409-not-going-anywhere.md
   - raw/europe/260506-friedrich-merz-cant-go-on-like-this.md
 updated: 2026-05-12
 tags: [europe, nato, defence, bundeswehr, eu]

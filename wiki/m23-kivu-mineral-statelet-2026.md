@@ -3,7 +3,8 @@ title: M23 and the Kivu Mineral Statelet
 type: event
 sources:
   - raw/middle-east-and-africa/260510-a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump.md
-updated: 2026-05-11
+  - raw/leaders/260514-not-all-donald-trumps-peacemaking-boasts-are-empty.md
+updated: 2026-05-14
 tags: [congo, rwanda, critical-minerals, militia, trump, africa]
 ---
 
@@ -37,6 +38,12 @@ America has recently leaned toward Congo, signing a strategic partnership in Dec
 If diplomacy fails, the Kivus could resemble rebel-held parts of Yemen, Sudan or Libya: not internationally recognised, but durable enough to tax, police, trade and bargain. M23 is already experimenting with financial institutions, including what amounts to a local central-bank function in Goma.
 
 The longer this continues, the more embedded the new administration becomes. M23 leaders explicitly compare their patience to pariah regimes later brought in from the cold.
+
+## Washington Accords Context
+
+See [[washington-accords-congo-rwanda-2026]]. The December Washington Accords reaffirm Rwanda's obligation to stop supporting M23 and Congo's obligation to stop supporting the FDLR. US sanctions on Rwanda's armed forces in March matter because they damage Paul Kagame's brand and complicate foreign investment tied to Rwanda's defence sector.
+
+But the accords also expose the neutrality problem. If America's strategic partnership with Congo and preferential mineral access make Tshisekedi feel protected, he may shirk his own commitments. That would leave M23's statelet logic intact even as Rwanda faces pressure.
 
 ## Analytical Significance
 
@@ -80,6 +87,12 @@ M23 정치 지도부는 *The Economist*에 미국이 희토류와 3T 금속, 즉
 외교가 실패하면 키부는 예멘, 수단, 리비아의 반군 장악 지역과 닮을 수 있다. 국제적으로 인정받지는 못하지만, 세금을 걷고, 치안을 유지하고, 거래하고, 협상할 만큼 지속되는 질서다. M23은 이미 Goma에서 사실상 지역 중앙은행 기능에 가까운 금융 실험을 하고 있다.
 
 상황이 길어질수록 새 행정체계는 더 깊이 뿌리내린다. M23 지도자들은 자신들의 인내를 언젠가 국제사회로 복귀한 과거의 고립 정권들과 노골적으로 비교한다.
+
+## 워싱턴 협정 맥락
+
+[[washington-accords-congo-rwanda-2026|콩고-르완다 워싱턴 협정 2026]] 참조. 12월 워싱턴 협정은 르완다가 M23 지원을 중단하고 콩고가 FDLR 지원을 중단해야 한다는 의무를 재확인했다. 3월 미국의 르완다군 제재는 Paul Kagame의 브랜드를 훼손하고 르완다 국방 부문과 연결된 외국 투자를 복잡하게 만들기 때문에 중요하다.
+
+그러나 협정은 중립성 문제도 드러낸다. 미국의 콩고 전략적 파트너십과 우선적 광물 접근이 Tshisekedi에게 보호받는다는 느낌을 준다면, 그는 자신의 약속을 회피할 수 있다. 그러면 르완다가 압박받아도 M23의 준국가 논리는 그대로 남는다.
 
 ## 분석적 의의
 

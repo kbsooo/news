@@ -6,7 +6,8 @@ sources:
   - raw/asia/260507-the-energy-shock-triggers-an-asian-dash-for-biofuels.md
   - raw/leaders/260430-oil-markets-are-still-in-la-la-land.md
   - raw/business/260429-swashbuckling-oil-services-firms-are-preparing-for-a-boom.md
-updated: 2026-05-07
+  - raw/asia/260514-the-gulf-war-will-change-asia-for-good.md
+updated: 2026-05-14
 tags: [energy, oil, rationing, asia, europe, iran-war]
 ---
 
@@ -24,6 +25,12 @@ Brent above $120 looks severe but not apocalyptic. That is misleading because fl
 - **East Africa**: Kenya and Mozambique are living cargo-to-cargo with minimal fuel buffers.
 - **Europe**: crude is available, but diesel and jet fuel are scarce because refineries are configured heavily toward petrol. Airlines are trimming flights and adding surcharges.
 - **America**: pump prices are rising into summer driving season. The east and west coasts are more vulnerable than the middle of the country because they rely on imported or long-distance fuel flows.
+
+## Asia's Household and Factory Rationing
+
+The May 14 Asia article shows rationing becoming macroeconomic. Indonesia reportedly has only **three weeks** of fuel buffer and Vietnam **less than a month**. India is spending about **$150m a day** to hold fuel prices steady, while Indonesia spends about **$60m a day** on energy subsidies.
+
+The Philippines is the warning case: inflation hit **7.2%** in April and Q1 GDP growth slowed to **2.8%**, the weakest since the pandemic. Bangladesh textile output is down **30-40%**, showing how fuel rationing becomes export and employment risk.
 
 ## Policy Responses
 
@@ -54,6 +61,12 @@ Biofuels are the politically attractive substitute. Indonesia is pushing B50 pal
 - **동아프리카**: 케냐와 모잠비크는 극히 얇은 연료 완충재로 화물 한 척에 의존하고 있다.
 - **유럽**: 원유는 구할 수 있지만, 정유 설비가 휘발유 중심이라 디젤과 항공유가 부족하다. 항공사들은 운항을 줄이고 유류할증료를 붙이고 있다.
 - **미국**: 여름 운전철을 앞두고 주유소 가격이 오른다. 동부와 서부 해안은 수입 또는 장거리 연료 흐름에 의존해 내륙보다 취약하다.
+
+## 아시아의 가계·공장 배급
+
+5월 14일 아시아 기사는 배급이 거시경제 문제가 되고 있음을 보여준다. 인도네시아는 연료 완충재가 **3주**뿐이고 베트남은 **한 달 미만**인 것으로 알려졌다. 인도는 연료 가격을 유지하기 위해 하루 약 **1억5,000만 달러**를 쓰고, 인도네시아는 에너지 보조금에 하루 약 **6,000만 달러**를 쓴다.
+
+필리핀은 경고 사례다. 4월 인플레이션은 **7.2%**를 기록했고 1분기 GDP 성장률은 팬데믹 이후 최저인 **2.8%**로 둔화했다. 방글라데시 섬유 생산은 **30-40%** 줄어, 연료 배급이 수출과 고용 리스크가 되는 방식을 보여준다.
 
 ## 정책 대응
 

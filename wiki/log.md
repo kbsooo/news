@@ -1,9 +1,40 @@
 ---
 title: Log
-updated: 2026-05-12 (May 12 batch: operational capacity and political tolerance)
+updated: 2026-05-14 (May 14 batch: scarcity becomes political claims)
 ---
 
 # Wiki Log
+
+## [2026-05-14] ingest | May 14 batch — scarcity becomes political claims
+
+Sources:
+- `raw/asia/260514-the-gulf-war-will-change-asia-for-good.md`
+- `raw/briefing/260514-indonesias-president-is-jeopardising-the-economy-and-democracy.md`
+- `raw/business/260513-big-techs-fat-profits-conceal-unsettling-cashflows.md`
+- `raw/business/260513-the-war-between-businesses-and-hackers-enters-a-perilous-new-era.md`
+- `raw/business/260514-samsung-electronics-has-staged-a-stunning-comeback.md`
+- `raw/china/260514-trade-or-taiwan-trump-and-xi-struggle-to-set-the-terms.md`
+- `raw/finance-and-economics/260513-is-ai-putting-graduates-out-of-work-already.md`
+- `raw/finance-and-economics/260514-how-to-share-the-ai-windfall.md`
+- `raw/leaders/260514-not-all-donald-trumps-peacemaking-boasts-are-empty.md`
+- `raw/leaders/260514-oil-markets-have-won-a-surprise-reprieve.md`
+- `raw/leaders/260514-prepare-for-an-ai-jobs-apocalypse.md`
+- `raw/science-and-technology/260513-ai-models-are-being-used-to-predict-conflict.md`
+
+Created: [[may-14-2026-news-batch-insights]], [[asian-energy-security-after-hormuz-2026]], [[indonesia]], [[samsung-electronics]], [[ai-infrastructure-finance-2026]], [[ai-jobs-and-windfall-2026]], [[ai-cyber-arms-race-2026]], [[ai-conflict-forecasting]], [[washington-accords-congo-rwanda-2026]]
+
+Updated: [[ai-supply-crunch-2026]], [[anthropic-mythos]], [[ai-regulation-mythos-moment]], [[energy-markets-seizure-april-2026]], [[oil-shock-rationing-2026]], [[iran-war-economic-impact]], [[fertiliser-and-food-crisis-2026]], [[indonesia-malacca-toll-proposal-2026]], [[south-korea]], [[trump-xi-summit-2026]], [[taiwan-deterrence-window-2026]], [[m23-kivu-mineral-statelet-2026]], [[dfc-trumpaid-geoeconomics]], [[transactional-autocracy-diplomacy-2026]], [[renewables-acceleration-2026]], [[financial-markets-2026]], [[public-markets-private-giants-2026]], [[great-power-rivalry]], [[ai-labs-and-industry]], [[china]], [[donald-trump]], `wiki/index.md`
+
+Source hygiene: corrected stale source paths in [[hungary]], [[viktor-orban]] and [[germany]].
+
+Key insight: The batch is about scarcity becoming a political claim. Oil buffers decide diplomatic room; Asian fuel shortages translate into food, factory and fiscal stress; AI infrastructure turns software firms into capital-intensive balance-sheet planners; Samsung's memory windfall becomes a labour and national-dividend fight; AI job anxiety arrives before aggregate unemployment breaks; restricted cyber and conflict-forecasting tools become selective-access governance; Congo diplomacy shows how minerals-for-leverage can undermine the neutrality needed for peace.
+
+Cross-source connections:
+1. **Buffers are power**: American exports and Chinese stock draws hold down oil prices, while Indonesia, Vietnam, Bangladesh and Pakistan face rationing politics.
+2. **AI scarcity becomes rent politics**: $800bn in hyperscaler capex, Samsung memory pricing and future compute contracts all create claims by workers, states and investors.
+3. **Distribution arrives before collapse**: graduate employment signals and the China-shock analogy suggest politics can move before macro labour aggregates do.
+4. **Selective access is the new safety regime**: Mythos, 5.5-Cyber and conflict forecasts all raise the same question: public safety or insider privilege?
+5. **Transactional diplomacy needs neutral enforcement**: Beijing summit optics and Congo mineral deals can start bargains, but they make durable settlement harder if every side reads access to assets as the real currency.
 
 ## [2026-05-12] ingest | May 12 batch — operational capacity and political tolerance
 

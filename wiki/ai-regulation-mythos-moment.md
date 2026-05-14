@@ -11,7 +11,10 @@ sources:
   - raw/science-and-technology/260415-how-ai-hackers-will-shake-up-cyber-security.md
   - raw/china/260507-artificial-intelligence-revives-a-cold-war-style-dilemma.md
   - raw/leaders/260507-the-world-must-stop-ai-from-empowering-bioterrorists.md
-updated: 2026-05-08
+  - raw/business/260513-the-war-between-businesses-and-hackers-enters-a-perilous-new-era.md
+  - raw/finance-and-economics/260514-how-to-share-the-ai-windfall.md
+  - raw/leaders/260514-prepare-for-an-ai-jobs-apocalypse.md
+updated: 2026-05-14
 tags: [ai, regulation, policy, united-states, anthropic, election-2028]
 ---
 
@@ -61,6 +64,8 @@ The Mythos approach is "only half the solution." Three huge gaps remain:
 1. **International coordination** — AI safety cannot be secured nationally; will eventually require cooperation with China
 2. **Economic and social effects** — disruption to jobs, AI-adapted tax systems that favor labor — "no one yet has good answers"
 3. **Information-operations gap** — see [[ai-propaganda-war-2026]]. Regulation caught up to **cyber risk** (Mythos, Project Glasswing, Bessent/Powell bank summit) but **not to info-ops risk**. Iran's AI propaganda networks got **>1 billion X views in the first month** of the war, out-trolling the US while the State Department's counter-propaganda office stood closed. **Mythos is locked up by Anthropic; open-source models powering Iran's meme war are freely available** — and their Western training data makes them asymmetrically effective at Western-audience content. Project Glasswing expanding to 40 digital-infrastructure organizations addresses cyber-defense but does nothing for the narrative-defense void.
+
+The May 14 jobs and tax articles turn the second gap into a policy menu. [[ai-jobs-and-windfall-2026]] frames wage insurance, active labour-market policy, taxes on above-normal rents, inheritance taxation, sovereign-wealth ownership and citizen shares as tools governments may need before mass unemployment is visible. This is regulation of distribution, not only model safety.
 
 ## The China Parallel
 
@@ -141,6 +146,8 @@ Mythos 접근은 "해결책의 절반에 불과하다." 세 큰 공백:
 1. **국제 공조** — AI 안전은 국내적으로 확보 불가능; 결국 중국과의 협력 필요
 2. **경제·사회 영향** — 일자리 충격, 노동 친화적 AI 세제 — "누구도 아직 좋은 답을 갖고 있지 않다"
 3. **정보 작전 공백** — [[ai-propaganda-war-2026]] 참조. 규제는 **사이버 위험**(Mythos, Project Glasswing, Bessent/Powell 은행 소집)에 따라잡았지만 **정보 작전 위험**에는 따라잡지 못함. 이란의 AI 프로파간다 네트워크가 전쟁 첫 달 **X에서 10억 뷰 이상** 기록하며 미국을 트롤링하는 동안 국무부 대응 프로파간다 부서는 폐쇄 상태. **Mythos는 Anthropic이 잠가둠; 이란의 밈 전쟁을 구동하는 오픈소스 모델은 자유 접근** — 서방 학습 데이터가 서방 청중 콘텐츠에 비대칭적으로 효과적. Glasswing의 40개 디지털 인프라 조직 확장은 사이버 방어를 다루지만 서사 방어 공백에는 무력.
+
+5월 14일 일자리와 세제 기사는 두 번째 공백을 정책 메뉴로 바꾼다. [[ai-jobs-and-windfall-2026|AI 일자리와 횡재 배분]]은 임금보험, 적극적 노동시장 정책, 초과 정상수익 과세, 상속세, 국부펀드 소유, 시민 주식을 대량 실업이 보이기 전에 정부가 필요로 할 수 있는 도구로 제시한다. 이는 모델 안전뿐 아니라 분배에 대한 규제다.
 
 ## 중국과의 평행선
 

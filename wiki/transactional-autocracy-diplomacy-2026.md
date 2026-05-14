@@ -7,7 +7,8 @@ sources:
   - raw/middle-east-and-africa/260422-how-a-sudanese-militia-built-a-military-and-economic-empire.md
   - raw/middle-east-and-africa/260422-an-extended-ceasefire-over-iran.md
   - raw/middle-east-and-africa/260510-a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump.md
-updated: 2026-05-11
+  - raw/leaders/260514-not-all-donald-trumps-peacemaking-boasts-are-empty.md
+updated: 2026-05-14
 tags: [trump, foreign-policy, autocracy, transactionalism, immigration, sudan, iran]
 ---
 
@@ -44,6 +45,9 @@ See [[iran-war-and-ceasefire-2026]]. Trump extended the ceasefire **April 21** r
 
 ### 5. M23 mineral pitch
 See [[m23-kivu-mineral-statelet-2026]]. M23's leaders are reading the same transactional signals from the other side. They control mining assets in the Kivus, including Rubaya's roughly **15%** share of current global tantalum supply, and are pitching America directly as a critical-minerals partner. Transactional diplomacy is therefore no longer only state-to-state; quasi-state armed actors are learning to sell control of assets as legitimacy.
+
+### 6. Congo peace deal neutrality test
+See [[washington-accords-congo-rwanda-2026]]. The Washington Accords show that transactional diplomacy can create leverage that more conventional diplomacy lacked: America sanctioned Rwanda's armed forces and pushed both states toward a framework. But the same minerals-for-partnership logic can destroy mediator neutrality if Congo believes US access to minerals will shield it from its own obligations.
 
 ## Unified Operating Logic
 
@@ -128,6 +132,9 @@ Trump is not the first to try dumping unwanted immigrants abroad; he is the firs
 
 ### 5. M23 광물 제안
 [[m23-kivu-mineral-statelet-2026]] 참조. M23 지도자들은 같은 거래주의 신호를 반대편에서 읽고 있다. 이들은 현재 세계 탄탈럼 공급의 약 **15%**에 해당하는 Rubaya를 포함해 키부의 광산 자산을 통제하며, 미국에 핵심광물 파트너로 직접 제안하고 있다. 따라서 거래주의 외교는 더 이상 국가 대 국가에 그치지 않는다. 준국가 무장 행위자도 자산 통제를 정당성처럼 판매하는 법을 배우고 있다.
+
+### 6. 콩고 평화협정 중립성 시험
+[[washington-accords-congo-rwanda-2026|워싱턴 협정]] 참조. 워싱턴 협정은 거래주의 외교가 전통 외교에는 없던 레버리지를 만들 수 있음을 보여준다. 미국은 르완다군을 제재했고 두 국가를 프레임워크로 밀었다. 그러나 같은 광물-파트너십 논리는 콩고가 미국의 광물 접근권이 자신의 의무 불이행을 보호할 것이라고 믿게 만들 경우 중재자 중립성을 파괴할 수 있다.
 
 ## 통일된 운영 논리
 

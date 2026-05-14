@@ -5,7 +5,8 @@ sources:
   - raw/business/260429-spacex-openai-and-anthropic-are-already-public-companies.md
   - raw/business/260506-only-one-of-berkshire-hathaway-and-softbank-can-survive.md
   - raw/finance-and-economics/260505-can-bill-ackman-save-the-closed-end-fund.md
-updated: 2026-05-07
+  - raw/business/260513-big-techs-fat-profits-conceal-unsettling-cashflows.md
+updated: 2026-05-14
 tags: [finance, markets, ai, spacex, openai, softbank, berkshire]
 ---
 
@@ -18,6 +19,12 @@ American capitalism is becoming more concentrated in a small cast of giant firms
 Investors can already gain exposure through Tesla, Alphabet, EchoStar, tiny listed proxies, SPVs, ETFs, private-credit funds and prediction markets. The number of listed American companies has fallen since the late 1990s, while ETFs and other vehicles have exploded.
 
 The result is a market structure with fewer operating firms, more wrappers and more dependence on a handful of founders. Public shareholders may get audited data when these firms list, but not necessarily meaningful governance power.
+
+## AI Capacity Contracts
+
+[[ai-infrastructure-finance-2026]] extends the private-giants story from ownership wrappers to physical capacity. Investors increasingly value long-dated AI-compute contracts rather than current sales; Amazon, Google, Microsoft and Oracle now disclose about **$2trn** of future revenue agreements, much of it tied to model-makers such as OpenAI and Anthropic.
+
+That makes private AI labs public through another route: not only through SPVs, ETFs and proxies, but through the bonds, leases and supplier commitments of the hyperscalers financing their compute.
 
 ## Berkshire vs SoftBank
 
@@ -33,6 +40,7 @@ Only one worldview can look right if the AI valuation regime breaks decisively.
 - [[financial-markets-2026]]
 - [[trump-crypto-conflicts]]
 - [[stablecoins-and-tokenised-finance]]
+- [[ai-infrastructure-finance-2026]]
 
 ---
 
@@ -45,6 +53,12 @@ Only one worldview can look right if the AI valuation regime breaks decisively.
 투자자들은 이미 Tesla, Alphabet, EchoStar, 소형 상장 프록시, SPV, ETF, 사모신용 펀드, 예측시장을 통해 노출을 얻을 수 있다. 상장 미국 기업 수는 1990년대 말 이후 줄었지만, ETF와 기타 투자 수단은 폭발적으로 늘었다.
 
 그 결과는 더 적은 운영 기업, 더 많은 포장지, 소수 창업자에 대한 더 큰 의존이다. 이 기업들이 상장하면 공개 주주들은 감사된 데이터를 얻을 수 있지만, 의미 있는 지배권을 얻는 것은 아닐 수 있다.
+
+## AI 용량 계약
+
+[[ai-infrastructure-finance-2026|AI 인프라 금융]]은 비공개 거인 이야기를 소유권 포장지에서 물리적 용량으로 확장한다. 투자자들은 현재 판매보다 장기 AI 컴퓨트 계약을 더 중시하고 있다. Amazon, Google, Microsoft, Oracle은 약 **2조 달러**의 미래 매출 계약을 공개하고 있으며, 그 상당 부분은 OpenAI와 Anthropic 같은 모델 개발사에 묶여 있다.
+
+이는 비공개 AI 연구소가 또 다른 경로로 공개화된다는 뜻이다: SPV, ETF, 프록시뿐 아니라, 그들의 컴퓨트를 금융화하는 하이퍼스케일러의 채권, 임대, 공급업체 약정을 통해서다.
 
 ## Berkshire vs SoftBank
 

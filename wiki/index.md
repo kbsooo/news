@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, rule-of-law chokepoints, passive-capital flows)
+updated: 2026-05-14 (May 14 batch: scarcity becomes political claims across energy, AI, labour, cyber and diplomacy)
 ---
 
 # Wiki Index
@@ -8,15 +8,17 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 ## Entities
 
 - [[iran]] — Khamenei killed day 1, Qalibaf vs Vahidi split, new Persian Gulf Strait Authority, Russian fibre-optic drone channel, 400kg HEU
-- [[china]] — "Never interrupt your enemy": self-reliance, May summit, Taiwan pressure, AI safety dilemma, Q1 exports +14.7%, yuan comfort currency
-- [[donald-trump]] — War's biggest loser: Xi summit damage-control, Taiwan tradability risk, DFC Trumpaid, Callais redistricting, blockade/ceasefire whiplash
+- [[china]] — Fuel buffers and reduced imports give Beijing time; Xi-Trump summit becomes choreography around tariffs, Taiwan language, AI and Iran
+- [[donald-trump]] — War's biggest loser: Xi summit damage-control, Taiwan tradability risk, Washington Accords neutrality test, DFC Trumpaid, Callais, asylum blockade
 - [[israel]] — Shut out of ceasefire, Lebanon escalation (1000+ casualties day 1), 60% US unfavorability, Netanyahu may become scapegoat
 - [[gulf-states]] — All assumptions shattered: UAE as hidden throughline (Iran/Sudan/China), pipeline alternatives needed
 - [[strait-of-hormuz]] — 7-14 ships/day, $2m tolls, Trump blockade (4/12), 28 ships stopped (4/22), 0 transits Apr 21, full seafarer layer: 20,000 stuck, six-month crew-rotation lag
 - [[pakistan]] — Unlikely peacemaker, Islamabad talks collapsed 4/12, UAE $3.5bn pullback, Nobel nomination for Trump
 - [[india]] — Rupee crisis (90.95→94.65), wary China rapprochement, 14/28 states anti-conversion laws, Kolkata paradox, statistical-system repair, Reliance/Jio AI-infrastructure gamble
+- [[indonesia]] — **NEW** Prabowo centralises power while school-meal/co-op spending, energy subsidies and fuel-buffer stress strain post-1998 reform discipline
 - [[kolkata]] — India's most liveable megacity, but that's a symptom of stagnation; Mamata 4th term bid; 23m pop
-- [[south-korea]] — $530bn chip plan collides with energy shock + ageing-labour constraint; gas days from exhaustion, 97% bromine from Israel
+- [[south-korea]] — $530bn chip plan collides with energy shock + ageing-labour constraint; Samsung memory windfall turns AI infrastructure into labour/revenue politics
+- [[samsung-electronics]] — **NEW** AI memory scarcity lifts Samsung to $1trn market value; 57trn won Q1 operating profit, cautious capacity, unions demand 15% profit share
 - [[monte-dei-paschi-di-siena]] — World's oldest bank: revival €2bn→€28bn, Mediobanca bid, boardroom coup
 - [[hungary]] — Orbán defeated 4/12 by Tisza 54-38, likely 2/3 majority, EU veto gone, *Ruszkik haza*
 - [[peter-magyar]] — Ex-Fidesz insider, 45yo, central anti-corruption theme, unified opposition
@@ -52,14 +54,15 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 - [[philippine-succession-crisis-2026]] — **NEW** Sara Duterte impeachment turns 2028 succession into Senate trial over dynastic violence, corruption and rule-of-law direction
 - [[eu-china-trade-war-2026]] — **NEW** EU-China trade risk: €1bn/day imbalance, Chinese overcapacity, Brussels safeguards/local-content turn from welfare to industrial security
 - [[syrian-transitional-justice-2026]] — **NEW** Atef Najib trial tests post-Assad justice: swift accountability vs rushed/selective victor's justice
+- [[washington-accords-congo-rwanda-2026]] — **NEW** Trump-backed Congo-Rwanda peace framework: real Rwanda pressure, but minerals partnership risks undermining US neutrality
 
 ## Concepts
 
 - [[iran-war-damage-assessment]] — 4,784 drones + 1,851 missiles from Iran, 21k+ strikes on Iran, 18.5m within 1km of strikes
 - [[iran-war-economic-impact]] — Day 50 dashboard: 550m bbl lost, refinery cuts, Asian fuel spikes; May 10 update: US grocery channel via packaging/trucking/fertiliser
 - [[fertiliser-and-food-crisis-2026]] — Gulf supplies 1/3 of fertiliser, urea +70%, 45m more in acute hunger, now linked to US grocery inflation via farm/packaging/trucking channels
-- [[financial-markets-2026]] — Bond stagflation whipsaw, Trump trades -20%, DJT -80%, Fed cuts evaporate, private credit stress
-- [[great-power-rivalry]] — 1914 parallels, strongmen, multipolar illusion proved false, AI three-way sword, 30-35% WW probability
+- [[financial-markets-2026]] — Bond stagflation whipsaw, Trump trades -20%, Fed cuts evaporate, private credit stress; AI capex now runs through bonds, leases and SPVs
+- [[great-power-rivalry]] — 1914 parallels, strongmen, multipolar illusion proved false, AI four-way sword including conflict forecasts, 30-35% WW probability
 - [[nato-and-transatlantic-crisis]] — Article 5 at 77-year low, Europe must self-arm, **Germany's €160bn pivot to continental leadership**
 - [[european-defence-industry]] — CSG €6.7bn (12x from 2021), €58bn EU ammo deal, Bundeswehr orders flowing in
 - [[japanese-auto-industry]] — "Brink of survival": Honda first loss since 1957, EV skepticism, China eating share (31→26%)
@@ -67,8 +70,8 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 - [[maritime-law-and-chokepoints]] — UNCLOS, freedom of navigation, Iran toll precedent vs Suez/Panama/Montreux
 - [[global-poverty-reduction]] — ML-targeted transfers: $318bn/yr (0.3% GDP) to cut poverty to 1%, threatened by food crisis
 - [[ai-in-mathematics]] — LLMs for proof verification, Lean language, current limits
-- [[ai-labs-and-industry]] — DeepMind/Hassabis, transformer vs RL, Isomorphic Labs, biosecurity dilemma, model lock-up, AI tycoons, Apple hardware counterweight, Reliance infrastructure countermodel
-- [[ai-regulation-mythos-moment]] — "Five geeks", Bessent summons banks, 70% AI-harm perception, 2028 electoral issue, tiered vetted-access; info-ops gap remains
+- [[ai-labs-and-industry]] — DeepMind/Hassabis, transformer vs RL, Isomorphic Labs, model lock-up, AI tycoons, infrastructure finance, cyber access and labour-distribution turn
+- [[ai-regulation-mythos-moment]] — "Five geeks", Bessent summons banks, 70% AI-harm perception, 2028 electoral issue, tiered vetted-access; jobs/windfall regulation now joins safety
 - [[asian-remittance-shock-2026]] — 20m GCC migrant workers; Nepal 25% / Bangladesh 6.5% / India 3.5% GDP; -66% emigration clearances; JP/KR pivot
 - [[global-imbalances-2026]] — 1.6% of GDP (vs 2.6% peak); CEPR industrial-policy intensity correlates with exports not surpluses; "blunder not crime"
 - [[laws-of-war-and-civilian-infrastructure]] — Three-test framework; desalination = breach; oil = ambiguous under "war-sustaining"; Trump puffery shield
@@ -103,6 +106,11 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 - [[us-farmers-trade-war-2026]] — **NEW** Tariffs + Iran-war diesel/fertiliser shock squeeze farmers who still back Trump; subsidies become political maintenance
 - [[oil-shock-rationing-2026]] — **NEW** Hormuz shock moves from Brent price to administrative rationing: fuel caps, export bans, WFH orders, strategic-reserve drawdown and biofuel substitution
 - [[ai-supply-crunch-2026]] — **NEW** Token demand outruns data centres, grid gear, GPUs, CPUs and memory; scarce compute shifts power to hyperscalers, Nvidia/TSMC and release-governance chokepoints
+- [[asian-energy-security-after-hormuz-2026]] — **NEW** Asian governments move from price caps to rationing, shared fuel buffers, grid finance and food-security politics after Hormuz shock
+- [[ai-infrastructure-finance-2026]] — **NEW** Hyperscalers' $800bn AI capex, $2trn future revenue contracts and $820bn lease obligations turn AI into infrastructure finance
+- [[ai-jobs-and-windfall-2026]] — **NEW** Graduate labour stress and AI windfall-tax debate connect early white-collar disruption to redistribution before mass unemployment
+- [[ai-cyber-arms-race-2026]] — **NEW** Mythos and 5.5-Cyber restricted releases show AI cyber moving into agentic attack/defence arms race and two-tier protection
+- [[ai-conflict-forecasting]] — **NEW** RAND/ACLED/PRIO-style models forecast unrest, conflict and displacement, but data quality and political misuse remain binding risks
 - [[europe-deregulation-drive-2026]] — **UPDATE** EU accepts red tape as strategic liability; €150bn annual paperwork cost, €37.5bn savings target, 28th regime/services-passport/capital-market integration
 - [[india-bjp-state-expansion-2026]] — **NEW** BJP landslide in West Bengal extends Modi's map while voter-roll legitimacy, anti-incumbency and energy prices create new exposure
 - [[taiwan-deterrence-window-2026]] — **NEW** US and allies use April-May calm-sea window in Philippines to signal Taiwan deterrence despite Persian Gulf missile burn
@@ -112,7 +120,7 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 - [[us-gerrymandering-callais-2026]] — **NEW** Supreme Court's Callais ruling unleashes mid-decade redistricting and weakens electoral responsiveness
 - [[uk-party-system-fragmentation-2026]] — **NEW** Reform UK's local-election breakthrough is less a majority surge than a sign of two-party fragmentation
 - [[arab-public-opinion-after-iran-war-2026]] — **NEW** Arab rulers repress sympathy for Iran, but publics read Iran through Gaza, Shia grievance and anger at dependent strongmen
-- [[public-markets-private-giants-2026]] — **NEW** SpaceX/OpenAI/Anthropic are private in governance but public through proxies, SPVs, ETFs and corporate balance sheets
+- [[public-markets-private-giants-2026]] — SpaceX/OpenAI/Anthropic are private in governance but public through proxies, SPVs, ETFs, hyperscaler contracts and corporate balance sheets
 - [[official-statistics-and-market-trust-2026]] — **NEW** Kalshi/Fed, bad-statistics cost and Basel fraying show timely trusted numbers as a core governance constraint
 - [[usaid-collapse-and-china-aid-gap]] — **NEW** USAID's collapse leaves civil-society/health/journalism gaps China cannot replace because it lends rather than donates
 - [[dfc-trumpaid-geoeconomics]] — **UPDATE** DFC becomes Trump's strategic finance arm; M23 shows asset-control vs sovereign-legitimacy risk in critical-minerals diplomacy
@@ -150,6 +158,7 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 - [[may-11-2026-news-batch-insights]] — **NEW** Hidden operating layers synthesis: crews, packaging, coders, paperwork, rebel taxation and quarantine protocols become political capacity
 - [[may-12-2026-news-batch-insights]] — **NEW** Operational capacity meets political tolerance: productivity, automation, drones, elections and reform all hit absorption ceilings
 - [[may-13-2026-news-batch-insights]] — **NEW** Buffer consumption synthesis: oil inventories, Gulf fiscal capacity, legal ambiguity, index liquidity and elite philanthropy hide instability
+- [[may-14-2026-news-batch-insights]] — **NEW** Scarcity-as-political-claim synthesis: oil buffers, AI infrastructure, graduate jobs, cyber access, Samsung memory rents, Indonesia stress and Congo minerals all become distributional claims
 
 ## Simulations
 
@@ -159,10 +168,22 @@ updated: 2026-05-13 (May 13 batch: buffer consumption, EU-China trade-war risk, 
 - [[simulations/sim-what-happens-during-the-remainder-of-the-iran-us-ceasefire-a-2026-04-13|Post-Islamabad Ceasefire Sim]] — 5-round sim Apr 13 → Aug 2026. Collapse → Muscat Framework (250kg HEU→Russia, Abraham 2.0, $50bn Gulf reconstruction). China PLAN escort = decisive forcing function. Base ~55%. Confidence: medium.
 - [[simulations/sim-samsung-sk-hynix-vs-hyperscaler-custom-silicon-2026-04-13|Samsung/SK Hynix vs. Hyperscaler Custom Silicon]] — 4-scenario branching (A:25/B:40/C:20/D:15), May-Dec 2026. Every ASIC still needs HBM → Korean oligopoly structural beneficiary. SK Hynix higher expected return (+22%), Samsung is optionality play (+14% weighted).
 
-## Sources Ingested (261)
+## Sources Ingested (273)
 
 | Date | Source | Category |
 |------|--------|----------|
+| 2026-05-14 | The Gulf war will change Asia for good | Asia |
+| 2026-05-14 | Indonesia's president is jeopardising the economy and democracy | Briefing |
+| 2026-05-13 | Big tech's fat profits conceal unsettling cashflows | Business |
+| 2026-05-13 | The war between businesses and hackers enters a perilous new era | Business |
+| 2026-05-14 | Samsung Electronics has staged a stunning comeback | Business |
+| 2026-05-14 | Trade or Taiwan? Trump and Xi struggle to set the terms | China |
+| 2026-05-13 | Is AI putting graduates out of work already? | Finance & Economics |
+| 2026-05-14 | How to share the AI windfall | Finance & Economics |
+| 2026-05-14 | Not all Donald Trump's peacemaking boasts are empty | Leaders |
+| 2026-05-14 | Oil markets have won a surprise reprieve | Leaders |
+| 2026-05-14 | Prepare for an AI jobs apocalypse | Leaders |
+| 2026-05-13 | AI models are being used to predict conflict | Science & Technology |
 | 2026-05-12 | Asylum in America is all but over. It may never come back | United States |
 | 2026-05-12 | Bashar al-Assad's henchmen start to go on trial in Syria | Middle East & Africa |
 | 2026-05-12 | Index rebalancing is now the biggest event in markets | Finance & Economics |

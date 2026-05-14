@@ -4,7 +4,8 @@ type: entity
 sources:
   - raw/finance-and-economics/260409-semi-baked.md
   - raw/asia/260427-silver-lining.md
-updated: 2026-04-28
+  - raw/business/260514-samsung-electronics-has-staged-a-stunning-comeback.md
+updated: 2026-05-14
 tags: [asia, semiconductors, industrial-policy, energy, demographics, ageing]
 ---
 
@@ -29,6 +30,12 @@ Redirecting capital from housing to industry:
 - **Jeonse system**: tenants give landlords interest-free loans (>50% of property value) instead of rent — landlords use cash to buy more property → bubble
 - Seoul mortgage cap tightened: 40% of home value (from 50%)
 - Bank risk weights for VC investments reduced to incentivize startup lending
+
+## Samsung's Memory Windfall
+
+[[samsung-electronics]] has turned Korea's chip bet into an immediate redistribution problem. Samsung's market value reached **$1trn** after a **400%** one-year rise, and Q1 operating profit hit **57trn won ($38bn)**. Semiconductors are now **94%** of operating profit.
+
+The political issue is who owns the AI memory windfall. Lee adviser Kim Yong-beom floated a "national dividend" from chip profits before Lee narrowed it to excess tax revenue, while Samsung unions demand **15%** of memory-division profits and threaten a strike from **May 21st**.
 
 ## Energy Shock Collision
 
@@ -83,6 +90,12 @@ This matters for Korea's industrial-policy ambitions. A shrinking young workforc
 - **전세 제도**: 세입자가 임대료 대신 집주인에게 무이자 대출(부동산 가치의 50% 이상) 제공 — 집주인은 이 자금으로 추가 부동산 매입 → 거품
 - 서울 주택담보대출 한도 강화: 주택 가치의 40% (기존 50%에서 하향)
 - 벤처캐피털 투자에 대한 은행 위험가중치 인하로 스타트업 대출 유인
+
+## 삼성의 메모리 횡재
+
+[[samsung-electronics|삼성전자]]는 한국의 반도체 베팅을 즉각적인 재분배 문제로 바꿨다. 삼성의 시장가치는 1년간 **400%** 오른 뒤 **1조 달러**에 도달했고, 1분기 영업이익은 **57조 원(380억 달러)**이었다. 반도체는 이제 영업이익의 **94%**다.
+
+정치적 쟁점은 AI 메모리 횡재를 누가 소유하느냐다. 이재명 참모 김용범은 반도체 이익의 "국민 배당"을 띄웠다가 이 대통령은 이를 초과 세수로 좁혔고, 삼성 노조는 메모리 부문 이익의 **15%**를 요구하며 **5월 21일**부터 파업을 예고한다.
 
 ## 에너지 충격과의 충돌
 

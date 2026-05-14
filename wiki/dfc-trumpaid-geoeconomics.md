@@ -4,7 +4,8 @@ type: concept
 sources:
   - raw/finance-and-economics/260507-trumpaid.md
   - raw/middle-east-and-africa/260510-a-congolese-militia-wants-to-sell-critical-minerals-to-donald-trump.md
-updated: 2026-05-11
+  - raw/leaders/260514-not-all-donald-trumps-peacemaking-boasts-are-empty.md
+updated: 2026-05-14
 tags: [united-states, development-finance, critical-minerals, trump, geoeconomics]
 ---
 
@@ -23,6 +24,8 @@ The current priority is critical minerals: rare earths in Brazil, mining links w
 [[m23-kivu-mineral-statelet-2026]] shows the next-order risk. Once Washington frames foreign finance around critical-minerals access, non-state armed groups can pitch themselves as more "deliverable" partners than recognised governments. M23 controls Rubaya, with deposits equal to about **15% of current global tantalum supply**, and has directly argued that America should deal with it over rare earths and 3T metals.
 
 That tests the DFC logic. If strategic finance rewards control of assets more than legitimate sovereignty, militias and proxy forces gain incentives to consolidate mineral statelets and then market them to great powers.
+
+The [[washington-accords-congo-rwanda-2026|Washington Accords]] sharpen the same problem on the state side. America's strategic partnership with Congo may help enforce a peace framework, but preferential mineral access and opaque deals risk making Washington look like Tshisekedi's patron rather than a neutral mediator.
 
 ## Hormuz Insurance as Stress Test
 
@@ -56,6 +59,8 @@ The DFC has only about **700 staff**, compared with the World Bank's **21,000**,
 [[m23-kivu-mineral-statelet-2026]]은 다음 단계의 위험을 보여준다. 워싱턴이 해외 금융을 핵심광물 접근 중심으로 프레이밍하면, 비국가 무장집단은 인정받은 정부보다 더 "이행 가능한" 파트너라고 자신을 포장할 수 있다. M23은 현재 세계 탄탈럼 공급의 약 **15%**에 해당하는 매장량을 가진 Rubaya를 통제하며, 희토류와 3T 금속을 두고 미국이 자신들과 거래해야 한다고 직접 주장했다.
 
 이는 DFC 논리를 시험한다. 전략 금융이 합법적 주권보다 자산 통제를 보상하면, 민병대와 대리세력은 광물 준국가를 공고히 한 뒤 강대국에 판매할 유인을 얻는다.
+
+[[washington-accords-congo-rwanda-2026|워싱턴 협정]]은 같은 문제를 국가 측면에서 더 선명하게 한다. 미국의 콩고 전략적 파트너십은 평화 프레임워크 집행을 도울 수 있지만, 우선적 광물 접근과 불투명한 거래는 워싱턴을 중립 중재자가 아니라 Tshisekedi의 후견인처럼 보이게 할 위험이 있다.
 
 ## 호르무즈 보험이라는 스트레스 테스트
 

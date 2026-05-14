@@ -3,7 +3,8 @@ title: Indonesia's Malacca Toll Proposal (April 2026)
 type: event
 sources:
   - raw/asia/260423-indonesia-suggests-charging-a-toll-to-transit-the-malacca-strait.md
-updated: 2026-04-24
+  - raw/briefing/260514-indonesias-president-is-jeopardising-the-economy-and-democracy.md
+updated: 2026-05-14
 tags: [indonesia, singapore, malaysia, malacca, unclos, chokepoint, iran-war, maritime-law]
 ---
 
@@ -43,6 +44,8 @@ Three converging forces:
 2. **Indonesian fiscal stress**: Prabowo's government inherited a challenging fiscal position. A Malacca toll at even modest rates could raise billions — 125 ships/day pre-Iran-war pace × hundreds of thousands per transit = tens of billions annually
 
 3. **Declining rules-based order**: The article's closing sentence: *"at a time when the world can rely less and less on international law, that will be cold comfort to those who must rely on Indonesia keeping its word."* The editorial frame directly acknowledges UNCLOS enforcement credibility has weakened
+
+The May 14 briefing strengthens the fiscal-stress channel. [[indonesia]] is spending about **$60m/day** on energy subsidies; oil at **$97/bbl** could push the deficit to **3.5% of GDP**, above the legal cap; and Purbaya, the same finance minister who floated the toll, is now defending the fiscal outlook aggressively. The Malacca idea is therefore not only a maritime-law story. It is part of Prabowo's search for revenue and executive leverage.
 
 ## Why It Was Rejected (This Time)
 
@@ -153,6 +156,8 @@ The Economist의 인도네시아 해협 모델링(말라카 + 순다 + 롬복 + 
 2. **인도네시아 재정 압박**: 프라보워 정부는 도전적 재정 상황 상속. 말라카 통행료가 완만한 요율이라도 수십억 달러 조달 가능 — 전쟁 이전 125척/일 × 통과당 수십만 달러 = 연간 수백억
 
 3. **규칙 기반 질서 쇠퇴**: 기사의 결론: *"세계가 국제법에 점점 덜 의존할 수 있는 시대에, 이는 인도네시아가 약속을 지키는 것에 의존해야 하는 사람들에게 차가운 위안일 것이다."* 편집 프레임이 UNCLOS 집행 신뢰도가 약화되었음을 직접 인정
+
+5월 14일 briefing은 재정 압박 채널을 강화한다. [[indonesia|인도네시아]]는 에너지 보조금에 하루 약 **6,000만 달러**를 쓰고 있으며, 유가가 **97달러/배럴**이면 적자가 법정 상한을 넘어 GDP의 **3.5%**로 갈 수 있다. 통행료를 띄운 바로 그 재무장관 Purbaya는 이제 재정 전망을 공격적으로 방어하고 있다. 따라서 말라카 아이디어는 해양법 이야기만이 아니다. 프라보워의 세입과 행정 레버리지 탐색의 일부다.
 
 ## 이번에 거부된 이유
 

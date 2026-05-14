@@ -6,7 +6,8 @@ sources:
   - raw/business/260415-locked-up-models.md
   - raw/science-and-technology/260415-examining-the-mythos.md
   - raw/science-and-technology/260415-how-ai-hackers-will-shake-up-cyber-security.md
-updated: 2026-04-23
+  - raw/business/260513-the-war-between-businesses-and-hackers-enters-a-perilous-new-era.md
+updated: 2026-05-14
 tags: [ai, cybersecurity, safety, technology]
 ---
 
@@ -91,6 +92,12 @@ As exclusivity became a marketing weapon in its own right, Glasswing's perimeter
 - **Home routers, smart gadgets (TVs, fridges), industrial machinery**: mostly **nobody maintains this code at all** — "attackers could have a field day"
 
 The defender asymmetry is compute-budget-gated: rich maintainers can afford AI hardening; everyone else is exposed.
+
+## May 13 Update: Agentic Cyber Arms Race
+
+The next article widens Mythos from a single release event into [[ai-cyber-arms-race-2026]]. OpenAI's **5.5-Cyber** now joins Mythos as a restricted cyber-capable model. CrowdStrike says AI-enhanced attacks rose **89%** in 2025, and some experts think annual CVEs could rise ten-fold to **480,000** as models find bugs faster than organisations patch them.
+
+The defender upside is real but uneven. Mozilla used an early Mythos version to identify **271** Firefox vulnerabilities. That shows the long-run defender dividend, but also the two-tier access problem: the best protection goes first to organisations trusted by AI labs and able to integrate frontier models.
 
 ## Optimistic Long-Term View
 
@@ -185,6 +192,12 @@ Anthropic의 완화 전략 — 방어자에게 선제적 우위를 제공:
 - **가정용 라우터, 스마트 기기(TV, 냉장고), 산업용 기계**: 대부분 **아무도 코드를 유지 관리하지 않음** — "공격자들에게 '봄철'이 될 수 있음"
 
 방어자 비대칭은 컴퓨팅 예산에 의해 게이팅됨: 부유한 유지 관리자는 AI 강화를 감당 가능, 나머지는 노출.
+
+## 5월 13일 업데이트: 에이전틱 사이버 군비경쟁
+
+다음 기사는 Mythos를 단일 공개 사건에서 [[ai-cyber-arms-race-2026|AI 사이버 군비경쟁]]으로 확장한다. OpenAI의 **5.5-Cyber**가 이제 Mythos와 함께 제한 공개된 사이버 역량 모델이 되었다. CrowdStrike에 따르면 AI 강화 공격은 2025년에 **89%** 늘었고, 일부 전문가는 모델이 조직의 패치 속도보다 빠르게 버그를 찾으면서 연간 CVE가 열 배 증가해 **48만 건**에 이를 수 있다고 본다.
+
+방어자 측 상승분은 실제지만 불균등하다. Mozilla는 Mythos 초기 버전을 사용해 Firefox 취약점 **271개**를 식별했다. 이는 장기 방어자 배당을 보여주지만, 동시에 이층 접근 문제도 보여준다. 최고의 보호는 AI 연구소가 신뢰하고 프런티어 모델을 통합할 수 있는 조직에 먼저 간다.
 
 ## 장기 낙관론
 

@@ -4,7 +4,9 @@ type: concept
 sources:
   - raw/finance-and-economics/260421-global-energy-markets-are-on-the-verge-of-a-disaster.md
   - raw/finance-and-economics/260417-a-narrow-opening.md
-updated: 2026-04-23
+  - raw/leaders/260514-oil-markets-have-won-a-surprise-reprieve.md
+  - raw/asia/260514-the-gulf-war-will-change-asia-for-good.md
+updated: 2026-05-14
 tags: [energy, oil, gas, lng, refining, iran-war, asia, europe]
 ---
 
@@ -21,6 +23,12 @@ By day 50 of the [[iran-war-and-ceasefire-2026|Iran war]], the world's fuel syst
 - Western trucks keep trucking; planes keep flying; fuel stocks near pre-war levels
 
 The futures market believes the strait will reopen soon. But **even a full reopening now would still leave a cumulative loss of 1.5bn Gulf barrels (~5% of annual global output)** — Saad Rahim of Trafigura. Double that if it doesn't reopen.
+
+## May 14 Reprieve: Real but Temporary
+
+The later leader explains why the market stayed calmer even as the physical loss grew to **2bn barrels**, about **5%** of yearly world oil supply, with the deficit growing by **14m barrels per day**. Brent was around **$105**, below April highs near **$120**.
+
+The reprieve comes from two buffers: American net petroleum exports surged to **9m b/d**, nearly **4m b/d** above a year earlier, while China imported **4.5m b/d** less crude than a year earlier and drew on stocks. That buys time, not equilibrium. If rich-world private inventories begin to bleed, or if Trump bans exports to keep US petrol below **$5/gallon**, the calm can end quickly.
 
 ## Three Forces Pushing to the Cliff
 
@@ -139,6 +147,12 @@ Japan's strategic reserves **exhausted in May**. Korea's tapering. Both economie
 - 서방 트럭과 비행기 정상 운행, 연료 재고도 전쟁 전 수준 근접
 
 선물시장은 해협이 곧 재개될 것이라 베팅. 그러나 **지금 완전 재개돼도 누적 걸프 원유 손실은 15억 배럴(세계 연간 공급의 ~5%)** — Saad Rahim(Trafigura). 재개 안 되면 두 배.
+
+## 5월 14일 유예: 실제이지만 일시적
+
+이후 리더 기사는 물리적 손실이 **20억 배럴**, 즉 세계 연간 석유 공급의 약 **5%**로 커지고, 부족분이 하루 **1,400만 배럴**씩 늘어나는 와중에도 시장이 왜 차분했는지를 설명한다. 브렌트유는 약 **105달러**로, 4월 고점인 거의 **120달러**보다 낮았다.
+
+유예는 두 완충재에서 나온다. 미국 순석유 수출은 **900만 b/d**로 치솟아 1년 전보다 거의 **400만 b/d** 많았고, 중국은 1년 전보다 원유를 **450만 b/d** 덜 수입하며 재고를 끌어왔다. 이는 시간을 벌 뿐 균형이 아니다. 부유국 민간 재고가 빠지기 시작하거나, 트럼프가 미국 휘발유를 **5달러/갤런** 아래로 유지하려고 수출을 금지하면 평온은 빠르게 끝날 수 있다.
 
 ## 절벽으로 미는 세 힘
 
